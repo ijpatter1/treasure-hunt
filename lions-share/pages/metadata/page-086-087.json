@@ -1,0 +1,57 @@
+{
+  "screenshot": "page-086-087.png",
+  "section": "chapter",
+  "chapter": 9,
+  "chapter_title": "The Golden Chalice",
+  "chapter_subtitle": "Confirmation Bias",
+
+  "left_page": {
+    "page_number": 86,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Gold Chavin drinking vessel/chalice with decorative hammered patterns, from 400-1000 BC Peru",
+      "text_in_image": null,
+      "potential_clues": ["Golden Chavin chalice - treasure item"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 87,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 9\n\nTHE GOLDEN CHALICE\n\nConfirmation Bias\n\n\"The least questioned assumptions are often the most questionable.\"\n—PAUL BROCA\n\n\"The explanation requiring the fewest assumptions is most likely to be correct.\"\n—WILLIAM OF OCKHAM\n\nOxford dictionary defines confirmation bias as the tendency to interpret new evidence as confirmation of one's existing beliefs or theories. Like an alluring spider, confirmation bias has been entangling treasure seekers in its web since the dawn of time. Interpreting information in a way that confirms ideas that we want to believe or that we've decided are true can get us stuck. It is antithetical to success. Still, it's a mighty difficult temptation to resist.\n\nImpatience, arrogance or overeagerness can convince us to make assumptions. If these assumptions cloud how we consider new information, we can become trapped in a netting of preconceived notions. When infected by its venom, even the memories you and I choose to hold on to can skew a picture in our minds that is neither accurate nor precise. If we want to find the treasures we are seeking, we must remain rooted onto the firm ground of reality. Nothing good was ever gained by rushing to a false conclusion. Confirmation bias should be avoided at any cost.\n\nAt over ten thousand feet of elevation in the high mountain ranges of the Andes in Peru, exists a structure unlike any other in the world. When Spanish explorers first arrived at the Chavin de Huantar during the 16th century,",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "THE GOLDEN CHALICE"},
+        {"type": "handwritten_subtitle", "text": "Confirmation Bias", "style": "red_handwritten"},
+        {"type": "quote", "text": "The least questioned assumptions are often the most questionable.", "attribution": "Paul Broca"},
+        {"type": "quote", "text": "The explanation requiring the fewest assumptions is most likely to be correct.", "attribution": "William of Ockham"},
+        {"type": "body", "text": "Confirmation bias should be avoided at any cost."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Confirmation Bias", "style": "red_handwritten"}]},
+    "images": [],
+    "sidebar": {"text": "Here is a gold vessel from the Chavin culture made between 400 and 1000 BC. This chalice is in our treasure.", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "The least questioned assumptions are often the most questionable.", "author": "Paul Broca", "note": "French physician/anatomist"},
+      {"text": "The explanation requiring the fewest assumptions is most likely to be correct.", "author": "William of Ockham", "note": "Ockham's Razor"}
+    ],
+    "treasure_item": {
+      "item": "Gold Chavin drinking vessel/chalice",
+      "origin": "Chavin culture, Peru",
+      "date_range": "400-1000 BC"
+    },
+    "confirmation_bias_warning": "Should be avoided at any cost for treasure seekers",
+    "geographic_references": [
+      "Andes Mountains, Peru",
+      "Chavin de Huantar (10,000+ feet elevation)"
+    ]
+  }
+}

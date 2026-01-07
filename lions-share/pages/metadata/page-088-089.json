@@ -1,0 +1,62 @@
+{
+  "screenshot": "page-088-089.png",
+  "section": "chapter",
+  "chapter": 9,
+  "chapter_title": "The Golden Chalice",
+  "chapter_subtitle": "Confirmation Bias",
+
+  "left_page": {
+    "page_number": 88,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...they craned their necks up at its forty-five-foot walls, from which high massive carved heads protruded. They pondered it in amazement. The explorers walked around the structure but could not ascertain how to gain access through its massive walls. Chavin de Huantar, believed to be built around 900 BC, was unlike anything they had ever seen. Its existence made no rational sense to them. In an attempt to understand it, these onlookers made wild assumptions, coming up with stories that could explain the huge edifice.\n\nOne explorer wrote back to Spain that the architecture of Chavin de Huantar was built by a race of giants who had carved their life-sized portraits into its high stone walls. Upon inspection, another explorer insisted that the building was nothing less than an ancient fortress so immense that it had successfully defended its creators from would-be attackers for hundreds of years. Confirmation bias was in full effect, and their ideas were all wrong.\n\n...The truth about Chavin de Huantar is actually more fascinating than giants or castles. Chavin de Huantar was the main temple of a religious cult, one that wielded a far-reaching and dominant influence over the surrounding highland people who made up the Chavin culture. It was this compelling and overarching religious dominion, not soldiers or weapons, that kept the Chavin culture united for over a thousand years.\n\nThe culture of the Chavin was a very special one. Chavin was the first highland civilization in Peru. The Chavin not only lived, but thrived, in the high altitudes of the Andes Mountains where no people had done so before. The Chavin excelled in numerous skills, including monument design, metallurgy, sculpture, and advanced engineering of architecture and hydraulics.\n\nChavin de Huantar was intentionally built to create an experience of the supernatural. What the Chavin people encountered within its walls was the fuel that led to the rise of the religious cult and its widespread following...\n\nAs if it is a gigantic puzzle box, Chavin de Huantar has no discernible entrance.",
+      "formatted_sections": [
+        {"type": "body", "text": "Chavin de Huantar, believed to be built around 900 BC..."},
+        {"type": "body", "text": "Confirmation bias was in full effect, and their ideas were all wrong."},
+        {"type": "body", "text": "Chavin de Huantar was the main temple of a religious cult"},
+        {"type": "body", "text": "As if it is a gigantic puzzle box, Chavin de Huantar has no discernible entrance."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 89,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "Chavin priests would stand and perform ceremonies. Yet, the stairs to the roof were completely hidden. How the priests came to be standing above the temple would have been another mystery for our visitors.\n\nHaving brought a valuable offering, our companion might have been rewarded with an entry time. At the appropriate moment, he or she would be led by a temple elder through a nondescript entrance around the side of Chavin de Huantar. Here our sojourner would be presented with psychedelics to drink, preparing his or her mind for the temple's experience. Once inside, the temple became a sprawling labyrinth, a maze consisting of narrow tunnels, some branching out, others circling back into one another, and some resolving into dead ends. These tunnels had no windows. Upon entering, the temple would have seemed dark and secretive.\n\nThe tunnels of Chavin de Huantar were created to amaze, captivate and enthrall its guests. This immersion was achieved through various special effects. Further in, tunnels were lit by torchlight. Nails were embedded in the walls so that light illuminating the passageways would reflect from them, creating a sparkling hypnotic effect. Mirrors were hung along the walls as speculums for refracting light to enhance the hallucinogenic vibe.",
+      "formatted_sections": [
+        {"type": "body", "text": "Here our sojourner would be presented with psychedelics to drink, preparing his or her mind for the temple's experience."},
+        {"type": "body", "text": "Once inside, the temple became a sprawling labyrinth, a maze consisting of narrow tunnels..."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Ancient carved stone heads protruding from wall of Chavin de Huantar temple",
+      "text_in_image": null,
+      "potential_clues": ["Chavin de Huantar architecture"]
+    }]
+  },
+
+  "key_elements": {
+    "chavin_de_huantar": {
+      "built": "Around 900 BC",
+      "purpose": "Main temple of religious cult",
+      "design": "Like a gigantic puzzle box with no discernible entrance",
+      "features": [
+        "45-foot walls with carved heads",
+        "Hidden stairs",
+        "Labyrinth of narrow tunnels",
+        "Psychedelics given to visitors",
+        "Special effects with nails and mirrors"
+      ]
+    },
+    "chavin_culture": {
+      "achievement": "First highland civilization in Peru",
+      "skills": ["Monument design", "Metallurgy", "Sculpture", "Architecture", "Hydraulics"],
+      "duration": "United for over a thousand years"
+    },
+    "confirmation_bias_example": "Spanish explorers made wrong assumptions about giants and fortresses"
+  }
+}
