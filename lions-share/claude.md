@@ -53,6 +53,57 @@ Each JSON file contains `left_page` and `right_page` sections with:
 - Image descriptions and text within images
 - Potential clues identified
 
+## Chapter Summary Spec
+
+Chapter summaries consolidate clues from all pages in a chapter. **Both metadata (JSON) and notes (MD) files must be read** for each page.
+
+### Source Files Per Page
+- **Metadata (JSON)**: Full text transcription, formatted sections, image descriptions, key elements
+- **Notes (MD)**: Clue analysis, observations, confidence levels, cross-references
+
+### Chapter Summary Template (`lions-share/chapters/chapter-XX.md`)
+
+```markdown
+# Chapter X: [Title]
+
+**Subtitle:** *[Subtitle]*
+**Pages:** [start]-[end]
+
+## Treasure Items
+| Item | Description | Provenance |
+
+## Chapter Summary
+[2-3 paragraph synopsis of narrative and key points]
+
+## Geographic References
+| Location | Context | Relevance |
+
+## Historical Figures
+| Person | Role |
+
+## Key Phrases & Potential Clues
+| Phrase | Context | Analysis |
+
+## Numbers
+| Number | Context |
+
+## Cross-Chapter Patterns
+- [ ] Pattern to track across book
+
+## Research Questions
+1. Questions raised by chapter content
+
+## Source Files
+- page-XXX-XXX.json/md
+```
+
+### Summary Guidelines
+- **Summarize, don't transcribe** - synthesize key information, not full text
+- **Prioritize US locations** - treasure is in the United States
+- **Note author connections** - personal details may be clues
+- **Flag explicit instructions** - author's direct advice to hunters
+- **Track cross-chapter patterns** - themes that repeat across chapters
+
 ## What to Track During Analysis
 
 1. **Geographic references** - place names, landmarks, regions, states
