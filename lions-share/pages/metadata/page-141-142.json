@@ -1,0 +1,55 @@
+{
+  "screenshot": "page-141-142.png",
+  "section": "chapter",
+  "chapter": 16,
+  "chapter_title": "1996 Atlanta Olympic Gold Medal",
+  "chapter_subtitle": "Defy Expectations",
+
+  "left_page": {
+    "page_number": 141,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "1996 Atlanta Olympic gold medal in wooden presentation case with Atlanta 1996 logo",
+      "text_in_image": "Atlanta 1996",
+      "potential_clues": ["1996 Atlanta Olympics gold medal treasure item"]
+    }],
+    "sidebar": {"text": "This gold medal from the 1996 Atlanta Olympics is now a part of our treasure. It was presented to the Nigerian Soccer Team, after their improbable run to gold.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 142,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 16\n\n1996 ATLANTA OLYMPIC GOLD MEDAL\n\nDefy Expectations\n\n\"You never know if you can actually do something against all odds until you actually do it.\"\n—ABBY WAMBACH\n\n\"You can be the one-in-a-million. Don't be discouraged by the odds to succeed.\"\n—DAVID BECKHAM\n\nWhen a person asks me, \"Do you think I can locate the treasure,\" I answer, \"Why not? Someone is going to.\" People have this question because they naturally wonder if it's truly possible or if they are capable. I don't know if you have similar doubts. But if you do, just know, I believe you can find it.\n\nI know what it's like to have doubts. I wondered if I could actually complete this book. I was concerned if I could find appropriate hiding spots to leave five treasure boxes. I have lots of other doubts too. Doubts about if I'm a good person. Doubts about whether I am using my life in the fullest possible ways. Doubts about if I will remember where I put my car keys.\n\nIt's fine to have doubts or even modest expectations, sometimes. Although, I do think it's awesome to have grand ones. Regardless, people defy probabilities all the time. Heck, it's a miracle you and I are alive at all. Out of millions of hopeful sperm, you were the result of that one tiny fortunate cell which passed",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "1996 ATLANTA OLYMPIC GOLD MEDAL"},
+        {"type": "handwritten_subtitle", "text": "Defy Expectations", "style": "red_handwritten"},
+        {"type": "quote", "text": "You never know if you can actually do something against all odds until you actually do it.", "attribution": "Abby Wambach"},
+        {"type": "quote", "text": "You can be the one-in-a-million. Don't be discouraged by the odds to succeed.", "attribution": "David Beckham"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Defy Expectations", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "item": "1996 Atlanta Olympic gold medal",
+      "recipient": "Nigerian Soccer Team",
+      "achievement": "Improbable run to gold"
+    },
+    "quotes": [
+      {"text": "You never know if you can actually do something against all odds until you actually do it.", "author": "Abby Wambach"},
+      {"text": "You can be the one-in-a-million. Don't be discouraged by the odds to succeed.", "author": "David Beckham"}
+    ],
+    "author_encouragement": {
+      "to_treasure_hunters": "I believe you can find it",
+      "personal_doubts": "Wondered if could complete book, find hiding spots"
+    }
+  }
+}
