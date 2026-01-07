@@ -35,11 +35,11 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Rob Lavinsky holds a giant mineral specimen called 'The Flame' from the Santa Mina Mine",
+      "description": "Rob Lavinsky holds a giant mineral specimen called 'The Flame' from the Red Ridge Mine",
       "text_in_image": null,
       "potential_clues": ["Rob Lavinsky - mineral dealer who helped procure treasure items"]
     }],
-    "sidebar": {"text": "Rob Lavinsky holds a giant specimen called \"The Flame\" from the Santa Mina Mine", "style": "red_italic"}
+    "sidebar": {"text": "Rob Lavinsky holds a giant specimen called \"The Flame\" from the Red Ridge Mine", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -59,5 +59,5 @@
     "author_connection": "Hiddenite emerald mine was 'only some miles up the road' from childhood home"
   },
 
-  "verification_notes": "CORRECTED: Specimen name was 'The Flame' not 'The Picasso'. All transcription, geographic references (Hiddenite NC, Columbus OH), Rob Lavinsky biography, and Carlton Davis details confirmed accurate."
+  "verification_notes": "CORRECTED: Specimen is 'The Flame' from 'Red Ridge Mine' (not 'The Picasso' from 'Santa Mina Mine'). All transcription, geographic references (Hiddenite NC, Columbus OH), Rob Lavinsky biography, and Carlton Davis details confirmed accurate."
 }
