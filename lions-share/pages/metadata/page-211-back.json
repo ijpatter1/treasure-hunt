@@ -1,0 +1,63 @@
+{
+  "screenshot": "page-211-back.png",
+  "section": "back_matter",
+  "title": "Acknowledgements (continued) & Back Cover",
+
+  "left_page": {
+    "page_number": 211,
+    "content_type": "acknowledgements",
+    "header": "JON COLLINS-BLACK",
+    "people_thanked": [
+      {
+        "name": "Richard",
+        "role": "Design and layouts",
+        "quote": "Thank you, Richard for making this book so damn attractive. Your talents with design and layouts are second to none. I knew I hit the lottery when you accepted this project, and, yet, you still made it better than I could have imagined."
+      },
+      {
+        "names": "Baker & Taylor team (Jeff, Mark, Matt)",
+        "role": "Publishing/distribution",
+        "quote": "Thank you to the entire team at Baker & Taylor, especially Jeff and Mark and Matt who so welcomed and supported the idea from the first time I shared it with you. I appreciate your efforts in bringing this book to a wider audience. You are such a pleasure to work with, and you make the process so much fun."
+      },
+      {
+        "names": "Mom and Dad",
+        "role": "Love and support throughout entire life",
+        "quote": "Thank you, Mom and Dad for all your love and support throughout my entire life. You are incredible people whom I love dearly. I hope I one day become half of the parent you both are to me. And thanks, Mom, for your relentless proofreading."
+      },
+      {
+        "name": "Zach",
+        "role": "Encouragement"
+      },
+      {
+        "names": "LeElaine and Kimberly D.",
+        "role": "Treasure hunting demonstration",
+        "quote": "Thank you, LeElaine and Kimberly D. for showing me how much ground one searcher can cover in a single day."
+      },
+      {
+        "names": "Aiden and Londyn",
+        "role": "Children - enthusiasm for life",
+        "quote": "Thank you, Aiden and Londyn. I love you so much. Your enthusiasm for life lifts me up on wings. It invigorates me. Your glowing faces lit a path for all this to be possible. I look forward to all the treasures we'll discover together."
+      },
+      {
+        "name": "Kimberly",
+        "role": "Wife",
+        "quote": "And, finally, thank you, Kimberly. Thank you for seeing me, knowing me, and having me anyway. Thank you for your boundless support, your brilliant feedback, and for behaving like all this was perfectly normal, when we both knew it was anything but. You feed joy to my life everyday, and I love you with all of my heart."
+      }
+    ]
+  },
+
+  "back_cover": {
+    "content_type": "logo",
+    "description": "Red circle containing crossed hammer and pickaxe - treasure hunting/mining tools logo",
+    "background": "Black"
+  },
+
+  "key_elements": {
+    "notable_names": ["Richard (designer)", "Baker & Taylor (Jeff, Mark, Matt)", "Mom and Dad", "Zach", "LeElaine and Kimberly D. (searchers)", "Aiden and Londyn (children)", "Kimberly (wife)"],
+    "potential_clues": [
+      "LeElaine and Kimberly D. showed 'how much ground one searcher can cover in a single day' - implies treasure locations are searchable in a day",
+      "Hammer and pickaxe logo - mining/treasure hunting symbolism"
+    ]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Page 211: JON COLLINS-BLACK header, acknowledgements to Richard (design 'second to none', 'hit the lottery'), Baker & Taylor team (Jeff, Mark, Matt - 'first time I shared it', 'wider audience', 'pleasure to work with'), Mom and Dad ('love and support throughout entire life', 'half of the parent you both are', Mom's 'relentless proofreading'), Zach ('encouragement'), LeElaine and Kimberly D. ('how much ground one searcher can cover in a single day'), Aiden and Londyn (children, 'lifts me up on wings', 'glowing faces lit a path', 'treasures we'll discover together'), Kimberly wife final ('seeing me, knowing me, having me anyway', 'boundless support', 'brilliant feedback', 'feed joy to my life everyday', 'love you with all of my heart'). Back cover: Red circle with crossed hammer and pickaxe logo on black background. All accurate."
+}
