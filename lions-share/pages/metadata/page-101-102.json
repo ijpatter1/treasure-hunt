@@ -1,0 +1,52 @@
+{
+  "screenshot": "page-101-102.png",
+  "section": "chapter",
+  "chapter": 11,
+  "chapter_title": "Treasures From a Famous Shipwreck",
+  "chapter_subtitle": "The Temptress Greed",
+
+  "left_page": {
+    "page_number": 101,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Sepia-toned illustration of a sailing ship (the La Luz) in violent stormy seas with dramatic waves",
+      "text_in_image": null,
+      "potential_clues": ["La Luz shipwreck", "Montevideo, Uruguay"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 102,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 11\n\nTREASURES FROM A FAMOUS SHIPWRECK\n\nThe Temptress Greed\n\n\"The world is big enough to satisfy everyone's needs, but will always be too small to satisfy everyone's greed.\"\n—MAHATMA GANDHI\n\nMontevideo, Uruguay July 2, 1752 10am.\n\nThe wind rustled angrily through the tarps covering the windows. Inside the makeshift cabin along Montevideo's main dirt road, Captain Felicio de Fonseca sat alone on a threadbare wooden chair. \"Just two more days to go,\" he thought to himself. He raised a glass to his lips and threw back another shot of rum. He glared around his dirty shanty. It had been ten long months in this ragtag port, but now the final provisions for the ship were finally ready. All that was needed was to load up the final food cargo and boat it over to his ship anchored in the bay - the beautiful Nuestra Señora de la",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "TREASURES FROM A FAMOUS SHIPWRECK"},
+        {"type": "handwritten_subtitle", "text": "The Temptress Greed", "style": "red_handwritten"},
+        {"type": "quote", "text": "The world is big enough to satisfy everyone's needs, but will always be too small to satisfy everyone's greed.", "attribution": "Mahatma Gandhi"},
+        {"type": "body", "text": "Montevideo, Uruguay July 2, 1752 10am."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "The Temptress Greed", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "The world is big enough to satisfy everyone's needs, but will always be too small to satisfy everyone's greed.", "author": "Mahatma Gandhi"}
+    ],
+    "shipwreck_story": {
+      "ship_name": "Nuestra Señora de la Luz (Our Lady of the Light)",
+      "captain": "Captain Felicio de Fonseca",
+      "location": "Montevideo, Uruguay",
+      "date": "July 2, 1752",
+      "setting": "Port city, main dirt road"
+    },
+    "geographic_references": ["Montevideo, Uruguay"]
+  }
+}
