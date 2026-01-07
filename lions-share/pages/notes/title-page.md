@@ -24,7 +24,8 @@ The title page features a collage of treasure-related imagery:
 - Suggests outdoor adventure, group expedition
 
 ### Historical Elements
-- Old photograph/document with portrait visible
+- Old photograph/document with portrait visible on red background
+- Text visible on document includes "Courage" - potential clue word
 - Vintage paper/parchment textures
 
 ## Potential Clues
@@ -45,3 +46,7 @@ The title page features a collage of treasure-related imagery:
 - Compass may relate to directional clues in chapters
 - Hiker imagery connects to postscript (safe hiking distance)
 - Emerald likely relates to Chapter 4 (Chivor Emerald) or Chapter 18 (Carnegie's Emerald)
+- "Courage" text on document - track if this word appears significantly elsewhere
+
+---
+**Verification Status**: VERIFIED against screenshot. Added detail about "Courage" text visible on red document.

@@ -51,5 +51,7 @@
     "geographic_references": ["San Francisco Bay Area", "Menlo Park, California", "Oregon (fruit orchard)"],
     "dates": ["1975", "summer of 1975"],
     "theme": "Planning, roadmaps, Apple's founding"
-  }
+  },
+
+  "verification_notes": "Verified against screenshot. Apple founding story accurate: Bill Fernandez intro, 200 blue boxes, Homebrew Computer Club in Menlo Park, Oregon fruit orchard naming, Mike Markkula investment. All geographic refs confirmed."
 }

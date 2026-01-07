@@ -34,6 +34,7 @@
       "has_handwritten_text": true,
       "emphasized_text": [
         {"text": "TABLE OF CONTENTS", "style": "red_vertical"},
+        {"text": "CHAPTER X labels", "style": "red_caps"},
         {"text": "Chapter subtitles", "style": "italic_handwritten"}
       ]
     },
@@ -71,5 +72,7 @@
       ]
     },
     "images": []
-  }
+  },
+
+  "verification_notes": "Verified against screenshot. All chapter titles, subtitles, and page numbers correct. Added red color for CHAPTER labels."
 }

@@ -22,6 +22,10 @@
 ### Print Number
 `0 9 8 7 6 5 4 3` - First edition indicator
 
+### Visual Elements
+- Small decorative symbol/printer's mark at bottom right of copyright page
+- Geometric design - could be publisher's device
+
 ### Potential Clues (Page 1)
 | Element | Observation | Confidence |
 |---------|-------------|------------|
@@ -60,3 +64,6 @@
 - Dallas, Texas mentioned (The Arkenstone) - note if TX appears elsewhere
 - Saint Augustine - check for other religious/philosophical references
 - Author's family names - likely personal, not clue-related
+
+---
+**Verification Status**: VERIFIED against screenshot. Added missing printer's mark detail.

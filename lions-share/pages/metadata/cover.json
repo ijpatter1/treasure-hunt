@@ -42,10 +42,20 @@
 
   "images": [
     {
-      "description": "Red circular logo with crossed pickaxe and shovel",
+      "description": "Red circular logo with crossed pickaxe and shovel; circle has hand-drawn/rough edge style, not a clean geometric circle",
       "location": "front_cover_top",
       "text_in_image": null,
-      "potential_clues": ["mining/digging tools imagery"]
+      "potential_clues": ["mining/digging tools imagery", "hand-drawn style suggests authenticity/adventure"]
     }
-  ]
+  ],
+
+  "design_elements": [
+    {
+      "description": "Two parallel gold/tan horizontal decorative lines",
+      "location": "between title and author name",
+      "potential_clues": ["double line motif - could represent equals sign, path, or boundary"]
+    }
+  ],
+
+  "verification_notes": "Verified against screenshot. Poem has no terminal punctuation after 'divined' - may be intentional."
 }

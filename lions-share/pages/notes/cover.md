@@ -24,6 +24,12 @@ The back cover contains a short poem in italic:
 - Mining/excavation tools (pickaxe + shovel)
 - Red color stands out against black background
 - Tools suggest digging, but postscript says NO DIGGING required
+- Circle has hand-drawn/rough edge style (not clean geometric) - suggests adventure/authenticity
+
+### Design Elements
+- Two parallel gold/tan horizontal decorative lines between title and author name
+- Could represent: equals sign, path, boundary, or simply decorative
+- Gold color matches author name - creates visual connection
 
 ## Potential Clues
 
@@ -41,3 +47,6 @@ The back cover contains a short poem in italic:
 
 ## Cross-References
 - Check if pine trees or "solid/grit" themes recur in chapters
+
+---
+**Verification Status**: VERIFIED against screenshot. Minor additions made for completeness.

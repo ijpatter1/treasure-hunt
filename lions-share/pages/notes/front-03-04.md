@@ -116,3 +116,6 @@ Many subtitles are directives:
 1. Do the chapter subtitles form a hidden message when combined?
 2. Are there patterns in the page numbers?
 3. Why is there no explicit "Part One" / "Part Two" division in the TOC?
+
+---
+**Verification Status**: VERIFIED against screenshot. All titles, subtitles, and page numbers accurate. CHAPTER labels also in red (not just vertical header).

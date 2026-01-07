@@ -79,10 +79,10 @@
       "potential_clues": ["modern treasure", "cryptocurrency"]
     },
     {
-      "description": "Old photograph or document with portrait",
+      "description": "Old photograph or document with portrait on red background",
       "location": "top_right",
-      "text_in_image": "partial text visible",
-      "potential_clues": ["historical figure"]
+      "text_in_image": "Partial text visible including 'Courage' and possibly prize/value references",
+      "potential_clues": ["historical figure", "courage theme", "prize reference"]
     },
     {
       "description": "Red treasure hunt logo (pickaxe and shovel)",
@@ -114,5 +114,7 @@
       "text_in_image": null,
       "potential_clues": ["terrain", "location"]
     }
-  ]
+  ],
+
+  "verification_notes": "Verified against screenshot. Text transcription accurate. Added detail about visible text on red document ('Courage' visible). 'The Lion's Share' and 'Treasure' appear on separate lines in image."
 }
