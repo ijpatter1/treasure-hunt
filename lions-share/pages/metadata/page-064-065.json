@@ -1,0 +1,58 @@
+{
+  "screenshot": "page-064-065.png",
+  "section": "chapter",
+  "chapter": 6,
+  "chapter_title": "Rubies to Wear",
+  "chapter_subtitle": "Inspiration Is Welcome",
+
+  "left_page": {
+    "page_number": 64,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Ruby pendant necklace by Lauren Harwell Godfrey - teardrop shaped pendant with 3-carat ruby surrounded by moonstones and diamonds on gold chain",
+      "text_in_image": null,
+      "potential_clues": ["Lauren Harwell Godfrey ruby pendant - treasure item valued $45,000+"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 65,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 6\n\nRUBIES TO WEAR\n\nInspiration Is Welcome\n\n\"Inspiration is some mysterious blessing which happens when the wheels are turning smoothly.\" —QUENTIN BLAKE\n\n\"Inspiration usually comes during work, rather than before it.\" —MADELEINE L'ENGLE\n\nSome people believe inspiration is divine, others call it fortune. Many say inspiration is a creative force we tap into. Perhaps all these things, and more, are true. Whatever words or meanings we prescribe to it, one thing has become clear to me over the years. The more my actions are guided by inspiration, the greater the chances are that they will result in something of value. Like a wise breeze blowing in the direction I need to go, inspiration guides me. When I follow, even if it leads me to a place different than I was expecting, it's almost always better than I imagined.\n\nDuring my research into the items in our treasure, I was surprised to learn how rubies have been a source of inspiration for many cultures, both past and present day. This inspiration is born from deep and powerful symbolism surrounding these red stones. Across the world, rubies are thought to bring people success, health, longevity, and even enlightenment.\n\nIn Burma, the red glow of a ruby represents the inextinguishable flame of immortality. Ancient Burmese warriors thought rubies made them invincible. They cut open their skin and inserted rubies underneath their flesh.",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "RUBIES TO WEAR"},
+        {"type": "handwritten_subtitle", "text": "Inspiration Is Welcome", "style": "red_handwritten"},
+        {"type": "quote", "text": "Inspiration is some mysterious blessing which happens when the wheels are turning smoothly.", "attribution": "Quentin Blake"},
+        {"type": "quote", "text": "Inspiration usually comes during work, rather than before it.", "attribution": "Madeleine L'Engle"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Inspiration Is Welcome", "style": "red_handwritten"}]},
+    "images": [],
+    "sidebar": {"text": "This is a ruby pendant necklace by Lauren Harwell Godfrey. It has a three-carat ruby surrounded by moonstones and diamonds. This piece was a raindrop of Lauren's 'Cleopatra's Vault' collection. Its estimated value is over $45,000", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "Inspiration is some mysterious blessing which happens when the wheels are turning smoothly.", "author": "Quentin Blake"},
+      {"text": "Inspiration usually comes during work, rather than before it.", "author": "Madeleine L'Engle"}
+    ],
+    "treasure_items": {
+      "ruby_pendant": {
+        "designer": "Lauren Harwell Godfrey",
+        "description": "3-carat ruby surrounded by moonstones and diamonds",
+        "collection": "Cleopatra's Vault",
+        "value": "Over $45,000"
+      }
+    },
+    "ruby_symbolism": {
+      "burma": "Inextinguishable flame of immortality, warriors inserted rubies under skin"
+    },
+    "theme": "Inspiration as guiding force"
+  }
+}
