@@ -1,0 +1,64 @@
+{
+  "screenshot": "page-165-166.png",
+  "section": "chapter",
+  "chapter": 19,
+  "chapter_title": "Moon Rocks & Meteors",
+  "chapter_subtitle": "The Next Frontier",
+
+  "left_page": {
+    "page_number": 165,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Polished spherical moon rock on dark background, showing gray surface with lighter patches",
+      "text_in_image": null,
+      "potential_clues": ["Moon rock treasure item"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 166,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "MOON ROCKS & METEORS\n\nThe Next Frontier\n\n\"If an elderly but distinguished scientist says that something is possible he is almost certainly right, but if he says that it is impossible he is very probably wrong.\"\n—ARTHUR C. CLARK\n\nHere's a little secret. I'm a bit of a nerd. My favorite show from age sixteen to twenty-two was Star Trek: The Next Generation. The venerable Captain Jean-Luc Picard was my television hero. I still get a slight tingle down my spine when I hear his British accent announce, \"Space: the final frontier. These are the voyages of the starship Enterprise. Its continuing mission: to explore strange new worlds; to seek out new life and new civilizations; to boldly go where no man has gone before.\"\n\nNow in 2024, it appears we are on the precipice of turning such science fiction into reality. For the first time in human history, a generation of space tourism has begun. We await the impending start of our cardinal moon colony. Thousands of man hours are being dedicated to planning our first manned space flights to Mars. We live at the threshold of a galactic treasure hunt, across a map far more expansive than any we have searched before. We don't",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "MOON ROCKS & METEORS"},
+        {"type": "handwritten_subtitle", "text": "The Next Frontier"},
+        {"type": "quote", "text": "If an elderly but distinguished scientist says that something is possible he is almost certainly right, but if he says that it is impossible he is very probably wrong.", "attribution": "Arthur C. Clark"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "The Next Frontier", "style": "handwritten_red"}
+      ]
+    },
+    "images": [],
+    "sidebar": {
+      "text": "This globe is a piece of moon rock from meteorite NWA 12691, and it is in our treasure. Although the buyer originally overpaid, in 2021, a similar round lunar rock about the same size as this one sold at auction for over $100,000.",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "name": "Moon rock globe",
+      "description": "Spherical piece of moon rock from meteorite NWA 12691",
+      "value": "Similar piece sold at auction for over $100,000 in 2021"
+    },
+    "author_interests": {
+      "favorite_show": "Star Trek: The Next Generation (ages 16-22)",
+      "hero": "Captain Jean-Luc Picard"
+    },
+    "current_events_reference": {
+      "year_mentioned": 2024,
+      "topics": ["Space tourism", "Moon colony", "Mars missions"]
+    }
+  }
+}
