@@ -1,0 +1,53 @@
+{
+  "screenshot": "page-153-154.png",
+  "section": "chapter",
+  "chapter": 17,
+  "chapter_title": "George Washington's Jelly Glass",
+  "chapter_subtitle": "Share Your Story",
+
+  "left_page": {
+    "page_number": 153,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "dent's desk. The American History hardback that thudded down in front of me was heavy. It was also whitewashed. But none of us nine and ten year-olds in the room knew that. I opened my book somewhere near the middle and started to flip through the pages. Inside it were pictures of scrolled documents, men with white wigs pondering above brown desks, and battalions standing in large fields of green grass.\n\nI stopped at a chapter titled \"George Washington\". On this page was a detailed illustration of a boy. He had a sad and serious face. He held an axe heavy in his hand. Next to him a cherry tree lay prone on the ground. The caption said George Washington had chopped this cherry tree down. The book explained to me that when his dad asked him who had done this bad deed, George confessed because George Washington could never tell a lie. I was impressed because in that situation I might not have done the same. This George kid was a real standup guy.\n\nOf course, that story in that textbook was a boldfaced lie. George Washing-",
+      "formatted_sections": [
+        {"type": "body", "text": "I stopped at a chapter titled 'George Washington'."},
+        {"type": "body", "text": "This George kid was a real standup guy."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Illustration of open book with cherry tree and branches",
+      "text_in_image": null,
+      "potential_clues": []
+    }]
+  },
+
+  "right_page": {
+    "page_number": 154,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ton never cut down a cherry tree as a boy. And though he was a man of certain convictions, George Washington certainly stretched the truth upon occasion.\n\nMason Locke Weems, who wrote his first George Washington biography a year after Washington died, invented the story of the cherry tree in order to sell more books. In fact, Weems didn't even come up with this tall tale until his book's fifth edition of printing. One hundred and eighty-three years later, Weems' clever marketing idea had become a fact in my American History textbook.\n\nFortunately, for those of us willing to delve into a little research, there exists an abundant trove of accurate and detailed information available about George Washington and many other founding fathers of the United States. The primary reason this information exists is that these men documented an incredible amount of their own lives inside letters and journals. George Washington was arguably the most meticulous writer of all these men. As if George Washington had a sixth sense that his life was playing out in a defining role, he detailed every part he could for future generations. Washington understood the value of telling his own story.\n\nIn hindsight, Washington's own account of his life wasn't always self-flattering. Washington owned or managed three hundred and seventeen slaves on his properties. There is a decent possibility he even wore slaves' teeth as dentures. Meanwhile, neither he nor his wife Martha could ever fathom why slaves would want to run away. In addition, Washington took advantage of his power and position to acquire vast amounts of personal property. He was a pretty untalented and unsuccessful farmer. He acquired heavy debts in order to buy the finest furnishings. He was quite consumed by his appearance and his reputation. He didn't even smile a lot. George Washington was not a perfect man.\n\nYet the way Washington's sixty-seven years of existence played out was historical and remarkable. His life literally bent the trajectory of our modern world. And had Washington left it to others to tell his story, we would have never really understood the whole of the man. His life was truly incredible. By the time he passed away, Washington was the closest thing to a living superhero our country has ever seen.\n\nFrom a strictly statistical perspective, George Washington should never have lived long enough to accomplish what he did. He didn't possess the best genetics. Men in Washington's family, including his father and five of his brothers, all died fairly young. Meanwhile, George Washington avoided or survived polio, scarlet fever, yellow fever, malaria, smallpox, tuberculosis, dysentery, and several other undiagnosed illnesses. On more than one occasion, doctors made final preparations for Washington's death while he lay ill upon his bed. But time and again, he refused to die.\n\nWhen he wasn't surviving fatal diseases, Washington spent an inordinate amount of time being shot at on the killing fields. His first battles were as a young soldier in the French and Indian War. In part because of real bravery—Washington fearlessly rode to the front of battles—and partly due to the heavy death rate of his fellow soldiers, Washington made a reputation",
+      "formatted_sections": [
+        {"type": "body", "text": "Washington owned or managed three hundred and seventeen slaves on his properties."},
+        {"type": "body", "text": "George Washington was arguably the most meticulous writer of all these men."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "cherry_tree_myth": {
+      "origin": "Mason Locke Weems invented story to sell books",
+      "first_appearance": "Fifth edition of Weems' Washington biography",
+      "timing": "One year after Washington died"
+    },
+    "washington_facts": {
+      "slaves_owned": "317 slaves on his properties",
+      "health_survived": ["Polio", "Scarlet fever", "Yellow fever", "Malaria", "Smallpox", "Tuberculosis", "Dysentery"],
+      "lifespan": "67 years",
+      "character": "Meticulous writer, documented his life extensively"
+    }
+  }
+}
