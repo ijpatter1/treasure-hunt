@@ -1,0 +1,51 @@
+{
+  "screenshot": "page-201-202.png",
+  "section": "back_matter",
+  "title": "Some More of Our Treasure Items (continued)",
+
+  "left_page": {
+    "page_number": 201,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "Two ornate Bali priest rings",
+        "date": "19th to 20th centuries",
+        "description": "Balinese style of crafting prongs shaped like birds' beaks to secure center stone",
+        "details": "Ring on right features large pink ruby (Tuyet Nguyet collection)"
+      },
+      {
+        "name": "Gold box from Tuyet Nguyet collection",
+        "origin": "Southeast Asia",
+        "description": "Intricate carving - deer on front, chicken on back",
+        "rarity": "Author has not come across any similar box that exists anywhere"
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 202,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "Titanium physical Bitcoin coin by BTCC",
+        "description": "Coins like this no longer produced, only a few ever rated by PCGS",
+        "details": "Comes with fully loaded private keys to one digital Bitcoin (keys beneath hologram on back)",
+        "quantity": "One of only 1350 titanium coins made by BTCC in first production in 2016",
+        "note": "Company made just 250 more coins after 2016"
+      },
+      {
+        "name": "Olive-green jade bracelet",
+        "date": "3000-4000 BC in China",
+        "description": "One of oldest jade bracelets known to exist",
+        "significance": "Jade highly valued in China for thousands of years, symbolized purity and moral integrity",
+        "etymology": "'Jingqi' meaning life force, believed to carry energy of life itself",
+        "virtues": "Charity, rectitude, wisdom, courage, and equity"
+      }
+    ]
+  },
+
+  "key_elements": {
+    "treasure_items": ["Two Bali priest rings", "Gold box (Tuyet Nguyet)", "BTCC Bitcoin coin (1/1350)", "Jade bracelet 3000-4000 BC"],
+    "geographic_references": ["Bali", "Southeast Asia", "China"]
+  }
+}
