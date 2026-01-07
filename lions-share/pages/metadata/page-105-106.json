@@ -1,0 +1,69 @@
+{
+  "screenshot": "page-105-106.png",
+  "section": "chapter",
+  "chapter": 11,
+  "chapter_title": "Treasures From a Famous Shipwreck",
+  "chapter_subtitle": "The Temptress Greed",
+
+  "left_page": {
+    "page_number": 105,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Gold bar recovered from La Luz shipwreck, showing markings including 'XXVI' and other stamps",
+      "text_in_image": "XXVI",
+      "potential_clues": ["La Luz gold bar treasure item", "Roman numeral XXVI (26)"]
+    }],
+    "sidebar": {"text": "This is a gold bar recovered from La Luz in our treasure. It weighs slightly over 22 ounces. The small half-circle was created when additional gold was added to confirm the bar met its minimum weight. Its estimated value is over $50,000.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 106,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "On July 2, 1752, the Nuestra Señora de la Luz sank in a violent storm near the coast of Montevideo, Brazil. The wreckage from the ship was strewn over fifty miles. Unfortunately, none of the passengers on board the boat survived. Many were found weeks later washed ashore with gold coins in their pockets. Led by the efforts of Captain Fonseca, over ninety percent of the cargo was recovered in less than a year. The hidden cargo in the powder hold was not rescued, as it was never supposed to have existed.\n\nThe waters of the Rio de la Plata are one of the deadliest shipwreck graveyards in the world. More than a thousand ships have disappeared into its treacherous depths. Given this fact, keeping the overweighted Lady of the Light stationed there for months was a dangerous proposition indeed, one that was inflamed unfortunately by the greed of its captain and owners of the ship.\n\nIn 1993, wreckage from Our Lady of the Light was discovered by señor Ruben Corella while he was searching for another shipwreck, El Preciado. At the discovery site, some fifty miles from the bay of Montevideo, the remainder of the lost treasure of La Luz, with its dozens of gold ingots and thousands of gold coins, was finally brought back to the surface. Three items from the La Luz shipwreck now reside in our treasure.\n\nOf all the bars of gold recovered from La Luz, our gold bar pictured here was considered by many to be the most beautiful. 245 limited edition commemorative boxed sets were created to celebrate the La Luz treasure. These sets included a brief description of the discovery, an eight-escudo gold coin from the shipwreck, and a gilded silver replica of this exact gold bar. At the time of this writing, you can find one of these boxed sets currently offered online for around $10,000.\n\nAs if the sea itself wanted to stamp this gold disk (page 107) as its own, encrustations from the ocean still fill most attractive crevices of its surface. The gold purity of this disk is .975, the equivalent of 23.4 carats. There is no purer gold disk recorded from the La Luz and only one gold ingot finer. This gold disk is thick. It weighs over twenty-two troy ounces. If you are seeking a fashionable paper weight, I imagine this disk would make a decent one.\n\nThe eight escudos coin seen on page 108 was hand pressed at the Lima mint. The Spanish coat of arms is depicted on its surface. The value of a coin like this one is determined by both condition and rarity. Only fifteen such coins from 1750 have ever been officially rated. This coin was given an MS 63 rating. The only other coin with a higher rating (MS 64) recently sold at auction for more than $25,000. Yet that MS 64 coin was not from a shipwreck. In fact, almost all shipwrecked coins are too damaged to rate. Our coin is the rare exception.",
+      "formatted_sections": [
+        {"type": "body", "text": "On July 2, 1752, the Nuestra Señora de la Luz sank in a violent storm near the coast of Montevideo, Brazil."},
+        {"type": "body", "text": "Three items from the La Luz shipwreck now reside in our treasure."},
+        {"type": "body", "text": "The waters of the Rio de la Plata are one of the deadliest shipwreck graveyards in the world."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_items": {
+      "gold_bar": {
+        "weight": "Over 22 ounces",
+        "estimated_value": "Over $50,000",
+        "notes": "Considered most beautiful of recovered bars"
+      },
+      "gold_disk": {
+        "purity": ".975 (23.4 carats)",
+        "weight": "Over 22 troy ounces",
+        "notes": "Purest gold disk from La Luz"
+      },
+      "eight_escudo_coin": {
+        "mint": "Lima mint",
+        "year": "1750",
+        "rating": "MS 63",
+        "notes": "Only 15 such coins ever officially rated"
+      }
+    },
+    "shipwreck_facts": {
+      "sinking_date": "July 2, 1752",
+      "location": "Near Montevideo (text says Brazil, likely error - should be Uruguay)",
+      "wreckage_spread": "50 miles",
+      "survivors": "None",
+      "cargo_recovered": "Over 90% by Captain Fonseca",
+      "rediscovery": "1993 by Ruben Corella",
+      "discovery_site": "50 miles from bay of Montevideo"
+    },
+    "geographic_references": ["Montevideo", "Rio de la Plata", "Lima"]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "screenshot": "page-099-100.png",
+  "section": "chapter",
+  "chapter": 10,
+  "chapter_title": "Jackie Onassis' Diamond Sapphire Brooch",
+  "chapter_subtitle": "Welcome the Good and the Bad",
+
+  "left_page": {
+    "page_number": 99,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Despite her pain, Jackie displayed great strength. After the deaths of her husband and his brother, Jackie desired privacy and seclusion above all else. She wanted a fresh start for her and her children, away from the paparazzi and out of the public's eye. Jackie agreed to marry the older Aristotle Onassis, who had been pursuing her for quite some time. With Aristotle, Jackie found a man who was able to enjoy with her a quieter life while she focused on her love of art and design. Instead of being a prisoner of grief, Jackie created a new life for herself and her children, and in it she found contentment. It was not very long, however, until Aristotle Onassis lost a battle with cancer, and the new life Jackie had built with him was gone, as well.\n\nAristotle's death meant that Jackie again needed to take inventory for the next stage of her journey. Jackie came up with a clear vision for what would bring her the most happiness. Instead of drifting further into seclusion, Jackie pivoted back to New York. She became the first former first lady to enter back into a traditional workplace, when she accepted an editor's position at Viking Press. A few years later, Jackie transitioned to an editorial role at Doubleday, where she worked for the next sixteen years until her death. At Doubleday, Jackie edited multiple best-selling books. Jackie began her career as a writer and ended it as an editor. She had come full circle. Her colleagues say she demanded no special treatment or accommodation. Jackie died doing what she loved.\n\nHistory preservation was important to Jackie Onassis. While at the White House, she created the White House Historical Association. It remains in existence today as a free public resource. This association preserves the history of the White House and provides educational information about it to anybody who wants to learn.\n\nJackie also took up one large legal fight for the cause of preserving history during her years at Doubleday. At a time in New York City when important architectural buildings were being destroyed to make way for new business development, a N.Y. court approved the demolition of New York City's most famous train terminal, Grand Central Station. Jackie Onassis helped the city in a gritty fight to win a battle to overturn the court's decision and save the famous landmark. History was a particular type of treasure to Jackie, and she preserved her own with the way she lived.\n\nDue to circumstances outside of her control, the direction of Jackie Onassis' life was winding. Yet Jackie chose to remain flexible in order to sustain. Pliability is an integral part of resilience. Our path may alter, but our purpose and posture remain the same. Jackie found the ability to rediscover joy despite all the tragedies that befell her. There was wisdom in her resolve. Jackie was a treasure hunter any of us would be fortunate to have standing by our side.\n\nOur treasure hunt here, of course, is not designed to require any great hardship on you. The stakes are not particularly high. Searching and not finding the treasure will most likely only leave you with happy memories of spending time outdoors with a loved one or with the delightful sights, smells, and sounds of nature around you. This hunt is designed to bring you joy, not suffering.",
+      "formatted_sections": [
+        {"type": "body", "text": "Jackie was a treasure hunter any of us would be fortunate to have standing by our side."},
+        {"type": "body", "text": "Our treasure hunt here, of course, is not designed to require any great hardship on you."},
+        {"type": "body", "text": "Searching and not finding the treasure will most likely only leave you with happy memories of spending time outdoors with a loved one or with the delightful sights, smells, and sounds of nature around you."},
+        {"type": "body", "text": "This hunt is designed to bring you joy, not suffering."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 100,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Still, in the everyday routines, there is much I take from Onassis' example. No matter how successful I become in discovering joy in my life, disappointment and tragedy will find me. This much I know. But unraveling in the face of loss may rob me of new beginnings. Heartbreak is a grueling, inescapable part of our human experience. Yet there is solace in acceptance. And tragedy can make a person more compassionate towards the pain of others. Through our own disappointment, you and I are better prepared to provide words of comfort to others. Short of words, we can offer a hand upon a shoulder or a warm embrace. Small things such as these can lead to outsized rewards.\n\nFrom this chapter we turn our attention to the next, one which also tells a story of tragedy. Its misfortune might have been avoided if not for greed. It's a tale about a ship's captain named Fonseca, whose avarice resulted in his losing the treasure he had worked so hard for and a ship he loved so dearly. Fonseca learned the hard way that greed is a siren. It's a trickster. Greed offers an alluring hand, proposing to guide a man to fortune, while instead leading him towards the dead cold depths of an ocean floor.\n\nLet us examine greed. Know thy foe, so that you may defeat him.",
+      "formatted_sections": [
+        {"type": "body", "text": "Short of words, we can offer a hand upon a shoulder or a warm embrace. Small things such as these can lead to outsized rewards."},
+        {"type": "body", "text": "Greed offers an alluring hand, proposing to guide a man to fortune, while instead leading him towards the dead cold depths of an ocean floor."},
+        {"type": "body", "text": "Let us examine greed. Know thy foe, so that you may defeat him."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "jackie_later_life": {
+      "married_aristotle_onassis": "For privacy and seclusion",
+      "viking_press": "First former first lady to return to traditional workplace",
+      "doubleday": "Editorial role for 16 years until death",
+      "grand_central_station": "Fought to save from demolition",
+      "white_house_historical_association": "Created by Jackie, still exists as free public resource"
+    },
+    "treasure_hunt_advice": {
+      "not_designed_for_hardship": true,
+      "stakes": "Not particularly high",
+      "purpose": "Designed to bring joy, not suffering",
+      "outdoor_experience": "Happy memories with loved ones, sights, smells, sounds of nature"
+    },
+    "transition_to_chapter_11": {
+      "subject": "Captain Fonseca",
+      "theme": "Greed",
+      "warning": "Greed is a siren, a trickster"
+    },
+    "geographic_references": ["New York City", "Grand Central Station"]
+  }
+}

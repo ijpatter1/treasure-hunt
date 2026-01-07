@@ -1,0 +1,62 @@
+{
+  "screenshot": "page-107-108.png",
+  "section": "chapter",
+  "chapter": 11,
+  "chapter_title": "Treasures From a Famous Shipwreck",
+  "chapter_subtitle": "The Temptress Greed",
+
+  "left_page": {
+    "page_number": 107,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Gold disk from La Luz shipwreck showing encrustation patterns with 'XIV' marking visible",
+      "text_in_image": "XIV",
+      "potential_clues": ["La Luz gold disk treasure item", "Roman numeral XIV (14)"]
+    }],
+    "sidebar": {"text": "This is a gold disk from the La Luz now in our treasure.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 108,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "chored in the deadly waters of the Rio de la Plata, a seeker might put themselves in a needlessly dangerous situation. For this reason, I hope this story of the La Luz will be a reminder to you.\n\nTo ensure your hunting is safe and joyous, I compiled a summary of best practices to follow if you want to look for our treasure. You can find these details in the postscript of this book. It's a must read. My goal is to keep you in good spirits, fine health, and far away from misfortune of any kind.\n\nThere are more nuances to greed than this chapter has time to delve into. Greed is certainly not always as it's typically portrayed in books, movies, or TV shows. Greedy people aren't just villains or hedge fund CEOs. Sometimes, greed grows from a fear of scarcity. When people struggle to have what they need or dread that there is not enough to go around, they may be compelled to take as much as they can for themselves. Sadly, I've been guilty of this on more than one occasion myself.\n\nOur next chapter continues our look at greed and shows how scarcity and desperation can fuel it. It's a story of the largest treasure hunt in our country's history. It's a narrative of exuberant irrationality. This treasure hunt existed on a scale so grand that it shifted the entire demographics of our country. Its reverberations shaped America in ways which made it how it is today. The California Gold Rush was a spectacle of chaos, whose size and pace were like nothing the world had ever seen.",
+      "formatted_sections": [
+        {"type": "body", "text": "To ensure your hunting is safe and joyous, I compiled a summary of best practices to follow if you want to look for our treasure."},
+        {"type": "body", "text": "You can find these details in the postscript of this book. It's a must read."},
+        {"type": "body", "text": "My goal is to keep you in good spirits, fine health, and far away from misfortune of any kind."},
+        {"type": "body", "text": "The California Gold Rush was a spectacle of chaos, whose size and pace were like nothing the world had ever seen."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "NGC-certified eight escudo gold coin from 1750, showing MS 63 rating",
+      "text_in_image": "1750 8 PCS 63\nReaudulfia Collection\n427368.011\n1750 8E 1/751\nNGC CERTIFICATION",
+      "potential_clues": ["Eight escudo coin treasure item"]
+    }],
+    "sidebar_right": {"text": "Shown here is a very rare eight escudo 1750 gold coin in our treasure.", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "safety_advice": {
+      "postscript_reference": "Best practices for treasure hunting in postscript",
+      "author_goal": "Keep hunters in good spirits, fine health, far from misfortune"
+    },
+    "treasure_items_confirmed": [
+      "Gold bar from La Luz (over 22 oz, $50,000+)",
+      "Gold disk from La Luz (22+ troy oz, .975 purity)",
+      "Eight escudo coin from 1750 (MS 63 rating)"
+    ],
+    "transition_to_chapter_12": {
+      "subject": "California Gold Rush",
+      "theme": "Greed, scarcity, desperation",
+      "description": "Largest treasure hunt in US history, shifted demographics"
+    },
+    "geographic_references": ["Rio de la Plata", "California"]
+  }
+}
