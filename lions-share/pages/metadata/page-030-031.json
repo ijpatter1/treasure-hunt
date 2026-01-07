@@ -1,0 +1,50 @@
+{
+  "screenshot": "page-030-031.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 30,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...Tuyet Nguyet is someone who understood this concept well. Her story of success was no accident. She wasn't from wealth. In fact, her financial status meant little to her. Nguyet's collection of treasures was the result of a lifelong passion, focus, and careful dedication to her craft. The rare and valuable objects she acquired were a product of the thorough work she invested into her profession.\n\nBefore Nguyet started collecting artifacts, she began her professional career as an investigative journalist in Vietnam. As a reporter, she honed her skills at research and analysis. Before she could report the news, she had to be well-versed and fully researched. She was soon recognized by her colleagues for her tenacity and attention to detail...",
+      "formatted_sections": [
+        {"type": "body", "text": "Tuyet Nguyet is someone who understood this concept well..."},
+        {"type": "body", "text": "Before Nguyet started collecting artifacts, she began her professional career as an investigative journalist in Vietnam."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 31,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "...A few years later, Nguyet realized her true love was the study of ancient Asian art and culture. Her investigative skills transitioned seamlessly into those of a historian and art collector. Tuyet absorbed herself in learning art history, and she never let up. Her expertise expanded over the next fifty years. During that time, Nguyet became one of the leading influences in Asian art and artifacts. Her reputation and work contributed to the massive rise in popularity of Asian art during the latter part of the twentieth century.\n\nIn 1970, at the age of thirty-six, Nguyet and her husband Stephen Markbreiter founded Arts of Asia, a publication which became a mainstay for ancient Asian art. Nguyet served as both editor and publisher for the entire span of the publication. Arts of Asia provided its readers in-depth information on museum exhibitions, gallery exhibits, and Asian art history. Arts of Asia was a resource for collectors and museums around the world. Over time, Nguyet began to acquire a series of distinct Asian art collections. Her years of intense study had prepared her to identify the best examples of artistry, and her collections became synonymous with quality. Nguyet curated some of the finest collections of Asian art in the world.\n\nAmong her most cherished and prized collections was a selection of 100 ancient gold rings from Southeast Asia, which Nguyet amassed over the span of forty years. These rings are considered by experts to represent the best of their kind in existence today. In July 2017, Arts of Asia printed a special edition dedicated to this collection of 100 rings.\n\nTwelve of these gold rings, plus an additional gold box acquired by Nguyet, now reside in our treasure. Not only are these items rare, but they are also important pieces of history. Jewelry is some of what remains to give us clues about the ancient cultures that forged them.\n\nOur ring shown here originates from a period known as pre-Angkor, between the 1st and 8th centuries AD. The area of origin for this ring was located in what is today Vietnam. This ring weighs almost a full ounce...",
+      "formatted_sections": [
+        {"type": "body", "text": "In 1970, at the age of thirty-six, Nguyet and her husband Stephen Markbreiter founded Arts of Asia"},
+        {"type": "body", "text": "Among her most cherished and prized collections was a selection of 100 ancient gold rings from Southeast Asia, which Nguyet amassed over the span of forty years."},
+        {"type": "body", "text": "Twelve of these gold rings, plus an additional gold box acquired by Nguyet, now reside in our treasure."},
+        {"type": "body", "text": "Our ring shown here originates from a period known as pre-Angkor, between the 1st and 8th centuries AD. The area of origin for this ring was located in what is today Vietnam."},
+        {"type": "sidebar", "text": "Pictured here is a gold box once used to store betel nut in our treasure.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "has_sidebar": true, "emphasized_text": []},
+    "images": [{"description": "Gold box (betel nut container) from treasure", "text_in_image": null, "potential_clues": ["Gold box from Tuyet Nguyet collection"]}]
+  },
+
+  "key_elements": {
+    "tuyet_nguyet": {
+      "profession": "Investigative journalist in Vietnam, then art historian/collector",
+      "husband": "Stephen Markbreiter",
+      "founded": "Arts of Asia magazine (1970, at age 36)",
+      "collection": "100 gold rings from Southeast Asia (amassed over 40 years)"
+    },
+    "treasure_items": "12 gold rings + 1 gold box from Tuyet Nguyet collection",
+    "geographic_references": ["Vietnam", "Southeast Asia", "pre-Angkor (1st-8th centuries AD)"],
+    "dates": ["1970 (Arts of Asia founded)", "July 2017 (special edition on 100 rings)"]
+  }
+}

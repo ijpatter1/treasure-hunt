@@ -1,0 +1,55 @@
+{
+  "screenshot": "page-032-033.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 32,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "...the pre-Angkor region took root and spread widely. These conditions are most certainly the reason our gold lotus ring was made, and it's fascinating to learn about the meanings it held for the person who wore it.\n\nIf its wearer were Hindu, this heavy gold ring had immense symbolism. In the Hindu myth of creation, Brahma, the creator of the universe, was born from an egg of gold. Brahma then created the universe from a golden embryo. For these reasons, it was believed that the more gold a person wore, the more a person's body actually reflected the light of creation. This would prepare the soul for a superior reincarnation in one's following life...\n\nThis gold lotus ring could also have originated from a Buddhist tradition. If the wearer were Buddhist, this lotus flower ring would have had a different, yet still substantial, meaning. For Buddhists, the lotus flower is sacred. The life cycle of the lotus is a metaphor for resilience and personal evolution...\n\nA blue lotus possesses the most powerful symbolism of all. A blue lotus indicates that knowledge and wisdom have conjoined to prepare a path to enlightenment where secrets are revealed.",
+      "formatted_sections": [
+        {"type": "body", "text": "Hindu symbolism: Brahma, golden embryo, gold reflects light of creation"},
+        {"type": "body", "text": "Buddhist symbolism: Lotus flower is sacred, metaphor for resilience"},
+        {"type": "body", "text": "Blue lotus: knowledge and wisdom, path to enlightenment where secrets are revealed"},
+        {"type": "sidebar", "text": "This gold ring in our treasure is from the Khmer Empire during the 9th to 15th centuries AD. It has a lotus bell. It is the largest of our rings, weighing more than 1.25 ounces. Its centerpiece gem is a mysterious bluish pink. The stone is most likely a pink sapphire.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "has_sidebar": true, "emphasized_text": []},
+    "images": [{"description": "Gold lotus ring with pink sapphire from Khmer Empire", "text_in_image": null, "potential_clues": ["Khmer Empire 9th-15th century", "Weighs over 1.25 ounces", "Pink sapphire"]}]
+  },
+
+  "right_page": {
+    "page_number": 33,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...Outside of these religious themes, much about the exact pre-Angkor cultures that made this ring still remains a mystery to scholars. We know that kings and government leaders controlled separately-ruled areas within the region. The only surviving written first-hand accounts of the region, from a few Chinese emissaries who traveled there, give us a clear picture of the importance of gold within this culture. The emissaries describe rulers who sat on elaborate thrones, wearing crowns carved with golden flowers, gold earrings, golden belts and precious stones. Gold bowls full of aromatics were carried by their large staff. The walls of the throne room were decorated with gold flowers. The entire ruling pavilion shimmered with gold. Our lotus ring of enlightenment may have adorned such a court.\n\nOver time, most of the regional rulers of the pre-Angkor period were conquered. In their place, a great empire arose. This dominion was called the Khmer Empire. But this was no ordinary empire. The Khmer grew to a historic size, and the mysteries of Angkor, its capital city, became the stuff of legend.\n\nTake one look at a picture of Angkor and your imagination might be whisked away to scenes of iconic Hollywood movies about lost cities full of ancient treasure. There is a reason for this. Angkor is where Tomb Raider and Indiana Jones and the Temple of Doom were filmed. But Angkor is not just a fictional lost place. It was a real forgotten city, succumbed to a jungle and the great strangler roots that grew over and around it after it was mostly abandoned for over three hundred years.\n\nWhen I think of a lost city, I do not think of a metropolis. Yet, that is exactly what Angkor was. Angkor was the largest city in the world, its population neared one million... Angkor's land mass was the size of Los Angeles. Angkor had over two thousand temples. Its largest temple, Angkor Wat, remains the largest religious center in the world, over four times the size of the Vatican City in Rome...",
+      "formatted_sections": [
+        {"type": "body", "text": "Chinese emissaries described rulers with gold crowns, earrings, belts"},
+        {"type": "body", "text": "Khmer Empire arose from pre-Angkor period"},
+        {"type": "body", "text": "Angkor is where Tomb Raider and Indiana Jones and the Temple of Doom were filmed"},
+        {"type": "body", "text": "Angkor was the largest city in the world... Angkor's land mass was the size of Los Angeles"},
+        {"type": "body", "text": "Angkor Wat remains the largest religious center in the world, over four times the size of the Vatican City in Rome"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "symbolism": {
+      "hindu": "Brahma, golden embryo, gold reflects light of creation",
+      "buddhist": "Lotus flower sacred, blue lotus = knowledge, wisdom, enlightenment"
+    },
+    "khmer_empire": {
+      "period": "9th-15th centuries AD",
+      "capital": "Angkor",
+      "size": "Largest city in world, population ~1 million, land mass size of Los Angeles",
+      "temples": "Over 2000 temples, Angkor Wat is largest religious center (4x Vatican City)"
+    },
+    "geographic_references": ["Angkor", "Los Angeles (size comparison)", "Vatican City (size comparison)", "Rome"],
+    "pop_culture": ["Tomb Raider filmed at Angkor", "Indiana Jones and the Temple of Doom filmed at Angkor"]
+  }
+}
