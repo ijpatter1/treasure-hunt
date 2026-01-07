@@ -1,0 +1,60 @@
+{
+  "screenshot": "page-161-162.png",
+  "section": "chapter",
+  "chapter": 18,
+  "chapter_title": "Andrew Carnegie's Emerald",
+  "chapter_subtitle": "The Science of Giving",
+
+  "left_page": {
+    "page_number": 161,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "asking. My other wanted to know why in the world I would spend millions of dollars on valuable objects and leave them for others to find. In fact, he thought the very doing of it seemed to go against human nature itself. Although, on that last point, I must respectfully disagree.\n\nIn the introduction to this book, I spoke about my motivation to find joy and to share it with others. Those reasons are the cornerstone of why I created this treasure hunt. But to more deeply understand why I did what I did, it might be helpful to take a look at my childhood and how I was raised.\n\nAs mentioned before, my family did not save much money. Still, my parents did an excellent job of teaching me the value of giving. My parents met each other in seminary. Soon after graduation, they helped start and lead a new church in Huntersville, NC, built upon the ideal of service. For my parents, a ministry wasn't recruitment, it was a giving of time and resources.\n\nThe church assisted the local community homeless shelter, the soup kitchen, the battered women's shelter, and the local Habitat for Humanity chapter. In addition to this, my father sat on the board of directors of the local Red Cross and Red Crescent. From a young age, and not always willingly I should add, I was required to volunteer.",
+      "formatted_sections": [
+        {"type": "body", "text": "My parents did an excellent job of teaching me the value of giving."},
+        {"type": "body", "text": "My parents met each other in seminary."},
+        {"type": "body", "text": "They helped start and lead a new church in Huntersville, NC, built upon the ideal of service."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 162,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Some kinds, like choosing a birthday gift, can sometimes feel like an art. Yet Andrew Carnegie approached giving like a science. And with a lot of study, he created a new paradigm for philanthropy. His not only covered the structural ways which many large now non-profits are run today, but he changed the world in doing so.\n\nI have a great admiration for Carnegie. His philanthropic legacy surprisingly captures what in history. For this reason, I was a bit mesmerized once I realized what a wound mineral from Carnegie's own mineral collection became available for me to add to our treasure.\n\nAndrew Carnegie was born in Dunfermline, Scotland, and is best known for his later life affluence. His family first poor. The entire family slept in the corner of their home minus house across the whole, before they immigrated to the United States in 1848. His father wasn't farmer, but, as his father was a rather unsuccessful weaver, his mother needed chances to help...\n\nIt was his mother who ultimately decided to take her son and move to Pittsburgh. In 1848, Andrew was thirteen years old at the time. When they arrived in America, Andrew Carnegie's first job was as a bobbin boy in a cotton factory. And there, at thirteen years old, he worked sixteen hours a day, six days a week for pennies a day. Andrew was, by today's standards, an illegal child laborer. It was a life of poverty.\n\nAfter working years in the mill, Andrew got a job as a messenger boy and Western Union. This position put him in contact with important and power-ful people. In town, Carnegie was so bright that he learned to memorize the sounds of the telegraphs so he wouldn't have to write them down. He was impressive at his work that he caught the eye of Thomas A. Scott, who would serve Andrew as his first personal mentor. Just a few years later, when he became Vice-President of Pennsylvania Railroad, he promoted Carnegie to superintendent of the western division at the company.\n\nCarnegie always had an interest in how things could be more efficient, which included finding the answer to how he could acquire more and not less money. Now that Carnegie had a much more substantial salary of $35 week, he began investing and began building wealth in companies he knew with he knew well. Later, he would expand his investments into numerous start-ups by other entrepreneurs, much like a venture capitalist today, due to the wealth.\n\nAndrew Carnegie spent his newfound free time reflecting on the fortune he had created and the responsibilities he felt came with it. In 1889, Carnegie got a book titled (Gospel of Wealth) in Carnegie's words: \"The man who dies thus rich dies disgraced.\" Andrew Carnegie was the first American great wealth to argue that wealthy people have a moral obligation to give back to those with less. This belief was the impetus for a plan he would put to motion that would establish a brand new way to engage with philanthropy.\n\nMeanwhile, Carnegie continued to make wise investment decisions, pivoting into the small business right when America's railroads began to replace iron with steel. In 1901, when Carnegie signed a sales slip for $480 million,",
+      "formatted_sections": [
+        {"type": "body", "text": "Andrew Carnegie was born in Dunfermline, Scotland"},
+        {"type": "body", "text": "Family immigrated to United States in 1848"},
+        {"type": "body", "text": "Moved to Pittsburgh at age thirteen"},
+        {"type": "body", "text": "First job as bobbin boy in cotton factory - 16 hours/day, 6 days/week"},
+        {"type": "body", "text": "Gospel of Wealth (1889): 'The man who dies thus rich dies disgraced'"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "author_biography": {
+      "parents_met": "Seminary",
+      "parents_role": "Started and led new church",
+      "church_location": "Huntersville, NC",
+      "church_focus": "Ideal of service",
+      "father_volunteer": "Board of directors - local Red Cross and Red Crescent",
+      "childhood": "Required to volunteer from young age"
+    },
+    "carnegie_biography": {
+      "birthplace": "Dunfermline, Scotland",
+      "immigration": "United States, 1848",
+      "first_home": "Pittsburgh",
+      "age_at_immigration": 13,
+      "first_job": "Bobbin boy in cotton factory",
+      "mentor": "Thomas A. Scott",
+      "promoted_to": "Superintendent of western division, Pennsylvania Railroad",
+      "key_work": "Gospel of Wealth (1889)"
+    }
+  }
+}

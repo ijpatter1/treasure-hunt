@@ -1,0 +1,69 @@
+{
+  "screenshot": "page-163-164.png",
+  "section": "chapter",
+  "chapter": 18,
+  "chapter_title": "Andrew Carnegie's Emerald",
+  "chapter_subtitle": "The Science of Giving",
+
+  "left_page": {
+    "page_number": 163,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "handing over his steel companies to J.P. Morgan, Carnegie became the wealthiest man in the world. At the peak of his fortune, Andrew Carnegie's equivalent worth would have exceeded $310 billion today.\n\nFor the rest of his life, Carnegie focused almost exclusively on philanthropy. But unlike other wealthy patrons, Carnegie was not content in just giving his money away in small bits and pieces. Instead, Carnegie leaned on his business expertise to figure out a way to maximize his giving in the most effective way possible. Carnegie formed the Carnegie Corporation in 1911, to oversee all his philanthropic engagements.\n\nIt was then that Carnegie announced his revolutionary idea to create a charitable endowment, the first of its kind. This financial vehicle would allow for compounding principal contributions through investments that would have the chance to last in perpetuity. Today, charitable endowments are found everywhere. But at the turn of the twentieth century, Carnegie's concept was something completely new, and it set a precedent that would change charitable giving forever.\n\nCarnegie's philanthropy began with a focus on libraries. He developed a system whereby he would fund the building of a library on the condition that the local government would match funds for the land and the books it would hold. Carnegie believed by partnering with local communities, these libraries would have a better chance to survive. In the U.S. alone, Carnegie funded almost 1,700 libraries, of which over 800 still operate today.\n\nThe list of charities that Carnegie created is enormous. It includes the Carnegie Endowment for International Peace, the Carnegie Institution of Science, the Carnegie Hero Fund, the Carnegie Foundation for the Advancement of Teaching, and Carnegie Mellon University. These endowments currently have more funds in them today than they did when they were chartered over a hundred years ago.\n\nAndrew Carnegie's endowments have funded thousands of ventures. They have resulted in a wide variety of creations, including the discovery of insulin to the production of Sesame Street to the development of Pell Grants. Hundreds of important institutions have been formed as a result of his innovations in the science of giving. In total, Carnegie gave away over $350 million dollars of his wealth. Upon his death, his wife and children received only his home and estate. Almost everything else went to fund his endowments.\n\nThe emerald Carnegie owned may not be the fanciest or most expensive object in our treasure. But I would argue this item has significant meaning. For me, it's a connection to a man that changed the world for the better in far more ways than most people know. Carnegie's story is a reminder of why giving is not just something nice to do, it's a catalyst for change and joy in the world.\n\nI sometimes wonder about what will happen to the items in our treasure once you find them. Will you ever tell anyone? Will you sell them for cash? Will you share them with others in some way? That outcome is not for me to judge. But it is my wish that whatever becomes of these items, the person or",
+      "formatted_sections": [
+        {"type": "body", "text": "Carnegie became the wealthiest man in the world - equivalent worth $310 billion today"},
+        {"type": "body", "text": "Carnegie formed the Carnegie Corporation in 1911"},
+        {"type": "body", "text": "Carnegie funded almost 1,700 libraries, over 800 still operate today"},
+        {"type": "body", "text": "Carnegie gave away over $350 million dollars of his wealth"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 164,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "people who locate them do not limit themselves only to the excitement of possessing the treasure but also find a way to share their joy with others. That would be a more perfect punchline.\n\nI am very lucky to have parents that taught me the art of giving. I may never have understood it on my own. The story of Andrew Carnegie reminds me of what my parents worked so hard to convey. Giving is one of the easiest ways to receive. It helps us stay humble and thankful and mindful. I will work hard to pass these principles down to my children. I pray I can continue to live up to these ideals in the years that come.\n\nOne of the hundreds of science projects Andrew Carnegie funded was the Mount Wilson Observatory. It is located not far from my home, just to the northeast. In 1917, the 100-inch Hooker telescope was erected at Mount Wilson which soon became one of the most important lenses in the world. With this telescope, Edwin Hubble was able to measure the size of our current universe, detect other galaxies outside of the Milky Way, and prove that the universe is expanding. Today, we stand on the edge of a new frontier, one that will lead us further out into our universe than we have ever gone before. Soon, new hunts will begin and, with them, countless new treasures will be discovered. The future is alive with a thousand adventures.",
+      "formatted_sections": [
+        {"type": "body", "text": "Share their joy with others - that would be a more perfect punchline"},
+        {"type": "body", "text": "Giving is one of the easiest ways to receive"},
+        {"type": "body", "text": "One of the hundreds of science projects Andrew Carnegie funded was the Mount Wilson Observatory. It is located not far from my home, just to the northeast."},
+        {"type": "body", "text": "The future is alive with a thousand adventures"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "carnegie_philanthropy": {
+      "corporation_formed": 1911,
+      "libraries_funded": "almost 1,700 (800+ still operate)",
+      "total_given": "$350 million",
+      "endowments": [
+        "Carnegie Endowment for International Peace",
+        "Carnegie Institution of Science",
+        "Carnegie Hero Fund",
+        "Carnegie Foundation for the Advancement of Teaching",
+        "Carnegie Mellon University"
+      ],
+      "funded_creations": ["Discovery of insulin", "Sesame Street", "Pell Grants"]
+    },
+    "author_location_clue": {
+      "text": "Mount Wilson Observatory...is located not far from my home, just to the northeast",
+      "implication": "Author lives southwest of Mount Wilson Observatory (Los Angeles area)",
+      "confidence": "HIGH - direct statement about home location"
+    },
+    "mount_wilson": {
+      "telescope": "100-inch Hooker telescope",
+      "erected": 1917,
+      "scientist": "Edwin Hubble",
+      "discoveries": ["Size of universe", "Other galaxies outside Milky Way", "Universe is expanding"]
+    },
+    "treasure_hunting_advice": {
+      "share_joy": "Find a way to share their joy with others"
+    }
+  }
+}
