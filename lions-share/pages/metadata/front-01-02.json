@@ -49,7 +49,14 @@
       "has_handwritten_text": false,
       "emphasized_text": []
     },
-    "images": [],
+    "images": [
+      {
+        "description": "Small decorative symbol/printer's mark at bottom right of page",
+        "location": "bottom_right",
+        "text_in_image": null,
+        "potential_clues": ["Publisher's device or printer's mark - possibly significant"]
+      }
+    ],
     "metadata": {
       "copyright_year": 2024,
       "author": "Jon Collins-Black",
@@ -95,5 +102,7 @@
       ]
     },
     "images": []
-  }
+  },
+
+  "verification_notes": "Verified against screenshot. All transcriptions accurate."
 }
