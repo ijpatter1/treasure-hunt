@@ -1,0 +1,62 @@
+{
+  "screenshot": "page-054-055.png",
+  "section": "chapter",
+  "chapter": 4,
+  "chapter_title": "The 96 Carat Chivor Emerald",
+  "chapter_subtitle": "Blaze the Path",
+
+  "left_page": {
+    "page_number": 54,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "One muggy afternoon, as the men worked bone-weary and beat, a partial clearing appeared suddenly through the dense line of trees. A surge of energy engulfed each man. They swung their machetes quickly now, hacking through the remaining forest growth. As the last vine fell, a view gaped open between two jagged grey peaks, framing their view on either side. Between these rock towers, they gazed out to see the green rolling Plains of the Llanos spread out below. They looked at each other in desperate relief, opened arms to embrace, and celebrated.",
+      "formatted_sections": [
+        {"type": "body", "text": "Between these rock towers, they gazed out to see the green rolling Plains of the Llanos spread out below."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Silhouettes of explorers with machetes walking through dense jungle toward mountains, misty peaks in background",
+      "text_in_image": null,
+      "potential_clues": ["Restrepo expedition imagery", "Vista between peaks"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 55,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Don Restrepo located the lost Chivor mine shortly after. Just as he had been told, the mine was not far away from the vista. Chivor rested quietly, just as it had for two centuries, waiting to be found.\n\nThanks to Restrepo, the Chivor mine continues to operate today. It still produces the highest quality emeralds on earth. Now, in a way similar to how the Chivor mine awaited Restrepo, our ninety-six carat Chivor emerald waits patiently for you to come find it. If Restrepo were alive right now, I imagine he might find this fact extremely amusing.\n\nI have a great respect for what Don Francisco Restrepo accomplished. When I hiked the Andes Mountains, I traveled over well-worn trail ways. To bushwhack through those mountain forests all those many miles is unimaginable to me. Fortunately, there is no jungle clearing required to find any of the treasure boxes I've hidden. In that regard, your task is a much, much easier one.\n\nThere is a lot to be admired about taking the road less traveled. Following one's own path is not always easy, but it can be amazingly rewarding. Watching my two young children, I am reminded each day of the delight that comes from the freedom of not needing to fit into a norm or live up to some social expectation. There are opportunities that come with independence. There is a joy that reverberates in the scamper of our steps when we are heading our own way.\n\nThe thrills of Rob's and Restrepo's adventures also remind me of the excitement I felt when digging for rocks in that rough red dirt embankment some forty plus years ago. In the future, if something about this treasure hunt sparks in your belly that same fire I felt then, I will smile big and wide, for this is such a wonderful feeling indeed.\n\nOur next chapter examines a gentleman who also blazed his own trail. He was a man ahead of his time, a person who trusted his gut from childhood through his final years. Despite the doubts of most around him, his unfailing faith in his own instincts led him to national recognition and allowed him to carve a course for future African American jewelry artists. Art Smith crafted four of the objects in our treasure. I'm excited to share with you his story and a few of these items now.",
+      "formatted_sections": [
+        {"type": "body", "text": "Don Restrepo located the lost Chivor mine shortly after."},
+        {"type": "body", "text": "Now, in a way similar to how the Chivor mine awaited Restrepo, our ninety-six carat Chivor emerald waits patiently for you to come find it."},
+        {"type": "body", "text": "Fortunately, there is no jungle clearing required to find any of the treasure boxes I've hidden. In that regard, your task is a much, much easier one."},
+        {"type": "body", "text": "Art Smith crafted four of the objects in our treasure."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "chivor_rediscovery": {
+      "finder": "Don Francisco Restrepo",
+      "method": "Located the vista overlooking Plains of the Llanos",
+      "result": "Mine still operates today, produces highest quality emeralds"
+    },
+    "treasure_hunt_parallel": {
+      "quote": "our ninety-six carat Chivor emerald waits patiently for you to come find it",
+      "reassurance": "No jungle clearing required, task is much easier"
+    },
+    "author_personal": {
+      "hiked_andes": true,
+      "two_young_children": true,
+      "childhood_memory": "Digging in red dirt embankment forty years ago"
+    },
+    "transition_to_chapter_5": {
+      "subject": "Art Smith",
+      "description": "African American jewelry artist, blazed his own trail",
+      "treasure_items": "4 objects crafted by Art Smith"
+    }
+  }
+}
