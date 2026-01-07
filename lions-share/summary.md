@@ -173,30 +173,54 @@ Don't Give Up - Defy Expectations - Share Your Story - Science of Giving - Next 
 
 ### Urgent Priority
 
-| # | Action | Why | Status |
-|---|--------|-----|--------|
-| 1 | **Obtain "Our Unbreakable Thread" by Jon Collins-Black** | Author explicitly confirmed extra treasure clues in this children's book (Marble Press) | NOT STARTED |
-| 2 | **Identify Seth Gould's location** | Made all 5 treasure boxes over 18 months - workshop location may indicate treasure proximity | NOT STARTED |
-| 3 | **Research blue/pink iris locations in western NC** | Author explicitly mentioned these colors near treasure | NOT STARTED |
-| 4 | **Map public lands near Hiddenite, NC** | State parks, national forests within 3 miles of roads with mountain vistas | NOT STARTED |
+| # | Action | Why | Status | Result |
+|---|--------|-----|--------|--------|
+| 1 | **Obtain "Our Unbreakable Thread"** | Extra treasure clues confirmed | NOT STARTED | - |
+| 2 | **Identify Seth Gould's location** | Box maker location | **DONE** | **Penland School of Craft, NC** |
+| 3 | **Research iris locations in NC** | Author mentioned near treasure | **DONE** | Dwarf Crested Iris native to NC mtns |
+| 4 | **Map public lands near Hiddenite** | Within 3mi of roads with vistas | **DONE** | Rocky Face Mtn (600ft views, 5mi trails) |
 
 ### High Priority
 
-| # | Action | Why | Status |
-|---|--------|-----|--------|
-| 5 | Research rose gardens in LA area | Author mentioned "massive rose gardens, several acres" at local park | NOT STARTED |
-| 6 | Analyze chapter subtitles for hidden message | 23 subtitles may form directional or location clue | NOT STARTED |
-| 7 | Cross-reference historical figures with US locations | Picasso, Carnegie, Washington, Tiffany, Thoreau, Onassis - do their US connections point to a region? | NOT STARTED |
-| 8 | Research author's 20-acre woodland property | Ch 14 reference - is this still family-owned? Where located? | NOT STARTED |
+| # | Action | Why | Status | Result |
+|---|--------|-----|--------|--------|
+| 5 | Research rose gardens in LA | "Several acres" | **DONE** | Exposition Park (7 acres) |
+| 6 | Analyze chapter subtitles | Hidden message? | **DONE** | No clear message found |
+| 7 | Cross-reference historical figures | US location patterns | **DONE** | Tiffany → Carolina Emerald link! |
+| 8 | Research 20-acre woodland | Family property | NOT STARTED | - |
 
 ### Medium Priority
 
-| # | Action | Why | Status |
-|---|--------|-----|--------|
-| 9 | Analyze back cover poem deeper | "Be solid, have grit; sparkle even as you pine. Here lies a joy divined" - pine = pine tree? | NOT STARTED |
-| 10 | Research Grand Central Station connection | Jackie Onassis saved it - "full circle" theme - New York hint? | NOT STARTED |
-| 11 | Check for Vietnamese temples in NC/LA | Tuyet Nguyet chapter - "hidden caches within temple walls" metaphor | NOT STARTED |
-| 12 | Research Cesare Pavese significance | Front matter quote - Italian poet - why highlighted? | NOT STARTED |
+| # | Action | Why | Status | Result |
+|---|--------|-----|--------|--------|
+| 9 | Analyze back cover poem | Pine = pine tree? | IN PROGRESS | See poem analysis below |
+| 10 | Research Grand Central | NY hint? | **DONE** | **NY RULED OUT** (author confirmed) |
+| 11 | Vietnamese temples in NC/LA | Temple walls metaphor | **DONE** | Temples exist near Charlotte, NC |
+| 12 | Research Cesare Pavese | Front matter quote | **DONE** | No US connection (never visited)
+
+---
+
+## Critical Research Discoveries
+
+### NEW: From January 2026 Research
+
+1. **Seth Gould worked at Penland School of Craft** - This is in the Blue Ridge Mountains of western NC, ~60 miles from Hiddenite. **STRONGLY SUPPORTS NC.**
+
+2. **Tiffany & Co. owns the "Carolina Emerald"** from Hiddenite, NC (valued $100k+). Creates direct link between Tiffany treasure item and author's childhood location.
+
+3. **New York RULED OUT** - Author confirmed he hasn't been to NY since 2019, and boxes were hidden after that.
+
+4. **"Lion's share of clues have been solved"** - Author interview states clues are solved but "not seen to completion."
+
+5. **Page 90 is missing** - Confirmed intentional, likely a clue.
+
+6. **5 word search clues NOT yet identified** by the treasure hunting community.
+
+7. **Community favors Michigan** for Lion's Share (Detroit Lions theory) - Our NC theory differs from consensus.
+
+8. **Rocky Face Mountain** in Hiddenite has 600ft vistas, 5 miles of trails, and matches "perspective/vantage point" theme perfectly.
+
+See `research.md` for complete findings.
 
 ---
 
@@ -238,14 +262,22 @@ The author explicitly confirms:
 
 ## Key Questions Remaining
 
-1. Where exactly is Seth Gould located/was located when making boxes?
-2. What are the specific clues in "Our Unbreakable Thread"?
-3. Are blue and pink irises cultivated anywhere specific in western NC?
-4. Does author's current LA residence conflict with NC childhood location theory?
-5. Is the vantage point / vista clue literal (mountain overlook) or metaphorical?
-6. Do the chapter subtitles form a hidden message when read in sequence?
-7. What is the significance of the back cover poem's exact wording?
-8. Is the treasure near one of the author's mentioned emotional/historical sites?
+| Question | Status | Answer |
+|----------|--------|--------|
+| Where is Seth Gould located? | **ANSWERED** | Penland School of Craft, NC |
+| What are the clues in "Our Unbreakable Thread"? | UNKNOWN | Still need to obtain book |
+| Where do blue/pink irises grow in NC? | **ANSWERED** | Dwarf Crested Iris native to NC mtns |
+| Does LA residence conflict with NC theory? | **ANSWERED** | No - both valid, NC stronger |
+| Is vista clue literal or metaphorical? | LIKELY LITERAL | Rocky Face Mtn matches perfectly |
+| Do subtitles form hidden message? | **ANSWERED** | No clear message found |
+| What does the back cover poem mean? | PARTIAL | Pine/grit/sparkle = mineral area? |
+| Is treasure near author's emotional sites? | LIKELY | Rocky Face near Hiddenite childhood |
+
+### NEW Questions from Research:
+1. What is the significance of missing page 90?
+2. What are the 5 word search clues?
+3. Why does community favor Michigan over NC?
+4. Is there a connection to Vietnamese temples near Charlotte?
 
 ---
 
@@ -260,6 +292,9 @@ The author explicitly confirms:
 - `pages/metadata/*.json` - Full text transcriptions
 - `pages/notes/*.md` - Clue analysis per page spread
 
+### Research
+- `research.md` - Comprehensive web research findings
+
 ---
 
-*Last updated: January 2026*
+*Last updated: January 7, 2026*
