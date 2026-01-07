@@ -1,0 +1,77 @@
+{
+  "screenshot": "page-058-059.png",
+  "section": "chapter",
+  "chapter": 5,
+  "chapter_title": "Masterworks by Art Smith",
+  "chapter_subtitle": "An Exercise in Faith",
+
+  "left_page": {
+    "page_number": 58,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "On April 19, 1879, a vivacious child was born in Morgan's Pass, Jamaica. Her name was Mary Elizabeth Williams. Despite not having a school to attend, Mary acquired a skill quite rare for children in her town—she learned to read from the local priest. At nights she'd entertain her parents, reading scriptures to them from the Bible. Mary possessed a mind full of big dreams, even in the face of rigidly harsh poverty. Deep in her heart, Mary had a faith that there was a better life awaiting her.\n\nAs soon as she could, Mary took a job as a hotel maid in Kingston, feeling that the larger city would provide possibilities for her. There, she met James Smith. The two quickly bonded over their mutual love for literature. They married and within a few years moved to Cuba to seek business opportunities. Soon, Mary gave birth to her first son and second child, Arthur George Smith. Arthur's parents kept venturing to new places in search of a life with more to offer. On July 21, 1920, Mary and James boarded a ship with their two children and sailed from Cuba to New York City.\n\nIt quickly became obvious that their son Art was very bright. He possessed a keen appetite for learning and quickly began reading. Art had an exuberance for school that was enough to annoy his classmates. Students",
+      "formatted_sections": [
+        {"type": "body", "text": "On April 19, 1879, a vivacious child was born in Morgan's Pass, Jamaica. Her name was Mary Elizabeth Williams."},
+        {"type": "body", "text": "On July 21, 1920, Mary and James boarded a ship with their two children and sailed from Cuba to New York City."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [
+      {
+        "description": "Round brass brooch with modernist curved design by Art Smith",
+        "text_in_image": null,
+        "potential_clues": ["Art Smith brass brooch in treasure"]
+      },
+      {
+        "description": "Brooch crafted from copper and brass with organic flowing design",
+        "text_in_image": null,
+        "potential_clues": ["Art Smith copper/brass brooch in treasure"]
+      }
+    ],
+    "sidebar": {"text": "These are two of the four jewelry pieces in our Treasure by Art Smith. The first piece pictured (round) is a modernist style brass brooch. The second piece (below) is a brooch crafted from copper and brass.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 59,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "picked on him. They bullied him. They jeered at him and made fun of his Jamaican accent. Yet like his mother, Art Smith was committed to his faith in what was possible. Detractors would never be able to sidetrack Art from the vision he saw for himself.\n\nArt was particularly talented in artistry. After receiving an honorable mention in a local ASPCA poster contest, the eighth-grader proudly proclaimed to all in attendance that he would become a professional artist. Friends of his family rolled their eyes. They wagered their fingers at him and told Art he would starve to death before this ever happened. No commercially successful black artists existed in the US in 1934. No one was interested in art from a black man, they said. Given that time in history, such opinions weren't laced with malice. They were intended to be practical.\n\nMeanwhile, the tides of fate seemed to be conspiring against Mary's and her family's dreams of a better life. The Great Depression had descended upon America. Jobs for black teenagers, few as there had been before the economic destruction, no longer existed. Oddly, this created an opportunity for Art Smith. Because there were no jobs available to him, Art met no resistance when he applied to art school. He submitted his application and was granted a full scholarship to the four-year college of Cooper Union. Cooper Union was widely known for its art, engineering, and architecture studies. Art Smith became one of only six black students enrolled in the school's art program.\n\nThe struggling U.S. economy found cities competing for ways to invigorate business. The crown jewel for landing an influx of tourist dollars was hosting the World's Fair, which meant tens of millions of people arriving in your city to spend money. The fair was a celebration of science, progress, and ingenuity, and the competition among cities to host the World's Fair was fierce. In an attempt to strengthen New York City's bid, businessmen from the city created the New York World's Fair Corporation. They hosted a contest to design a multi-purpose building, a center for police, firefighters, and medical first responders during the fair. The competition attracted many of the best and brightest architectural minds. Art Smith won first prize.\n\nThis award was a signature achievement. Art was immediately hailed by his academic advisors as one of their most promising young architects. In the 1930s, civil engineering was one of the few prestigious professional tracks available for a black man. His advisors assumed Art would transition from fine art to study architectural design, full-time. Art politely turned down their proposal. He had no passion for civil engineering. Art's belief in his own direction left his university staff frustrated and bewildered.\n\nBack in class, Art longed to break free from artistic norms and experimented with new techniques for applying paint to canvas. His teacher got so angry at Art for not following his assigned techniques that he refused to give him any feedback at all. Art dropped his painting class for a new discipline: sculpture and three-dimensional design. This class would lay the foundation for Art's future success as a jewelry designer.\n\nLess than one percent of all black men held college degrees when Art Smith graduated from Cooper Union. Even with a degree, Art could only",
+      "formatted_sections": [
+        {"type": "body", "text": "No commercially successful black artists existed in the US in 1934."},
+        {"type": "body", "text": "He submitted his application and was granted a full scholarship to the four-year college of Cooper Union."},
+        {"type": "body", "text": "Art Smith won first prize."},
+        {"type": "body", "text": "Art politely turned down their proposal. He had no passion for civil engineering."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "art_smith_background": {
+      "mother": "Mary Elizabeth Williams (born April 19, 1879 in Morgan's Pass, Jamaica)",
+      "father": "James Smith",
+      "full_name": "Arthur George Smith",
+      "journey": "Jamaica → Kingston → Cuba → New York City (July 21, 1920)",
+      "education": "Full scholarship to Cooper Union (art, engineering, architecture)",
+      "achievement": "Won first prize in New York World's Fair Corporation design contest"
+    },
+    "treasure_items": {
+      "confirmed": "4 jewelry pieces by Art Smith",
+      "piece_1": "Modernist style brass brooch (round)",
+      "piece_2": "Brooch crafted from copper and brass"
+    },
+    "geographic_references": [
+      "Morgan's Pass, Jamaica",
+      "Kingston, Jamaica",
+      "Cuba",
+      "New York City",
+      "Cooper Union"
+    ],
+    "dates": [
+      "April 19, 1879 (Mary's birth)",
+      "July 21, 1920 (family sailed to NYC)",
+      "1934 (Art proclaimed he'd become artist)"
+    ]
+  }
+}
