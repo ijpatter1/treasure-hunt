@@ -1,0 +1,58 @@
+{
+  "screenshot": "page-127-128.png",
+  "section": "chapter",
+  "chapter": 14,
+  "chapter_title": "Tiffany's Furnace and Thoreau's Fire",
+  "chapter_subtitle": "Fail Forward",
+
+  "left_page": {
+    "page_number": 127,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "unknown. What we can deduce is that the EL series was experimental. Many of the EL pieces were heated to various temperatures to test the physical properties and limitations of the enamel. It's interesting that of the ninety enameled pieces Louis kept in his private collection, sixty-five were from the EL series. It's clear that Louis had a special place in his heart for the results of experimentation. It's quite possible that our iris vase was a happy accident, a treasure created through a process of failing forward.\n\nBy embracing failure fully and without hesitation, Louis innovated and manifested something rare and unique. Tiffany's breakthroughs continue to influence glass design and are important milestones in glassmaking history. Although it ceased being produced in 1933, Tiffany Glass has never been more valuable or sought after by collectors than it is today.\n\nThe motifs on all of Louis' enameled works were inspired by nature. As I look at the blue and pink irises on our vase, I can't help but think of the resting places of the boxes I've hidden and the colors of nature that surround each of them. Perhaps you'll pass by similar flowers along your way.\n\nSpending time in nature has been an influential part my life. When I was three, my parents were gifted twenty acres of woodland on which my father built a log home, practically by himself. It took him almost ten years to do so. I spent many afternoons in those woods. This is a large reason why my two favorite authors in high school were Ralph Waldo Emerson and Henry David Thoreau. As you may know, both men were transcendentalists who believed in the divine spirit of the outdoors. The idea of a life of solitude in nature appealed to me. No book embodied this concept more than Thoreau's Walden.\n\nThoreau wrote Walden as a summary of the two years he spent in a small cabin he constructed on Emerson's property next to Walden Pond in Concord, Massachusetts. Thoreau moved there because he wanted to live deliberately and with the intention to discover essential understandings about life. He believed that, if he secluded himself in nature, these truths would reveal themselves as he went about simple daily routines. Thoreau felt the woods were a sanctuary where the spirituality of man existed and could thrive. So, imagine the horrible failure Thoreau must have thought himself to be, the day he started the largest forest fire ever recorded in Concord!\n\nOn April 30th, 1844, Thoreau went fishing with a friend in Fairhaven Bay. That spring had been unseasonably dry, and the lake levels were low. Despite this, it was a successful day of nabbing fish. Thoreau and his friend strung up their catch and found a meadow nearby. There they gathered up some small sticks for a campfire. Thoreau took from his pocket a matchbook he'd bought at the local store earlier that day and struck a flame onto the kindling. The wood quickly caught fire. A cool breeze was blowing. It was an idyllic late spring day.\n\nBut there was one glaring issue Thoreau failed to take into consideration. The meadow was full of tall dry grass. In the blink of an eye, the wind lifted a spark from their fire and dropped it upon a sun-parched blade. The dry grass combusted, and the meadow burned fast. No amount of patting or stomping from the two men could stop this fire.",
+      "formatted_sections": [
+        {"type": "body", "text": "As I look at the blue and pink irises on our vase, I can't help but think of the resting places of the boxes I've hidden and the colors of nature that surround each of them."},
+        {"type": "body", "text": "Perhaps you'll pass by similar flowers along your way."},
+        {"type": "body", "text": "When I was three, my parents were gifted twenty acres of woodland on which my father built a log home, practically by himself."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 128,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "(continues Thoreau fire story and transition to journal pages)",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Atmospheric illustration of forest fire with dark trees and smoke",
+      "text_in_image": null,
+      "potential_clues": ["Thoreau's Concord fire"]
+    }]
+  },
+
+  "key_elements": {
+    "treasure_location_hints": {
+      "nature_colors": "Blue and pink irises remind author of treasure box locations",
+      "flowers": "Perhaps you'll pass by similar flowers along your way",
+      "outdoor_settings": "Colors of nature surround each box location"
+    },
+    "author_childhood": {
+      "age_3": "Parents gifted 20 acres of woodland",
+      "father": "Built log home practically by himself (took ~10 years)",
+      "childhood": "Spent many afternoons in those woods",
+      "favorite_authors": "Ralph Waldo Emerson and Henry David Thoreau"
+    },
+    "thoreau_fire_story": {
+      "date": "April 30, 1844",
+      "location": "Fairhaven Bay, near Concord, Massachusetts",
+      "event": "Started largest forest fire ever recorded in Concord",
+      "cause": "Spark from campfire ignited dry grass"
+    },
+    "geographic_references": ["Concord, Massachusetts", "Walden Pond", "Fairhaven Bay"]
+  }
+}

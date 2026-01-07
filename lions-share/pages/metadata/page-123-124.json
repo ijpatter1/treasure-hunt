@@ -1,0 +1,46 @@
+{
+  "screenshot": "page-123-124.png",
+  "section": "chapter",
+  "chapter": 14,
+  "chapter_title": "Tiffany's Furnace and Thoreau's Fire",
+  "chapter_subtitle": "Fail Forward",
+
+  "left_page": {
+    "page_number": 123,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "not sure been in vain. Than I've loved right thought... (handwritten text continues)",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Handwritten manuscript page, appears to be historical cursive writing",
+      "text_in_image": "Handwritten cursive text - difficult to fully transcribe",
+      "potential_clues": ["Possibly Thoreau's journal page"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 124,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 14\n\nTIFFANY'S FURNACE AND THOREAU'S FIRE\n\nFail Forward\n\n\"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.\"\n—C.S. LEWIS\n\n\"I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.\"\n—ALBERT EINSTEIN\n\nThere is much to admire about the United States of America. The fabric of American culture is stitched with a spirit of independence and exploration. Innovation and discovery are held in high regard and for good reason. Medical breakthroughs, space travel, the internet, and myriad other society-advancing discoveries were and are pioneered right here in America. People travel from across the globe, just as they have for over two hundred and fifty years, some even at the risk of their lives, for an opportunity to take part in the celebrated treasure hunt we call The American Dream.\n\nThe capitalism that fuels The American Dream is based on competition. Its very nature incentivizes ideas to improve the world. But at its extreme, capitalism becomes less about important advances and more about a contest for profits or fame, where winners and losers emerge from a zero-sum game. And let's be honest, Americans love winners. Perhaps more",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "TIFFANY'S FURNACE AND THOREAU'S FIRE"},
+        {"type": "handwritten_subtitle", "text": "Fail Forward", "style": "red_handwritten"},
+        {"type": "quote", "text": "Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.", "attribution": "C.S. Lewis"},
+        {"type": "quote", "text": "I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.", "attribution": "Albert Einstein"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Fail Forward", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.", "author": "C.S. Lewis"},
+      {"text": "I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.", "author": "Albert Einstein"}
+    ],
+    "themes": ["Failure as path to success", "American Dream", "Innovation", "Competition"]
+  }
+}
