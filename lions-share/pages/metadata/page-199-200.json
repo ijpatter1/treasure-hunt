@@ -1,0 +1,49 @@
+{
+  "screenshot": "page-199-200.png",
+  "section": "back_matter",
+  "title": "Some More of Our Treasure Items",
+
+  "left_page": {
+    "page_number": 199,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "116.7 carat pear cut Tanzanite",
+        "description": "First discovered 1967, became December birthstone in 2002",
+        "location": "Found only in one very small region in the world (Tanzania)",
+        "rarity": "Deposits estimated to be completely mined around 2043",
+        "value": "Can be priced up to $3000 plus per carat",
+        "note": "Shape and size would make particularly dazzling pendant"
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 200,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "351.65 gram gold nugget from Australia",
+        "description": "Australian gold nuggets typically purest in world",
+        "purity": "Ninety-eight percent",
+        "note": "One of author's favorite gold pieces in treasure"
+      },
+      {
+        "name": "9.65 carat diamond in octahedral form",
+        "description": "Almost perfect octahedral form, unaltered natural state",
+        "rarity": "Author not personally aware of any other similarly formed natural diamond of this size and quality",
+        "consulted": "Rob Lavinsky"
+      },
+      {
+        "name": "Two gold, emerald and ruby rings from 19th century South India",
+        "collection": "Tuyet Nguyet collection",
+        "description": "Arrangement of precious stones make them 'floral' rings, mimic flowers"
+      }
+    ]
+  },
+
+  "key_elements": {
+    "treasure_items": ["Tanzanite 116.7 carat", "Australian gold nugget 351.65g", "Diamond 9.65 carat octahedral", "Two South Indian floral rings"],
+    "geographic_references": ["Tanzania", "Australia", "South India"]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "screenshot": "page-185-186.png",
+  "section": "chapter",
+  "chapter": 21,
+  "chapter_title": "Antiquities of Alexander",
+  "chapter_subtitle": "Make It Make Sense",
+
+  "left_page": {
+    "page_number": 185,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "In Cleopatra's kingdom, snakes were believed to have powers for healing. This myth was based on the ways that snakes live and move around. Snakes sleep and lurk in dark, hidden places. Their emergence into the sun represented a transition from the underworld to the world above. Snakes shedding their skins was an allegory to the way medicine healed sickness and disease. The Greek god of healing, called Asklepios, carried a rod with him. Around his rod coiled a snake. This rod with its snake is used today as the symbol of the American Medical Association.\n\nIn another famous Greek myth, Zeus had an affair with a human woman. Their newborn son was named Hercules. But Zeus' wife, Hera, was wildly",
+      "formatted_sections": [
+        {"type": "body", "text": "Snakes believed to have powers for healing"},
+        {"type": "body", "text": "Asklepios = Greek god of healing, carried rod with coiled snake"},
+        {"type": "body", "text": "Snake on rod = symbol of American Medical Association today"},
+        {"type": "body", "text": "Hercules = son of Zeus and human woman"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Amethyst and gold beaded necklace with pendant featuring Club of Hercules design",
+      "text_in_image": null,
+      "potential_clues": ["Amethyst necklace treasure item", "Club of Hercules"]
+    }],
+    "sidebar": {
+      "text": "This is an amethyst and gold beaded necklace made around the 2nd and 3rd centuries BC. A pendant of the club of Hercules hangs from its center. This necklace, like the snake bracelet, symbolized health and protection.",
+      "style": "red_italic"
+    }
+  },
+
+  "right_page": {
+    "page_number": 186,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "jealous of her husband's illegitimate half-human son. She wasted no time in sending two snakes to murder the new born child. But Hera's plan failed. The infant Hercules strangled the two snakes to death with his bare hands.\n\nYears later, Hera was more successful in a second plot against Hercules. She inflicted a madness upon Hercules that caused him to kill his own wife and children. To atone for his murderous sins, the gods forced Hercules to complete twelve mission impossibles. His very first task was to kill Hera's Nemean lion, an animal which was terrorizing the countryside. Hercules carved a club from an olive tree and pummeled the large cat to death with it. This club of Hercules would become the central brand of Herculean mythology. Wearing a club of Hercules, like the one shown on our necklace, would bestow to you powers of protection. This shielding extended especially to children.\n\nThe gemstone amethyst in our necklace is also steeped in Greek legend. Remember our friend Dionysus? One day Dionysus became very inebriated, as he was known to do. In a fit of drunken rage, he devised a trap whereby he instructed two lions to kill the next random stranger that they saw. As it so happened, the next person to come frolicking down their path was none other than a lovely and devout young maiden. Dionysus was mortified, as he realized he'd taken things too far. To spare the maiden's life from the charging lions, he turned her into quartz crystal. Dionysus was so overcome with her beauty that he cried tears of impassioned remorse. His tears fell onto the once happy maiden, turning her crystalline body into purple amethyst.\n\nFrom this story, ancient Greeks came to believe amethyst could help its wearer stay sober in the face of copious amounts of wine. I can say that I have never attempted to independently verify this claim. But many Greeks were convinced. They fashioned wine glasses from amethyst. They even ground up amethyst and sprinkled it into their alcoholic drinks. Amethyst not only kept Greeks sober, but it also gave them peace of mind in business negotiations and politics. Amethyst was believed to provide courage, emotional stability, and even helped people sleep. This book makes no claims, however, about what this necklace may do for you once you wear it.\n\nIf you've been thoughtful, you may have considered that a chapter titled \"Make It Make Sense\" might also be a reference to figuring out the solution for the location of the treasure I have hidden. My hope is that this chapter can help you do just that. But you might have to look beyond just ancient myths and legends and consider more.\n\nWhen we read about Greek mythologies, it's easy to chuckle and dismiss them. Yet, I believe we should be careful with these type of judgments. Our modern-day world has its share of myths too. I'm not talking about minor misconceptions such as the beliefs that we only use 10% of our brains (we use most all of our brain, different parts of it have different specific functions) or that mice prefer cheese (they don't).\n\nNo, I am referring to myths that carry far heavier consequences. For instance, there persists a falsehood that separate groups of people are vastly different from one another. A prevalent thought in our modern world tells",
+      "formatted_sections": [
+        {"type": "body", "text": "Infant Hercules strangled two snakes sent by Hera"},
+        {"type": "body", "text": "Hercules killed Nemean lion with club carved from olive tree"},
+        {"type": "body", "text": "Club of Hercules = powers of protection, especially for children"},
+        {"type": "body", "text": "Amethyst = from Dionysus myth, believed to keep Greeks sober"},
+        {"type": "body", "text": "Chapter title 'Make It Make Sense' might be reference to figuring out treasure location"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item_4": {
+      "name": "Amethyst and gold beaded necklace",
+      "date": "2nd-3rd centuries BC",
+      "pendant": "Club of Hercules",
+      "symbolism": "Health, protection (especially for children)"
+    },
+    "mythology": {
+      "asklepios": "Greek god of healing, snake-wrapped rod (AMA symbol)",
+      "hercules": "Son of Zeus, strangled snakes as infant, killed Nemean lion with olive tree club",
+      "amethyst_origin": "Dionysus turned maiden to quartz, his tears made it purple"
+    },
+    "treasure_hunting_hint": {
+      "text": "Chapter titled 'Make It Make Sense' might also be a reference to figuring out the solution for the location of the treasure I have hidden",
+      "advice": "Look beyond just ancient myths and legends"
+    }
+  }
+}
