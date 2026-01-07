@@ -1,0 +1,64 @@
+{
+  "screenshot": "page-078-079.png",
+  "section": "chapter",
+  "chapter": 8,
+  "chapter_title": "Beauty's Bespoken Treasures",
+  "chapter_subtitle": "Know the Past, See the Future",
+
+  "left_page": {
+    "page_number": 78,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Traditions bring people closer and provide opportunities for joy... American Indian Removal Act of 1830... The oldest North American tribe is the Hopi, migrating north from Mexico around 500 BC. The Hopi customs and traditions extend back thousands of years. The Hopi village of Oraibi is the oldest occupied Native American settlement. Today, the current lands of the Hopi represent only nine percent of all the land they originally owned... The word Hopi actually means 'peaceful' and 'polite.'... The Hopi are divided into clans. In 1921, a baby boy was born into the Badger clan. His name was Charles Loloma. Charles was an obedient child who grew to be a gentle man. He lived out his days on the Hopi reservation, following the Hopi calendar, farming the land, and eventually becoming an elder and leader in his clan. Through the years, Charles participated in Hopi ceremonies in various ways, including as a musician, as a mime and clown, as a Snake Priest and as a leader of the Hopi Bean Dance ceremonies.",
+      "formatted_sections": [
+        {"type": "body", "text": "The oldest North American tribe is the Hopi, migrating north from Mexico around 500 BC."},
+        {"type": "body", "text": "The Hopi village of Oraibi is the oldest occupied Native American settlement."},
+        {"type": "body", "text": "In 1921, a baby boy was born into the Badger clan. His name was Charles Loloma."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 79,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "As an artist, Charles was a creative rebel. He was a visionary. He bucked norms. He broke tradition... During his life, Charles became the most prominent and famous Native American jewelry designer in the world... Today, Charles Loloma's jewelry pieces are the rarest and most sought after Native American jewelry anywhere... Charles Loloma's artwork began as a painter. He decorated his high school buildings with large murals so captivating they drew the attention of a successful Native American artist named Fred Kabotie. Fred invited Charles to accompany him to San Francisco. On Treasure Island in the San Francisco Bay, Charles was one of three Native Americans to paint installations in the Indian Court of the island's Federal Building. These installations were applauded by critics and the public alike. Over half a million people came to Treasure Island to see them. Two years later, Charles was asked to paint murals at the Museum of Modern Art in New York City... The Gallup Inter-Tribal Ceremonial was the largest Native American art and crafts fair in the region at the time. Charles brought his first jewelry pieces here for public display. However, the fair rejected his jewelry, telling Charles his pieces were 'not Indian enough.'",
+      "formatted_sections": [
+        {"type": "body", "text": "Today, Charles Loloma's jewelry pieces are the rarest and most sought after Native American jewelry anywhere."},
+        {"type": "body", "text": "On Treasure Island in the San Francisco Bay, Charles was one of three Native Americans to paint installations"},
+        {"type": "body", "text": "Over half a million people came to Treasure Island to see them."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "hopi_history": {
+      "origin": "Migrated from Mexico around 500 BC",
+      "oldest_settlement": "Oraibi - oldest occupied Native American settlement",
+      "current_land": "Only 9% of original territory",
+      "meaning": "Hopi means 'peaceful' and 'polite'"
+    },
+    "charles_loloma": {
+      "birth": "1921, Badger clan",
+      "roles": "Elder, leader, Snake Priest, Bean Dance ceremony leader, musician, mime, clown",
+      "achievement": "Most prominent and famous Native American jewelry designer in the world"
+    },
+    "treasure_island": {
+      "location": "San Francisco Bay",
+      "event": "Charles painted murals in Indian Court of Federal Building",
+      "visitors": "Over half a million people came to see"
+    },
+    "geographic_references": [
+      "Hopi reservation",
+      "Mexico (Hopi origin)",
+      "Oraibi (oldest Native American settlement)",
+      "Treasure Island, San Francisco Bay",
+      "Museum of Modern Art, New York City",
+      "Gallup (Inter-Tribal Ceremonial)"
+    ]
+  }
+}
