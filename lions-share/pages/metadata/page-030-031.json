@@ -44,7 +44,9 @@
       "collection": "100 gold rings from Southeast Asia (amassed over 40 years)"
     },
     "treasure_items": "12 gold rings + 1 gold box from Tuyet Nguyet collection",
-    "geographic_references": ["Vietnam", "Southeast Asia", "pre-Angkor (1st-8th centuries AD)"],
-    "dates": ["1970 (Arts of Asia founded)", "July 2017 (special edition on 100 rings)"]
-  }
+    "geographic_references": ["Vietnam", "Southeast Asia", "pre-Angkor (1st-8th centuries AD)", "India (Hindu/Buddhist traditions)"],
+    "dates": ["1970 (Arts of Asia founded)", "July 2017 (special edition on 100 rings)", "200-300 BC (gold jewelry history)", "250 AD (India migration)"]
+  },
+
+  "verification_notes": "Verified against screenshot. Key facts confirmed: Tuyet Nguyet, Stephen Markbreiter, Arts of Asia 1970, 100 rings over 40 years, July 2017 edition, 12 rings + gold box in treasure, pre-Angkor period."
 }
