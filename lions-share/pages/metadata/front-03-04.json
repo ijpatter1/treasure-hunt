@@ -1,0 +1,75 @@
+{
+  "screenshot": "front-03-04.png",
+  "section": "front_matter",
+
+  "left_page": {
+    "page_number": 3,
+    "page_label": "table_of_contents_left",
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "TABLE OF CONTENTS\n\nIntroduction - 9\nHow To Read This Book - 16\n\nCHAPTER 1: The 120 Carat Sapphire - A Plan That Changed the World - 19\nCHAPTER 2: The 100 Rings of Tuyet Nguyet - Don't Wing It - 27\nCHAPTER 3: A Puzzle Box, a Magnifying Glass, & the Mysterious Egg - Joy Is in the Details - 39\nCHAPTER 4: The 96 Carat Chivor Emerald - Blaze the Path - 47\nCHAPTER 5: Masterworks by Art Smith - An Exercise in Faith - 57\nCHAPTER 6: Rubies to Wear - Inspiration Is Welcome - 65\nCHAPTER 7: Amelia's Autograph - Explore More - 71\nCHAPTER 8: Beauty's Bespoken Treasures - Know the Past, See the Future - 77\nCHAPTER 9: The Golden Chalice - Confirmation Bias - 87\nCHAPTER 10: Jackie Onassis' Diamond Sapphire Brooch - Welcome the Good and the Bad - 96\nCHAPTER 11: Treasures From a Famous Shipwreck - The Temptress Greed - 102\nCHAPTER 12: Massive Gold Rush Nugget - Make Good Choices - 110\nCHAPTER 13: Best of Its Class Jordan Rookie Card - Be Like Mike - 116\nCHAPTER 14: Tiffany's Furnace & Thoreau's Fire - Fail Forward - 124",
+      "formatted_sections": [
+        {"type": "header", "text": "TABLE OF CONTENTS", "style": "red_vertical"},
+        {"type": "toc_entry", "text": "Introduction", "page": 9},
+        {"type": "toc_entry", "text": "How To Read This Book", "page": 16},
+        {"type": "chapter_entry", "chapter": 1, "title": "The 120 Carat Sapphire", "subtitle": "A Plan That Changed the World", "page": 19},
+        {"type": "chapter_entry", "chapter": 2, "title": "The 100 Rings of Tuyet Nguyet", "subtitle": "Don't Wing It", "page": 27},
+        {"type": "chapter_entry", "chapter": 3, "title": "A Puzzle Box, a Magnifying Glass, & the Mysterious Egg", "subtitle": "Joy Is in the Details", "page": 39},
+        {"type": "chapter_entry", "chapter": 4, "title": "The 96 Carat Chivor Emerald", "subtitle": "Blaze the Path", "page": 47},
+        {"type": "chapter_entry", "chapter": 5, "title": "Masterworks by Art Smith", "subtitle": "An Exercise in Faith", "page": 57},
+        {"type": "chapter_entry", "chapter": 6, "title": "Rubies to Wear", "subtitle": "Inspiration Is Welcome", "page": 65},
+        {"type": "chapter_entry", "chapter": 7, "title": "Amelia's Autograph", "subtitle": "Explore More", "page": 71},
+        {"type": "chapter_entry", "chapter": 8, "title": "Beauty's Bespoken Treasures", "subtitle": "Know the Past, See the Future", "page": 77},
+        {"type": "chapter_entry", "chapter": 9, "title": "The Golden Chalice", "subtitle": "Confirmation Bias", "page": 87},
+        {"type": "chapter_entry", "chapter": 10, "title": "Jackie Onassis' Diamond Sapphire Brooch", "subtitle": "Welcome the Good and the Bad", "page": 96},
+        {"type": "chapter_entry", "chapter": 11, "title": "Treasures From a Famous Shipwreck", "subtitle": "The Temptress Greed", "page": 102},
+        {"type": "chapter_entry", "chapter": 12, "title": "Massive Gold Rush Nugget", "subtitle": "Make Good Choices", "page": 110},
+        {"type": "chapter_entry", "chapter": 13, "title": "Best of Its Class Jordan Rookie Card", "subtitle": "Be Like Mike", "page": 116},
+        {"type": "chapter_entry", "chapter": 14, "title": "Tiffany's Furnace & Thoreau's Fire", "subtitle": "Fail Forward", "page": 124}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": false,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "TABLE OF CONTENTS", "style": "red_vertical"},
+        {"text": "Chapter subtitles", "style": "italic_handwritten"}
+      ]
+    },
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 4,
+    "page_label": "table_of_contents_right",
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 15: 1960 Rome Olympic Gold Medal - Don't Give Up - 134\nCHAPTER 16: 1996 Atlanta Olympic Gold Medal - Defy Expectations - 142\nCHAPTER 17: George Washington's Jelly Glass - Share Your Story - 152\nCHAPTER 18: Andrew Carnegie's Emerald - The Science of Giving - 160\nCHAPTER 19: Moon Rocks & Meteors - The Next Frontier - 166\nCHAPTER 20: The Six-Figure Birthstone - Choosing a New Perspective - 172\nCHAPTER 21: Antiquities of Alexander - Make It Make Sense - 180\nCHAPTER 22: Picasso's Pendant - A Love Story - 190\nCHAPTER 23: Sing Your Own Special Song - Finding Treasures Along the Way - 196\n\nAdditional Treasure Items - 199\nFinal Poem - 205\nPostscript - 207\nAcknowledgments - 210",
+      "formatted_sections": [
+        {"type": "chapter_entry", "chapter": 15, "title": "1960 Rome Olympic Gold Medal", "subtitle": "Don't Give Up", "page": 134},
+        {"type": "chapter_entry", "chapter": 16, "title": "1996 Atlanta Olympic Gold Medal", "subtitle": "Defy Expectations", "page": 142},
+        {"type": "chapter_entry", "chapter": 17, "title": "George Washington's Jelly Glass", "subtitle": "Share Your Story", "page": 152},
+        {"type": "chapter_entry", "chapter": 18, "title": "Andrew Carnegie's Emerald", "subtitle": "The Science of Giving", "page": 160},
+        {"type": "chapter_entry", "chapter": 19, "title": "Moon Rocks & Meteors", "subtitle": "The Next Frontier", "page": 166},
+        {"type": "chapter_entry", "chapter": 20, "title": "The Six-Figure Birthstone", "subtitle": "Choosing a New Perspective", "page": 172},
+        {"type": "chapter_entry", "chapter": 21, "title": "Antiquities of Alexander", "subtitle": "Make It Make Sense", "page": 180},
+        {"type": "chapter_entry", "chapter": 22, "title": "Picasso's Pendant", "subtitle": "A Love Story", "page": 190},
+        {"type": "chapter_entry", "chapter": 23, "title": "Sing Your Own Special Song", "subtitle": "Finding Treasures Along the Way", "page": 196},
+        {"type": "toc_entry", "text": "Additional Treasure Items", "page": 199},
+        {"type": "toc_entry", "text": "Final Poem", "page": 205},
+        {"type": "toc_entry", "text": "Postscript", "page": 207},
+        {"type": "toc_entry", "text": "Acknowledgments", "page": 210}
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "Chapter subtitles", "style": "italic_handwritten"}
+      ]
+    },
+    "images": []
+  }
+}

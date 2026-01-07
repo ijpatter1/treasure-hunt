@@ -1,0 +1,75 @@
+{
+  "screenshot": "page-014-015.png",
+  "section": "introduction",
+
+  "left_page": {
+    "page_number": 14,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "As I stand on the eve of publishing this book, my foremost aspiration is to extend and share my joy with you. I hope you find something of value inside these chapters. I believe you will. And I appreciate your being here.\n\nPerhaps, you'll soon be on your way to discovering where I hid the five treasure boxes. Or maybe you'll prefer to stay at home and never go look. Either way, I believe if you are open to it, this book may help you become a wiser treasure hunter in the ways that matter to you. And that could lead to bountiful riches, both inside and out.\n\nYours in the hunt,\nJON COLLINS-BLACK\n\nThis is a picture of some of our treasure.",
+      "formatted_sections": [
+        {"type": "body", "text": "As I stand on the eve of publishing this book, my foremost aspiration is to extend and share my joy with you..."},
+        {"type": "signature", "text": "Yours in the hunt,\nJON COLLINS-BLACK", "style": "italic_signature"},
+        {"type": "sidebar", "text": "This is a picture of some of our treasure.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "has_sidebar": true,
+      "emphasized_text": [
+        {"text": "Yours in the hunt", "style": "italic"},
+        {"text": "JON COLLINS-BLACK", "style": "red_caps"},
+        {"text": "This is a picture of some of our treasure.", "style": "red_italic_sidebar"}
+      ]
+    },
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 15,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "emphasized_text": []
+    },
+    "images": [
+      {
+        "description": "Full treasure spread photograph showing contents of the lion's share treasure",
+        "visible_items": [
+          "Gold treasure chest/box (main container)",
+          "Multiple gold coins (various sizes)",
+          "Gold bars/ingots (multiple)",
+          "Atlanta 1996 Olympic medallion/badge (green and gold, visible 'Atlanta 1996' text)",
+          "Various jewelry pieces (necklaces, brooches, pendants)",
+          "Gemstones (various colors - green, red, blue visible)",
+          "Sports trading cards (appear to be basketball cards)",
+          "Belt buckle with leather",
+          "Gold nugget (large, irregular shape)",
+          "Various rings and small jewelry",
+          "Decorative items and collectibles"
+        ],
+        "text_in_image": "Atlanta 1996 visible on Olympic medallion",
+        "potential_clues": [
+          "Atlanta 1996 Olympics = Chapter 16",
+          "Trading cards = Chapter 13 (Jordan)",
+          "Gold nugget = Chapter 12",
+          "Specific items may indicate chapter subjects"
+        ]
+      }
+    ]
+  },
+
+  "key_facts": {
+    "sidebar_note": "This is a picture of SOME of our treasure (not all)",
+    "signature": "Yours in the hunt",
+    "visible_treasure_items": ["gold chest", "coins", "ingots", "Atlanta 1996 medallion", "jewelry", "gemstones", "trading cards", "belt buckle", "gold nugget"]
+  }
+}

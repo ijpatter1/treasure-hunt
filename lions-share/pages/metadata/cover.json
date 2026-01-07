@@ -1,0 +1,51 @@
+{
+  "page_number": "cover",
+  "section": "front_matter",
+  "screenshot": "cover.png",
+  "content_type": "mixed",
+
+  "transcription": {
+    "raw_text": "BACK COVER:\nBe solid, have grit;\nsparkle even as you pine.\nHere lies a joy divined\n\nFRONT COVER:\nTHERE'S TREASURE INSIDE\nJON COLLINS-BLACK",
+    "formatted_sections": [
+      {
+        "type": "poem",
+        "location": "back_cover",
+        "text": "Be solid, have grit;\nsparkle even as you pine.\nHere lies a joy divined",
+        "style": "italic"
+      },
+      {
+        "type": "title",
+        "location": "front_cover",
+        "text": "THERE'S TREASURE INSIDE",
+        "style": "large_white_caps"
+      },
+      {
+        "type": "author",
+        "location": "front_cover",
+        "text": "JON COLLINS-BLACK",
+        "style": "gold_caps"
+      }
+    ]
+  },
+
+  "formatting": {
+    "has_header": false,
+    "has_quotes": false,
+    "has_handwritten_text": false,
+    "has_sidebar": false,
+    "has_footnotes": false,
+    "emphasized_text": [
+      {"text": "Be solid, have grit; sparkle even as you pine. Here lies a joy divined", "style": "italic"}
+    ],
+    "special_typography": ["italic poem on back", "gold author name", "red logo"]
+  },
+
+  "images": [
+    {
+      "description": "Red circular logo with crossed pickaxe and shovel",
+      "location": "front_cover_top",
+      "text_in_image": null,
+      "potential_clues": ["mining/digging tools imagery"]
+    }
+  ]
+}

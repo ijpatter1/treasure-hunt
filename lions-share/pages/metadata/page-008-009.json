@@ -1,0 +1,81 @@
+{
+  "screenshot": "page-008-009.png",
+  "section": "introduction",
+
+  "left_page": {
+    "page_number": 8,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "emphasized_text": []
+    },
+    "images": [
+      {
+        "description": "Custom treasure box - rectangular with gold/brass frame, black leather/velvet interior visible through open top, metal reinforced corners and edges, appears to be high-quality craftsmanship",
+        "text_in_image": null,
+        "potential_clues": ["Box design/style", "Craftsmanship suggests significant value"]
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 9,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "INTRODUCTION\n\nMy editor thinks this book is unlike any that you have ever read before. He's probably right. But I assure you that's not a statement born from hubris. If it were, this book might have been easier for me to write. So, please know that as I pen this introduction, I feel the weight of wanting to get it correct—to convey why and how this book came to exist and, most importantly, what it might mean for you.\n\nI'll start with the attention-grabbing headline. But I imagine since you picked this book up and opened it, you've probably already heard.\n\nI'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.\n\nAND IT'S WAITING FOR YOU TO FIND IT.\n\nLet's start by getting a few fun facts out of the way. The contents of this trove include some likely treasure suspects—many pounds of gold coins and bullion, and other precious metals and gems. But what is more striking about our treasure is that it contains dozens of, dare I say, very remarkable items. Each one has substantial value. The vast majority of these objects are rare. Some pieces are one of a kind. More than a few have historical significance. Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis are some of the names of those who have either created or owned items in our treasure.",
+      "formatted_sections": [
+        {
+          "type": "header",
+          "text": "INTRODUCTION",
+          "style": "caps_spaced"
+        },
+        {
+          "type": "body",
+          "text": "My editor thinks this book is unlike any that you have ever read before. He's probably right. But I assure you that's not a statement born from hubris. If it were, this book might have been easier for me to write. So, please know that as I pen this introduction, I feel the weight of wanting to get it correct—to convey why and how this book came to exist and, most importantly, what it might mean for you."
+        },
+        {
+          "type": "body",
+          "text": "I'll start with the attention-grabbing headline. But I imagine since you picked this book up and opened it, you've probably already heard."
+        },
+        {
+          "type": "callout",
+          "text": "I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.",
+          "style": "caps_centered_boxed"
+        },
+        {
+          "type": "callout",
+          "text": "AND IT'S WAITING FOR YOU TO FIND IT.",
+          "style": "gold_caps_centered"
+        },
+        {
+          "type": "body",
+          "text": "Let's start by getting a few fun facts out of the way. The contents of this trove include some likely treasure suspects—many pounds of gold coins and bullion, and other precious metals and gems. But what is more striking about our treasure is that it contains dozens of, dare I say, very remarkable items. Each one has substantial value. The vast majority of these objects are rare. Some pieces are one of a kind. More than a few have historical significance. Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis are some of the names of those who have either created or owned items in our treasure."
+        }
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "emphasized_text": [
+        {"text": "I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.", "style": "caps_centered"},
+        {"text": "AND IT'S WAITING FOR YOU TO FIND IT.", "style": "gold_caps"}
+      ],
+      "special_typography": ["gold border around callout box"]
+    },
+    "images": []
+  },
+
+  "key_facts": {
+    "treasure_location": "United States",
+    "treasure_value": "millions of dollars",
+    "contents": ["gold coins", "bullion", "precious metals", "gems", "rare items", "one-of-a-kind pieces", "historically significant items"],
+    "connected_names": ["Picasso", "Carnegie", "Washington", "Tiffany", "Thoreau", "Onassis"]
+  }
+}
