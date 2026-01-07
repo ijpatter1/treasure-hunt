@@ -55,11 +55,21 @@ Each JSON file contains `left_page` and `right_page` sections with:
 
 ## Chapter Summary Spec
 
-Chapter summaries consolidate clues from all pages in a chapter. **Both metadata (JSON) and notes (MD) files must be read** for each page.
+Chapter summaries consolidate clues from all pages in a chapter.
 
-### Source Files Per Page
-- **Metadata (JSON)**: Full text transcription, formatted sections, image descriptions, key elements
-- **Notes (MD)**: Clue analysis, observations, confidence levels, cross-references
+### CRITICAL: Read BOTH File Types
+
+**You MUST read BOTH metadata (JSON) AND notes (MD) files for EVERY page before writing a chapter summary.**
+
+For each page spread in a chapter:
+1. Read `pages/metadata/page-XXX-XXX.json` - contains the **actual book text** (full transcription)
+2. Read `pages/notes/page-XXX-XXX.md` - contains clue analysis and observations
+
+**If you only read notes files, you are missing the actual book content.**
+
+### Source Files Per Page (MUST READ BOTH)
+- **Metadata (JSON)**: Contains FULL TEXT TRANSCRIPTION of the book pages, formatted sections, image descriptions, key elements
+- **Notes (MD)**: Contains clue analysis, observations, confidence levels, cross-references
 
 ### Chapter Summary Template (`lions-share/chapters/chapter-XX.md`)
 
