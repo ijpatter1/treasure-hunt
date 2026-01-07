@@ -1,0 +1,48 @@
+{
+  "screenshot": "page-119-120.png",
+  "section": "chapter",
+  "chapter": 13,
+  "chapter_title": "The Best of Its Class Jordan Rookie Card",
+  "chapter_subtitle": "Be Like Mike",
+
+  "left_page": {
+    "page_number": 119,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "I was thirteen when I arrived at the middle-school gym for junior-high basketball tryouts. Fifty boys showed up that day. Only twelve of us would make the team. We sat on the gym bleachers, eying each other, awaiting the start of our weeklong tryout. I was the only kid who showed up to practice wearing blue jeans. I had left my gym shorts at home that morning. I cringed as the other boys made sidelong glances at my pants. I feared my tryout might be over before it began. Most of the other kids were bigger and stronger. Most of them could jump higher and run faster.\n\nThat week of tryouts was a blur. At some point, I got past the humiliation of wearing jeans the first day. I hit a few shots and made some nice passes. I played aggressive defense, and I didn't give an inch. I had a steal or two or three. By the end of the week, I felt I had done okay. But deep inside I knew the odds of me making the team were rather slim.\n\nOn the following Monday after class let out, a list of who had been selected was to be posted outside on the gym door. I heard not one single word my teachers said that entire day. My mind was thinking about that list. When the end-of-day bell finally rang out, I let go a breath of relief. Then I swallowed hard and headed to the gym.\n\nA group of guys were already huddled around the posting when I arrived. I stood on my tiptoes looking over their shoulders, attempting to read the names. I scrolled down the list. The first ten names belonged to other boys. This was no surprise. Each of those kids had more talent. I craned my neck down and sideways to read the eleventh name. It belonged to someone else too. With a bit of maneuvering, I was finally able to push through to see the very last name. It was...what...mine? This didn't seem right. I blinked to look again. It was my name on the list.\n\nA couple of boys who were crowded around mumbled they couldn't believe I made it. It wasn't a compliment. They shook their heads and skulked away. But I didn't care. I was on the basketball team!\n\nMy coach chuckled when he pointed out during our first practice why my name was on the bottom of the list. I was the last kid he picked for the team he told me. And when the season began, I was at the very end of the bench too.\n\nPractice began and it was hard. We'd run for miles on the football track everyday before ever touching a basketball. Next, we'd do drills. If any of us messed up, we'd all run suicides. And so it went, all season. When the last whistle blew to end practice, you could always find me sprawled out on my back gasping for air.\n\nDespite the work, my enthusiasm never waned. I was a good teammate. I loved cheering on the starters from the bench. I would yell until I lost my voice. I experienced every minute of every game with intense passion, even though I was never on the court. In fact, two-thirds of the season had gone by, and I had not played one second of any game.\n\nBut an opportunity was headed my way. Our team was improving. We had won five games in a row. Our next match was at home against the worst team in our conference who had just lost two of their best players to injury.",
+      "formatted_sections": [
+        {"type": "body", "text": "I was thirteen when I arrived at the middle-school gym for junior-high basketball tryouts."},
+        {"type": "body", "text": "I was the last kid he picked for the team he told me."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 120,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "This was a team we should beat by a lot. I knew that if we got a big lead, the coach might finally let me into a game!\n\nAs this was a home match and since our team was on a winning streak, our school hosted a basketball pep rally at the end of the school day, right before the game. The band played loudly. The assembly was loud and boisterous. Each player stood up to be introduced. The student body was fired up. Hundreds of kids stayed after the pep rally to watch us play. Our gym was packed. This was by far the biggest home crowd we'd had that year.\n\nOur team played well. We led by ten points in the first quarter and fifteen in the second. At the end of the third quarter our lead had ballooned to twenty-one points. I cheered and yelled and clapped and screamed. If this continued, I might finally get my moment to shine.",
+      "formatted_sections": [
+        {"type": "body", "text": "This was by far the biggest home crowd we'd had that year."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Sketch illustration of basketball players in action during a game",
+      "text_in_image": null,
+      "potential_clues": []
+    }]
+  },
+
+  "key_elements": {
+    "author_basketball_story": {
+      "age": 13,
+      "tryout": "Junior-high basketball, 50 boys for 12 spots",
+      "embarrassment": "Showed up in blue jeans first day",
+      "result": "Made team as last pick (#12)",
+      "playing_time": "None for 2/3 of season, always on bench"
+    }
+  }
+}
