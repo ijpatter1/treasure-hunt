@@ -1,0 +1,56 @@
+{
+  "screenshot": "page-115-116.png",
+  "section": "chapter",
+  "chapter": 13,
+  "chapter_title": "The Best of Its Class Jordan Rookie Card",
+  "chapter_subtitle": "Be Like Mike",
+
+  "left_page": {
+    "page_number": 115,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "PSA graded 1986 Fleer Michael Jordan rookie card #57, rated MINT 9, serial number 26670045",
+      "text_in_image": "1986 FLEER #57\nMICHAEL JORDAN\nMINT\nPSA 9 26670045",
+      "potential_clues": ["Michael Jordan rookie card treasure item"]
+    }],
+    "sidebar": {"text": "Michael Jordan 1986 Fleer Rookie Card PSA 9 with a MINT 9 Upgraded Grades", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 116,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 13\n\nTHE BEST OF ITS CLASS JORDAN ROOKIE CARD\n\nBe Like Mike\n\n\"He who keeps his cool best wins.\"\n—NORMAN COUSINS\n\n\"Just play. Have fun. Enjoy the game.\"\n—MICHAEL JORDAN\n\nWhether or not you are familiar with the expression \"Be Like Mike\" probably has to do with what age you are. If you were alive to watch television commercials in the early 1990s, there's a good chance the catch phrase \"Be Like Mike\" exists somewhere in your brain, between \"Got Milk?\" and \"Once You Pop You Can't Stop.\" If you're still wondering what the heck I'm even talking about, \"Be Like Mike\" was the slogan of a series of Gatorade commercials in the early 1990s, featuring Michael Jordan, the greatest basketball player to ever play the game.\n\nAt the time these commercials aired, Michael Jordan was nearing the pinnacle of his historic basketball career. He was already the most famous basketball player in the world and well on his way to becoming the greatest player ever. He was the basketball 007—never stirred, never shaken. Jordan was at his best under the brightest lights. He won every championship he ever played in.",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "THE BEST OF ITS CLASS JORDAN ROOKIE CARD"},
+        {"type": "handwritten_subtitle", "text": "Be Like Mike", "style": "red_handwritten"},
+        {"type": "quote", "text": "He who keeps his cool best wins.", "attribution": "Norman Cousins"},
+        {"type": "quote", "text": "Just play. Have fun. Enjoy the game.", "attribution": "Michael Jordan"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Be Like Mike", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "item": "1986 Fleer Michael Jordan Rookie Card",
+      "grade": "PSA 9 MINT",
+      "card_number": "#57",
+      "serial": "26670045"
+    },
+    "quotes": [
+      {"text": "He who keeps his cool best wins.", "author": "Norman Cousins"},
+      {"text": "Just play. Have fun. Enjoy the game.", "author": "Michael Jordan"}
+    ],
+    "cultural_references": {
+      "be_like_mike": "Gatorade commercial slogan, early 1990s",
+      "other_slogans": ["Got Milk?", "Once You Pop You Can't Stop"]
+    }
+  }
+}
