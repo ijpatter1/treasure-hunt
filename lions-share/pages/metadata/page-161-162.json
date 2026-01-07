@@ -9,7 +9,7 @@
     "page_number": 161,
     "content_type": "text",
     "transcription": {
-      "raw_text": "asking. My other wanted to know why in the world I would spend millions of dollars on valuable objects and leave them for others to find. In fact, he thought the very doing of it seemed to go against human nature itself. Although, on that last point, I must respectfully disagree.\n\nIn the introduction to this book, I spoke about my motivation to find joy and to share it with others. Those reasons are the cornerstone of why I created this treasure hunt. But to more deeply understand why I did what I did, it might be helpful to take a look at my childhood and how I was raised.\n\nAs mentioned before, my family did not save much money. Still, my parents did an excellent job of teaching me the value of giving. My parents met each other in seminary. Soon after graduation, they helped start and lead a new church in Huntersville, NC, built upon the ideal of service. For my parents, a ministry wasn't recruitment, it was a giving of time and resources.\n\nThe church assisted the local community homeless shelter, the soup kitchen, the battered women's shelter, and the local Habitat for Humanity chapter. In addition to this, my father sat on the board of directors of the local Red Cross and Red Crescent. From a young age, and not always willingly I should add, I was required to volunteer.",
+      "raw_text": "asking. My other wanted to know why in the world I would spend millions of dollars on valuable objects and leave them for others to find. In fact, he thought the very doing of it seemed to go against human nature itself. Although, on that last point, I must respectfully disagree.\n\nIn the introduction to this book, I spoke about my motivation to find joy and to share it with others. Those reasons are the cornerstone of why I created this treasure hunt. But to more deeply understand why I did what I did, it might be helpful to take a look at my childhood and how I was raised.\n\nAs mentioned before, my family did not save much money. Still, my parents did an excellent job of teaching me the value of giving. My parents met each other in seminary. Soon after graduation, they helped start and lead a new church in Huntersville, NC, built upon the ideal of service. For my parents, a ministry wasn't recruitment, it was a giving of time and resources.\n\nThe church assisted the local community homeless shelter, the soup kitchen, the battered women's shelter, and the local Habitat for Humanity chapter. In addition to this, my father sat on the board of directors of the local Food Bank and Red Cross. From a young age, and not always willingly I should add, I was required to volunteer.",
       "formatted_sections": [
         {"type": "body", "text": "My parents did an excellent job of teaching me the value of giving."},
         {"type": "body", "text": "My parents met each other in seminary."},
@@ -43,7 +43,7 @@
       "parents_role": "Started and led new church",
       "church_location": "Huntersville, NC",
       "church_focus": "Ideal of service",
-      "father_volunteer": "Board of directors - local Red Cross and Red Crescent",
+      "father_volunteer": "Board of directors - local Food Bank and Red Cross",
       "childhood": "Required to volunteer from young age"
     },
     "carnegie_biography": {
@@ -56,5 +56,7 @@
       "promoted_to": "Superintendent of western division, Pennsylvania Railroad",
       "key_work": "Gospel of Wealth (1889)"
     }
-  }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. CORRECTED: Father's volunteer work was 'local Food Bank and Red Cross' NOT 'Red Cross and Red Crescent'. Author biography (parents met in seminary, church in Huntersville NC, homeless shelter/soup kitchen/battered women's shelter/Habitat for Humanity, required to volunteer), Carnegie biography (born Dunfermline Scotland, immigrated 1848, Pittsburgh at 13, bobbin boy 16hrs/day 6 days/week, Western Union messenger, Thomas A. Scott mentor, Pennsylvania Railroad superintendent, Gospel of Wealth 1889 'man who dies thus rich dies disgraced', $480 million sale) all accurate."
 }
