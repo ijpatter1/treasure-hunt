@@ -18,7 +18,7 @@
       "text_in_image": "1986 FLEER #57\nMICHAEL JORDAN\nMINT\nPSA 9 26670045",
       "potential_clues": ["Michael Jordan rookie card treasure item"]
     }],
-    "sidebar": {"text": "Michael Jordan 1986 Fleer Rookie Card PSA 9 with a MINT 9 Upgraded Grades", "style": "red_italic"}
+    "sidebar": {"text": "Michael Jordan 1986 Fleer Rookie Card PSA 9 with a MINT 9 Designated Grade", "style": "red_italic"}
   },
 
   "right_page": {
@@ -52,5 +52,7 @@
       "be_like_mike": "Gatorade commercial slogan, early 1990s",
       "other_slogans": ["Got Milk?", "Once You Pop You Can't Stop"]
     }
-  }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. CORRECTED sidebar from 'Upgraded Grades' to 'Designated Grade'. Card details (1986 Fleer #57, PSA 9 MINT, serial 26670045), both quotes (Norman Cousins, Michael Jordan), 'Be Like Mike' subtitle all accurate."
 }
