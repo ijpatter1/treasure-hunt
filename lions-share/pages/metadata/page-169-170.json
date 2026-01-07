@@ -1,0 +1,54 @@
+{
+  "screenshot": "page-169-170.png",
+  "section": "chapter",
+  "chapter": 19,
+  "chapter_title": "Moon Rocks & Meteors",
+  "chapter_subtitle": "The Next Frontier",
+
+  "left_page": {
+    "page_number": 169,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Scientists later confirmed that Aguas Zarcas was indeed a very rare find. Not since the Murchison meteorite landed on Australia in 1969, had a rock holding such dynamic precursors to life been found on this planet. A piece of the Murchison meteorite is nearly impossible to acquire today. Owning a piece of Aguas Zarcas as large as the one in our treasure has already become a very difficult proposition. I was fortunate to acquire a piece for our treasure when I did.\n\nSpace will continue dropping meteorites down onto our planet. We know this much is true. Each little landing is like a rap on our door: a reminder that it's only a matter of time before we pick up that torch Armstrong and Aldrin left for us. And this time, we will colonize the moon and travel beyond, into the further reaches of our universe awaiting us.\n\nWhen astronauts first began travelling into space sixty years ago, they looked out the windows of their spacecrafts to peer at Earth from above. This was an experience each one of them had dreamt of, to witness our planet from so far a distance. To their surprise, these astronauts immediately began having very powerful emotions. They termed this reaction the Overview Effect.\n\nThe Overview Effect brought massive changes in perspectives. Astronauts reported feeling a heightened sense of interconnectedness with all of humanity, an increased appreciation for the sheer beauty of our planet, and an unexpected wellspring of deep emotions, including love. Many even reported having spiritual awakenings. Some felt a deep sadness at the visible destruction on earth's surface. They found themselves shocked that a planet as majestic and awe-inspiring as ours could be defiled. The Overview Effect has been a universal one, affecting space travelers from all countries, backgrounds, and cultures, in similar ways.\n\nWhether staring at the Milky Way from the top of a minivan or peering down at earth from the space station, what is gained is perspective. That is why I try to look at the night sky whenever I can. More than just a relaxing experience, star gazing provides a fresh standpoint. You and I are reminded how much more exists beyond those topics we spend most of our time worrying about.\n\nPerspective is worth considering when treasure hunting. To illustrate what can be gained with new perspectives, I'll share with you two examples from my time putting our treasure together. But first, I'll need to come clean about a couple of misguided views I had. These opinions were about two personal matters which today are represented by two objects in our treasure. But for a long time I was very rigid and obstinate in my viewpoints. And while it all seems rather silly in the end, it almost meant that two of my favorite items in our treasure never were a part of it.\n\nThe perspectives I clung onto might seem childish, but they do illustrate a point: an unwillingness to shift perspectives can mean we never quite discover what we want. Embracing new perspectives is often the essential key to finding a treasure we are pursuing. And a simple change in perspective can be all that's required to fill that gap between us and something we desire.",
+      "formatted_sections": [
+        {"type": "body", "text": "Aguas Zarcas was indeed a very rare find"},
+        {"type": "body", "text": "Murchison meteorite landed on Australia in 1969"},
+        {"type": "body", "text": "The Overview Effect - astronauts reported heightened sense of interconnectedness, appreciation for planet, deep emotions including love"},
+        {"type": "body", "text": "Embracing new perspectives is often the essential key to finding a treasure we are pursuing"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 170,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Artistic illustration of person sitting on hillside looking up at night sky with shooting star/meteor, stars and Milky Way visible",
+      "text_in_image": null,
+      "potential_clues": ["Stargazing theme", "Perspective from below looking up"]
+    }]
+  },
+
+  "key_elements": {
+    "meteorites": {
+      "aguas_zarcas": "Very rare carbonaceous chondrite",
+      "murchison": "Landed Australia 1969, precursor to life, nearly impossible to acquire"
+    },
+    "overview_effect": {
+      "definition": "Emotional and perspective shift experienced by astronauts viewing Earth from space",
+      "effects": ["Interconnectedness", "Appreciation for planet", "Deep emotions", "Spiritual awakenings"]
+    },
+    "treasure_hunting_advice": {
+      "perspective": "Embracing new perspectives is often the essential key to finding a treasure",
+      "change": "A simple change in perspective can fill the gap between us and something we desire"
+    },
+    "transition_to_chapter_20": "Author will share two examples of changing perspectives about treasure items"
+  }
+}
