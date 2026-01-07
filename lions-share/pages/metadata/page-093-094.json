@@ -1,0 +1,61 @@
+{
+  "screenshot": "page-093-094.png",
+  "section": "chapter",
+  "chapter": 9,
+  "chapter_title": "The Golden Chalice",
+  "chapter_subtitle": "Confirmation Bias",
+
+  "left_page": {
+    "page_number": 93,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...whispered impatiently to her that I couldn't see anything. I asked her to pick me up... My mother received hers. I was fascinated by this. When everyone had a candle, the head deacon lit the candles of the advent wreath, and the interior lighting was turned off...\n\nFor me, it was time to sing \"Here Comes Peter Cottontail.\"\n\nAs my father stood front and center and asked everyone to contemplate their candle flames, he began his words of prayer. \"As we come together this Christmas Eve to celebrate the birth of Christ, let us...\"\n\nSimultaneously, I began singing the Easter song that had suddenly popped into my head.\n\n\"Here comes Peter Cottontail, coming down the bunny trail...\"\n\"Let us remember that this is a time of reflection and appreciation...\"\n\"Hippity, hoppity Easter's on its way!\"\n\n...My mother prayed she'd melt into the floor. Meanwhile, I noticed that people were smiling and chuckling. They must be enjoying the song, I thought. I decided to sing louder...\n\n\"Coming around the bunny trail! Hippity, hoppity, Easter on its way!\"\n\nMy mom instinctively went to cover my mouth with her hand, but she quickly realized that doing so might catch me on fire. Instead, she did the only thing she could think of. She ran across the room, through the circle of",
+      "formatted_sections": [
+        {"type": "body", "text": "For me, it was time to sing \"Here Comes Peter Cottontail.\""},
+        {"type": "body", "text": "She ran across the room, through the circle of..."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 94,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "...the candlelight vigil, and out the front church door with me singing \"Here Comes Peter Cottontail\" at the top of my lungs the entire way.\n\nMy mom had gone from convincing herself that her son should be at church to wanting to get us both as far away from there as fast as she could. If my sweet mother can fall victim to confirmation bias, it can happen to anyone.\n\nFortunately, there does exist a time-tested and proven way to defend ourselves against confirmation bias. First, we take a moment to consciously stop justifying why our current belief is correct. Then we look for all of the reasons why our opinion could be wrong. The more time we spend questioning our beliefs, the better...\n\nIf you choose to look for our treasure, try to consciously avoid confirmation bias. There is no need to force the clues to fit a location you want them to lead you to. Instead, let them guide you in the direction they want you to take. Be willing to consider different options and explore new possibilities. Look both ways before crossing.\n\nBeing more open and less rigid has other advantages, too. It allows us to see more opportunities ahead. This makes it a little easier for us to navigate life's ups and downs.\n\nIn our next chapter, I will share with you an item in our treasure that was once owned by Jackie Onassis during her time in the White House. Onassis lived a life highlighted by meteoric highs and cratering lows. Through it all, she was steadfast and clear-eyed about what would bring her joy. Onassis became a cultural icon, and for a while, she was the center of the world's attention. However, it's some of the lesser-known details of her life that impress me the most.",
+      "formatted_sections": [
+        {"type": "body", "text": "If my sweet mother can fall victim to confirmation bias, it can happen to anyone."},
+        {"type": "body", "text": "If you choose to look for our treasure, try to consciously avoid confirmation bias."},
+        {"type": "body", "text": "There is no need to force the clues to fit a location you want them to lead you to. Instead, let them guide you in the direction they want you to take."},
+        {"type": "body", "text": "Be willing to consider different options and explore new possibilities. Look both ways before crossing."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Silhouette illustration of woman running out of church door carrying child",
+      "text_in_image": null,
+      "potential_clues": ["Author's mother fleeing Christmas Eve service"]
+    }]
+  },
+
+  "key_elements": {
+    "critical_treasure_hunting_advice": {
+      "quote1": "If you choose to look for our treasure, try to consciously avoid confirmation bias.",
+      "quote2": "There is no need to force the clues to fit a location you want them to lead you to.",
+      "quote3": "Instead, let them guide you in the direction they want you to take.",
+      "quote4": "Be willing to consider different options and explore new possibilities.",
+      "quote5": "Look both ways before crossing."
+    },
+    "how_to_avoid_confirmation_bias": [
+      "Stop justifying why your current belief is correct",
+      "Look for reasons why your opinion could be wrong",
+      "Spend time questioning your beliefs"
+    ],
+    "transition_to_chapter_10": {
+      "subject": "Jackie Onassis",
+      "treasure_item": "Item once owned by Jackie Onassis during White House years",
+      "description": "Cultural icon with meteoric highs and cratering lows"
+    }
+  }
+}
