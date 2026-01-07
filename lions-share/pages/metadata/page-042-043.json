@@ -1,0 +1,63 @@
+{
+  "screenshot": "page-042-043.png",
+  "section": "chapter",
+  "chapter": 3,
+  "chapter_title": "A Puzzle Box, a Magnifying Glass, & the Mysterious Egg",
+  "chapter_subtitle": "Joy Is in the Details",
+
+  "left_page": {
+    "page_number": 42,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "When I finally explained this treasure hunt to Seth, he agreed to clear much of his schedule for the next year to work on our five boxes. I now owe Seth such a debt of gratitude. What Seth created for us exceeds all of my initial expectations.\n\nAs you may notice once you read Part Two of this book, the overall design of our largest treasure box shown above combines design elements from each of the other four boxes. Yellow brass illuminates its sides. The top edge design is made of steel. The ornamentation on its center locking panel is forged from textured iron.\n\nThis treasure box, like all five of the boxes Seth has made for us, is also a puzzle box. There are seven actions required to open it. When you find this box, I invite you to have fun trying to discover the secrets to unlocking it. That's the joy of a puzzle box after all! However, if you can't or don't want to figure it out, there is no reason for you to damage the box, trying to get inside. I left instructions with the box, explaining exactly how to execute the seven steps to open it.\n\nAll five boxes are handsome, fun, and functional one-of-a-kind pieces of art. Each box has its own distinct, meticulously detailed personality. Unfortunately, it's not possible to fully present with pictures the quality of Seth Gould's masterworks. If you'd like to see some more behind-the-scenes images and videos of our boxes being made, you can visit Seth Gould's Instagram. He documented some of his progress along the way.\n\nAs an example of Seth's obsession with details, the inlay design work of one of our boxes required Seth to do no less than a quarter of a million chisel marks upon its surface. When he sent me a video of this process, I joked with him that his attention to detail might drive a lesser person to madness.",
+      "formatted_sections": [
+        {"type": "body", "text": "Yellow brass illuminates its sides. The top edge design is made of steel. The ornamentation on its center locking panel is forged from textured iron."},
+        {"type": "body", "text": "There are seven actions required to open it."},
+        {"type": "body", "text": "I left instructions with the box, explaining exactly how to execute the seven steps to open it."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "A gold and 1-karat magnifying glass made around 1900 valued at over $25,000",
+      "text_in_image": null,
+      "potential_clues": ["Faberge magnifying glass", "Michael Perkhin crafted"]
+    }],
+    "sidebar": {"text": "A gold and 1-karat magnifying glass made around 1900 valued at over $25,000", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 43,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Seth responded saying that such detailed work put him into a meditative state. The finer points of detail helped him relax and focus, and here he found a true sense of calm and joy. I borrowed his wisdom.\n\nSeth is not only talented. He is genuine and considerate and was a pleasure to work with, from start to finish. The quality of Seth's work reminds me very much of another artist who made an item that is in our treasure. This man, just like Seth, was immensely talented and devoted to the details in his work and art. In fact, he became the most respected jewelry designer of his generation. His name was Michael Perkhin, and he was the head workmaster at Faberge.\n\nIn the spirit of playfulness, I thought it'd be only appropriate to include a magnifying glass in our treasure: a Sherlock Holmesian symbol, reminding us of the importance of paying attention to the smallest things. Of course, the magnifier I chose for our treasure is no typical hand lens. It was made from gold and jade by Michael Perkhin himself, whom many experts consider to be the most skilled detailed workman in the history of Faberge.\n\nAs for the precise artistry of our magnifying glass, I won't spend time explaining the intricacies of Perkhin's gold rocaille foliate pattern that adorns it nor the specific techniques with which it was made. You can investigate on your own if you'd like. However, Michael Perkhin's life's story is certainly worth at least a few words.\n\nAt birth, Perkhin's chances of one day being revered in the industry of high-end jewelry designs seemed farfetched. Perkhin grew up poor. He learned to read and write only by studying with a priest in his small rural town. At age sixteen, Perkhin began work with a local blacksmith. He transitioned to goldsmithing at eighteen. He showed remarkable skill, and within just a few years, he was hired by the Frenchman named Carl Faberge.\n\nBy the age of twenty-six, Michael Perkhin earned the title of workmaster, the highest position within Faberge's design shop. Carl Faberge promoted Perkhin specifically because he wanted his company to be known for exquisite craftsmanship. He was determined to distinguish Faberge from the large, gaudy design pieces that were so common at the time. Carl believed Perkhin to be the best artist of his generation.\n\nMichael Perkhin began his new position by reimagining what types of objects could become jeweled art. He loved small household accessories, and he visualized them as artistry. Ink bottles, umbrella handles, table clocks, and ashtrays were among the everyday items Perkhin began fashioning. Perkhin redrew the limits of what jeweled art might encompass. Several of his works are now considered timeless, and many attempts to replicate them continue today.\n\nThe Faberge brand rose to prominence and became the most respected Russian jewelry designer in the world. Faberge was most famous for its Imperial eggs. Fifty-four Imperial Faberge eggs were produced in total. These eggs are some of the most sought-after jeweled artworks ever created. Today, each Imperial Faberge egg is valued in the tens of millions of dollars. Michael Perkhin designed and crafted more than half of all these Imperial eggs.",
+      "formatted_sections": [
+        {"type": "body", "text": "His name was Michael Perkhin, and he was the head workmaster at Faberge."},
+        {"type": "body", "text": "The magnifier I chose for our treasure is no typical hand lens. It was made from gold and jade by Michael Perkhin himself"},
+        {"type": "body", "text": "By the age of twenty-six, Michael Perkhin earned the title of workmaster, the highest position within Faberge's design shop."},
+        {"type": "body", "text": "Fifty-four Imperial Faberge eggs were produced in total... Michael Perkhin designed and crafted more than half of all these Imperial eggs."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "lions_share_box": {
+      "materials": "Yellow brass sides, steel top edge, textured iron center locking panel",
+      "opening": "Seven actions required to open",
+      "instructions": "Left inside the box"
+    },
+    "michael_perkhin": {
+      "title": "Head workmaster at Faberge",
+      "background": "Grew up poor, learned to read with priest, blacksmith at 16, goldsmith at 18",
+      "hired_by": "Carl Faberge",
+      "achievement": "Workmaster at age 26, designed more than half of all 54 Imperial Faberge eggs"
+    },
+    "treasure_items": [
+      "Gold and jade magnifying glass by Michael Perkhin (valued over $25,000)",
+      "Imperial Faberge egg (implied)"
+    ],
+    "geographic_references": ["Russia (Faberge origin)"],
+    "symbolism": "Magnifying glass = Sherlock Holmes = paying attention to smallest things"
+  }
+}

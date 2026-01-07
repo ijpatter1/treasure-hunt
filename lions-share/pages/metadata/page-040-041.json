@@ -1,0 +1,64 @@
+{
+  "screenshot": "page-040-041.png",
+  "section": "chapter",
+  "chapter": 3,
+  "chapter_title": "A Puzzle Box, a Magnifying Glass, & the Mysterious Egg",
+  "chapter_subtitle": "Joy Is in the Details",
+
+  "left_page": {
+    "page_number": 40,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...carried a certain knowing in his voice that I couldn't help but detect. The following week, I bought a one-way flight to Tokyo. From the time it took to land and arrive at my hotel room, I had fallen in love.\n\nTokyo is the most populated city in the world. Its land mass is enormous. Its skylines are spectacular. Yet there is no pollution, little traffic, and almost no noise. Subways run seemingly everywhere, with trains that arrive every three minutes. They are never late. Eat at a five-star restaurant or visit a local 7-Eleven and you can expect the same politeness and a similar quality of service. You like technology? Tokyo has the latest and most cutting edge. You prefer nature? Dozens of incredibly well-manicured gardens are there to visit. And the food? Don't get me started, or I'll never finish this book.\n\nAfter two weeks in Tokyo, I called Kimberly and convinced her to come join me. She fell in love too. We decided to take our first trip from Tokyo out to a little town named Hakone. You might have heard of Hakone. It's famous for its natural mineral baths and scenic beauty, nestled below lush green mountains. But there is another thing this beautiful place is also known for - its finely crafted wooden puzzle boxes.\n\nJapanese puzzle boxes are perfectly Japanese. Finely articulated wood-inlay designs decorate the surface of a smooth six-sided box with no obvious or discernable way to open it. You must slide its panels to discover the way in. Each box has its own combination of movements. To hold a Japanese puzzle box in your hand is to feel a part of the refined attention to detail that makes Japan so special. There is a budding joy in the detailed movements required to open one.\n\nKimberly and I were so enamored by these Japanese puzzle boxes we saw in Hakone that we bought several as gifts for friends and family and a few for ourselves, to boot. After we returned, at last, to Los Angeles, these puzzle boxes were interactive topics at our dinner parties for many months to come.\n\nMeanwhile, about 6,000 nautical miles east of Japan and forty miles northeast of Asheville, North Carolina, lies another small town tucked away into the mountains. This place is named Bakersville, and the people who live there enjoy scenic green mountains not too dissimilar to Hakone, Japan.\n\nIn Bakersville, lives a young man whose attention to detail is on par with some of the greatest artisans in the world. He spends much of his time in his humble blacksmith studio, crafting tools. These tools are sought after by fellow builders and artists from around the world. His tools are widely popular because of their combination of aesthetics and utility and the quality and detail with which they are made. Seth Gould is this blacksmith's name, and he spent more than a year designing and crafting the five treasure boxes that now safekeep our complete treasure.\n\nWhen mapping out this hunt, one of the most difficult riddles for me to solve was how to acquire five treasure boxes of suitable size, craftsmanship, and value to match the contents they would hold. I had no interest in chests that were glorified containers. From the jump, I wanted each treasure box to be as original, desirable, and well-crafted as any treasure item they would hold. I wanted each treasure box to be a treasure piece itself.",
+      "formatted_sections": [
+        {"type": "body", "text": "Tokyo is the most populated city in the world..."},
+        {"type": "body", "text": "We decided to take our first trip from Tokyo out to a little town named Hakone."},
+        {"type": "body", "text": "About 6,000 nautical miles east of Japan and forty miles northeast of Asheville, North Carolina, lies another small town tucked away into the mountains. This place is named Bakersville..."},
+        {"type": "body", "text": "In Bakersville, lives a young man whose attention to detail is on par with some of the greatest artisans in the world...Seth Gould is this blacksmith's name"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 41,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "I sourced boxes for weeks. I scoured every auction house. I networked through a large list of private sellers and brokers. I considered hundreds of boxes designed throughout thousands of years made by dozens of cultures. Yet, I never found one box that seemed like it belonged. I concluded that my only option would be to commission our treasure boxes to be built. But who could do this? I had no clue.\n\nAs if my realization conjured its very own solution, the very next day, after deciding to have our boxes made, I came across a box that looked to be a masterpiece. It resides in the Smithsonian American Art Museum. The box even has a name. It's called Coffer. It was unlike anything I'd ever seen. Coffer is nearly two feet long. It is forged from iron, brass, and steel. It looks rather like a small fortress. In addition to its careful craftsmanship and bold beauty, Coffer is also a puzzle box. Coffer was made, of course, by Seth Gould.\n\nWhen I saw that Coffer was a puzzle box, my mind immediately traveled back to Hakone. I wondered if Seth had visited there. Indeed, he had. Seth had also become fascinated by Japanese puzzle boxes. When he returned from Hakone to North Carolina, Seth decided to create a new spin on the traditional Japanese puzzle box.\n\nInstead of wood, he would use metal. Instead of sliding panels, Seth would engineer a variety of dynamics to entice and challenge the box's would-be opener. Like every traditional Japanese puzzle box, he would ensure each working component was made by hand. It took Seth three years to build and engineer Coffer before it went on display at the Smithsonian.\n\nIt was obvious to me that Seth Gould was the person destined to build our treasure boxes. My first conversation with Seth lasted quite a while. I made sure he knew I'd grown up in North Carolina and that I had lots of family who lived not too far from him. I told Seth I thought his work was stunning and bold. I doled out compliments for sure, but I meant every one.",
+      "formatted_sections": [
+        {"type": "body", "text": "It resides in the Smithsonian American Art Museum. The box even has a name. It's called Coffer."},
+        {"type": "body", "text": "Coffer is nearly two feet long. It is forged from iron, brass, and steel."},
+        {"type": "body", "text": "Coffer was made, of course, by Seth Gould."},
+        {"type": "body", "text": "When he returned from Hakone to North Carolina, Seth decided to create a new spin on the traditional Japanese puzzle box."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "The largest treasure box - a metal puzzle box with intricate brass and iron work",
+      "text_in_image": null,
+      "potential_clues": ["Lion's Share box design", "Puzzle box mechanism"]
+    }],
+    "sidebar": {"text": "Pictured here is the largest of our five treasure boxes. It is also a puzzle box.", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "seth_gould": {
+      "location": "Bakersville, North Carolina",
+      "distance_from_asheville": "40 miles northeast",
+      "profession": "Blacksmith/artisan",
+      "notable_work": "Coffer - at Smithsonian American Art Museum",
+      "coffer_details": "Nearly 2 feet long, forged from iron, brass, steel, puzzle box, took 3 years to build"
+    },
+    "geographic_references": [
+      "Tokyo, Japan",
+      "Hakone, Japan",
+      "Los Angeles (author returned there)",
+      "Bakersville, North Carolina",
+      "Asheville, North Carolina",
+      "Smithsonian American Art Museum"
+    ],
+    "author_personal": "Author grew up in North Carolina, has family near Bakersville",
+    "treasure_boxes": "All 5 treasure boxes made by Seth Gould"
+  }
+}
