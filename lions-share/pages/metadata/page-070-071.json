@@ -1,0 +1,50 @@
+{
+  "screenshot": "page-070-071.png",
+  "section": "chapter",
+  "chapter": 7,
+  "chapter_title": "Amelia's Autograph",
+  "chapter_subtitle": "Explore More",
+
+  "left_page": {
+    "page_number": 70,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Black and white photograph of Amelia Earhart standing next to/on her airplane, wearing flight jacket",
+      "text_in_image": null,
+      "potential_clues": ["Signed photograph of Amelia Earhart - treasure item"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 71,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 7\n\nAMELIA'S AUTOGRAPH\n\nExplore More\n\n\"Exploration is really the essence of the human spirit.\" —FRANK BORMAN\n\n\"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.\" —ERNO RUBIK\n\nBeing a dad of two young children means I'm constantly learning and ever surprised. One of the things I admire most about my two kids is their unadulterated, uninhibited, unbridled enthusiasm for everything, everywhere, all the time. Every ladybug, every flower, every ball, every new book or learning activity, each one is all that is required to elicit squeals of passion and joy. Of course, their exuberance sometimes makes the experience of trying to get my kids to focus on a specific task the equivalent of herding a hundred hamsters. My parents are smiling right now. I was a similar child.\n\nThere are some adults, perhaps you are one of them, that have never lost their sense of curiosity or desire to seek out new horizons. These people tend to be a lot of fun to be around. They are engaged. They light up a room. They have stories to share and dreams to pursue.\n\nAmelia Earhart was one of these people. In the annals of emprise and exploration, Amelia Earhart stands above most. She was the consummate treasure hunter. She constantly sought out her next purpose, her next exploit, her next challenge.\n\nEarhart's thirst for adventure started young. As a child, she prowled outdoors, climbing trees, sliding in sleds, saddling horses, and hunting. At age",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "AMELIA'S AUTOGRAPH"},
+        {"type": "handwritten_subtitle", "text": "Explore More", "style": "red_handwritten"},
+        {"type": "quote", "text": "Exploration is really the essence of the human spirit.", "attribution": "Frank Borman"},
+        {"type": "quote", "text": "If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.", "attribution": "Erno Rubik"},
+        {"type": "body", "text": "Amelia Earhart was one of these people...She was the consummate treasure hunter."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Explore More", "style": "red_handwritten"}]},
+    "images": [],
+    "sidebar": {"text": "This is a signed photograph of Amelia Earhart now in our treasure", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "Exploration is really the essence of the human spirit.", "author": "Frank Borman", "note": "Apollo 8 commander"},
+      {"text": "If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.", "author": "Erno Rubik", "note": "Rubik's Cube inventor"}
+    ],
+    "treasure_item": "Signed photograph of Amelia Earhart",
+    "theme": "Exploration and curiosity",
+    "author_family": "Two young children"
+  }
+}
