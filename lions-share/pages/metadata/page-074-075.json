@@ -1,0 +1,77 @@
+{
+  "screenshot": "page-074-075.png",
+  "section": "chapter",
+  "chapter": 7,
+  "chapter_title": "Amelia's Autograph",
+  "chapter_subtitle": "Explore More",
+
+  "left_page": {
+    "page_number": 74,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "She loved to bend a phrase. Poetry, more than anything else, provided Amelia with ways to make subtle commentaries about her experiences.\n\nHer poem \"From an Airplane\" provides a bird's eye view of her perspective...\n\n\"Even the watchful purple hills\nThat hold the lake\nCould not see so well as I\nThe stain of evening\nCreeping from its heart\nNor the round, yellow eyes of the hamlet\nGrowing filmy with mists.\"\n\nAnd Amelia's poem \"Courage\" gives us more entry into why she wanted to explore.\n\n\"How can life grant us boon of living,\ncompensate\nFor dull gray ugliness and pregnant\nhate\nUnless we dare\"\n\nAboard a flight in 1928, Amelia became the first woman to fly across the Atlantic. This flight was the first to bring her fame. The press celebrated her. But the truth was, Wilmer Stultz and Louis Gordon had piloted that plane, and Amelia had only sat in the back of the plane, doing nothing. Amelia described this flight in a poem she titled \"Only Baggage.\"\n\nIts first stanza reads...\n\n\"Only baggage? If we grant it,\nAh, what precious freight was there!\nMother-courage, child-eyed wonder,\nMaiden spirit pure and fair,\nWith the whole world as her suitor -\nAtalante of the Air!\"\n\nThe baggage Amelia refers to here is herself. Sitting and watching someone else pilot over an ocean wasn't the kind of exploration that interested her. But Amelia does an excellent job of describing what compelled her. \"Precious freight,\" \"child-eyed wonder,\" \"maiden spirit,\" and \"mother-courage\" tell us all we need to know. Amelia had a voracious will. She wanted to pilot her own life, not simply be a passenger.\n\nFour years after writing \"Only Baggage,\" Amelia Earhart boarded her Vega 5B airplane. This time she was the only person aboard the plane. Her flight lifted off the ground on Friday, May 20th, 1932. The night sky she ascended",
+      "formatted_sections": [
+        {"type": "poem", "title": "From an Airplane", "text": "Even the watchful purple hills / That hold the lake / Could not see so well as I..."},
+        {"type": "poem", "title": "Courage", "text": "How can life grant us boon of living, / compensate / For dull gray ugliness and pregnant / hate / Unless we dare"},
+        {"type": "poem", "title": "Only Baggage", "text": "Only baggage? If we grant it, / Ah, what precious freight was there!..."},
+        {"type": "body", "text": "Her flight lifted off the ground on Friday, May 20th, 1932."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "has_poetry": true, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 75,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "into was filled with heavy and brutal storms. Along the way her plane suffered mechanical failures. Still, Amelia did not waver. Fifteen harrowing hours after taking off from a small runway in Newfoundland, Canada, Amelia landed her Lockheed aircraft onto the green backdrop of Londonderry, Ireland. There, she stepped out of her plane's cockpit door and stood as the picture was taken that now resides in our treasure. Amelia's curiosity and steadfast exploration carried her across the great Atlantic and changed aeronautical history forever.\n\nFive years and one day later, Amelia Earhart and Fred Noonan lifted off on an attempt to be the first people to fly around the world. This would be her last adventure. They flew twenty-two days out of a planned thirty-day flight trip. And although her aircraft was never discovered, we know that Amelia departed this world doing what she loved—living without limits and exploring new horizons.\n\nLike Amelia Earhart, my kids, with their excitement to engage, remind me how to be brave. As an adult it can be too easy to lose a sense of curiosity. The natural gravity of life pulls us towards rules and routines. We can become rigid. Life begins to exist inside a smaller box. The joy of experiencing each new moment quietly fades into the background, leaving us wondering how we forgot what elation feels like and why we lost the desire to discover something new. Watching my children's enthusiasm fuels my desire to explore the world around me even more. I am grateful for that. It's one of the greatest parts of being a dad.\n\nI would advise you to go out and explore more if you want to find the treasures I have hidden. This is not meant to be condescending or trite. It's just that a willingness to be curious and to look beyond boundaries will serve you well. Go where others have not. We never know what's past the next tree line, over the next rise, or around the next corner unless we see it for ourselves.\n\nAmelia Earhart never lost her eagerness to engage with the world around her. There is so much that I take away from her: have a will to carry on, enjoy the delight of the chase, be willing to identify those things we want and go after them with aplomb. I pray I never stop exploring. Even if, right now, that means just running to keep up with my youngsters, wherever they might go.\n\nThe man featured in our next chapter had a pilot's license, too. Yet for him, flying was more a hobby. This man was the consummate artist. In fact, he became the most renowned Native American jewelry designer who ever lived. He was an artistic innovator who broke traditional boundaries. Artistically, he always kept one eye on the future. But as a person, his heart was bound to the past. He was a man steeped in tradition. He was born and lived on the Hopi reservation in Arizona until the day he died. He became an elder in the oldest tribe in the United States. He cherished both the past and the present but was constrained by neither. With his unique genius, Charles Loloma reinvented a canvas for what Native American jewelry would become.",
+      "formatted_sections": [
+        {"type": "body", "text": "Fifteen harrowing hours after taking off from a small runway in Newfoundland, Canada, Amelia landed her Lockheed aircraft onto the green backdrop of Londonderry, Ireland."},
+        {"type": "body", "text": "Five years and one day later, Amelia Earhart and Fred Noonan lifted off on an attempt to be the first people to fly around the world."},
+        {"type": "body", "text": "I would advise you to go out and explore more if you want to find the treasures I have hidden."},
+        {"type": "body", "text": "Go where others have not. We never know what's past the next tree line, over the next rise, or around the next corner unless we see it for ourselves."},
+        {"type": "body", "text": "He was born and lived on the Hopi reservation in Arizona until the day he died."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "amelia_solo_flight": {
+      "date": "Friday, May 20th, 1932",
+      "departure": "Newfoundland, Canada",
+      "arrival": "Londonderry, Ireland",
+      "duration": "Fifteen harrowing hours",
+      "plane": "Lockheed Vega 5B"
+    },
+    "amelia_final_flight": {
+      "companion": "Fred Noonan",
+      "goal": "First people to fly around the world",
+      "timing": "Five years and one day after solo Atlantic flight",
+      "duration_completed": "22 days of planned 30-day trip"
+    },
+    "amelia_poems": [
+      {"title": "From an Airplane", "theme": "Bird's eye view perspective"},
+      {"title": "Courage", "theme": "Why she explored"},
+      {"title": "Only Baggage", "theme": "1928 Atlantic crossing where she was only passenger"}
+    ],
+    "treasure_hunting_advice": {
+      "quote1": "I would advise you to go out and explore more if you want to find the treasures I have hidden.",
+      "quote2": "Go where others have not.",
+      "quote3": "We never know what's past the next tree line, over the next rise, or around the next corner unless we see it for ourselves."
+    },
+    "transition_to_chapter_8": {
+      "subject": "Charles Loloma",
+      "description": "Most renowned Native American jewelry designer",
+      "location": "Born and lived on Hopi reservation in Arizona",
+      "tribe": "Elder in oldest tribe in United States"
+    },
+    "geographic_references": [
+      "Newfoundland, Canada",
+      "Londonderry, Ireland",
+      "Hopi reservation, Arizona"
+    ]
+  }
+}
