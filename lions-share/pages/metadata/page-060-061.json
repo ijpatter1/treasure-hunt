@@ -1,0 +1,61 @@
+{
+  "screenshot": "page-060-061.png",
+  "section": "chapter",
+  "chapter": 5,
+  "chapter_title": "Masterworks by Art Smith",
+  "chapter_subtitle": "An Exercise in Faith",
+
+  "left_page": {
+    "page_number": 60,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "get a job working part-time, teaching kids at an art center in Harlem. Here, Art met Winifred Mason, an African-American jewelry artist who had just opened her own jewelry store in Greenwich Village. Mentoring with Mason inspired Art to open his own shop.\n\nFinding a landlord who would rent a store front to a black man in the 1940's was not an easy task. His applications were rejected at nauseam. Still, Art never lost faith. With the partnership of a white man whom he had befriended at Winifred's shop, Art was finally able to procure a store and a lease. Within days, a brick smashed through the store's glass window. Insults were shouted by passersby. Art remained resolute.\n\nArt Smith's reputation in the local area steadily grew. Then, everything changed when he befriended a man named Talley Beatty, a dance choreographer who worked on shows with Duke Ellington. When Talley visited Art Smith's store, he immediately fell in love with the jewelry designs he saw there. As Talley began choreographing larger stage dance shows, he commissioned Art Smith to design the decorative jewelry for his dancers.\n\nTalley wanted the jewelry to be bold and engaging, with pieces that were striking, from both close and far away. The jewelry should contour the body in a way that would enhance the dancers and their movements on stage. Talley's choreography provided the ideal aesthetic backdrop for Art's talents. Many of Art Smith's most iconic jewelry pieces were originally worn in these large performances.\n\n\"A piece of jewelry is in a sense an object that is not complete . . . until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form.\"\n—ART SMITH\n\nWith the publicity his pieces received from Talley's shows, Art Smith's reputation ascended. Art's work began to be featured in New York magazines. Influential jewelry collectors came to commission pieces. In time, Art Smith became America's very first prominent African-American jewelry designer.\n\nHis signature pieces were particularly famous for their asymmetrical forms of copper, silver, and brass that contoured the body. Art used influences from ancient Egypt and tribal Africa and embellished them with surrealism techniques. His unique style and influences pushed the jewelry industry to places it had never ventured before. His designs moved the modernist art movement forward.\n\nArt Smith became the forefather of today's leading African American jewelry artists. His work has been featured in over a dozen museums and exhibits. Art Smith's jewelry pieces are now very rare. Most are owned by museums or by specialized art and jewelry collectors. These objects do not often change hands.\n\nArt Smith knew from a young age that he wanted a career as an artist. Given his race, social status, and the era in which he lived, Art faced legitimate reasons to second-guess his dreams. But his faith was never lost. Art",
+      "formatted_sections": [
+        {"type": "body", "text": "Art met Winifred Mason, an African-American jewelry artist who had just opened her own jewelry store in Greenwich Village."},
+        {"type": "body", "text": "Art Smith became America's very first prominent African-American jewelry designer."},
+        {"type": "quote", "text": "A piece of jewelry is in a sense an object that is not complete...until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form.", "attribution": "Art Smith"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": true, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 61,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Black and white artistic illustration of dancers in flowing choreographed movements, reminiscent of Talley Beatty's dance performances",
+      "text_in_image": null,
+      "potential_clues": ["Talley Beatty choreography", "Dance performances featured Art Smith jewelry"]
+    }]
+  },
+
+  "key_elements": {
+    "art_smith_career": {
+      "first_job": "Teaching kids at art center in Harlem",
+      "mentor": "Winifred Mason (African-American jewelry artist, Greenwich Village store)",
+      "store": "Opened own shop with help of white business partner",
+      "breakthrough": "Commissioned by Talley Beatty (Duke Ellington choreographer) for dancer jewelry",
+      "achievement": "America's very first prominent African-American jewelry designer"
+    },
+    "art_smith_style": {
+      "materials": "Copper, silver, brass",
+      "influences": "Ancient Egypt, tribal Africa, surrealism",
+      "signature": "Asymmetrical forms that contour the body"
+    },
+    "geographic_references": [
+      "Harlem, New York",
+      "Greenwich Village, New York"
+    ],
+    "notable_people": [
+      "Winifred Mason (mentor)",
+      "Talley Beatty (choreographer)",
+      "Duke Ellington (musician)"
+    ]
+  }
+}
