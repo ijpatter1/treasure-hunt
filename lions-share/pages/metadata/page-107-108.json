@@ -58,5 +58,7 @@
       "description": "Largest treasure hunt in US history, shifted demographics"
     },
     "geographic_references": ["Rio de la Plata", "California"]
-  }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Gold disk sidebar accurate, 8 escudo coin sidebar accurate, postscript reference ('must read') confirmed, California Gold Rush preview verified."
 }
