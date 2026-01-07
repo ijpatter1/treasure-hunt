@@ -1,0 +1,55 @@
+{
+  "screenshot": "page-187-188.png",
+  "section": "chapter",
+  "chapter": 21,
+  "chapter_title": "Antiquities of Alexander",
+  "chapter_subtitle": "Make It Make Sense",
+
+  "left_page": {
+    "page_number": 187,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "us that race, religion, culture, or political affiliation separate people into categories of right and wrong.\n\nAlthough it's not true, this myth is perpetuated by social platforms and media. It blatantly ignores the fact that every single person, at this very moment, is experiencing the human condition. We and our enemies, if we have them, are mostly the same. We all bleed dark red, cry salt-filled tears, laugh with heartfelt joy, and have longings we want to fulfill. This is why when my children want to compare themselves to others around them, I take the time to explain to them that they are both perfectly unique and wonderfully the same.\n\nPart of our human condition is nothing more than trying to make sense of everything around us. How and why things happen are questions we confront every single day. At a young age we begin to wonder, \"How does life exist? What comes next? Why did something bad happen to me today?\" Adults have debated and discussed these queries from the dawn of human existence. You and I want to explain things. And the feelings we experience when we do not understand something that seems important can range from slightly uncomfortable to terror. This fear of not knowing, if left unchecked, can lead to decisions that don't well serve ourselves, others, or the truth.\n\nThe best way to dispel the myths that drive people apart is to expose them. This is why I will say to my children, as they grow and attempt to make sense of their world, that they need to be mindful. One of the easier traps to fall into when trying to find answers is to seek out groups we can identify with. There is comfort in numbers. But I will caution my children to avoid the bias that can come with group thinking. It feels good to find others who align with an idea, a philosophy, or a political or social belief. Joining a group provides a sense of validation. It can be a powerful experience to feel part of a tribe.\n\nBut I will warn my children that the truth of tribes is too often a mirage. I would point out that there is a singular irony each time two groups oppose each other. No matter what affiliation is chosen, those that have joined the opposition belong to their group for the very same underlying reasons. Our adversaries desire a feeling of belonging. Our rivals want to feel a sense of control in their lives. And our opponents, just as we do, long to believe they have enough answers to make the world and their existence make sense and feel safe.\n\nIf my children then ask me, \"Dad, what should we do?\" I will say that there's at least one other option. It's a simple choice, although perhaps just quiet enough that it can easily get lost in our noisy, fast-paced technological world. It's a decision that requires patience, compassion, and bravery. It's a conscious choice to get to know and understand those with whom we seem to disagree.\n\nI would invite my children to become better listeners, in order that they might cultivate more empathy and kindness. I would ask them to peel back the veil of modern myths and to peer into the hearts of those they might op-",
+      "formatted_sections": [
+        {"type": "body", "text": "Race, religion, culture, political affiliation separating people is a modern myth"},
+        {"type": "body", "text": "We and our enemies are mostly the same"},
+        {"type": "body", "text": "Fear of not knowing can lead to poor decisions"},
+        {"type": "body", "text": "Caution children about group thinking bias"},
+        {"type": "body", "text": "Get to know and understand those with whom we disagree"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 188,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "pose. If they really look, there they will see humanity - the same humanity that rests in their own hearts. Here is where love resides in all of us. The experience of seeing someone else as that person truly is, is one of the greatest joys we will ever divine.\n\nOur next chapter is a love story.",
+      "formatted_sections": [
+        {"type": "body", "text": "Here is where love resides in all of us"},
+        {"type": "body", "text": "Our next chapter is a love story"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Aerial photograph of people forming a heart shape, standing on brick/stone surface",
+      "text_in_image": null,
+      "potential_clues": ["Heart shape", "Unity/love theme"]
+    }]
+  },
+
+  "key_elements": {
+    "modern_myths_debunked": [
+      "We only use 10% of our brains (false - we use most of brain)",
+      "Mice prefer cheese (false)",
+      "Different groups of people are vastly different (false)"
+    ],
+    "philosophy": {
+      "humanity_theme": "We are all the same underneath differences",
+      "advice_to_children": "Be mindful, avoid group thinking bias, get to know those we disagree with"
+    },
+    "transition_to_chapter_22": "Our next chapter is a love story"
+  }
+}

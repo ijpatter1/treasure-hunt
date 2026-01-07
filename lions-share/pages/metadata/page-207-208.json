@@ -1,0 +1,77 @@
+{
+  "screenshot": "page-207-208.png",
+  "section": "back_matter",
+  "title": "Postscript",
+
+  "left_page": {
+    "page_number": 207,
+    "content_type": "text"
+  },
+
+  "right_page": {
+    "page_number": 208,
+    "content_type": "text"
+  },
+
+  "postscript_content": {
+    "interpretation_guidance": {
+      "no_double_meanings": true,
+      "no_misdirection": true,
+      "no_innuendo": true,
+      "no_subtext": true,
+      "no_clues_here": true,
+      "no_code": true,
+      "instruction": "Take what I say here as literally as you possibly can"
+    },
+    "safety_rules": {
+      "total_boxes": "FIVE treasure boxes",
+      "dangerous_places": "None of five treasure boxes hidden in dangerous place",
+      "not_perilous": "Not hazardous to arrive at any box",
+      "water": "No box hidden under any body of water",
+      "no_water_vessel_needed": "No need for raft, canoe, or water vessel of any kind",
+      "no_swift_current": "No box precariously close to swift current",
+      "no_dangerous_ledge": "No high or dangerous ledge",
+      "no_cliff_scaling": "No need to scale cliff or rock face",
+      "no_winter_snow": "Do not search in winter in areas where there is bitter cold and snow - will be impossible to find boxes if blanket of snow covering ground",
+      "distance_from_road": "No treasure hidden more than THREE MILES from any road",
+      "private_property": "Avoid going on private property - this is a strict rule",
+      "no_private_property_boxes": "No box is hidden on private property of any kind",
+      "no_walking_through_private": "No need to walk through private property to arrive at location of any box",
+      "exception": "Only exception would be rare case where public trail crosses private land for short ways and that section has been given public easement",
+      "no_digging": "No need to dig up or disturb public lands",
+      "not_buried": "No treasure box is buried under the ground on public lands",
+      "digging_wont_help": "Digging will not help you find any of our treasures"
+    },
+    "hunting_safety": {
+      "hunting_seasons": "If on land where hunting is allowed, make yourself aware of hunting seasons and always dress in bright clothes",
+      "companion": "Search with friend or loved one - more fun and safer",
+      "phone": "Wise to always bring a phone",
+      "know_location": "Make sure you always know your location and how to get back",
+      "wildlife": "Research wildlife in area - be aware of bears, poisonous snakes, buffalo, moose during mating season"
+    },
+    "people_interactions": {
+      "no_insider_knowledge": "Author did not give anyone clues to where he hid any boxes",
+      "no_family_knowledge": "Wife, children, parents, siblings - none privy to any proprietary information",
+      "no_mentioned_people_know": "If you happen to cross paths with any of these wonderful people, do not ask them questions - they can't help you, even if they tried"
+    },
+    "final_message": {
+      "purpose": "This postscript is not meant to discourage, dissuade, or frighten you",
+      "intent": "Hunting for our treasures should be fun, invigorating, scenic, and pleasurable",
+      "confidence": "Each treasure box is well within your ability to safely retrieve",
+      "wish": "At the end of this hunt, that is all I wish for you"
+    }
+  },
+
+  "key_elements": {
+    "CRITICAL_RULES": [
+      "FIVE treasure boxes total",
+      "All within 3 miles of a road",
+      "NO private property",
+      "NO digging required",
+      "NOT buried",
+      "NOT in water",
+      "NO dangerous locations",
+      "Take postscript LITERALLY - no hidden meanings here"
+    ]
+  }
+}
