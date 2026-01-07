@@ -8,7 +8,7 @@
 ## Key Information for Lion's Share Hunt
 
 ### The Five Boxes Structure
-- **Four smaller boxes**: Each worth "comfortably in the six figures", each has ONE dedicated chapter in Part Two
+- **Four smaller boxes**: Each worth "comfortably in the six figures", each has ONE dedicated book separate from The Lion's Share Treasure book
 - **Lion's Share (fifth box)**: "Substantially larger", contains majority of treasure value, NO single chapter - clues scattered throughout ENTIRE book
 
 ### Critical Guidance from Author
