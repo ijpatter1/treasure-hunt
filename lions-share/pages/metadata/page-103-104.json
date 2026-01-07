@@ -48,5 +48,7 @@
       "pampero": "Violent wind storm on Rio de la Plata, winds up to 180 km/h"
     },
     "geographic_references": ["Buenos Aires", "Montevideo", "Rio de la Plata", "Lima", "Santiago", "Spain", "Portugal"]
-  }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Cargo details (12,500 coins for Ferdinand VII, hidden 200,000 pesos + 40 bars), Pedro De Lea, 185 passengers, 12 cannons, pampero storm (180 km/h), Rio de la Plata, 'His Lady of the Light was drifting away' all accurate."
 }
