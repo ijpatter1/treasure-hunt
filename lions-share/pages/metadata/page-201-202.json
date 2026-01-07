@@ -27,6 +27,11 @@
     "content_type": "mixed",
     "items": [
       {
+        "name": "351.65 gram gold nugget from Australia",
+        "description": "Australian gold nuggets typically purest in world, ninety-eight percent purity",
+        "note": "Fascinating shape and bright brilliant gold color. One of my favorite gold pieces in our treasure."
+      },
+      {
         "name": "Titanium physical Bitcoin coin by BTCC",
         "description": "Coins like this no longer produced, only a few ever rated by PCGS",
         "details": "Comes with fully loaded private keys to one digital Bitcoin (keys beneath hologram on back)",
@@ -45,7 +50,9 @@
   },
 
   "key_elements": {
-    "treasure_items": ["Two Bali priest rings", "Gold box (Tuyet Nguyet)", "BTCC Bitcoin coin (1/1350)", "Jade bracelet 3000-4000 BC"],
-    "geographic_references": ["Bali", "Southeast Asia", "China"]
-  }
+    "treasure_items": ["Two Bali priest rings", "Gold box (Tuyet Nguyet)", "Australian gold nugget 351.65g", "BTCC Bitcoin coin (1/1350)", "Jade bracelet 3000-4000 BC"],
+    "geographic_references": ["Bali", "Southeast Asia", "Australia", "China"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Page 201: Two Bali priest rings (19th-20th century, birds' beak prongs, pink ruby Tuyet Nguyet), gold box (Southeast Asia, deer front, chicken back, 'no similar box exists anywhere'). Page 202: ADDED 351.65g Australian gold nugget (98% purity, 'one of my favorite gold pieces'), BTCC titanium Bitcoin coin (one of 1350, PCGS rated, private keys for 1 Bitcoin, 250 more made after 2016), olive-green jade bracelet (3000-4000 BC China, one of oldest known, 'jingqi' life force, 5 virtues) all accurate."
 }
