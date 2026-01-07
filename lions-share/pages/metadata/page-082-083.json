@@ -1,0 +1,72 @@
+{
+  "screenshot": "page-082-083.png",
+  "section": "chapter",
+  "chapter": 8,
+  "chapter_title": "Beauty's Bespoken Treasures",
+  "chapter_subtitle": "Know the Past, See the Future",
+
+  "left_page": {
+    "page_number": 82,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "make the soul come out. I feel the stone and think, not to conquer it, but to help it express itself.\"\n\nCharles would mentor only two people in his style of jewelry making. One of those people is his niece. Her name is Sonwai. She still makes jewelry today. One of her rings is now in our treasure.\n\nAs Loloma is the masculine word for \"beauty,\" Sonwai is its feminine form. Sonwai began studying under her uncle when she was just seventeen. They worked together for over twenty years. Her jewelry is as rare as her uncle's. At present, Sonwai creates only a very limited number of new pieces each year.\n\nSonwai has continued Charles' jewelry making style, albeit with a more feminine flair. Despite how revolutionary Charles' creative designs were, there was always a passion for infusing into the art an essence of Hopi traditions.\n\n\"Charles taught that beauty is all around us in Hopi, in the environment, in the culture, in ceremony. By combining elements from what is a part of my everyday life, with the finest of ideas and finest of materials, I can interpret a part of Hopi for people to see and wear.\"\n—SONWAI\n\nLike her uncle, Sonwai owns a plane and is a pilot. Sonwai and Charles flew together often. From the sky they'd gain a fresh perspective on the beautiful rock formations of their territory below. These views became inspiration for their inlay designs.\n\n\"We used our planes to fly around Hopi and places like Canyon de Chelly to look at rock formations. The stones on the mesas are how our inlay designs came to be. It's a bird's eye view.\"\n—SONWAI",
+      "formatted_sections": [
+        {"type": "body", "text": "Charles would mentor only two people in his style of jewelry making. One of those people is his niece. Her name is Sonwai."},
+        {"type": "body", "text": "One of her rings is now in our treasure."},
+        {"type": "quote", "text": "Charles taught that beauty is all around us in Hopi, in the environment, in the culture, in ceremony...", "attribution": "Sonwai"},
+        {"type": "quote", "text": "We used our planes to fly around Hopi and places like Canyon de Chelly to look at rock formations. The stones on the mesas are how our inlay designs came to be. It's a bird's eye view.", "attribution": "Sonwai"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": true, "emphasized_text": []},
+    "images": [{
+      "description": "Sonwai ring with turquoise, sapphire, coral, lapis lazuli, and gold",
+      "text_in_image": null,
+      "potential_clues": ["Sonwai ring in treasure"]
+    }],
+    "sidebar": {"text": "This ring in our treasure was hand made by Verma Nequatewa, also known as Sonwai. It features turquoise, sapphire, turquoise, coral, lapis lazuli, and gold. Its estimated value is over $25,000. The purple ring, along with the other two Loloma rings in our treasure, were purchased at the Wheelwright Museum of the American Indian Art in Santa Fe.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 83,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "MORE ABOUT THE HOPI\n\nDuring my research on Charles Loloma and Sonwai, I became fascinated by the history of the Hopi. For centuries after their migration from Mexico, over 2,500 years ago, the Hopi and their culture thrived. But in the 1600s that began to change. The Spanish and other Europeans arrived, and with them came the deadly smallpox. As it did with native cultures in Central and South America, this disease devastated the Hopi population.\n\nLater in the 1800s, much of the Hopi land was seized from them by the U.S. government. The U.S. government then spent years attempting to eradicate Hopi culture. The government forced Hopi children to be educated away from their tribes. They forced Hopi to cut their hair. They pressured Hopi to convert to Christianity. When the Hopi resisted, their chief Loma-hongvoma was sent to prison in Alcatraz. Alcatraz stands less than three miles from Treasure Island where Charles Loloma's murals later blazed.",
+      "formatted_sections": [
+        {"type": "section_header", "text": "MORE ABOUT THE HOPI"},
+        {"type": "body", "text": "When the Hopi resisted, their chief Loma-hongvoma was sent to prison in Alcatraz."},
+        {"type": "body", "text": "Alcatraz stands less than three miles from Treasure Island where Charles Loloma's murals later blazed."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "sonwai": {
+      "real_name": "Verma Nequatewa",
+      "relation": "Charles Loloma's niece",
+      "meaning": "Feminine form of 'beauty' (Loloma is masculine)",
+      "training": "Started at age 17, worked with uncle for 20+ years",
+      "skills": "Pilot, owns plane"
+    },
+    "treasure_items": {
+      "sonwai_ring": {
+        "materials": "Turquoise, sapphire, coral, lapis lazuli, gold",
+        "value": "Over $25,000",
+        "purchase_location": "Wheelwright Museum of the American Indian Art in Santa Fe"
+      }
+    },
+    "canyon_de_chelly": "Where Charles and Sonwai flew to see rock formations for inlay design inspiration",
+    "alcatraz_connection": {
+      "chief": "Loma-hongvoma imprisoned at Alcatraz",
+      "proximity": "Alcatraz is less than 3 miles from Treasure Island"
+    },
+    "geographic_references": [
+      "Canyon de Chelly",
+      "Hopi mesas",
+      "Alcatraz",
+      "Treasure Island, San Francisco",
+      "Wheelwright Museum, Santa Fe"
+    ]
+  }
+}
