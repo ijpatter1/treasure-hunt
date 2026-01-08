@@ -10,9 +10,11 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 |-------------|----------|
 | **Target Location** | Hollow Rock Trail, Marker 318, Rocky Face Mountain Recreational Area |
 | **Address** | 3451 Rocky Face Church Road, Hiddenite, NC 28636 |
+| **GPS Coordinates** | **35.962242, -81.12039** |
 | **Author Identity** | Jon Collins-Black = **Jon Comer**, son of David Comer (pastor, Statesville, NC) |
 | **Family Property** | 350 Trinity Rd, Statesville, NC (~6-7 miles from Rocky Face Mountain) |
 | **Haiku Code** | Back cover: 3 lines + 18 syllables = **318** (trail marker) |
+| **Park Size** | **318 acres** - triple confirmation of the 318 code |
 | **Confidence Level** | **VERY HIGH** - multiple independent lines of evidence converge |
 
 **How We Got Here:**
@@ -22,6 +24,8 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 4. Joy's Serenade poem elements match Rocky Face features (granite/mica, oaks, pines, rare butterflies)
 5. Author identity research confirms family property ~6-7 miles from Rocky Face Mountain
 6. Trail map confirms marker 318 exists on Hollow Rock Trail; satellite imagery shows rock outcrop at location
+7. **Website analysis confirms park is exactly 318 acres** - triple confirmation (haiku + marker + acreage)
+8. **Hop-tree documented at park** - host plant for Giant Swallowtail butterflies confirms "dancers on the land"
 
 ---
 
@@ -70,10 +74,13 @@ When Jon was approximately 3 years old (~1976):
 
 **Rocky Face Mountain Recreational Area**
 - **Address:** 3451 Rocky Face Church Road, Hiddenite, NC 28636
+- **GPS:** 35.962242, -81.12039
 - **Phone:** 828-632-1093
-- **Size:** 318 acres (matching the marker number)
-- **Trails:** 5+ miles across 6 trails
-- **Elevation:** Summit ~1,800 ft with panoramic views
+- **Size:** **318 acres** - matches haiku code AND marker number (triple confirmation)
+- **Trails:** 6+ miles across multiple trails
+- **Elevation:** Summit ~1,800 ft (~600 ft above surroundings)
+- **Geology:** Granite gneiss dome with muscovite mica ("sparkle")
+- **Opened:** May 25, 2012 (county-owned public land)
 
 ### Specific Target: Marker 318 on Hollow Rock Trail
 
@@ -100,12 +107,15 @@ When Jon was approximately 3 years old (~1976):
 
 | Evidence Category | Details | Confidence |
 |-------------------|---------|------------|
+| **318 Triple Match** | Haiku (3+18) + trail marker + **park acreage (318 acres)** | **EXACT** |
 | **Author Biography** | Grew up ~6-7 miles away; visited Emerald Hollow Mine as child | VERY HIGH |
 | **Chapter References** | Explicit Hiddenite mention (Ch 4); "Alexander" double meaning (Ch 21) | VERY HIGH |
 | **Haiku Encoding** | 3 lines + 18 syllables = marker 318 | VERY HIGH |
+| **Butterflies** | Hop-tree (Giant Swallowtail host) documented = "dancers on the land" | **CONFIRMED** |
 | **Poem Features** | Granite/mica ("sparkle"), oaks, pines, butterflies all present | HIGH |
 | **Trail Map** | Marker 318 confirmed to exist on Hollow Rock Trail | CONFIRMED |
 | **Satellite Imagery** | Rock outcrop visible at marker 318 location | HIGH |
+| **Geocaching** | Park has 21 caches - already used for treasure hunting | COMPATIBLE |
 
 ---
 
@@ -282,6 +292,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 | 8 | Historical figures research | **DONE** | Tiffany & Co. owns Carolina Emerald from Hiddenite |
 | 9 | Trail marker verification | **DONE** | Marker 318 confirmed on trail map |
 | 10 | Author family property | **DONE** | 350 Trinity Rd, Statesville (~6-7 mi from Rocky Face) |
+| 11 | Rocky Face Park website analysis | **DONE** | 318 acres, GPS coords, butterfly host plant confirmed |
 
 ### Remaining Research
 
@@ -386,6 +397,7 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 ### Research Documents
 - `comer-family-research.md` - Author identity and family property
 - `joys-serenade-analysis.md` - Complete poem breakdown and marker 318 theory
+- `rocky-face-website-analysis.md` - **Official website analysis with 318-acre confirmation**
 - `nc-research.md` - North Carolina location research
 - `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
 - `research.md` - Comprehensive web research findings
@@ -406,4 +418,4 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 
 ---
 
-*Last updated: January 8, 2026*
+*Last updated: January 8, 2026 (added website analysis with 318-acre confirmation)*
