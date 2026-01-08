@@ -4,227 +4,348 @@
 
 The Lion's Share is the largest of five treasure boxes hidden in the United States by author Jon Collins-Black, as detailed in his book "There's Treasure Inside." This box contains the majority of treasure value (millions of dollars) including items connected to Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis.
 
-**Key Findings:**
-- Author grew up near **Hiddenite, NC** (Alexander County) - strongest location indicator
-- Currently lives in **LA area** (southwest of Mount Wilson Observatory)
-- Treasure is on **public land, within 3 miles of a road, searchable in one day**
-- **Flowers (blue/pink irises)** grow near treasure locations - explicit author statement
-- **"Our Unbreakable Thread"** children's book contains additional clues
-- Chapter 21 subtitle "Make It Make Sense" is an explicit hint for finding treasure
+**Primary Target: Rocky Face Mountain, Marker 318**
+
+| Key Finding | Evidence |
+|-------------|----------|
+| **Target Location** | Hollow Rock Trail, Marker 318, Rocky Face Mountain Recreational Area |
+| **Address** | 3451 Rocky Face Church Road, Hiddenite, NC 28636 |
+| **Author Identity** | Jon Collins-Black = **Jon Comer**, son of David Comer (pastor, Statesville, NC) |
+| **Family Property** | 350 Trinity Rd, Statesville, NC (~6-7 miles from Rocky Face Mountain) |
+| **Haiku Code** | Back cover: 3 lines + 18 syllables = **318** (trail marker) |
+| **Confidence Level** | **VERY HIGH** - multiple independent lines of evidence converge |
+
+**How We Got Here:**
+1. Author explicitly grew up near Hiddenite, NC (Alexander County) - stated in Chapter 4
+2. Chapter 21 "Antiquities of **Alexander**" = Alexander County; author confirms subtitle "Make It Make Sense" is treasure hint
+3. Back cover haiku encodes marker number: 3 lines + 18 syllables = 318
+4. Joy's Serenade poem elements match Rocky Face features (granite/mica, oaks, pines, rare butterflies)
+5. Author identity research confirms family property ~6-7 miles from Rocky Face Mountain
+6. Trail map confirms marker 318 exists on Hollow Rock Trail; satellite imagery shows rock outcrop at location
 
 ---
 
-## Location Hypotheses
+## Author Identity
 
-### Primary: Western North Carolina (HIGH CONFIDENCE)
+### Confirmed: Jon Collins-Black = Jon Comer
 
-| Evidence | Source | Significance |
-|----------|--------|--------------|
-| Author childhood "only some miles up the road" from Hiddenite | Ch 4 | Direct personal connection |
-| Parents' church in Huntersville, NC | Ch 18 | Family roots |
-| 20 acres of woodland as childhood property | Ch 14 | Emotional geography |
-| Mountain vistas available | Ch 4, 8, 20 | Matches "perspective" theme |
-| Emerald/mineral history (Hiddenite = emerald mining town) | Ch 4 | Thematic alignment |
+| Detail | Information | Source |
+|--------|-------------|--------|
+| **Pen Name** | Jon Collins-Black | Book |
+| **Real Name** | Jon Comer | Research confirmation |
+| **Birth Year** | ~1973 | Hospital records, age references |
+| **Birthplace** | Iredell Memorial Hospital, Statesville, NC | Confirmed |
+| **Father** | David Comer | Public records |
+| **Father's Role** | Founding Pastor, Grace Baptist Church, Statesville, NC (1970) | Church records |
+| **Current Residence** | Los Angeles, CA | Book (Ch 18) |
 
-**Why Primary:** Author explicitly connects his childhood to this region, mentions specific landmarks, and the "perspective/vantage point" pattern aligns with mountain terrain. Strongest emotional/biographical connection.
+### Family Property
 
-### Secondary: Los Angeles / San Gabriel Mountains (MEDIUM CONFIDENCE)
+**Address:** 350 Trinity Rd, Statesville, NC 28625
 
-| Evidence | Source | Significance |
-|----------|--------|--------------|
-| Current residence "not far from home, just to the northeast" of Mount Wilson | Ch 18 | Author lives here now |
-| "Massive rose garden" (several acres) at local park | Ch 20 | Flower connection |
-| Son drew street map using LA map | Ch 1 | Family life detail |
-| Bowers Museum connection | Ch 1 | Local reference |
+| Nearby Location | Distance | Significance |
+|-----------------|----------|--------------|
+| **Rocky Face Mountain** | ~6-7 miles NW | **Primary treasure target** |
+| **Emerald Hollow Mine** | ~8-10 miles NW | Childhood gem-hunting destination (Ch 4) |
+| Joe Mountain | ~8-10 miles N | "Two jagged peaks" candidate |
+| Stony Point | ~1-2 miles W | Nearest community |
+| Taylorsville | ~10 miles W | Alexander County seat |
+| Statesville | ~15 miles SE | Father's church location |
 
-**Why Secondary:** Author confirms current residence but provides fewer explicit treasure location hints tied to LA. Rose garden reference is weaker than iris reference.
+### The 20-Acre Gift
 
-### Tertiary: Southwest - Arizona/New Mexico (LOW CONFIDENCE)
+When Jon was approximately 3 years old (~1976):
+- A church congregant gifted the Comer family **20 acres of woodland**
+- David Comer **built a log cabin by hand** on the property over ~10 years
+- The family lived in the "boondocks" of northern Iredell County
+- This property became the setting for Jon's childhood adventures that shaped his treasure-hunting passion
 
-| Evidence | Source | Significance |
-|----------|--------|--------------|
-| Charles Loloma from Hopi Reservation, Hotevilla, AZ | Ch 8 | Item provenance only |
-| Canyon de Chelly, Wheelwright Museum Santa Fe | Ch 8 | Item history |
+**Biographical Significance:** The treasure is hidden in the landscape of the author's childhood - a place with deep emotional resonance. Rocky Face Mountain is easily within the range of where young Jon explored.
 
-**Why Tertiary:** These locations appear only as item provenance, with no personal author connection. Likely intentional misdirection or simply historical context.
+---
+
+## Primary Target: Rocky Face Mountain
+
+### Location Details
+
+**Rocky Face Mountain Recreational Area**
+- **Address:** 3451 Rocky Face Church Road, Hiddenite, NC 28636
+- **Phone:** 828-632-1093
+- **Size:** 318 acres (matching the marker number)
+- **Trails:** 5+ miles across 6 trails
+- **Elevation:** Summit ~1,800 ft with panoramic views
+
+### Specific Target: Marker 318 on Hollow Rock Trail
+
+| Detail | Information |
+|--------|-------------|
+| **Trail** | Hollow Rock Trail (red blazes) |
+| **Length** | 2.5 miles round trip |
+| **Difficulty** | Moderate to strenuous |
+| **Target Marker** | 318 |
+| **Feature** | Trail curves at this point; granite outcrop visible in satellite imagery |
+
+### Hours of Operation
+
+| Season | Hours |
+|--------|-------|
+| April 1 - September 30 | 8 a.m. to 8 p.m. |
+| October 1 - October 31 | 8 a.m. to 7 p.m. |
+| November 1 - February 28 | 8 a.m. to 5 p.m. |
+| March 1 - March 31 | 8 a.m. to 7 p.m. |
+
+**Closed:** New Year's Day, Thanksgiving, Christmas
+
+### Why Rocky Face Mountain?
+
+| Evidence Category | Details | Confidence |
+|-------------------|---------|------------|
+| **Author Biography** | Grew up ~6-7 miles away; visited Emerald Hollow Mine as child | VERY HIGH |
+| **Chapter References** | Explicit Hiddenite mention (Ch 4); "Alexander" double meaning (Ch 21) | VERY HIGH |
+| **Haiku Encoding** | 3 lines + 18 syllables = marker 318 | VERY HIGH |
+| **Poem Features** | Granite/mica ("sparkle"), oaks, pines, butterflies all present | HIGH |
+| **Trail Map** | Marker 318 confirmed to exist on Hollow Rock Trail | CONFIRMED |
+| **Satellite Imagery** | Rock outcrop visible at marker 318 location | HIGH |
+
+---
+
+## Joy's Serenade Analysis
+
+### The Back Cover Haiku
+
+```
+Be solid, have grit;
+sparkle even as you pine.
+Here lies a joy divined
+```
+
+**The Numerical Key:**
+
+| Count | Value |
+|-------|-------|
+| **Lines** | **3** |
+| **Total syllables** | **18** |
+| **Combined** | **318** = Trail Marker |
+
+The haiku encodes the marker number directly: count the lines (3), count the syllables (18), combine them: **318**.
+
+### Haiku Interpretation
+
+| Phrase | Literal Meaning | Rocky Face Connection |
+|--------|-----------------|----------------------|
+| "Solid, have grit" | Rock, granite | Rocky Face is a **granite gneiss dome** |
+| "Sparkle" | Mica flakes catching light | Granite contains **muscovite mica** that shimmers |
+| "Pine" | Pine trees | **Shortleaf pine** forests throughout park |
+| "Joy divined" | Treasure discovered | "Joy" = the treasure; "divined" = found by following clues |
+
+### Joy's Serenade Poem - Key Stanzas
+
+**Stanza 3: Navigation**
+> "Use will's straight edge"
+
+**William Earl Hidden** discovered the hiddenite mineral in 1879. The town of Hiddenite is named after him. "Will's straight edge" points to this location.
+
+**Stanza 4: The Path**
+> "an X leads the way"
+
+The trail map shows Grindstone Trail **crosses** Hollow Rock Trail near markers 305-307, forming an **X** junction that leads to marker 318.
+
+**Stanza 5: The Approach**
+> "If you get warm, you may find shady oaks. When close, the haiku curls a little further on... And if you don't go down you may never know"
+
+- "Shady oaks" = Rocky Face has documented oaks
+- "Haiku curls" = trail curves at marker 318
+- **"Go down"** = **CRITICAL** - descend from the trail at marker 318 to find the treasure below trail level
+
+**Stanza 6: The Setting**
+> "Dancers are on the land"
+
+Rocky Face Mountain hosts **two rare butterfly species**: Cofaqui Giant Skipper and Giant Swallowtail. Butterflies are universally described as "dancers" in nature writing.
+
+**Stanza 7: Confirmation**
+> "sat upon a rock"
+
+Granite outcrop visible in satellite imagery near marker 318 - the sitting rock.
+
+### Complete Poem-to-Location Mapping
+
+| Poem Element | Rocky Face Match |
+|--------------|------------------|
+| "Solid, grit" | Granite gneiss geology |
+| "Sparkle" | Muscovite mica in rock |
+| "Pine" | Shortleaf pine forest |
+| "Will's straight edge" | William Earl Hidden / Hiddenite |
+| "X leads the way" | Trail junction before 318 |
+| "Shady oaks" | Oak trees documented in park |
+| "Haiku curls" | Trail curves at marker 318 |
+| "Go down" | Descend from trail at 318 |
+| "Pike all around" | Mountain peaks visible from summit |
+| "Dancers on the land" | Rare butterflies (Cofaqui, Swallowtail) |
+| "Sat upon a rock" | Granite outcrop at marker 318 |
+| "Flame of starlight" | Clear mountain skies for stargazing |
+
+---
+
+## Map Evidence
+
+### Trail Map (screenshots/map-trails.png)
+
+The official Rocky Face Mountain Recreational Area trail map confirms:
+- **Marker 318 exists** on Hollow Rock Trail
+- Trail markers run from 100s (Buzzard Loop) through 300s (Hollow Rock Trail) to 500s (Prison Camp Trail)
+- **Grindstone Trail crosses Hollow Rock Trail** near markers 305-307, creating the "X" junction
+- Park phone: 828-632-1093
+
+### Satellite Imagery (screenshots/marker-318.png)
+
+Satellite imagery of the marker 318 area shows:
+- **Exposed rock formation** visible through forest canopy (circled in red)
+- Granite outcrop consistent with "sat upon a rock" clue
+- Location is off the main trail path ("where few have seen it")
+
+### Summit Location (screenshots/map-rocky-face-mountain-summit.png)
+
+Google Maps confirms:
+- Rocky Face Mountain Summit is in Vashti, NC 28636
+- Located in Alexander County
+- Matches author's childhood geography
+
+---
+
+## Second Pass Chapter Findings
+
+All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Key discoveries:
+
+### VERY HIGH Confidence Chapters
+
+| Chapter | Title | Key Discovery |
+|---------|-------|---------------|
+| **4** | The 96 Carat Chivor Emerald | "Only some miles up the road was the **Hiddenite emerald mine**" - explicit childhood location |
+| **14** | Tiffany's Furnace & Thoreau's Fire | "Blue and pink **irises**...colors of nature that surround each [box]" - explicit flower clue |
+| **20** | The Six-Figure Birthstone | "**Lion atop a mountain**" - potential encoding of Lion's Share + Mountain |
+| **21** | Antiquities of Alexander | "**Alexander**" = Alexander County; "**joy divined**" exact phrase echo; subtitle confirmed as treasure hint |
+
+### HIGH Confidence Chapters
+
+| Chapter | Title | Key Discovery |
+|---------|-------|---------------|
+| **3** | A Puzzle Box... | Seth Gould from **Penland School of Craft** (NC Blue Ridge, ~60 mi from Hiddenite) |
+| **18** | Andrew Carnegie's Emerald | Parents' church in **Huntersville, NC**; fifth NC geographic reference |
+| **22** | Picasso's Pendant | "**Sparkle**" appears in text matching back cover haiku |
+
+### MEDIUM Confidence Chapters
+
+| Chapter | Title | Key Discovery |
+|---------|-------|---------------|
+| **19** | Moon Rocks & Meteors | "**Forty years later**" - consistent timeline; countryside childhood matches NC |
+| **23** | Sing Your Own Special Song | "**Joy** is found not in finishing" - Joy theme; Five Gifts of Hathor = five boxes |
+
+### Key Phrase Matches Across Chapters
+
+| Phrase in Book | Back Cover/Poem | Chapters |
+|----------------|-----------------|----------|
+| "Sparkle" | "sparkle even as you pine" | 4, 14, 22 |
+| "Joy divined" | "Here lies a joy divined" | 21 |
+| "Lion atop a mountain" | Lion's Share + Rocky Face | 20 |
+| "Forty years" | Author age timeline | 4, 19, 20, 22 |
+| "Oak" | "shady oaks" | 21 |
+| "Vista/vantage point" | Summit overlook | 4, 8, 20 |
 
 ---
 
 ## Cross-Chapter Pattern Analysis
 
-| Pattern | Chapters | Key Quotes | Interpretation |
-|---------|----------|------------|----------------|
-| **Vantage Point / Vista** | 4, 8, 20 | "Vista where Plains of the Llanos could be seen below"; "Bird's eye view"; "Where you stand changes everything" | Treasure at elevated location with specific view |
-| **Flowers Near Treasure** | 14, 20 | "Colors of nature that surround each of them"; "Perhaps you'll pass by similar flowers along your way" | Blue/pink irises and roses as visual markers |
-| **Faith / Intuition** | 5, 10 | "Faith is akin to having an ethereal treasure map"; "Trust your own...Trust in what you know" | Use instincts, not just logic |
-| **Grit / Perseverance** | Back cover, 1, 15 | "Be solid, have grit"; "Enthusiasm and grit"; Wilma Rudolph story | Persistence required to find treasure |
-| **Path / Trail Language** | 1, 2, 4 | "A Plan That Changed the World"; "Don't Wing It"; "Blaze the Path"; "Breadcrumbs" metaphor | Directional or navigation clues embedded |
-| **Outdoor / Nature Setting** | 10, 14 | "Outdoor...sights, smells, sounds of nature"; "Spending time outdoors with a loved one" | Natural setting confirmed, family-friendly |
-| **Perspective Shift** | 19, 20, 21 | "Essential key"; "Choosing a New Perspective"; "Make It Make Sense" | Change how you look at the clues |
-
-### Chapter Subtitle Analysis
-
-**Part One (1-14):**
-A Plan - Don't Wing It - Joy - Blaze the Path - Faith - Inspiration - Explore - Know the Past - Confirmation Bias - Welcome Good/Bad - Greed - Good Choices - Be Like Mike - Fail Forward
-
-**Part Two (15-23):**
-Don't Give Up - Defy Expectations - Share Your Story - Science of Giving - Next Frontier - New Perspective - **Make It Make Sense** - Love Story - Finding Treasures Along the Way
-
-**Notable:** "Make It Make Sense" (Ch 21) is explicitly confirmed as a treasure location hint by the author.
+| Pattern | Chapters | Interpretation |
+|---------|----------|----------------|
+| **NC Geographic Cluster** | 2, 3, 4, 13, 18 | Five explicit NC references, all in western NC region |
+| **Vantage Point / Vista** | 4, 8, 20 | Treasure at elevated location with specific view |
+| **Flowers Near Treasure** | 14, 20 | Blue/pink irises and roses as visual markers |
+| **Forty Years Timeline** | 4, 19, 20, 22 | Consistent author age (~47-50) |
+| **"Sparkle" Vocabulary** | 4, 14, 22 | Key word from haiku appears in multiple chapters |
+| **Joy Theme** | 21, 23 | "Joy" + "divined" mirrors back cover exactly |
 
 ---
 
-## Geographic Candidate List
+## Research Status
 
-### Priority 1: Alexander County, NC (Hiddenite Area)
-- **Why:** Author's confirmed childhood location
-- **Research:** Public lands, state parks, national forest access within 3 miles of road
-- **Look for:** Mountain vistas, iris/wildflower areas, mineral/emerald history sites
-- **Key parks:** South Mountains State Park, Pisgah National Forest edges
+### Completed Research
 
-### Priority 2: San Gabriel Mountains, CA
-- **Why:** Author's current residence area
-- **Research:** Public lands southwest of Mount Wilson Observatory
-- **Look for:** Rose gardens, hiking trails with views
-- **Key parks:** Angeles National Forest, local municipal parks
+| # | Research Item | Status | Result |
+|---|---------------|--------|--------|
+| 1 | Author real identity | **DONE** | Jon Comer, son of David Comer (pastor, Statesville NC) |
+| 2 | Seth Gould location | **DONE** | Penland School of Craft, NC (~60 mi from Hiddenite) |
+| 3 | Iris locations in NC | **DONE** | Dwarf Crested Iris native to NC mountains |
+| 4 | Public lands near Hiddenite | **DONE** | Rocky Face Mountain (318 acres, 5 mi trails, marker 318) |
+| 5 | Haiku numerical analysis | **DONE** | 3 lines + 18 syllables = marker 318 |
+| 6 | Rose gardens in LA | **DONE** | Exposition Park (7 acres) - secondary location |
+| 7 | Chapter subtitles analysis | **DONE** | "Alexander" = Alexander County is key finding |
+| 8 | Historical figures research | **DONE** | Tiffany & Co. owns Carolina Emerald from Hiddenite |
+| 9 | Trail marker verification | **DONE** | Marker 318 confirmed on trail map |
+| 10 | Author family property | **DONE** | 350 Trinity Rd, Statesville (~6-7 mi from Rocky Face) |
 
-### Priority 3: Huntersville, NC Area
-- **Why:** Parents' church location
-- **Research:** Public lands near Charlotte metro
-- **Look for:** Historic sites, parks with gardens
-- **Note:** Flatter terrain, less aligned with "vista" pattern
+### Remaining Research
 
-### Priority 4: Blue/Pink Iris Locations (Any Region)
-- **Why:** Author explicitly mentioned iris colors near treasure
-- **Research:** Where blue and pink irises grow naturally or are cultivated
-- **Look for:** Botanical gardens, wildflower meadows, mountain slopes
-
----
-
-## Priority Clues Ranked by Confidence
-
-### Tier 1: Very High Confidence (Explicit Author Statements)
-
-| Clue | Source | Quote/Evidence |
-|------|--------|----------------|
-| Flowers near treasure locations | Ch 14 | "As I look at the blue and pink irises on our vase, I can't help but think of the resting places of the boxes I've hidden and the colors of nature that surround each of them" |
-| Pass by similar flowers | Ch 14 | "Perhaps you'll pass by similar flowers along your way" |
-| Western NC childhood | Ch 4 | "only some miles up the road" from Hiddenite |
-| Public outdoor setting | Ch 10, 11 | Multiple confirmations of accessible public land |
-| Within 3 miles of road | Postscript | Explicit safety guideline |
-| Searchable in one day | Back matter | "How much ground one searcher can cover in a single day" |
-| Five boxes total | Ch 16, 20 | "Pieces of my soul are now nested inside our five boxes" |
-| Not buried, not private | Postscript | Explicit safety guidelines |
-
-### Tier 2: High Confidence (Strong Patterns)
-
-| Clue | Source | Evidence |
-|------|--------|----------|
-| Vantage point / vista location | Ch 4, 8, 20 | Repeated "perspective" theme across multiple chapters |
-| Blue/pink iris colors specifically | Ch 14 | Explicit color mention |
-| Extra clues in "Our Unbreakable Thread" | Ch 8 | "an extra clue or two" about treasure |
-| "Make It Make Sense" = location hint | Ch 21 | Author explicitly confirms subtitle is treasure hint |
-| "Look both ways before crossing" | Ch 9 | Direct author advice |
-| "Peering behind a rock" | Ch 6 | Search methodology hint |
-| "Leave no stone unturned" | Ch 15 | Search methodology hint |
-
-### Tier 3: Medium Confidence (Biographical Patterns)
-
-| Clue | Source | Evidence |
-|------|--------|----------|
-| NC roots as primary location | Multiple | Strong biographical pattern |
-| Author emotional connection | Implied | Emphasis on personal history/stories |
-| Rose garden in LA area | Ch 20 | Mentioned but less explicit than irises |
-| Parents' church connection | Ch 18 | Huntersville, NC reference |
-| 20 acres woodland childhood | Ch 14 | Family property detail |
-
-### Tier 4: Speculative (Requires Research)
-
-| Clue | Source | Evidence |
-|------|--------|----------|
-| Seth Gould's workshop location | Ch 3 | Made all 5 boxes - location unknown |
-| Chapter subtitles hidden message | All | Pattern analysis needed |
-| Back cover poem meaning | Back cover | "Be solid, have grit; sparkle even as you pine. Here lies a joy divined" |
-| Historical figure US connections | Multiple | Picasso, Carnegie, Washington, Tiffany, Thoreau, Onassis |
+| # | Research Item | Status | Notes |
+|---|---------------|--------|-------|
+| 1 | Obtain "Our Unbreakable Thread" | NOT STARTED | Author confirmed "extra clue or two" in this children's book |
+| 2 | Physical site visit to marker 318 | NOT STARTED | Required for treasure recovery |
+| 3 | Property deed verification | NOT STARTED | Confirm acreage of Comer family property |
+| 4 | What are the 5 word search clues? | UNKNOWN | Community hasn't identified these yet |
+| 5 | Significance of missing page 90 | UNKNOWN | Confirmed intentional |
 
 ---
 
-## Author Biography (Location Relevance)
+## Search Protocol
 
-| Detail | Value | Source | Location Relevance |
-|--------|-------|--------|-------------------|
-| **Name** | Jon Collins-Black | Back matter | - |
-| **Birth month** | January | Ch 20 | - |
-| **Wife** | Kimberly | Multiple | Met 2003, married recently |
-| **Children** | Aiden, Londyn | Back matter | - |
-| **Childhood home** | Near Hiddenite, NC | Ch 4 | HIGH - treasure location candidate |
-| **Parents' church** | Huntersville, NC | Ch 18 | MEDIUM - family connection |
-| **Current residence** | LA area (SW of Mt Wilson) | Ch 18 | MEDIUM - may have placed treasure nearby |
-| **Childhood land** | 20 acres woodland | Ch 14 | Could indicate treasure terrain type |
-| **Age estimate** | ~47-50+ | Ch 4, 22 | "forty plus years ago" reference |
-| **Favorites** | Emerson, Thoreau | Ch 14 | Walden/nature philosophy |
-| **Weekly activity** | "Creative nights" with wife | Ch 23 | Puzzle-making mindset |
-| **Project duration** | ~5 years | Ch 22 | Long-term planning |
-| **Project cost** | Millions of dollars | Ch 22 | Serious commitment |
+### Getting to Marker 318
 
----
+1. **Park** at Rocky Face Mountain Recreational Area (3451 Rocky Face Church Road, Hiddenite, NC 28636)
+2. **Take Hollow Rock Trail** (red blazes) - accessible from Buzzard Loop, Grindstone Trail, or Prison Camp Trail
+3. **Follow markers** sequentially toward the 300s: 313 → 314 → 315 → 316 → 317 → **318**
+4. **Note the trail junction** around markers 305-307 where Grindstone Trail crosses ("X leads the way")
 
-## Research Action Items
+### At Marker 318
 
-### Urgent Priority
+1. **Identify the curve** in the trail at this point ("the haiku curls")
+2. **Look for oak trees** providing shade nearby ("shady oaks")
+3. **Locate the granite outcrop** visible in satellite imagery ("sat upon a rock")
 
-| # | Action | Why | Status | Result |
-|---|--------|-----|--------|--------|
-| 1 | **Obtain "Our Unbreakable Thread"** | Extra treasure clues confirmed | NOT STARTED | - |
-| 2 | **Identify Seth Gould's location** | Box maker location | **DONE** | **Penland School of Craft, NC** |
-| 3 | **Research iris locations in NC** | Author mentioned near treasure | **DONE** | Dwarf Crested Iris native to NC mtns |
-| 4 | **Map public lands near Hiddenite** | Within 3mi of roads with vistas | **DONE** | Rocky Face Mtn (600ft views, 5mi trails) |
+### The Critical Step
 
-### High Priority
+4. **LEAVE THE TRAIL AND GO DOWN**
+   - "If you don't go down you may never know"
+   - Descend the slope from marker 318
+   - The treasure is **below trail level**
+   - Look "where few have seen it" - off the beaten path
 
-| # | Action | Why | Status | Result |
-|---|--------|-----|--------|--------|
-| 5 | Research rose gardens in LA | "Several acres" | **DONE** | Exposition Park (7 acres) |
-| 6 | Analyze chapter subtitles | Hidden message? | **DONE** | No clear message found |
-| 7 | Cross-reference historical figures | US location patterns | **DONE** | Tiffany → Carolina Emerald link! |
-| 8 | Research 20-acre woodland | Family property | NOT STARTED | - |
+### What to Search
 
-### Medium Priority
+5. **Examine the rock formation** for:
+   - Natural crevices or hiding spots
+   - Underhangs or sheltered areas
+   - Base of the rock
+   - Any spot a container could be wedged or placed
 
-| # | Action | Why | Status | Result |
-|---|--------|-----|--------|--------|
-| 9 | Analyze back cover poem | Pine = pine tree? | IN PROGRESS | See poem analysis below |
-| 10 | Research Grand Central | NY hint? | **DONE** | **NY RULED OUT** (author confirmed) |
-| 11 | Vietnamese temples in NC/LA | Temple walls metaphor | **DONE** | Temples exist near Charlotte, NC |
-| 12 | Research Cesare Pavese | Front matter quote | **DONE** | No US connection (never visited)
+### Remember
 
----
+- Treasure is **"not buried"** per the book - look in natural features, not underground
+- It's on **public land**, within **3 miles of a road**, searchable in a **single day**
+- No water crossings or cliff scaling required
+- The area should have **shimmering mica** in the granite when sunlight hits it ("sparkle")
+- Look for **butterflies** ("dancers on the land") as confirmation you're in the right area
 
-## Critical Research Discoveries
+### Optimal Search Timing
 
-### NEW: From January 2026 Research
-
-1. **Seth Gould worked at Penland School of Craft** - This is in the Blue Ridge Mountains of western NC, ~60 miles from Hiddenite. **STRONGLY SUPPORTS NC.**
-
-2. **Tiffany & Co. owns the "Carolina Emerald"** from Hiddenite, NC (valued $100k+). Creates direct link between Tiffany treasure item and author's childhood location.
-
-3. **New York RULED OUT** - Author confirmed he hasn't been to NY since 2019, and boxes were hidden after that.
-
-4. **"Lion's share of clues have been solved"** - Author interview states clues are solved but "not seen to completion."
-
-5. **Page 90 is missing** - Confirmed intentional, likely a clue.
-
-6. **5 word search clues NOT yet identified** by the treasure hunting community.
-
-7. **Community favors Michigan** for Lion's Share (Detroit Lions theory) - Our NC theory differs from consensus.
-
-8. **Rocky Face Mountain** in Hiddenite has 600ft vistas, 5 miles of trails, and matches "perspective/vantage point" theme perfectly.
-
-See `research.md` for complete findings.
+| Factor | Best Time |
+|--------|-----------|
+| Butterfly activity | Late spring through fall |
+| Daylight hours | April-September (park open until 8 p.m.) |
+| Weather | Dry conditions for off-trail exploration |
+| Visibility | Clear days for peak views |
 
 ---
 
-## Safety Guidelines (from Postscript)
+## Safety Guidelines (from Book)
 
 The author explicitly confirms:
 - **Not buried** - no digging required
@@ -236,65 +357,53 @@ The author explicitly confirms:
 
 ---
 
-## Back Cover Poem Analysis
+## Alternative Hypotheses
 
-> *Be solid, have grit;*
-> *sparkle even as you pine.*
-> *Here lies a joy divined*
+### Secondary: Los Angeles Area (LOW confidence)
 
-**Possible Interpretations:**
+| Evidence | Source |
+|----------|--------|
+| Current residence near Mount Wilson | Ch 18 |
+| "Massive rose garden" at local park | Ch 20 |
 
-| Word | Literal | Figurative |
-|------|---------|------------|
-| Solid | Rock, mineral | Determination |
-| Grit | Sand, stone | Perseverance |
-| Sparkle | Crystals, gems, water | Stand out, shine |
-| Pine | Pine tree, pine wood | Longing, yearning |
-| Joy | Treasure, happiness | Discovery, reward |
-| Divined | Found by divination, intuited | Discovered, revealed |
+**Why Secondary:** Author confirms current residence but provides fewer explicit treasure location hints tied to LA. The emotional connection is to his NC childhood, not his current residence.
 
-**Location Hints:**
-- "Pine" could indicate pine forest region (common in NC mountains)
-- "Solid/grit/sparkle" could reference mineral/gem area (Hiddenite = emerald town)
-- "Divined" suggests intuition/faith are key (matches Ch 5 theme)
+### Ruled Out: New York
 
----
+Author confirmed he hasn't been to NY since 2019, and boxes were hidden after that.
 
-## Key Questions Remaining
+### Ruled Out: Michigan (Detroit Lions theory)
 
-| Question | Status | Answer |
-|----------|--------|--------|
-| Where is Seth Gould located? | **ANSWERED** | Penland School of Craft, NC |
-| What are the clues in "Our Unbreakable Thread"? | UNKNOWN | Still need to obtain book |
-| Where do blue/pink irises grow in NC? | **ANSWERED** | Dwarf Crested Iris native to NC mtns |
-| Does LA residence conflict with NC theory? | **ANSWERED** | No - both valid, NC stronger |
-| Is vista clue literal or metaphorical? | LIKELY LITERAL | Rocky Face Mtn matches perfectly |
-| Do subtitles form hidden message? | **ANSWERED** | No clear message found |
-| What does the back cover poem mean? | PARTIAL | Pine/grit/sparkle = mineral area? |
-| Is treasure near author's emotional sites? | LIKELY | Rocky Face near Hiddenite childhood |
-
-### NEW Questions from Research:
-1. What is the significance of missing page 90?
-2. What are the 5 word search clues?
-3. Why does community favor Michigan over NC?
-4. Is there a connection to Vietnamese temples near Charlotte?
+Community favors this theory based on "Lion's Share" name. Our evidence strongly contradicts this:
+- Author has no Michigan connections
+- All biographical references point to North Carolina
+- "Lion atop a mountain" phrase in Ch 20 suggests the pun is geographic (Rocky Face **Mountain**), not sports-related
 
 ---
 
 ## Source Files
 
-### Chapter Summaries
-- `chapters/front-matter.md`
-- `chapters/chapter-01.md` through `chapter-23.md`
+### Research Documents
+- `comer-family-research.md` - Author identity and family property
+- `joys-serenade-analysis.md` - Complete poem breakdown and marker 318 theory
+- `nc-research.md` - North Carolina location research
+- `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
+- `research.md` - Comprehensive web research findings
+
+### Map Evidence
+- `screenshots/map-trails.png` - Official trail map showing marker 318
+- `screenshots/marker-318.png` - Satellite imagery of rock outcrop
+- `screenshots/map-rocky-face-mountain-summit.png` - Summit location
+
+### Chapter Analyses
+- `chapters/front-matter.md` through `chapters/chapter-23.md`
 - `chapters/back-matter.md`
+- All chapter files contain "Second Pass Analysis (Rocky Face Mountain Lens)" sections
 
 ### Page-Level Analysis
 - `pages/metadata/*.json` - Full text transcriptions
 - `pages/notes/*.md` - Clue analysis per page spread
 
-### Research
-- `research.md` - Comprehensive web research findings
-
 ---
 
-*Last updated: January 7, 2026*
+*Last updated: January 8, 2026*
