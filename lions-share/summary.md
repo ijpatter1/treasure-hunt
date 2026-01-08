@@ -26,6 +26,7 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 6. Trail map confirms marker 318 exists on Hollow Rock Trail; satellite imagery shows rock outcrop at location
 7. **Website analysis confirms park is exactly 318 acres** - triple confirmation (haiku + marker + acreage)
 8. **Hop-tree documented at park** - host plant for Giant Swallowtail butterflies confirms "dancers on the land"
+9. **JCB interview (Nov 2025): "The lion's share of its clues have been solved. Yet, these clues have not quite been seen to completion."** - Suggests armchair work is done; physical search required
 
 ---
 
@@ -293,6 +294,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 | 9 | Trail marker verification | **DONE** | Marker 318 confirmed on trail map |
 | 10 | Author family property | **DONE** | 350 Trinity Rd, Statesville (~6-7 mi from Rocky Face) |
 | 11 | Rocky Face Park website analysis | **DONE** | 318 acres, GPS coords, butterfly host plant confirmed |
+| 12 | JCB interview analysis | **DONE** | "Lion's share clues have been solved" - critical validation |
 
 ### Remaining Research
 
@@ -398,6 +400,7 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `comer-family-research.md` - Author identity and family property
 - `joys-serenade-analysis.md` - Complete poem breakdown and marker 318 theory
 - `rocky-face-website-analysis.md` - **Official website analysis with 318-acre confirmation**
+- `jcb-interview-analysis.md` - **Analysis of Mysterious Writings interviews with critical "clues solved" statement**
 - `nc-research.md` - North Carolina location research
 - `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
 - `research.md` - Comprehensive web research findings
