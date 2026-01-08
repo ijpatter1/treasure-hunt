@@ -1,0 +1,173 @@
+{
+  "screenshots": [
+    "unbreakable-thread-cover.png",
+    "unbreakable-thread-title-page.png",
+    "unbreakable-thread-back-cover.png"
+  ],
+  "book_info": {
+    "title": "Our Unbreakable Thread",
+    "author": "Jon Collins-Black",
+    "illustrator": "Nicole Gsell",
+    "editor": "Michael Green",
+    "designer": "Susan Szecsi",
+    "publisher": "Marble Press LLC",
+    "publisher_address": "2260 Hanover Street, Palo Alto, CA 94306",
+    "website": "www.MarblePress.com",
+    "first_edition": "April 2024",
+    "isbn_hardback": "978-1-958325-08-7",
+    "isbn_ebook": "978-1-958325-09-4",
+    "print_location": "China",
+    "medium": "watercolors and gouache",
+    "print_number_line": "10 9 8 7 6 5 4 3 2 1"
+  },
+  "dedications": {
+    "author": {
+      "text": "To Aiden & Landon our unbreakable thread.",
+      "attribution": "J.C.B."
+    },
+    "illustrator": {
+      "text": "To my husband and Jake.",
+      "attribution": "N.G."
+    }
+  },
+  "cover": {
+    "title_typography": {
+      "font": "Pink/coral script cursive",
+      "embellishment": "Red heart trailing from 'd' in Thread"
+    },
+    "image_description": {
+      "scene": "Happy family portrait outdoors at sunset",
+      "characters": [
+        {
+          "role": "Father",
+          "appearance": "Short brown hair, clean-shaven",
+          "clothing": "Purple/blue t-shirt, blue jeans",
+          "action": "Carrying son on shoulders, laughing"
+        },
+        {
+          "role": "Mother",
+          "appearance": "Long brown hair, fair skin",
+          "clothing": "Yellow/gold blouse with white floral print, dark pants",
+          "action": "Walking beside family, smiling at them"
+        },
+        {
+          "role": "Son (young child ~3-4 years)",
+          "appearance": "Light complexion",
+          "clothing": "Blue and white horizontal striped shirt, blue shorts, white sneakers",
+          "action": "Sitting on father's shoulders, laughing joyfully"
+        }
+      ],
+      "setting": "Outdoor park or garden",
+      "background_details": [
+        "Green trees and bushes on both sides",
+        "Pink/peach/purple sunset sky",
+        "Green grass below"
+      ],
+      "colors": ["yellow", "purple", "blue", "pink", "green", "peach"]
+    }
+  },
+  "title_page": {
+    "text": {
+      "raw_garbled": "JonCollins-BlackIllustratedbyNicoleGsell",
+      "transcribed": "Jon Collins-Black Illustrated by Nicole Gsell"
+    },
+    "title_typography": {
+      "font": "Pink/coral script cursive",
+      "embellishment": "Red heart trailing from 'd' in Thread"
+    },
+    "small_illustration": "Small bottle or vial icon in upper right corner",
+    "image_description": {
+      "scene": "Expectant parents on garden bench",
+      "characters": [
+        {
+          "role": "Father",
+          "appearance": "Short brown hair",
+          "clothing": "Blue jacket/shirt, dark jeans, sneakers",
+          "action": "Sitting on bench, hand on wife's pregnant belly, looking at her lovingly"
+        },
+        {
+          "role": "Mother (pregnant)",
+          "appearance": "Long brown hair",
+          "clothing": "Pink long-sleeve top, blue jeans, gray sneakers",
+          "action": "Sitting on bench, hands on pregnant belly, looking down at baby bump"
+        }
+      ],
+      "setting": "Beautiful spring garden",
+      "objects": [
+        {
+          "item": "Wooden bench",
+          "description": "Brown wooden park bench with back and arms",
+          "potential_significance": "Gathering place, family bonding"
+        }
+      ],
+      "flora": [
+        "Red tulips in foreground",
+        "Orange tulips in foreground",
+        "White hydrangea bushes on left",
+        "Purple/pink flowering tree (possibly cherry blossoms) upper right",
+        "Green grass and various plants"
+      ],
+      "colors": ["pink", "blue", "red", "green", "white", "purple"]
+    }
+  },
+  "back_cover": {
+    "image_description": {
+      "scene": "Peaceful garden scene",
+      "objects": [
+        {
+          "item": "Bird bath/fountain",
+          "description": "Gray stone pedestal bird bath in center",
+          "potential_significance": "Could be a visual marker"
+        }
+      ],
+      "flora": [
+        "Red tulips",
+        "Yellow tulips",
+        "Purple/pink flowering tree",
+        "Green bushes and grass"
+      ],
+      "fauna": [
+        {
+          "item": "Purple butterfly",
+          "description": "Flying in upper left area",
+          "potential_significance": "Connects to 'dancers on the land' butterfly theme"
+        }
+      ],
+      "colors": ["purple", "pink", "red", "yellow", "green", "gray"]
+    }
+  },
+  "potential_clues": {
+    "numbers": [
+      {"value": "2024", "context": "Publication year"},
+      {"value": "978-1-958325-08-7", "context": "Hardback ISBN"},
+      {"value": "978-1-958325-09-4", "context": "Ebook ISBN"},
+      {"value": "2260", "context": "Publisher street address"},
+      {"value": "94306", "context": "Publisher ZIP code (Palo Alto)"},
+      {"value": "10 9 8 7 6 5 4 3 2 1", "context": "Print number line (first printing)"}
+    ],
+    "names": [
+      {"name": "Aiden", "context": "JCB's son, dedication"},
+      {"name": "Landon", "context": "JCB's son, dedication"},
+      {"name": "Jake", "context": "Illustrator's family member"}
+    ],
+    "geographic_hints": [
+      "Palo Alto, CA 94306 (publisher location)",
+      "Garden/park setting throughout"
+    ],
+    "biographical_connections": [
+      "Aiden & Landon confirmed as JCB's children",
+      "Book written from father's perspective to son",
+      "Connects to David Comer → Jon Comer → grandchildren narrative"
+    ],
+    "main_book_references": [],
+    "visual_patterns": [
+      "Tulips appear on cover, title page, and back cover",
+      "Purple/pink flowering trees recur",
+      "Garden/nature theme throughout",
+      "Heart symbol integrated into title",
+      "Butterfly on back cover (dancers theme?)"
+    ]
+  },
+  "narrative_context": "Front matter establishes the book as a father's love letter to his children, representing the 'unbreakable thread' between generations. The progression from pregnant couple (title page) to happy family with young child (cover) sets up the generational narrative.",
+  "verification_notes": "Text transcribed from garbled ebook. Visual descriptions verified against screenshots."
+}
