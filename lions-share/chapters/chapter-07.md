@@ -116,3 +116,61 @@ These describe specific physical landscape features to explore.
 - page-070-071.json + page-070-071.md
 - page-072-073.json + page-072-073.md
 - page-074-075.json + page-074-075.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### Physical Terrain Description
+
+The chapter provides explicit terrain features to explore:
+
+> "We never know what's past the **next tree line**, over the **next rise**, or around the **next corner** unless we see it for ourselves."
+
+These describe hiking terrain matching Rocky Face Mountain:
+- **Tree line** = wooded trail approach
+- **Rise** = elevation gain on trail
+- **Corner** = trail curves (marker 318 is at a curve)
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "next **tree line**" | Back cover: "**pine**" / Poem: "**shady oaks**" | Forest terrain |
+| "over the next **rise**" | Poem: "how **high** you ever want to be" | Elevation change |
+| "around the next **corner**" | Poem: "the haiku **curls** a little further on" | Trail curve at 318 |
+| "**Go where others have not**" | Poem: "where **few have seen it**" | Off-trail location |
+| "**Explore More**" subtitle | Physical search required | Action instruction |
+
+### "Go Where Others Have Not"
+
+The author advises: "Go where others have not."
+
+This matches Joy's Serenade:
+- "where few have seen it" (hidden spot)
+- "if you don't go down / you may never know" (leave the trail)
+
+The treasure is in a spot most hikers wouldn't venture to.
+
+### Amelia Earhart's Poetry
+
+Her poem "From an Airplane" mentions "**Purple hills that hold the lake**"—could describe NC Blue Ridge terrain with reservoirs.
+
+### Connections to Rocky Face Mountain
+
+| Element | Evidence | Strength |
+|---------|----------|----------|
+| **"Tree line, rise, corner"** | Matches hiking trail terrain | **HIGH** |
+| **"Go where others have not"** | Matches "few have seen it" | **HIGH** |
+| **Trail curve** | "corner" = curve at marker 318 | **MEDIUM** |
+
+### Confidence Assessment
+
+**Chapter 7's support for Rocky Face Mountain theory: HIGH**
+
+This chapter provides:
+- **Terrain descriptions** matching hiking trail features
+- **"Go where others have not"** = off-trail search
+- **"Corner" = trail curve** at marker 318

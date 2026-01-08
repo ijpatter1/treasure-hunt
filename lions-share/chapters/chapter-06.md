@@ -122,3 +122,54 @@ This is a direct, explicit metaphor that may describe the actual hiding method.
 - page-064-065.json + page-064-065.md
 - page-066-067.json + page-066-067.md
 - page-068-069.json + page-068-069.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### CRITICAL: "Peering Behind a Rock"
+
+The chapter contains an **explicit physical hint**:
+
+> "Just like **peering behind a rock to find a treasure box**, inspiration can appear almost anywhere."
+
+This directly connects to Joy's Serenade:
+- Poem: "**sat upon a rock**"
+- Location: Granite outcrop visible at marker 318
+- Method: Look behind/under rock formation
+
+**This may describe the actual hiding method.**
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**peering behind a rock**" | Poem: "**sat upon a rock**" | **EXPLICIT HIDING METHOD** |
+| "**wing**-shaped earrings" | Poem: "**flutter** of excitement" / "**Dancers**" | Butterfly/wing imagery |
+| "wise **breeze** blowing" | Poem: natural outdoor setting | Wind/nature theme |
+
+### Author's Father as Pastor
+
+The author reveals his father was a **Pastor**. This adds biographical context:
+- Author grew up in a religious household
+- Possible NC church connection (Ch 18 mentions parents' church in Huntersville, NC)
+- "Grace Baptist Church" may be relevant
+
+### Connections to Rocky Face Mountain
+
+| Element | Evidence | Strength |
+|---------|----------|----------|
+| **"Behind a rock"** | Explicit physical description | **VERY HIGH** |
+| **Rock = granite outcrop** | Rocky Face has exposed granite | **HIGH** |
+| **Pastoral background** | NC church connection possible | **MEDIUM** |
+
+### Confidence Assessment
+
+**Chapter 6's support for Rocky Face Mountain theory: VERY HIGH**
+
+This chapter provides:
+- **"Peering behind a rock"** = explicit hiding method
+- **Matches Joy's Serenade** "sat upon a rock"
+- **Author's pastoral background** connects to NC

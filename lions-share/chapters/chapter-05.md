@@ -127,3 +127,36 @@ Art Smith's signature style: **asymmetrical forms of copper, silver, and brass**
 - page-058-059.json + page-058-059.md
 - page-060-061.json + page-060-061.md
 - page-062-063.json + page-062-063.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Faith** is akin to having an ethereal **treasure map**" | Joy's Serenade IS the map | Poem provides directions |
+| "Trust in what you **know**" | Poem: "Never despair, never doubt" | Confidence in interpretation |
+| "guiding **lighthouse** amidst tempest" | Poem guides to location | Navigation metaphor |
+| "dash of **inspiration**" | Poem: "Our conductor...gives **direction**" | Follow the clues |
+
+### "Ethereal Treasure Map"
+
+The chapter explicitly says: "Faith is akin to having an **ethereal treasure map** guiding each step of our way."
+
+Joy's Serenade IS that ethereal map:
+- It guides "each step" (trail markers)
+- It provides direction (conductor with baton)
+- It requires faith to follow (trust the haiku = 318)
+
+### Confidence Assessment
+
+**Chapter 5's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"Ethereal treasure map"** metaphor for Joy's Serenade
+- **Trust/faith theme** supports following poem clues
+- **No direct NC connection** (NYC-focused provenance)
