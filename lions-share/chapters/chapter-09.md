@@ -120,3 +120,52 @@ All featured eagles, snakes, cats, fangs, and human body parts.
 - page-088-089.json + page-088-089.md
 - page-091-092.json + page-091-092.md
 - page-093-094.json + page-093-094.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Look Both Ways Before Crossing"
+
+The author advises: "**Look both ways before crossing.**"
+
+At Rocky Face Mountain, this could mean:
+- Look both ways at trail junction (X = where trails cross)
+- Check surroundings before leaving trail
+- Joy's Serenade: "an **X leads the way**" = trail crossing point
+
+### "Let Clues Guide You"
+
+> "**Let them guide you in the direction they want you to take.**"
+
+Joy's Serenade provides this guidance:
+- "Our conductor...gives **direction**"
+- Haiku points to marker **318**
+- "the haiku **curls** a little further on"
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Look both ways before crossing**" | Poem: "**X leads the way**" | Trail junction/crossing |
+| "Let clues **guide you**" | Poem: "Our conductor...gives **direction**" | Follow poem's path |
+| "different options...new possibilities" | Poem: "You can take your own **path**" | Multiple routes exist |
+| "lie on the ground to read" | Poem: "if you don't go **down**" | Look low/descend |
+
+### "Lie on the Ground to Read"
+
+The Chavin inscriptions required visitors to "lie on the ground to read them."
+
+This echoes Joy's Serenade: "if you don't go **down** / you may never know"—look low, descend from trail.
+
+### Confidence Assessment
+
+**Chapter 9's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"Look both ways before crossing"** = trail junction
+- **"Let clues guide you"** = follow Joy's Serenade
+- **"Lie on ground to read"** = look low/descend
+- **Confirmation bias warning** continues

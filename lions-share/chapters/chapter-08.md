@@ -133,3 +133,43 @@ His ironwood bracelet designs (1962) were inspired by NYC cityscapes. His niece 
 - page-080-081.json + page-080-081.md
 - page-082-083.json + page-082-083.md
 - page-084-085.json + page-084-085.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Our Unbreakable Thread" Contains Extra Clues
+
+The author explicitly states his children's book "Our Unbreakable Thread" contains **"an extra clue or two"** about treasure location. This is a confirmed additional source for the Rocky Face theory.
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Bird's eye view**" (Sonwai quote) | Poem: "**sky smiles on you**" | Elevated vantage point |
+| "rock formations" (Hopi inlay) | Poem: "**sat upon a rock**" | Rock/granite theme |
+| "stones on the mesas" | Rocky Face granite dome | Elevated rock formations |
+
+### Confirmation Bias Warning
+
+The author warns: "**Confirmation bias is a treasure hunter's most dreaded foe.**"
+
+This applies to the Rocky Face theory too—we must remain open to alternative interpretations while following the evidence.
+
+### Bird's Eye View = Summit
+
+Sonwai describes looking at rock formations from above: "It's a **bird's eye view**."
+
+Rocky Face Mountain summit (~1,800 ft) provides this elevated perspective with views of surrounding "pike" (peaks).
+
+### Confidence Assessment
+
+**Chapter 8's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"Bird's eye view"** matches summit overlook perspective
+- **Rock formations** theme connects to granite geology
+- **Confirmation bias warning** is important caveat
+- **Children's book** may contain additional NC clues
