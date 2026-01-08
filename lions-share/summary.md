@@ -58,13 +58,19 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 | Taylorsville | ~10 miles W | Alexander County seat |
 | Statesville | ~15 miles SE | Father's church location |
 
-### The 20-Acre Gift
+### The 20-Acre Gift (VERIFIED)
 
 When Jon was approximately 3 years old (~1976):
 - A church congregant gifted the Comer family **20 acres of woodland**
 - David Comer **built a log cabin by hand** on the property over ~10 years
 - The family lived in the "boondocks" of northern Iredell County
 - This property became the setting for Jon's childhood adventures that shaped his treasure-hunting passion
+
+**Property Record Confirmation:**
+- **Owner:** David L & Janice L Comer
+- **Address:** 350 Trinity Rd
+- **Acreage:** 20.24 acres (matches "20 acres" from book)
+- **Building Year:** 1982 (matches timeline of cabin construction)
 
 **Biographical Significance:** The treasure is hidden in the landscape of the author's childhood - a place with deep emotional resonance. Rocky Face Mountain is easily within the range of where young Jon explored.
 
@@ -357,7 +363,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 |---|---------------|--------|-------|
 | 1 | Obtain "Our Unbreakable Thread" | NOT STARTED | Author confirmed "extra clue or two" in this children's book |
 | 2 | Physical site visit to marker 318 AND 319-320 area | NOT STARTED | Required for treasure recovery |
-| 3 | Property deed verification | NOT STARTED | Confirm acreage of Comer family property |
+| 3 | Property deed verification | **DONE** | 350 Trinity Rd = 20.24 acres, owned by David L & Janice L Comer, built 1982 |
 | 4 | What are the 5 word search clues? | UNKNOWN | Community hasn't identified these yet |
 | 5 | Significance of missing page 90 | UNKNOWN | Confirmed intentional |
 
@@ -474,7 +480,8 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `screenshots/map-trails.png` - Official trail map showing marker 318
 - `screenshots/marker-318.png` - Satellite imagery of rock outcrop
 - `screenshots/map-rocky-face-mountain-summit.png` - Summit location
-- `screenshots/map-necklace-theory.png` - **3D satellite view showing rock outcrop between markers 319-320**
+- `screenshots/map-necklace-theory.png` - 3D satellite view showing rock outcrop between markers 319-320
+- `screenshots/property-record.png` - **Comer family property deed (20.24 acres, 350 Trinity Rd)**
 
 ### Chapter Analyses
 - `chapters/front-matter.md` through `chapters/chapter-23.md`
