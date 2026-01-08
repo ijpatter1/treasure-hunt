@@ -561,14 +561,31 @@ The author explicitly confirms:
 
 ## Alternative Hypotheses
 
-### Secondary: Los Angeles Area (LOW confidence)
+### Alternative: Los Angeles Area (MEDIUM-LOW confidence)
 
 | Evidence | Source |
 |----------|--------|
-| Current residence near Mount Wilson | Ch 18 |
-| "Massive rose garden" at local park | Ch 20 |
+| **California residence 20+ years** | Ch 12 |
+| **Mount Wilson "not far from my home, to the northeast"** | Ch 18 |
+| **"Massive rose garden...several acres...local park"** | Ch 20 |
+| California Gold Rush nugget in treasure | Ch 12 |
+| Multiple LA/CA references throughout book | Ch 1, 3, 8, 19 |
 
-**Why Secondary:** Author confirms current residence but provides fewer explicit treasure location hints tied to LA. The emotional connection is to his NC childhood, not his current residence.
+**Strongest LA Argument:** Practical proximity - JCB lives in LA and can monitor the largest treasure. The "massive rose garden...several acres...at a local park" matches **Exposition Park Rose Garden** (7 acres) exactly.
+
+**Proposed LA Search Areas (Priority Order):**
+1. **Exposition Park Rose Garden** - matches "several acres" description
+2. **Griffith Park** - 4,310 acres, butterflies, oaks, rock formations
+3. **Mount Wilson Trail/Echo Rock** - explicitly mentioned near home
+
+**Why NOT Primary:**
+- **NO 318 encoding** found in any LA location (Rocky Face has triple match)
+- **NO "Alexander" equivalent** (Ch 21 title = Alexander County, NC)
+- **NO "Will's straight edge" figure** (William Hidden = Hiddenite discoverer)
+- **Hiddenite is EXPLICIT** (Ch 4) - not coded like Mount Wilson reference
+- **Five NC locations cluster** in western NC where Rocky Face is located
+
+**See:** `la-alternative-analysis.md` for full steelman analysis.
 
 ### Alternative: South Mountains State Park, NC (MEDIUM-LOW confidence)
 
@@ -608,7 +625,8 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `nc-research.md` - North Carolina location research
 - `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
 - `research.md` - Comprehensive web research findings
-- `alternative-locations-analysis.md` - **Steelman analysis of South Mountains State Park as alternative**
+- `alternative-locations-analysis.md` - Steelman analysis of South Mountains State Park as alternative
+- `la-alternative-analysis.md` - **Steelman analysis of Los Angeles area as alternative**
 
 ### Map Evidence
 - `screenshots/map-trails.png` - Official trail map showing marker 318
@@ -634,4 +652,4 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 
 ---
 
-*Last updated: January 8, 2026 (added complete "Our Unbreakable Thread" children's book analysis - pine trees, UNC-colored MJ poster, caterpillar/butterfly imagery all support NC hypothesis)*
+*Last updated: January 8, 2026 (added comprehensive LA steelman analysis - Exposition Park Rose Garden matches Ch 20 "several acres" clue; evidence comparison shows NC still stronger due to 318 triple encoding)*
