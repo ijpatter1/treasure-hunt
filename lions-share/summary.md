@@ -4,11 +4,11 @@
 
 The Lion's Share is the largest of five treasure boxes hidden in the United States by author Jon Collins-Black, as detailed in his book "There's Treasure Inside." This box contains the majority of treasure value (millions of dollars) including items connected to Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis.
 
-**Primary Target: Rocky Face Mountain, Marker 318**
+**Primary Target: Rocky Face Mountain, Rock Outcrop Between Markers 319-320**
 
 | Key Finding | Evidence |
 |-------------|----------|
-| **Target Location** | Hollow Rock Trail, Marker 318, Rocky Face Mountain Recreational Area |
+| **Target Location** | Hollow Rock Trail, rock outcrop between markers 319-320, Rocky Face Mountain Recreational Area |
 | **Address** | 3451 Rocky Face Church Road, Hiddenite, NC 28636 |
 | **GPS Coordinates** | **35.962242, -81.12039** |
 | **Author Identity** | Jon Collins-Black = **Jon Comer**, son of David Comer (pastor, Statesville, NC) |
@@ -27,6 +27,7 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 7. **Website analysis confirms park is exactly 318 acres** - triple confirmation (haiku + marker + acreage)
 8. **Hop-tree documented at park** - host plant for Giant Swallowtail butterflies confirms "dancers on the land"
 9. **JCB interview (Nov 2025): "The lion's share of its clues have been solved. Yet, these clues have not quite been seen to completion."** - Suggests armchair work is done; physical search required
+10. **Necklace Theory (Ch 23)**: Egyptian faience necklace image is a visual trail map - 13 beads = 13 trail markers (313-325), orange bead position = rock outcrop between markers 319-320
 
 ---
 
@@ -83,15 +84,16 @@ When Jon was approximately 3 years old (~1976):
 - **Geology:** Granite gneiss dome with muscovite mica ("sparkle")
 - **Opened:** May 25, 2012 (county-owned public land)
 
-### Specific Target: Marker 318 on Hollow Rock Trail
+### Specific Target: Rock Outcrop Between Markers 319-320
 
 | Detail | Information |
 |--------|-------------|
 | **Trail** | Hollow Rock Trail (red blazes) |
 | **Length** | 2.5 miles round trip |
 | **Difficulty** | Moderate to strenuous |
-| **Target Marker** | 318 |
-| **Feature** | Trail curves at this point; granite outcrop visible in satellite imagery |
+| **Target Area** | Between markers 319 and 320 |
+| **Feature** | Large exposed granite outcrop visible in satellite imagery |
+| **Refinement** | Necklace theory pinpoints location; 318 code identifies general area |
 
 ### Hours of Operation
 
@@ -116,6 +118,7 @@ When Jon was approximately 3 years old (~1976):
 | **Poem Features** | Granite/mica ("sparkle"), oaks, pines, butterflies all present | HIGH |
 | **Trail Map** | Marker 318 confirmed to exist on Hollow Rock Trail | CONFIRMED |
 | **Satellite Imagery** | Rock outcrop visible at marker 318 location | HIGH |
+| **Necklace Theory** | Ch 23 necklace = visual trail map; orange bead = between 319-320 | **VERY HIGH** |
 | **Geocaching** | Park has 21 caches - already used for treasure hunting | COMPATIBLE |
 
 ---
@@ -221,6 +224,57 @@ Google Maps confirms:
 - Located in Alexander County
 - Matches author's childhood geography
 
+### Necklace Theory Satellite View (screenshots/map-necklace-theory.png)
+
+3D satellite imagery showing:
+- Markers 318, 319, and 320 positions
+- **Large exposed rock outcrop between markers 319 and 320**
+- Red arrow indicating target location
+- Prominent white/light colored rock formation visible through canopy
+
+---
+
+## Necklace Theory: Visual Trail Map
+
+### The Discovery
+
+The Egyptian faience necklace image on pages 195-196 (Chapter 23) appears to be a **visual encoding of the trail and treasure location**.
+
+### Visual Elements
+
+| Necklace Element | Trail Map Interpretation |
+|------------------|-------------------------|
+| Loop shape | Hollow Rock Trail loop (markers 313-325) |
+| Turquoise beads | Trail path |
+| Red/coral beads | Trail markers (Hollow Rock has RED blazes) |
+| Leopard's head (junction point) | Starting point where loop connects (~marker 313) |
+| **One distinct orange bead** | **Treasure location** |
+| Pendant tassels hanging DOWN | "Go down" instruction |
+
+### The Count
+
+- **13 beads** in the loop section (counting the two beads at leopard's head junction as one)
+- **13 trail markers** on the Hollow Rock loop: 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325
+- The orange bead position corresponds to **between markers 319 and 320**
+
+### Satellite Confirmation
+
+The 3D satellite imagery (`map-necklace-theory.png`) reveals a **massive exposed rock outcrop** precisely between markers 319 and 320 - matching the orange bead position.
+
+### How This Refines the Hypothesis
+
+| Clue Layer | Function |
+|------------|----------|
+| **318 haiku code** | Gets you to the RIGHT AREA (Hollow Rock Trail, 300s section) |
+| **Necklace visual** | Pinpoints the EXACT SPOT (rock outcrop between 319-320) |
+| **"Go down"** | Confirms descent from trail to reach the rock |
+
+### Why This Was Missed
+
+JCB stated: "The lion's share of its clues have been solved. Yet, these clues have not quite been seen to completion."
+
+The necklace visual encoding may be the element that was "not quite seen to completion" - people solved the 318 numerical code but didn't recognize the necklace as a trail map pointing to 319-320.
+
 ---
 
 ## Second Pass Chapter Findings
@@ -295,13 +349,14 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 | 10 | Author family property | **DONE** | 350 Trinity Rd, Statesville (~6-7 mi from Rocky Face) |
 | 11 | Rocky Face Park website analysis | **DONE** | 318 acres, GPS coords, butterfly host plant confirmed |
 | 12 | JCB interview analysis | **DONE** | "Lion's share clues have been solved" - critical validation |
+| 13 | Necklace theory analysis | **DONE** | Visual trail map encoding; orange bead = 319-320 rock outcrop |
 
 ### Remaining Research
 
 | # | Research Item | Status | Notes |
 |---|---------------|--------|-------|
 | 1 | Obtain "Our Unbreakable Thread" | NOT STARTED | Author confirmed "extra clue or two" in this children's book |
-| 2 | Physical site visit to marker 318 | NOT STARTED | Required for treasure recovery |
+| 2 | Physical site visit to markers 319-320 area | NOT STARTED | Required for treasure recovery |
 | 3 | Property deed verification | NOT STARTED | Confirm acreage of Comer family property |
 | 4 | What are the 5 word search clues? | UNKNOWN | Community hasn't identified these yet |
 | 5 | Significance of missing page 90 | UNKNOWN | Confirmed intentional |
@@ -310,30 +365,32 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 ## Search Protocol
 
-### Getting to Marker 318
+### Getting to the Target Area
 
 1. **Park** at Rocky Face Mountain Recreational Area (3451 Rocky Face Church Road, Hiddenite, NC 28636)
 2. **Take Hollow Rock Trail** (red blazes) - accessible from Buzzard Loop, Grindstone Trail, or Prison Camp Trail
-3. **Follow markers** sequentially toward the 300s: 313 → 314 → 315 → 316 → 317 → **318**
+3. **Follow markers** sequentially toward the 300s: 313 → 314 → 315 → 316 → 317 → 318 → **319**
 4. **Note the trail junction** around markers 305-307 where Grindstone Trail crosses ("X leads the way")
 
-### At Marker 318
+### At the Target (Between Markers 319 and 320)
 
-1. **Identify the curve** in the trail at this point ("the haiku curls")
-2. **Look for oak trees** providing shade nearby ("shady oaks")
-3. **Locate the granite outcrop** visible in satellite imagery ("sat upon a rock")
+1. **Continue past marker 318** - the haiku code gets you to the area, but the necklace points to 319-320
+2. **Look for the large exposed rock outcrop** visible in satellite imagery between 319 and 320
+3. **Look for oak trees** providing shade nearby ("shady oaks")
+4. **Note the trail curve** ("the haiku curls")
 
 ### The Critical Step
 
-4. **LEAVE THE TRAIL AND GO DOWN**
+5. **LEAVE THE TRAIL AND GO DOWN**
    - "If you don't go down you may never know"
-   - Descend the slope from marker 318
+   - Descend the slope toward the rock outcrop
    - The treasure is **below trail level**
    - Look "where few have seen it" - off the beaten path
+   - The necklace pendant hangs DOWN - reinforcing this instruction
 
 ### What to Search
 
-5. **Examine the rock formation** for:
+6. **Examine the rock formation** for:
    - Natural crevices or hiding spots
    - Underhangs or sheltered areas
    - Base of the rock
@@ -409,6 +466,7 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `screenshots/map-trails.png` - Official trail map showing marker 318
 - `screenshots/marker-318.png` - Satellite imagery of rock outcrop
 - `screenshots/map-rocky-face-mountain-summit.png` - Summit location
+- `screenshots/map-necklace-theory.png` - **3D satellite view showing rock outcrop between markers 319-320**
 
 ### Chapter Analyses
 - `chapters/front-matter.md` through `chapters/chapter-23.md`
@@ -421,4 +479,4 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 
 ---
 
-*Last updated: January 8, 2026 (added website analysis with 318-acre confirmation)*
+*Last updated: January 8, 2026 (added necklace theory - target refined to rock outcrop between markers 319-320)*
