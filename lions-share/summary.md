@@ -570,6 +570,21 @@ The author explicitly confirms:
 
 **Why Secondary:** Author confirms current residence but provides fewer explicit treasure location hints tied to LA. The emotional connection is to his NC childhood, not his current residence.
 
+### Alternative: South Mountains State Park, NC (MEDIUM-LOW confidence)
+
+| Evidence | Source |
+|----------|--------|
+| Clear Creek Lake (paddling, fishing) | Children's book water imagery |
+| Jacob Fork River (trout waters) | Page 18 fishing scene |
+| 80-ft High Shoals Falls | No match in book (not depicted) |
+| ~35-40 mi from childhood home | Geographic proximity |
+
+**Why Alternative:** Children's book "Our Unbreakable Thread" contains 5 water/lake scenes (pp. 2, 18, 19, 25-26, 29), but Rocky Face Mountain has NO lakes. South Mountains has Clear Creek Lake with possible boat rental infrastructure that matches the yellow rowboats depicted in pp. 25-26.
+
+**Why NOT Primary:** Main treasure book has ZERO references to South Mountains, Burke County, Clear Creek, Jacob Fork, or High Shoals. The explicit "Hiddenite" mention (Ch 4), "Alexander" chapter title (Ch 21), and 318 triple encoding all point to Rocky Face.
+
+**See:** `alternative-locations-analysis.md` for full steelman analysis.
+
 ### Ruled Out: New York
 
 Author confirmed he hasn't been to NY since 2019, and boxes were hidden after that.
@@ -593,6 +608,7 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `nc-research.md` - North Carolina location research
 - `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
 - `research.md` - Comprehensive web research findings
+- `alternative-locations-analysis.md` - **Steelman analysis of South Mountains State Park as alternative**
 
 ### Map Evidence
 - `screenshots/map-trails.png` - Official trail map showing marker 318
