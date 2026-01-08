@@ -117,3 +117,41 @@ Muhammad Ali (then Cassius Clay, age 18) also won gold at the 1960 Rome Olympics
 - page-135-136.json + page-135-136.md
 - page-137-138.json + page-137-138.md
 - page-139-140.json + page-139-140.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Leave No Stone Unturned"
+
+The author imagines Wilma Rudolph finding treasure by "sheer will alone":
+> "She might simply have **looked everywhere, leaving no stone unturned.**"
+
+At Rocky Face Mountain:
+- Granite/gneiss dome with rocky outcrops
+- "Stone" imagery matches poem's "sat upon a rock"
+- Thorough searching of rocky terrain required
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Leave no stone unturned**" | Poem: "**sat upon a rock**" | Rocky terrain search |
+| "**Don't Give Up**" | Poem: "Never despair, never doubt" | Persistence theme |
+| "**Sheer will alone**" | Poem: systematic guidance | Determination required |
+| "**Determination**" | Poem: follow each step methodically | Mental fortitude |
+
+### Part Two Begins
+
+Chapter 15 marks the start of Part Two. The first 14 chapters provided clues; Part Two shifts toward motivation and methodology.
+
+### Confidence Assessment
+
+**Chapter 15's support for Rocky Face Mountain theory: LOW-MEDIUM**
+
+This chapter provides:
+- **"Leave no stone unturned"** matches rocky terrain
+- **Persistence theme** reinforces methodical approach
+- No direct NC geographic connections

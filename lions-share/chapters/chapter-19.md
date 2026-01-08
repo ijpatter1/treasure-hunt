@@ -104,3 +104,57 @@ The chapter discusses the Overview Effect - the emotional and perspective shift 
 - page-165-166.json + page-165-166.md
 - page-167-168.json + page-167-168.md
 - page-169-170.json + page-169-170.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "New Perspective" = Rocky Face Summit View
+
+The author emphasizes:
+> "**Perspective is worth considering when treasure hunting.**"
+> "**Embracing new perspectives is often the essential key to finding a treasure we are pursuing.**"
+
+At Rocky Face Mountain:
+- Summit provides panoramic view
+- "Vista point" overlooks Hiddenite (Ch 4 mentions author's vantage point)
+- Perspective shift from trail to off-trail searching
+
+### "Countryside Where I Grew Up"
+
+The author confirms:
+- Grew up in countryside (could see Milky Way)
+- Now lives near large city (LA area)
+
+This aligns with NC childhood:
+- Hiddenite area is rural countryside
+- Western NC has dark skies for stargazing
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**New perspectives**" | Poem: "Now **look**" | Change viewpoint |
+| "**Countryside**" | NC rural upbringing | Hiddenite area |
+| "Overview Effect" | Poem: panoramic vs. focused view | Summit perspective |
+| "Touching the moon" | Poem: "flame of starlight" | Celestial imagery |
+
+### "Forty Years Later"
+
+The author notes "forty years later" since childhood stargazing, which aligns with:
+- Ch 4: "40+ years ago" digging for gems near Hiddenite
+- Ch 13: Born ~1975-76 (6 when Jordan was UNC freshman)
+
+Consistent age estimate: Author is late 40s to early 50s.
+
+### Confidence Assessment
+
+**Chapter 19's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"New perspective"** = summit vantage point
+- **Countryside childhood** matches NC
+- **"Forty years"** aligns with Ch 4 timeline
+- No direct NC geographic reference in this chapter

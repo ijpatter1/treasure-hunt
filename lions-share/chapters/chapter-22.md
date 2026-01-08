@@ -81,3 +81,58 @@ The author shares his own love story: he met Kimberly in 2003, started a family 
 - page-189-190.json + page-189-190.md
 - page-191-192.json + page-191-192.md
 - page-193-194.json + page-193-194.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Taking First Step Out Your Door"
+
+The author advises:
+> "**Taking first step out your door might be bravest action**"
+
+For Rocky Face Mountain:
+- Requires physical trip to Alexander County, NC
+- Must actually hike the trail
+- "Boots on the ground" requirement
+
+### Persistence Theme Continues
+
+Picasso's pursuit of Jacqueline mirrors treasure hunting:
+- Single red rose **every day for six months**
+- Eventually succeeded through persistence
+- "Persistence and bravery" required
+
+Joy's Serenade requires similar methodical approach.
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**First step out your door**" | Poem: begin the search | Start hiking |
+| "**Persistence and bravery**" | Poem: follow each clue | Methodical approach |
+| "**Make Your Own Kind of Music**" | Poem: "You can take your **own path**" | Unique approach |
+| "Close to five years" | Project timeline | Author's dedication |
+
+### Author Timeline Confirmed
+
+| Detail | Information |
+|--------|-------------|
+| Met Kimberly | 2003 |
+| Family started | 2017 |
+| Married | ~2023-2024 ("few months ago") |
+| Project duration | ~5 years |
+
+If project took ~5 years and book was published in 2024, author started planning ~2019.
+
+### Confidence Assessment
+
+**Chapter 22's support for Rocky Face Mountain theory: LOW**
+
+This chapter provides:
+- **"First step"** = begin physical search
+- **Persistence theme** reinforces methodical approach
+- No direct NC geographic connections
+- Primarily biographical/love story content

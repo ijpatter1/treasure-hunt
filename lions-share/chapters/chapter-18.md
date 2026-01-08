@@ -115,3 +115,58 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 - page-159-160.json + page-159-160.md
 - page-161-162.json + page-161-162.md
 - page-163-164.json + page-163-164.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### CRITICAL: Huntersville, NC Confirms NC Roots
+
+The author reveals his parents "started a church in **Huntersville, North Carolina**" focused on service.
+
+**Huntersville Location:**
+- Suburb of Charlotte, NC
+- ~75 miles south of Hiddenite
+- Same region as Rocky Face Mountain
+
+### NC Geography Cluster Updated
+
+| Chapter | NC Connection | Distance from Hiddenite |
+|---------|---------------|-------------------------|
+| Ch 2 | Chapel Hill (college) | ~130 miles east |
+| Ch 3 | Bakersville (family near Seth Gould) | ~60 miles west |
+| Ch 4 | **Hiddenite** (childhood, emerald mine) | **0 miles** |
+| Ch 13 | North Carolina (childhood, UNC fan) | Regional |
+| **Ch 18** | **Huntersville** (parents' church) | **~75 miles south** |
+
+**All five NC references cluster around western North Carolina** where Rocky Face Mountain is located.
+
+### Author's Dual Geography
+
+Chapter 18 clarifies the author's geography:
+- **Childhood:** North Carolina (Huntersville area)
+- **Current residence:** Los Angeles area (Mount Wilson "not far from my home, to the northeast")
+
+This doesn't conflict with NC treasure placement. The author has:
+- Deep NC roots (emotional connection for hiding treasure)
+- Current CA residence (where he lives now)
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| **"Huntersville, NC"** | NC regional connection | Childhood roots |
+| "Service to others" | Poem: "ask them to assist you" | Community theme |
+| Carnegie's philanthropy | Sharing treasure with others | Giving philosophy |
+
+### Confidence Assessment
+
+**Chapter 18's support for Rocky Face Mountain theory: VERY HIGH**
+
+This chapter provides:
+- **Huntersville, NC** = fifth NC geographic reference
+- **Western NC cluster** continues (Hiddenite, Bakersville, Chapel Hill)
+- **Author's NC childhood** further confirmed
+- CA residence doesn't negate NC treasure placement

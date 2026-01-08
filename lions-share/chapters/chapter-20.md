@@ -96,3 +96,54 @@ The author walked through a "massive rose garden" (several acres) at a local par
 - page-173-174.json + page-173-174.md
 - page-175-176.json + page-175-176.md
 - page-177-178.json + page-177-178.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Where You Stand Changes Everything"
+
+The opening quote (Steve de Shazer):
+> "Where you stand determines what you see and what you do not see; it determines also the angle you see it from; **a change in where you stand changes everything.**"
+
+At Rocky Face Mountain:
+- Summit provides different perspective than trail
+- Standing at marker 318 = specific vantage point
+- Moving off-trail reveals hidden areas
+
+### Chapter 4 Callback: Crystal Digging
+
+The author explicitly references his childhood crystal digging:
+- Only found "dark smokey quartz"
+- Associated with "disappointment and unrewarded toil"
+- Later changed perspective to appreciate smokey quartz
+
+This is a **direct callback to Chapter 4** (Hiddenite emerald digging):
+- Same activity (childhood gem hunting)
+- Same location (NC piedmont region)
+- Same time period (~40 years ago)
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Where you stand changes everything**" | Poem: "Now **look**" | Position matters |
+| "**Five boxes**" | Lion's Share = one of five | Confirms treasure structure |
+| Chapter 4 callback | Hiddenite childhood | NC geographic anchor |
+| Garnet on asphalt | Rocky surfaces | Stone/rock imagery |
+
+### Author's January Birthday
+
+The author reveals his **birth month is January** (garnet birthstone). This is a new biographical detail that could help identify the author.
+
+### Confidence Assessment
+
+**Chapter 20's support for Rocky Face Mountain theory: MEDIUM-HIGH**
+
+This chapter provides:
+- **Chapter 4 callback** reinforces Hiddenite connection
+- **"Where you stand"** = specific location/vantage point
+- **"Five boxes"** reconfirmed
+- Perspective theme throughout

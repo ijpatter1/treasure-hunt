@@ -121,3 +121,46 @@ In the gold medal match, they trailed Argentina 2-1 until Daniel Amokachi equali
 - page-145-146.json + page-145-146.md
 - page-147-148.json + page-147-148.md
 - page-149-150.json + page-149-150.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Direction You Need"
+
+The author explicitly states:
+> "If you begin to question whether you can find the treasure I have hidden, **I invite you to return to this chapter.**"
+> "It's here to help you. **Maybe it can provide you just the direction you need.**"
+
+This is direct treasure hunting advice. "Direction" may be:
+- Motivational (keep trying)
+- Literal (the poem provides directional guidance)
+
+Joy's Serenade provides "direction": "Our conductor...gives **direction**"
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Direction you need**" | Poem: "Our conductor...gives **direction**" | Follow poem's path |
+| "**I believe you can find it**" | Back cover: "Here lies a joy divined" | Encouragement |
+| "**Defy Expectations**" | Poem: systematic approach defies doubt | Don't give up |
+| "Five treasure boxes" | Multiple boxes, Lion's Share = biggest | Focus on Lion's Share |
+
+### Underdog Theme
+
+The Nigerian team's victory against impossible odds mirrors treasure hunting:
+- Down 3-1 at halftime → came back to win 4-3
+- Most hunters will fail → but someone will succeed
+
+### Confidence Assessment
+
+**Chapter 16's support for Rocky Face Mountain theory: LOW**
+
+This chapter provides:
+- **"Direction you need"** connects to poem's guidance
+- **Encouragement** to keep searching
+- No direct NC geographic connections
+- Primarily motivational content

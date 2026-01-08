@@ -95,3 +95,46 @@ Washington left tens of thousands of pages of journals and letters. Despite his 
 - page-153-154.json + page-153-154.md
 - page-155-156.json + page-155-156.md
 - page-157-158.json + page-157-158.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### Documentation Theme
+
+The author advises:
+> "**I encourage you to document your adventures.**"
+> "**Maybe there will be important things you discover about yourself or experiences you will have that you will not want to forget.**"
+> "**It may be worthwhile to journal these.**"
+
+This supports our systematic analysis approach. The author values:
+- Recording discoveries
+- Sharing with other hunters
+- Building community knowledge
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Share your stories**" | Poem analysis collaboration | Community approach |
+| "**Document adventures**" | Our chapter analysis files | Systematic recording |
+| "Washington's journals" | Joy's Serenade as documented clue | Written records are clues |
+
+### Washington's Perseverance
+
+Washington's Revolutionary War mirrors treasure hunting:
+- Lost early battles badly → eventually won
+- Improbable odds → persistent effort
+- Survived unscathed against all odds
+
+### Confidence Assessment
+
+**Chapter 17's support for Rocky Face Mountain theory: LOW**
+
+This chapter provides:
+- **Documentation advice** validates systematic approach
+- **Perseverance theme** continues
+- No direct NC geographic connections
+- Primarily motivational/historical content
