@@ -1,0 +1,106 @@
+# Lion's Share Treasure Hunt: Hiddenite/Rocky Face Mountain Hypothesis Research
+
+The hypothesis centering the Lion's Share treasure location on Hiddenite, North Carolina and Rocky Face Mountain Recreational Area shows **multiple compelling alignments** with known treasure hunt clues, though critical gaps remain. This comprehensive analysis examines 13 research areas across botanical evidence, geographic features, historical figures, and personal connections to treasure hunt creator Jon Collins-Black.
+
+---
+
+## Collins-Black's direct childhood connection to this region
+
+The most significant finding: **Jon Collins-Black was born in 1973 at Iredell Memorial Hospital in Statesville, NC**—just 17 miles from Hiddenite. His father served as minister at Grace Baptist Church in Statesville, and a church congregant gifted the family **20 acres of woodland** where his father built a log cabin "by hand." Collins-Black describes spending his childhood "in the boondocks of North Carolina," engaging in "imaginary woodland adventuring" and "looking for treasure in the form of arrowheads in the red dirt, rocks and clay in the creek beds."
+
+Crucially, Collins-Black explicitly states he frequently visited **Emerald Hollow Mine in Hiddenite** as a child, "sifting through creeks and dirt searching for hidden gems." This establishes a direct biographical link between the treasure hunt creator and the Hiddenite gem mining district—a childhood spent literally hunting for treasure in this specific location. The family property was situated in the rural corridor between Statesville (Iredell County) and Alexander County, placing his formative years within the geographic sphere of Rocky Face Mountain and the Brushy Mountains.
+
+---
+
+## Vantage points reveal extensive Blue Ridge panoramas
+
+Rocky Face Mountain's summit (approximately **1,800 feet elevation**, rising 600 feet above surrounding terrain) offers documented views of multiple named peaks. The **Hollow Rock Trail summit at Mile 1.6** provides the primary viewpoint facing northwest, where hikers can see **Pores Knob** (2,680 ft—highest peak in the Brushy Mountains) clearly marked by communications towers, along with Mitchell Mountain, Snaggy Mountain, Fletcher Mountain, Bald Rock Mountain, and the paired peaks of Joe Mountain and Little Joe Mountain.
+
+On clear days, views extend **75 miles** to the Blue Ridge escarpment, including **Grandfather Mountain** (5,946 ft), **Table Rock** (3,930 ft), and Hawksbill Mountain above Linville Gorge. The Mile 2.0 overlook faces southwest toward Lenoir and Rhodhiss Lake, with distant views of the Black Mountains. The **Buzzard Loop overlook** (Mile 3.2) provides views of the historic quarry area below.
+
+The most promising candidate for "two jagged grey peaks" appears to be **Joe Mountain and Little Joe Mountain**—explicitly described in sources as a paired formation visible from Rocky Face. Secondary candidates include Table Rock and Hawksbill Mountain, which present distinctive jagged grey rock formations when viewed from the west-facing overlooks. The Brushy Mountains' characteristic granite gneiss geology produces "intermittent large rock outcrops" throughout the range that could match this description.
+
+---
+
+## Iris species remain undocumented but habitat appears suitable
+
+**No specific documentation of wild iris species exists for Rocky Face Mountain or Alexander County** in botanical surveys, herbarium records, or iNaturalist observations. The NC Natural Heritage Program's 2002 survey—which identified rare species including the endemic Keever's Onion (*Allium keeverae*), Keever's Bristle Moss, Elf Orpine, and Appalachian Sandwort—did not record any iris species.
+
+However, the habitat appears suitable for **Dwarf Crested Iris** (*Iris cristata*), which thrives on "rocky, rich, wooded slopes" and blooms blue-violet to lavender from late March through May. **Upland Dwarf Iris** (*Iris verna var. smalliana*) also occurs in the NC Piedmont and Mountains in dry rocky-sandy woodlands. Both species' ecological requirements match Rocky Face's granite gneiss terrain with its mix of woodland and rocky exposures, suggesting absence of documentation may reflect insufficient survey effort rather than true absence.
+
+For blue and pink April-May bloomers that *are* documented: **Elf Orpine** (*Diamorpha smallii*) produces pink/reddish flowers on granite flatrocks along Buzzard Loop Trail in late April-May. The endemic **Keever's Onion** blooms white-pink in late May, found only in Alexander and Wilkes Counties' Brushy Mountains.
+
+---
+
+## Pine forests confirm Shortleaf presence as likely
+
+The park's official description states the forest consists of "second growth oaks, cedars, and pines." Based on NC Forest Service distribution data and Piedmont Monadnock Forest composition documentation, **Shortleaf Pine** (*Pinus echinata*) is **likely present** at Rocky Face Mountain. Shortleaf Pine has the widest range of any pine in the southeastern United States, occurring in 22 states, and is "more predominant in Piedmont and Mountain regions" where Rocky Face sits. Virginia Pine (*Pinus virginiana*) is also common in the canopy. The thin, dry soil and granite dome communities favor fire-adapted species like Shortleaf Pine, though no species-specific survey confirms exact distribution on the mountain.
+
+---
+
+## The quarry's prison labor history left visible remnants
+
+Rocky Face Mountain operated as a **granite gneiss quarry from 1922 to the early 1940s**, with prison inmates breaking rocks with sledgehammers before loading gravel onto railroad cars. An **8-mile railroad spur connected the quarry to Hiddenite**, with remnants still visible along the route. The **Prison Camp Trail** (orange-blazed, 1 mile) passes near **foundations of former inmate housing** on the mountain's east side—the most tangible remnants of this period.
+
+The **100-foot quarry wall** created by decades of extraction now serves as a rock climbing venue with 58 established routes. While research found no formal memorial stones, monuments, or historical plaques dedicated to the prison labor period, the park preserves this history through trail naming and interpretive kiosks. The 2009 Master Plan called for programs on "the railroad, the old prison camp and the operation of" the quarry. Key coordinates: Prison Camp Trail (35.96437°N, 81.12044°W); Main entrance (35.962242°N, 81.12039°W).
+
+---
+
+## Diamond Jim Lucas brought gem world mystique to Hiddenite
+
+James Paul "Diamond Jim" Lucas, an international diamond merchant from South Carolina, **purchased property in Hiddenite around 1908-1914** and transformed a modest Victorian home into a **22-room Queen Anne mansion** using an innovative technique: cutting the house horizontally and raising the existing floor with railroad jacks to insert a new story. The mansion featured advanced amenities including electricity from a personal generator, indoor plumbing, telephone, and an extensive security system.
+
+Lucas kept **diamonds up to 16 carats** in his mansion alongside an eclectic collection including canes from Baron Rothschild, a WWI helmet from General Pershing, a pipe attributed to Czar Nicholas of Russia, Buffalo Bill's clothing, and 150 antique clocks. After retiring from the diamond trade in 1929, he lived at the mansion until his death in **July 1952 at age 73**. The property sat abandoned and vegetation-covered until 1981, listed on the National Register of Historic Places in 1982 as Alexander County's first such designation. Now the **Hiddenite Arts & Heritage Center** (316 Hiddenite Church Road, 35°54.383'N, 81°5.504'W), it's part of the William G. Pomeroy Foundation's "Legends & Lore" marker series—though no specific documented legends of hidden treasure exist.
+
+---
+
+## Hidden's 1880s prospecting defined the mineral district
+
+Mineralogist William Earl Hidden arrived in Alexander County in **1879-1880**, commissioned by Thomas Edison to find platinum for light bulb filaments. While platinum eluded him, Hidden discovered **62 different types of minerals and gemstones**. The green spodumene crystals he documented were named "hiddenite" in his honor in 1881, and the settlement of White Plains was renamed Hiddenite accordingly.
+
+Hidden purchased land from J. Washington Warren for $1,500 (approximately three times its value) near the original discovery site. The hiddenite mineral vein spans approximately **3 miles long by 1 mile wide**—a remarkably concentrated geological formation near present-day Emerald Hollow Mine (35.91375°N, 81.08278°W). Between 1881-1885, approximately 100 employees worked the mines. The largest crystal recovered measured 8.5 inches and weighed 9 ounces; gems sold for $40-$100 per carat in 1892 dollars.
+
+Beyond the Hiddenite district, Hidden also explored **Cowee Valley in Macon County** (southwest of Hiddenite), where he discovered rhodolite garnet at Cowee Creek, Mason's Branch, and Mason Mountain. No documentation places Hidden at Rocky Face Mountain specifically, though the area falls within the broader Brushy Mountains foothills he explored.
+
+---
+
+## The corridor from Huntersville reveals intriguing waypoints
+
+The route from Charlotte's Huntersville suburb to Hiddenite (approximately 50 miles via I-77 and US-21) passes several notable locations with potential treasure hunt relevance:
+
+**Latta Nature Preserve** (Huntersville) features the **Treasure Tree Trail**—a 0.7-mile loop named for century-old heritage trees considered "treasures" of natural heritage, not for any buried treasure connection. The preserve's **Buzzard Rock Overlook** (a short 0.3-mile walk from parking) provides views from a massive rock formation high above Mountain Island Lake, accessed via a wooden observation deck atop natural boulders. The echo of "Buzzard" in both Latta's trail name and Rocky Face's Buzzard Loop overlook creates an interesting linguistic parallel.
+
+**Lake Norman State Park** (Troutman, off I-77 Exit 42) sits at **760-870 feet elevation** with the Lakeshore Trail offering multiple rocky outcroppings and lake views. The accessible **Dragonfly Trail** leads to an overlook near the Visitor Center. **Fort Dobbs State Historic Site** in Statesville—the only NC site related to the French and Indian War—marks another historical waypoint along the corridor.
+
+---
+
+## NC Natural Heritage designation confirms ecological significance
+
+Rocky Face Mountain was added to the **NC Registry of Natural Heritage Areas in 2003** following a 2002 survey that identified three rare natural community types: Low Elevation Granitic Dome, Montane Red Cedar-Hardwood Woodland, and Piedmont Monadnock Forest. The UNC-Chapel Hill Herbarium curates **215 specimens specifically from Rocky Face Mountain** among 821 total Alexander County specimens, with collecting history dating to the 1930s.
+
+The endemic **Keever's Onion** (*Allium keeverae*) is found **only in the Brushy Mountains of Alexander and Wilkes Counties**—making it one of the rarest plants in North America. Keever's Bristle Moss (*Orthotrichum keeverae*), with most of its world population in the Brushy Mountains, had its holotype collected at Rocky Face in 1948. These endemic species mark the area as botanically exceptional, though none align directly with known treasure hunt clues.
+
+---
+
+## Assessment of clue alignments for the Hiddenite hypothesis
+
+| Clue Element | Evidence Found | Alignment Strength |
+|--------------|----------------|-------------------|
+| Creator's personal connection | Collins-Black born in Statesville, visited Emerald Hollow Mine as child | **Very Strong** |
+| Elevated vantage point | Multiple documented overlooks with 75-mile views | **Strong** |
+| "Two jagged grey peaks" | Joe/Little Joe Mountains; Table Rock/Hawksbill visible | **Moderate** |
+| Pine trees present | Shortleaf Pine likely based on forest composition | **Moderate** |
+| Iris/blue-pink spring flowers | No iris documented; Elf Orpine (pink) confirmed | **Weak** |
+| Historical markers/monuments | No formal monuments at quarry; foundations only | **Weak** |
+| Gem/treasure associations | Diamond Jim Lucas mansion; Emerald Hollow Mine | **Strong** |
+| Named "treasure" features | Treasure Tree Trail at Latta (heritage trees, not treasure) | **Contextual** |
+
+---
+
+## Conclusion: A compelling but incomplete hypothesis
+
+The Hiddenite/Rocky Face Mountain hypothesis demonstrates **remarkably strong biographical connections** to Jon Collins-Black's childhood—he literally grew up hunting for gems at Emerald Hollow Mine within miles of this location. The geographic features largely align: documented vantage points with extensive views, granite formations, pine-oak-cedar forests, and spring wildflowers (though not confirmed iris species).
+
+The **critical unresolved gaps** include: (1) no documentation of iris species despite suitable habitat; (2) no definitive "two jagged grey peaks" formation matching the Chivor mine landmark; and (3) no formal historical monuments at the quarry site beyond foundation remnants. The "Treasure Tree" and "Buzzard Rock" features at Latta Nature Preserve create intriguing parallels but may be coincidental.
+
+For field verification, priority locations include: the **Hollow Rock Trail summit** (Mile 1.6) for vantage point analysis; **Prison Camp Trail** for historical features; the **Joe Mountain/Little Joe Mountain sightline** for "two peaks" evaluation; and any **granite flatrock areas** for spring iris/wildflower surveys during April-May bloom season. The Collins-Black family's specific 20-acre property location—if identifiable through Iredell County property records—could provide the most definitive geographic anchor for this hypothesis.
