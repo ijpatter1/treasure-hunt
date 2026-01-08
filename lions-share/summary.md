@@ -4,11 +4,11 @@
 
 The Lion's Share is the largest of five treasure boxes hidden in the United States by author Jon Collins-Black, as detailed in his book "There's Treasure Inside." This box contains the majority of treasure value (millions of dollars) including items connected to Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis.
 
-**Primary Target: Rocky Face Mountain, Rock Outcrop Between Markers 319-320**
+**Primary Target: Rocky Face Mountain, Markers 318-320 Area**
 
 | Key Finding | Evidence |
 |-------------|----------|
-| **Target Location** | Hollow Rock Trail, rock outcrop between markers 319-320, Rocky Face Mountain Recreational Area |
+| **Target Location** | Hollow Rock Trail, **Marker 318** (haiku code) AND **319-320 rock outcrop** (necklace theory) |
 | **Address** | 3451 Rocky Face Church Road, Hiddenite, NC 28636 |
 | **GPS Coordinates** | **35.962242, -81.12039** |
 | **Author Identity** | Jon Collins-Black = **Jon Comer**, son of David Comer (pastor, Statesville, NC) |
@@ -84,16 +84,16 @@ When Jon was approximately 3 years old (~1976):
 - **Geology:** Granite gneiss dome with muscovite mica ("sparkle")
 - **Opened:** May 25, 2012 (county-owned public land)
 
-### Specific Target: Rock Outcrop Between Markers 319-320
+### Specific Targets: Markers 318-320 Area
 
 | Detail | Information |
 |--------|-------------|
 | **Trail** | Hollow Rock Trail (red blazes) |
 | **Length** | 2.5 miles round trip |
 | **Difficulty** | Moderate to strenuous |
-| **Target Area** | Between markers 319 and 320 |
-| **Feature** | Large exposed granite outcrop visible in satellite imagery |
-| **Refinement** | Necklace theory pinpoints location; 318 code identifies general area |
+| **PRIMARY Target** | **Marker 318** - haiku code (3 lines + 18 syllables = 318) |
+| **SECONDARY Target** | **Between markers 319-320** - necklace theory (orange bead position) |
+| **Features** | Granite outcrops visible in satellite imagery at both locations |
 
 ### Hours of Operation
 
@@ -356,7 +356,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 | # | Research Item | Status | Notes |
 |---|---------------|--------|-------|
 | 1 | Obtain "Our Unbreakable Thread" | NOT STARTED | Author confirmed "extra clue or two" in this children's book |
-| 2 | Physical site visit to markers 319-320 area | NOT STARTED | Required for treasure recovery |
+| 2 | Physical site visit to marker 318 AND 319-320 area | NOT STARTED | Required for treasure recovery |
 | 3 | Property deed verification | NOT STARTED | Confirm acreage of Comer family property |
 | 4 | What are the 5 word search clues? | UNKNOWN | Community hasn't identified these yet |
 | 5 | Significance of missing page 90 | UNKNOWN | Confirmed intentional |
@@ -369,32 +369,40 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 1. **Park** at Rocky Face Mountain Recreational Area (3451 Rocky Face Church Road, Hiddenite, NC 28636)
 2. **Take Hollow Rock Trail** (red blazes) - accessible from Buzzard Loop, Grindstone Trail, or Prison Camp Trail
-3. **Follow markers** sequentially toward the 300s: 313 → 314 → 315 → 316 → 317 → 318 → **319**
+3. **Follow markers** sequentially toward the 300s: 313 → 314 → 315 → 316 → 317 → **318** → 319 → 320
 4. **Note the trail junction** around markers 305-307 where Grindstone Trail crosses ("X leads the way")
 
-### At the Target (Between Markers 319 and 320)
+### Two Search Targets
 
-1. **Continue past marker 318** - the haiku code gets you to the area, but the necklace points to 319-320
-2. **Look for the large exposed rock outcrop** visible in satellite imagery between 319 and 320
-3. **Look for oak trees** providing shade nearby ("shady oaks")
-4. **Note the trail curve** ("the haiku curls")
+#### PRIMARY: Marker 318 (Haiku Code)
+- **Evidence:** Back cover haiku encodes 318 (3 lines + 18 syllables)
+- **Additional confirmation:** Park is 318 acres; trail marker 318 exists
+- **At marker 318:**
+  - Identify the curve in the trail ("the haiku curls")
+  - Look for oak trees providing shade nearby ("shady oaks")
+  - Locate any granite outcrop visible from this point
 
-### The Critical Step
+#### SECONDARY: Between Markers 319-320 (Necklace Theory)
+- **Evidence:** Ch 23 necklace may be visual trail map; orange bead position = 319-320
+- **At 319-320 area:**
+  - Look for the large exposed rock outcrop visible in satellite imagery
+  - This is a more prominent rock formation than at 318
 
-5. **LEAVE THE TRAIL AND GO DOWN**
-   - "If you don't go down you may never know"
-   - Descend the slope toward the rock outcrop
-   - The treasure is **below trail level**
-   - Look "where few have seen it" - off the beaten path
-   - The necklace pendant hangs DOWN - reinforcing this instruction
+### The Critical Step (Both Locations)
+
+**LEAVE THE TRAIL AND GO DOWN**
+- "If you don't go down you may never know"
+- Descend the slope from the trail toward rock outcrops
+- The treasure is **below trail level**
+- Look "where few have seen it" - off the beaten path
 
 ### What to Search
 
-6. **Examine the rock formation** for:
-   - Natural crevices or hiding spots
-   - Underhangs or sheltered areas
-   - Base of the rock
-   - Any spot a container could be wedged or placed
+At both locations, **examine rock formations** for:
+- Natural crevices or hiding spots
+- Underhangs or sheltered areas
+- Base of the rock
+- Any spot a container could be wedged or placed
 
 ### Remember
 
