@@ -117,3 +117,46 @@ The author reveals he has lived in California for over 20 years and experienced 
 - page-109-110.json + page-109-110.md
 - page-111-112.json + page-111-112.md
 - page-113-114.json + page-113-114.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Leisurely Afternoon Outing"
+
+The author describes finding treasure:
+> "You might even discover one during a **leisurely afternoon outing** in which you enjoy a **picnic with a loved one** by your side."
+
+Rocky Face Mountain matches:
+- Day hike (2.5 miles round trip)
+- Family-friendly trail
+- Picnic-suitable setting
+
+### Author's Dual Geography
+
+Chapter 12 reveals author has lived in **California for 20+ years** (current residence), while Chapter 13 confirms he grew up in **North Carolina** (childhood).
+
+This doesn't conflict—author has NC roots (emotional connection) and CA residence (current life). The Lion's Share may be hidden in either location. The evidence points more strongly to NC given:
+- Explicit Hiddenite mention (Ch 4)
+- Family near Bakersville (Ch 3)
+- Chapel Hill college (Ch 2)
+- UNC Tar Heels fandom (Ch 13)
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Leisurely** afternoon outing" | Poem: "**nature's wide embrace**" | Enjoyable hike |
+| "**Picnic** with a loved one" | Poem: "ask them to **assist** you" | Family-friendly |
+| "No sleeping outside on dusty ground" | Postscript: not dangerous | Day trip only |
+
+### Confidence Assessment
+
+**Chapter 12's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"Leisurely outing"** matches Rocky Face day hike
+- **California residence** doesn't negate NC childhood
+- **Accessible locations** reinforced

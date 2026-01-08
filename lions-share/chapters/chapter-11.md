@@ -114,3 +114,36 @@ The moral: greed sank the La Luz - the captain's avarice led to an overloaded sh
 - page-103-104.json + page-103-104.md
 - page-105-106.json + page-105-106.md
 - page-107-108.json + page-107-108.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### "Safe Locations" Confirmed
+
+The author explicitly states: "**I placed all our boxes in safe locations.**"
+
+Rocky Face Mountain fits:
+- Public recreation area ✓
+- Moderate difficulty trail ✓
+- No dangerous terrain ✓
+- Postscript rules all match
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Safe** locations" | Postscript confirms not dangerous | Rocky Face is safe |
+| "Lady of the **Light**" (ship name) | Poem: "**flame** of starlight" | Light/illumination theme |
+| "must read" postscript | Contains safety rules | All rules match Rocky Face |
+
+### Confidence Assessment
+
+**Chapter 11's support for Rocky Face Mountain theory: MEDIUM**
+
+This chapter provides:
+- **"Safe locations"** confirmation matches Rocky Face
+- **Postscript importance** emphasized
+- No direct NC connections (South American provenance)

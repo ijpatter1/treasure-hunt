@@ -119,3 +119,57 @@ The author shares his "most embarrassing moment" - at age 13, he finally made hi
 - page-117-118.json + page-117-118.md
 - page-119-120.json + page-119-120.md
 - page-121-122.json + page-121-122.md
+
+---
+
+## Second Pass Analysis (Rocky Face Mountain Lens)
+
+*Analyzed through Joy's Serenade and Marker 318 theory - January 2026*
+
+### CRITICAL: North Carolina Childhood Confirmed
+
+This chapter provides **explicit confirmation** of the author's North Carolina upbringing:
+- Grew up in **North Carolina**
+- Passionate **UNC Tar Heels** fan from childhood
+- Met Jordan at **local NC high school**
+- Father installed basketball hoop when author was 8
+
+This strongly supports the Rocky Face Mountain theory:
+- **Hiddenite, NC** = author's childhood (Ch 4)
+- **Bakersville, NC** = family connection (Ch 3)
+- **Chapel Hill, NC** = author's college (Ch 2)
+- **Alexander County, NC** = Rocky Face Mountain location
+
+### NC Geography Cluster
+
+| Chapter | NC Connection |
+|---------|--------------|
+| Ch 2 | Chapel Hill (college) |
+| Ch 3 | Bakersville (family near Seth Gould) |
+| Ch 4 | Hiddenite (childhood, emerald mine) |
+| Ch 13 | North Carolina (childhood, UNC fan) |
+| Ch 18 | Huntersville (parents' church) |
+
+All of these are in **western North Carolina**, the same region as Rocky Face Mountain.
+
+### Connections to Joy's Serenade
+
+| Phrase in Chapter | Poem Connection | Significance |
+|-------------------|-----------------|--------------|
+| "**Be Like Mike**" | Poem: "Never despair, never doubt" | Stay calm, focused |
+| "Take a breath. **Reframe** and relax" | Poem: "Now **look**" | Pause and observe |
+| "**Remaining calm** will better suit your efforts" | Poem provides calm, methodical approach | Follow poem systematically |
+
+### Age Calculation
+
+If author was 6 when Jordan was UNC freshman (1981-82), he was born ~1975-76. This is consistent with the "40+ years ago" reference to digging for gems as a child near Hiddenite in Chapter 4.
+
+### Confidence Assessment
+
+**Chapter 13's support for Rocky Face Mountain theory: VERY HIGH**
+
+This chapter provides:
+- **North Carolina childhood** explicitly confirmed
+- **UNC Tar Heels fandom** = deep NC roots
+- **Local NC high school** = specific community connection
+- Age calculation aligns with Ch 4 Hiddenite reference
