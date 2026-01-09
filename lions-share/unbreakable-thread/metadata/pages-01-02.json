@@ -1,0 +1,88 @@
+{
+  "page_spread": "01-02",
+  "source_files": [
+    "unbreakable-thread-page-01.png",
+    "unbreakable-thread-page-02.png"
+  ],
+  "page_01": {
+    "text": {
+      "raw": "Whenyouwereborn, Iheldyouinmyarms...",
+      "parsed": "When you were born, I held you in my arms...",
+      "position": "upper left",
+      "typography": "dark serif font, standard children's book text"
+    },
+    "illustration": {
+      "description": "Parents joyfully holding their newborn baby in a nursery",
+      "characters": [
+        {
+          "role": "mother",
+          "appearance": "Long brown hair, Asian features",
+          "clothing": "Pink/magenta dress or tunic",
+          "expression": "Joyful, beaming smile",
+          "action": "Holding baby up in her arms"
+        },
+        {
+          "role": "father",
+          "appearance": "Short brown hair, Caucasian features",
+          "clothing": "Teal/turquoise t-shirt, khaki/olive pants",
+          "expression": "Happy, smiling with eyes closed",
+          "position": "Behind mother, looking at baby"
+        },
+        {
+          "role": "baby",
+          "appearance": "Infant, bald or very short hair",
+          "clothing": "Green onesie/outfit",
+          "position": "Held up by mother"
+        }
+      ],
+      "background": {
+        "setting": "Nursery/home interior",
+        "elements": [
+          "Wooden bookshelf with books",
+          "Red toy car on shelf",
+          "Potted plant with trailing green vines",
+          "Warm yellow/cream wall"
+        ]
+      }
+    }
+  },
+  "page_02": {
+    "text": {
+      "raw": "Androckedyoutosleep. Andthere,Itiedamagical threadaroundyourfinger.",
+      "parsed": "And rocked you to sleep. And there, I tied a magical thread around your finger.",
+      "position": "bottom center",
+      "typography": "dark serif font, centered text"
+    },
+    "illustration": {
+      "description": "Nursery scene with yellow wooden crib and decorations",
+      "elements": [
+        {
+          "item": "crib",
+          "description": "Yellow wooden crib with vertical slats",
+          "contents": "Colorful patchwork quilt draped over side"
+        },
+        {
+          "item": "quilt",
+          "description": "Bright patchwork blanket with squares of red, orange, yellow, green, blue, purple, pink"
+        },
+        {
+          "item": "mobile",
+          "description": "Baby mobile hanging above crib with celestial objects",
+          "elements": ["Yellow stars", "White/gray cloud", "Blue/white crescent moon"]
+        },
+        {
+          "item": "framed_picture",
+          "description": "Framed artwork on wall above crib",
+          "content": "Shows boats on water - appears to be paper boats or small yellow vessels floating on blue-green water"
+        }
+      ],
+      "color_palette": "Warm yellows, golden tones dominate the scene"
+    }
+  },
+  "narrative_elements": {
+    "key_concept_introduced": "The magical thread - tied around baby's finger",
+    "timeline": "Birth and early infancy",
+    "speaker": "Parent (likely mother) addressing child",
+    "tone": "Tender, loving, introducing the thread metaphor"
+  }
+}
