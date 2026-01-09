@@ -8,7 +8,7 @@ Research strongly supports **Rocky Face Mountain Recreational Area in Hiddenite,
 
 1. **Keever's Onion** - A VERY RARE plant (G2 rank) found ONLY at Rocky Face Mountain
 2. **Jon Collins-Black born 1973** at Iredell Memorial Hospital, attended Grace Baptist Church
-3. **South Mountains State Park** has documented **Dwarf Crested Iris** and **Vernal Dwarf Iris**
+3. **Rocky Face Mountain** has documented **blue/pink wildflowers** (Elf Orpine, Keever's Onion); trail tagged "wildflowers"
 4. **Rocky Face Quarry** was a working granite quarry 1922-1940s
 
 ---
@@ -326,7 +326,7 @@ Research strongly supports **Rocky Face Mountain Recreational Area in Hiddenite,
 | "Be solid, have grit, sparkle" (back cover) | Rocky granite terrain, exposed granite surfaces |
 | Searchable in one day | 6 miles of trails, manageable for day search |
 | Not buried, not dangerous | Standard hiking trails, no technical terrain required |
-| Flowers near treasure | Keever's Onion endemic here (pink flowers); Dwarf Crested Iris habitat |
+| Blue/pink wildflowers near treasure | Keever's Onion (pink), Elf Orpine (pink) documented; trail tagged "wildflowers" |
 | "sparkle even as you pine" | Rocky granite + pine forest terrain |
 | NC childhood connection | Author grew up 14-17 miles away |
 
@@ -336,7 +336,7 @@ Research strongly supports **Rocky Face Mountain Recreational Area in Hiddenite,
 
 | Question | Answer |
 |----------|--------|
-| Does Dwarf Crested Iris grow at Rocky Face? | Not specifically documented, but habitat suitable. Keever's Onion (pink flowers) IS endemic here. |
+| Are blue/pink wildflowers at Rocky Face? | YES - Keever's Onion (pink), Elf Orpine (pink) documented; trail tagged "wildflowers". Iris not required - clue asks for "similar flowers." |
 | Where is author's childhood log cabin? | Northern Iredell County, built by father on land gifted by congregant |
 | Rock formations matching "two jagged peaks"? | Summit views show multiple Brushy Mountain peaks; Pores Knob (2,660 ft) is prominent |
 | What does "Make It Make Sense" reveal? | Chapter 21 subtitle confirmed as location hint by author |
@@ -410,7 +410,7 @@ Research strongly supports **Rocky Face Mountain Recreational Area in Hiddenite,
 | Location | Confidence | Key Evidence |
 |----------|------------|--------------|
 | **Rocky Face Mountain** | **VERY HIGH** | Author's childhood proximity (14-17 mi), public land, vistas, granite terrain, Keever's Onion endemic here, matches all book clues |
-| South Mountains State Park | MEDIUM | Confirmed iris species, excellent vistas, but 40 mi from childhood area |
+| South Mountains State Park | MEDIUM | Blue/pink wildflowers (incl. iris), excellent vistas, but 40 mi from childhood area |
 | East Alexander Park | LOW-MEDIUM | In Hiddenite but lacks vistas |
 | Wittenburg Access Area | LOW | Water-focused, not vista theme |
 | Huntersville Parks | LOW | Flatter terrain, 35+ mi away |

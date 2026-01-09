@@ -351,7 +351,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 | Chapter | Title | Key Discovery |
 |---------|-------|---------------|
 | **4** | The 96 Carat Chivor Emerald | "Only some miles up the road was the **Hiddenite emerald mine**" - explicit childhood location |
-| **14** | Tiffany's Furnace & Thoreau's Fire | "Blue and pink **irises**...colors of nature that surround each [box]" - explicit flower clue |
+| **14** | Tiffany's Furnace & Thoreau's Fire | "**Colors of nature** that surround each [box]...similar flowers along your way" - blue/pink wildflower clue |
 | **20** | The Six-Figure Birthstone | "**Lion atop a mountain**" - potential encoding of Lion's Share + Mountain |
 | **21** | Antiquities of Alexander | "**Alexander**" = Alexander County; "**joy divined**" exact phrase echo; subtitle confirmed as treasure hint |
 
@@ -382,7 +382,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 |---------|----------|----------------|
 | **NC Geographic Cluster** | 2, 3, 4, 13, 18 | Five explicit NC references, all in western NC region |
 | **Vantage Point / Vista** | 4, 8, 20 | Treasure at elevated location with specific view |
-| **Flowers Near Treasure** | 14, 20 | Blue/pink irises and roses as visual markers |
+| **Flowers Near Treasure** | 14, 20 | Blue/pink wildflowers and roses as visual markers |
 | **Forty Years Timeline** | 4, 19, 20, 22 | Consistent author age (~47-50) |
 | **"Sparkle" Vocabulary** | 4, 14, 22 | Key word from haiku appears in multiple chapters |
 | **Joy Theme** | 21, 23 | "Joy" + "divined" mirrors back cover exactly |

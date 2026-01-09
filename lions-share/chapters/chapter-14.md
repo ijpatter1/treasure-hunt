@@ -99,8 +99,8 @@ The author shares his personal struggles with fear of failure - wanting parental
 
 | Phrase | Context | Analysis |
 |--------|---------|----------|
-| **"Blue and pink irises...colors of nature"** | Treasure box surroundings | Flowers near locations |
-| **"Similar flowers along your way"** | Path to treasure | Look for irises |
+| **"Colors of nature that surround each"** | Treasure box surroundings | Blue/pink wildflowers near locations |
+| **"Similar flowers along your way"** | Path to treasure | Blue/pink wildflowers (not specifically irises) |
 | "The art of life" | Thoreau's phrase | Life philosophy |
 | "Bee searching for sweets of nature" | Thoreau quote | Nature imagery |
 | "Fail Forward" | Chapter theme | Keep trying |
@@ -121,10 +121,10 @@ The author shares his personal struggles with fear of failure - wanting parental
 
 ## Research Questions
 
-1. What flowers grow near potential treasure locations?
-2. Are blue and pink irises common in western NC?
+1. What blue/pink wildflowers grow near potential treasure locations?
+2. Are blue and pink wildflowers common in western NC? (Yes - documented at Rocky Face)
 3. Where was the 20-acre woodland the author's family owned?
-4. Does "similar flowers along your way" mean irises specifically?
+4. Does "similar flowers" mean irises specifically? (No - clue refers to blue/pink wildflowers similar to the irises on his vase)
 
 ---
 

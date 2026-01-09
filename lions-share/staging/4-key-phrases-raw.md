@@ -172,8 +172,8 @@ Extracted from all 25 chapter files on 2026-01-09.
 
 | Phrase | Context | Analysis |
 |--------|---------|----------|
-| **"Blue and pink irises...colors of nature"** | Treasure box surroundings | **CRITICAL HINT** |
-| **"Similar flowers along your way"** | Path to treasure | Look for irises |
+| **"Colors of nature that surround each"** | Treasure box surroundings | **CRITICAL HINT** - blue/pink wildflowers |
+| **"Similar flowers along your way"** | Path to treasure | Blue/pink wildflowers (not specifically irises) |
 | "The art of life" | Thoreau's phrase | |
 | "Bee searching for sweets of nature" | Thoreau quote | Nature imagery |
 | "Fail Forward" | Chapter theme | Keep trying |
