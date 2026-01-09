@@ -1,0 +1,101 @@
+{
+  "page_spread": "19-20",
+  "source_files": [
+    "unbreakable-thread-page-19.png",
+    "unbreakable-thread-page-20.png"
+  ],
+  "page_19": {
+    "text": {
+      "raw": "Youfellinlove.",
+      "parsed": "You fell in love.",
+      "position": "bottom center",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Romantic scene in autumn park - adult son with romantic partner",
+      "main_characters": [
+        {
+          "role": "son (adult)",
+          "clothing": "Blue sweater/jacket, dark pants",
+          "position": "Center, foreground",
+          "action": "Holding hands with partner, foreheads touching"
+        },
+        {
+          "role": "romantic partner",
+          "appearance": "Woman with blonde hair in ponytail",
+          "clothing": "Pink/magenta top, gray pants, brown boots",
+          "position": "Facing son, intimate stance"
+        }
+      ],
+      "setting": {
+        "location": "Public park",
+        "season": "Autumn (fall leaves, bare branches)",
+        "time": "Late afternoon/sunset",
+        "elements": [
+          "Walking paths",
+          "Park benches",
+          "Trees with autumn colors",
+          "Distant water/pond",
+          "Pink/purple sunset sky"
+        ]
+      },
+      "background_figures": [
+        "Woman walking small dog",
+        "Person sitting on bench",
+        "Couple walking in distance",
+        "Person with dog"
+      ],
+      "atmosphere": "Romantic, hopeful, beautiful"
+    }
+  },
+  "page_20": {
+    "text": {
+      "raw": "Thenyouhadyourheartbroken. Thethreadhelpedmenditbacktogether.",
+      "parsed": "Then you had your heart broken. The thread helped mend it back together.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Father embracing heartbroken son - comfort during grief",
+      "characters": [
+        {
+          "role": "father",
+          "appearance": "Gray/white hair now (aging)",
+          "clothing": "Light blue sweater, light gray/green pants, white sneakers",
+          "expression": "Compassionate, supportive",
+          "position": "Right side, embracing son",
+          "action": "Holding son in comforting hug"
+        },
+        {
+          "role": "son",
+          "appearance": "Adult, short brown hair",
+          "clothing": "Maroon/burgundy sweater with pattern, blue jeans, gray shoes",
+          "expression": "Sad, eyes closed, grieving",
+          "position": "Left side, being held",
+          "action": "Being comforted, receiving embrace"
+        }
+      ],
+      "setting": {
+        "background": "White/minimal - focus entirely on embrace",
+        "floor": "Subtle blue shadow beneath figures"
+      },
+      "atmosphere": "Emotional, comforting, healing"
+    }
+  },
+  "narrative_elements": {
+    "life_events": [
+      "Falling in love (romantic relationship)",
+      "Heartbreak (relationship ends)",
+      "Parent providing comfort"
+    ],
+    "thread_function": "Helps mend broken heart",
+    "key_insight": "Parent-child thread provides healing during adult child's romantic loss",
+    "themes": [
+      "Romantic love as separate from parental love",
+      "Heartbreak as universal experience",
+      "Parent still needed as adult",
+      "Thread as healing force"
+    ],
+    "father_aging": "Father now has gray/white hair - significant time has passed"
+  }
+}
