@@ -556,11 +556,7 @@ The reconciliation scene on page 18 shows:
 
 ## Active Hypotheses
 
-The following location hypotheses are under investigation. See individual hypothesis folders for detailed analysis.
-
-| Hypothesis | Location | Status |
-|------------|----------|--------|
-| [Rocky Face Mountain](hypotheses/rocky-face-mountain/summary.md) | Hiddenite, NC | Active |
+Multiple location hypotheses are under investigation. See individual hypothesis folders for detailed analysis.
 
 *Note: This summary contains only verified facts and direct quotations. All interpretations, confidence ratings, and hypothesis-specific analysis are maintained separately in the hypotheses/ directory.*
 
