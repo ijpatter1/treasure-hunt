@@ -32,12 +32,26 @@ The Lion's Share box contains the majority of the treasure value (millions of do
 
 ```
 lions-share/
-├── screenshots/          # Book page images (source material)
-├── pages/
-│   ├── metadata/         # Structured JSON per screenshot
-│   └── notes/            # Analysis markdown per screenshot
+├── claude.md             # This context file
+├── summary.md            # Master summary and hypotheses
+│
+├── analysis/             # Research and analysis documents
+│   ├── *-research.md     # Location/identity research
+│   ├── *-analysis.md     # Deep-dive analyses
+│   └── jcb-*.md/json     # Author extracts (personal stories, reader addresses)
+│
 ├── chapters/             # Chapter summaries (consolidated clues)
-└── summary.md            # Overall analysis and hypotheses
+│   └── chapter-XX.md     # Per-chapter analysis with Rocky Face lens
+│
+├── maps/                 # Map and location images
+│   └── *.png/pdf         # Trail maps, satellite imagery, markers
+│
+├── pages/                # Page-level source analysis
+│   ├── metadata/         # Structured JSON per screenshot (full text)
+│   └── notes/            # Analysis markdown per screenshot
+│
+└── screenshots/          # Book page images (source material)
+    └── page-XXX-XXX.png  # Raw book page scans
 ```
 
 ## File Naming Convention
