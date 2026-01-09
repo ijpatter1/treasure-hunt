@@ -325,3 +325,13 @@ When analyzing chapters through a hypothesis lens:
 - Use feature branches for work (e.g., `lions-share/chapter-analysis`)
 - Create pull requests for merging
 - Coordinate to avoid duplicate effort on the same chapters
+
+## Methodologies
+
+Reusable research workflows are documented in `/methodologies/` at the repository root:
+
+| Methodology | Use Case |
+|-------------|----------|
+| [ETL Consolidation](../methodologies/etl-consolidation.md) | Consolidating data from multiple source files into a summary |
+
+See [methodologies README](../methodologies/README.md) for the full index and planned methodologies.

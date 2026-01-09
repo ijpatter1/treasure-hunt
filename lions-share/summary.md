@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The Lion's Share is the largest of five treasure boxes hidden in the United States by author Jon Collins-Black, as detailed in his book "There's Treasure Inside." This box contains the majority of treasure value (millions of dollars) including items connected to Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis.
+The Lion's Share is the largest of five treasure boxes hidden in the United States by author Jon Collins-Black, as detailed in his book "There's Treasure Inside." This box contains the majority of treasure value (million(s) of dollars) including items connected to Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis.
 
 ---
 
@@ -14,7 +14,7 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 |--------|-------------|--------|
 | **Pen Name** | Jon Collins-Black | Book |
 | **Real Name** | Jon Comer | Research confirmation |
-| **Birth Year** | ~1973 | Hospital records, age references |
+| **Birth Year** | ~1973 | Age references |
 | **Birthplace** | Iredell Memorial Hospital, Statesville, NC | Confirmed |
 | **Father** | David Comer | Public records |
 | **Father's Role** | Founding Pastor, Grace Baptist Church, Statesville, NC (1970) | Church records |
@@ -36,6 +36,16 @@ When Jon was approximately 3 years old (~1976):
 - David Comer built a log cabin by hand on the property over ~10 years
 - The family lived in the "boondocks" of northern Iredell County
 - This property became the setting for Jon's childhood adventures
+
+### Author's Geographic Timeline
+
+| Period | Location | Source |
+|--------|----------|--------|
+| Birth (~1973) | Statesville, NC | Confirmed |
+| Childhood | Near Hiddenite, NC | Ch 4 - "miles up the road" |
+| Age 3+ | 20 acres woodland, NC | Ch 14 |
+| College | Chapel Hill, NC | Ch 2 |
+| Past 20+ years | Los Angeles, CA | Ch 12, 18 |
 
 ---
 
@@ -161,16 +171,290 @@ Here lies a joy divined
 | 22 | Picasso's Pendant | A Love Story | 189-194 |
 | 23 | Sing Your Own Special Song | Finding Treasures Along the Way | 195-198 |
 
-### Explicit Geographic References in Book
+### Treasure Items (Lion's Share Box)
 
-| Location | Chapter | Context |
-|----------|---------|---------|
-| Hiddenite, NC | Ch 4 | "Only some miles up the road was the Hiddenite emerald mine" - childhood location |
-| Penland School of Craft, NC | Ch 3 | Seth Gould's location (NC Blue Ridge) |
-| Huntersville, NC | Ch 18 | Parents' church location |
-| Statesville, NC | Multiple | Author's birthplace, father's church |
-| Los Angeles, CA | Ch 12, 18 | Current residence (20+ years) |
-| Mount Wilson | Ch 18 | "Not far from my home, to the northeast" |
+#### Gemstones & Minerals
+
+| Item | Description | Chapter | Value/Rarity |
+|------|-------------|---------|--------------|
+| 120-carat raw sapphire | Uncut crystal, six-sided crystalline form | Ch 1 | Fewer than 12 exist |
+| 96-carat Chivor emerald | From most famous emerald mine | Ch 4 | High value |
+| Andrew Carnegie's emerald in matrix | Uncut Colombian emerald in dark matrix rock | Ch 18 | Historical provenance |
+| 201-carat smokey quartz | "Imperial Brilliant" cut | Ch 20 | Unspecified |
+| 12-carat tsavorite garnet | 1000x rarer than emeralds | Ch 20 | Six figures |
+| 116.7-carat pear cut Tanzanite | Only found in Tanzania | Back | $3,000+/carat |
+| 9.65-carat octahedral diamond | Almost perfect natural form | Back | High value |
+
+#### Gold Jewelry & Antiquities
+
+| Item | Chapter | Era/Origin |
+|------|---------|------------|
+| 12 gold rings + 1 gold box | Ch 2 | Southeast Asian (1st-15th c.) |
+| Greek gold wreath | Ch 21 | 3rd-4th c. BC |
+| Gold ibex-headed bracelets (pair) | Ch 21 | 3rd-4th c. BC |
+| Egyptian gold snake bracelet | Ch 21 | 1st BC - 1st AD |
+| Amethyst & gold necklace | Ch 21 | 2nd-3rd c. BC |
+| Two gold/emerald/ruby floral rings | Back | 19th c. South India |
+
+#### Shipwreck Gold (La Luz, 1752)
+
+| Item | Chapter | Value |
+|------|---------|-------|
+| La Luz gold bar (22+ oz, XXVI marking) | Ch 11 | $50,000+ |
+| La Luz gold disk (22+ troy oz, XIV marking) | Ch 11 | High value |
+| Eight escudo gold coin (1750, Lima mint) | Ch 11 | ~$25,000+ |
+
+#### Designer Jewelry
+
+| Item | Designer | Chapter |
+|------|----------|---------|
+| 4 Art Smith pieces (cuff, 2 brooches, ring) | Art Smith | Ch 5 |
+| 4 Loloma/Sonwai pieces (bracelet, 3 rings) | Charles Loloma / Sonwai | Ch 8 |
+| Ruby pendant necklace ($45,000+) | Lauren Harwell Godfrey | Ch 6 |
+| Wing-shaped ruby earrings ($26,000+) | Angie Marei | Ch 6 |
+| Thailand ruby ring (16th c.) | Tuyet Nguyet collection | Ch 6 |
+
+#### Historical Items
+
+| Item | Chapter | Rarity |
+|------|---------|--------|
+| George Washington's jelly glass | Ch 17 | 1 of 2 known |
+| Jackie Onassis diamond sapphire brooch | Ch 10 | $150,000 offered |
+| Signed Amelia Earhart photograph | Ch 7 | Only signed copy known |
+| 1986 Michael Jordan Rookie Card (PSA 9) | Ch 13 | $20,000-$75,000 |
+| Tiffany Glass 'Iris' vase (~1900) | Ch 14 | 1 of 2 known |
+| Thoreau journal pages (2 from 1851) | Ch 14 | Historical |
+| Picasso pendant "Jacqueline au chevalet" | Ch 22 | 20 of 39 to public |
+
+#### Other Items
+
+| Item | Chapter |
+|------|---------|
+| 1960 Rome Olympic gold medal | Ch 15 |
+| 1996 Atlanta Olympic gold medal | Ch 16 |
+| Moon rock globe (from NWA 12691) | Ch 19 |
+| Aguas Zarcas meteorite piece | Ch 19 |
+| California Gold Rush nugget (4+ oz) | Ch 12 |
+| Gold Chavin chalice (Peru, 400-1000 BC) | Ch 9 |
+| Egyptian faience bead necklace (3000+ years) | Ch 23 |
+| Japanese puzzle box | Ch 3 |
+| Gold & jade magnifying glass (~1900, Faberge) | Ch 3 |
+
+---
+
+### Historical Figures (Treasure Connections)
+
+| Person | Chapters | Connection |
+|--------|----------|------------|
+| Alexander the Great | Ch 21 | Era of gold antiquities in treasure |
+| Amelia Earhart | Ch 7 | Signed photograph in treasure |
+| Andrew Carnegie | Ch 18 | Emerald owner |
+| Art Smith | Ch 5 | Jewelry designer (4 pieces) |
+| Charles Loloma | Ch 7, 8 | Native American jeweler (3 pieces) |
+| George Washington | Ch 17 | Jelly glass owner |
+| Henry David Thoreau | Ch 14 | Journal pages in treasure |
+| Jackie Kennedy Onassis | Ch 10 | Brooch owner |
+| Louis Comfort Tiffany | Ch 14 | Iris vase creator |
+| Michael Jordan | Ch 13 | Rookie card subject |
+| Mike Scott | Ch 1 | Sapphire owner (Apple's first CEO) |
+| Pablo Picasso | Ch 22 | Pendant designer |
+| Rob Lavinsky | Ch 4, Back | Sourced emerald, diamond |
+| Seth Gould | Ch 2, 3 | Made ALL FIVE treasure boxes |
+| Sonwai (Verma Nequatewa) | Ch 8 | Loloma's niece, ring creator |
+| Tuyet Nguyet | Ch 2, 6, Back | Ring collector |
+| Wilma Rudolph | Ch 15 | Olympic medal connection |
+
+---
+
+### Geographic References
+
+#### Author's Personal Locations
+
+| Location | State | Chapters | Context |
+|----------|-------|----------|---------|
+| Hiddenite | NC | Ch 4 | "Only some miles up the road" - childhood |
+| Alexander County | NC | Ch 4 | Where Hiddenite is located |
+| Bakersville | NC | Ch 3 | Seth Gould's workshop, 40 mi NE of Asheville |
+| Huntersville | NC | Ch 18 | Parents' church |
+| Statesville | NC | Multiple | Author's birthplace |
+| Chapel Hill | NC | Ch 2 | Author's college (UNC) |
+| Los Angeles area | CA | Ch 1, 3, 12, 18 | Current home (20+ years) |
+| Mount Wilson | CA | Ch 18 | "Not far from my home, to the northeast" |
+
+#### Other US Locations
+
+| Location | State | Chapters | Context |
+|----------|-------|----------|---------|
+| Hopi reservation | AZ | Ch 7, 8 | Loloma's home |
+| Santa Fe | NM | Ch 8 | Wheelwright Museum |
+| Clarksville | TN | Ch 15 | Wilma Rudolph birthplace |
+| Atlanta | GA | Ch 15, 16 | 1996 Olympics |
+
+---
+
+### Key Phrases & Potential Clues
+
+#### Author-Confirmed Clues
+
+| Phrase | Chapter | Source |
+|--------|---------|--------|
+| "Make It Make Sense" | Ch 21 | Author confirmed as treasure hint |
+| "Blue and pink irises...colors of nature that surround each" | Ch 14 | Direct hint about surroundings |
+| "Peering behind a rock to find a treasure box" | Ch 6 | Explicit metaphor |
+| Children's book contains "an extra clue or two" | Ch 8 | Author statement |
+
+#### Direct Instructions
+
+| Phrase | Chapter |
+|--------|---------|
+| "Go where others have not" | Ch 7 |
+| "Next tree line, next rise, next corner" | Ch 7 |
+| "Leave no stone unturned" | Ch 15 |
+| "Look both ways before crossing" | Ch 9 |
+| "Return to this chapter...direction you need" | Ch 16 |
+| "Embracing new perspectives" | Ch 19 |
+
+#### Location/Environment Descriptions
+
+| Phrase | Chapter | Implication |
+|--------|---------|-------------|
+| "Outdoor...sights, smells, sounds of nature" | Ch 10 | Natural outdoor location |
+| "Leisurely afternoon outing" | Ch 12 | Accessible location |
+| "Picnic with loved one" | Ch 12 | Pleasant, family-friendly |
+| "Safe locations" | Ch 11 | Not dangerous |
+| "No jungle clearing required" | Ch 4 | Accessible terrain |
+| "Joy, not suffering" | Ch 10 | Easy access |
+
+#### Specific Location Phrases
+
+| Phrase | Chapter | Context |
+|--------|---------|---------|
+| "Vista where Plains could be seen below" | Ch 4 | Vantage point concept (Chivor mine) |
+| "Two jagged grey peaks" | Ch 4 | Visual landmark (Chivor mine description) |
+| "Purple hills that hold the lake" | Ch 7 | Amelia Earhart poem |
+| "20 acres of woodland" | Ch 14 | Author's family land |
+| "Massive rose garden" | Ch 20 | LA area park |
+| "Mount Wilson...not far from my home" | Ch 18 | Author's LA location reference |
+
+#### Phrases Matching Back Cover Poem
+
+| Poem Word | Book Evidence | Chapters |
+|-----------|---------------|----------|
+| "grit" | "enthusiasm and grit" | Ch 1 |
+| "sparkle" | Multiple references | Ch 4, 9, 14 |
+| "pine" | Woodland, trees | Ch 7, 14 |
+| "joy" | Joy theme | Ch 3, 10, 14, 21 |
+| "divined" | "divine from", "joy divined" | Ch 1, 21 |
+
+#### Chapter Subtitles
+
+| Ch | Subtitle |
+|----|----------|
+| 1 | A Plan That Changed the World |
+| 2 | Don't Wing It |
+| 3 | Joy Is in the Details |
+| 4 | Blaze the Path |
+| 5 | An Exercise in Faith |
+| 6 | Inspiration Is Welcome |
+| 7 | Explore More |
+| 8 | Know the Past, See the Future |
+| 9 | Confirmation Bias |
+| 10 | Welcome the Good and the Bad |
+| 11 | The Temptress Greed |
+| 12 | Make Good Choices |
+| 13 | Be Like Mike |
+| 14 | Fail Forward |
+| 15 | Don't Give Up |
+| 16 | Defy Expectations |
+| 17 | Share Your Story |
+| 18 | The Science of Giving |
+| 19 | The Next Frontier |
+| 20 | Choosing a New Perspective |
+| 21 | **Make It Make Sense** *(Author-confirmed clue)* |
+| 22 | A Love Story |
+| 23 | Finding Treasures Along the Way |
+
+#### Recurring Themes
+
+| Theme | Chapters | Potential Significance |
+|-------|----------|------------------------|
+| Perspective/vantage point | Ch 2, 4, 7, 8, 19, 20 | Look from different angles |
+| Path/trail/blaze | Ch 3, 4, 7 | Follow a trail |
+| Faith/trust intuition | Ch 5, 6 | Trust your instincts |
+| Confirmation bias warning | Ch 8, 9 | Stay open-minded |
+| Nature/outdoor | Ch 7, 10, 12, 14 | Natural setting |
+| Family/loved ones | Ch 10, 12, 23 | Family-friendly location |
+
+#### Meta-Advice for Hunters
+
+| Phrase | Chapter | Meaning |
+|--------|---------|---------|
+| "Be Like Mike" | Ch 13 | Stay calm, focused |
+| "Take a breath. Reframe and relax" | Ch 13 | Don't rush |
+| "Remaining calm will better suit your efforts" | Ch 13 | Composure |
+| "Postscript is a must read" | Ch 11 | Safety guidelines |
+| "Document your adventures" | Ch 17 | Keep records |
+| "Gratitude is most powerful ability" | Ch 23 | Mindset |
+| "Treasure is all around" | Ch 23 | Look everywhere |
+
+---
+
+### Significant Numbers
+
+| Number | Context | Chapter |
+|--------|---------|---------|
+| 5 | Treasure boxes total | Multiple |
+| 7 | Actions to open Lion's Share box | Ch 3 |
+| 3 miles | Maximum distance from road | Back matter |
+| 18 months | Time to make boxes | Ch 2 |
+| 20 acres | Author's family woodland | Ch 14 |
+| 40 miles | Bakersville NE of Asheville | Ch 3 |
+| 20+ years | Author's time in California | Ch 12, 18 |
+| 5 years | Project duration | Ch 22 |
+
+#### Recurring Numbers
+
+| Number | Occurrences | Contexts |
+|--------|-------------|----------|
+| 5 | 5+ times | Treasure boxes, Woz pitches, family size, Hathor gifts |
+| 7 | 2 times | Actions to open box, Loloma prizes |
+| 20 | 3+ times | Acres of land, years in CA, years Picasso/Jacqueline together |
+| 40 | 3+ times | Miles NE of Asheville, years since childhood |
+
+#### Historical Dates
+
+| Year | Event | Chapter |
+|------|-------|---------|
+| 1752 | La Luz shipwreck | Ch 11 |
+| 1848 | California Gold Rush begins | Ch 12 |
+| 1882 | Tiffany decorated White House | Ch 14 |
+| 1932 | Amelia Earhart solo Atlantic flight | Ch 7 |
+| 1956 | Picasso designed pendant | Ch 22 |
+| 1960 | Rome Olympics | Ch 15 |
+| 1996 | Atlanta Olympics | Ch 16 |
+
+---
+
+### Cross-Chapter Patterns
+
+| Pattern | Chapters | Back Cover Match |
+|---------|----------|------------------|
+| North Carolina connection | Ch 2, 3, 4, 13, 14, 18 | No |
+| Joy/divined theme | Ch 1, 3, 10, 14, 21 | YES |
+| Sparkle/shine references | Ch 4, 9, 14 | YES |
+| Pine/trees/woodland | Ch 7, 14, 19 | YES |
+| Rock/stone/grit | Ch 1, 4, 6, 15 | YES |
+| Perspective/vantage point | Ch 2, 4, 7, 8, 19, 20 | No |
+| Author's father (pastor) | Ch 6, 9, 10, 13, 14, 18 | No |
+| Confirmation bias warning | Ch 8, 9 | No |
+| Safety/accessibility | Ch 4, 10, 11, 12, Back | No |
+
+**Observation (hypothesis-neutral):** Multiple back cover poem elements align with North Carolina geography:
+- Pine trees: Common in NC piedmont/mountains
+- Rocks/grit: NC has granite, quartz deposits
+- Sparkle: Hiddenite area known for emerald/mineral deposits
+
+---
 
 ### Key Statements by Author
 
@@ -234,6 +518,7 @@ JCB confirmed it contains "an extra clue or two."
 | Iris locations in NC | Verified | Dwarf Crested Iris native to NC mountains |
 | Tiffany & Co. Carolina Emerald | Verified | Company owns emerald from Hiddenite |
 | Property deed (350 Trinity Rd) | Verified | 20.24 acres, owned by David L & Janice L Comer, built 1982 |
+| Significance of missing page 90 | Verified | Confirmed unintentional, editing error |
 
 ---
 
@@ -242,7 +527,7 @@ JCB confirmed it contains "an extra clue or two."
 | Question | Status |
 |----------|--------|
 | What are the 5 word search clues? | Unknown - community hasn't identified |
-| Significance of missing page 90 | Confirmed intentional, meaning unknown |
+| Significance of missing page 90 | Confirmed unintentional, editing error |
 | Physical verification of any location | Not started |
 
 ---
@@ -280,4 +565,4 @@ The following location hypotheses are under investigation. See individual hypoth
 
 ---
 
-*Last updated: January 9, 2026 (refactored to separate facts from hypothesis-specific interpretations)*
+*Last updated: January 9, 2026 (ETL verification pass: Added Chapter Subtitles, Recurring Themes, Specific Location Phrases, Historical Dates, Recurring Numbers, Author's Geographic Timeline, Meta-Advice, NC+Nature observation)*
