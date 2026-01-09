@@ -47,6 +47,43 @@ When Jon was approximately 3 years old (~1976):
 | College | Chapel Hill, NC | Ch 2 |
 | Past 20+ years | Los Angeles, CA | Ch 12, 18 |
 
+### Project Background
+
+| Detail | Information | Source |
+|--------|-------------|--------|
+| **Project Start** | ~2019-2020 (during COVID) | Ch 22 |
+| **Author's Role** | Full-time dad with two toddlers at home | Page 12 |
+| **Experience Level** | "I am not a professional collector. I had no experience in acquiring precious or unique items of any kind." | Page 12 |
+| **Research Team** | Enlisted five researchers for historical deep dives | Page 13 |
+| **Acquisition Process** | Items appeared "almost frictionless" with "invisible hand guiding" | Page 13 |
+| **Childhood Connection** | Visited Emerald Hollow Mine in Hiddenite as child to hunt gems | Family research |
+
+### Father's Community Roles
+
+| Role | Organization |
+|------|--------------|
+| Founding Pastor | Grace Baptist Church Statesville (1970) |
+| Former President | Habitat for Humanity |
+| Member | Iredell Clergy for Healing and Justice |
+| Current Business | "From Generation To Generation LLC" (video biography) |
+
+### Wife & Family (Verified)
+
+| Detail | Information | Source |
+|--------|-------------|--------|
+| **Wife** | Kimberly Sitz (now Collins-Black) | Web research |
+| **Wedding Date** | July 2, 2023 | Zola registry |
+| **Met** | 2003 | Ch 22 |
+| **Family Started** | 2017 | Ch 22 |
+| **Children** | Aiden and Londyn | Ch 1, Dedication |
+| **Her Profession** | Principal Partner, The Cydio Group (IT Staffing) | LinkedIn |
+| **Her Education** | BA, The Evergreen State College | LinkedIn |
+| **Her Favorite Song** | "Make Your Own Kind of Music" by Cass Elliot | Ch 22 |
+| **Role in Project** | Fully supportive; never questioned decisions | Ch 22 |
+| **Personal Connection** | Assembled faience necklace together during "creative night" | Ch 23 |
+
+*See `research/kimberly-research.md` for full analysis.*
+
 ---
 
 ## Author's Explicit Rules (From Postscript)
@@ -124,7 +161,7 @@ The back matter poem (7 stanzas) and front cover haiku contain location clues. F
 | 201-carat smokey quartz | "Imperial Brilliant" cut | Ch 20 | Unspecified |
 | 12-carat tsavorite garnet | 1000x rarer than emeralds | Ch 20 | Six figures |
 | 116.7-carat pear cut Tanzanite | Only found in Tanzania | Back | $3,000+/carat |
-| 9.65-carat octahedral diamond | Almost perfect natural form | Back | High value |
+| 9.65-carat octahedral diamond | Almost perfect octahedral form; unaltered natural state; "avoided diamond cutter's knife" | Back | High value |
 
 #### Gold Jewelry & Antiquities
 
@@ -135,10 +172,10 @@ The back matter poem (7 stanzas) and front cover haiku contain location clues. F
 | Gold ibex-headed bracelets (pair) | Ch 21 | 3rd-4th c. BC |
 | Egyptian gold snake bracelet | Ch 21 | 1st BC - 1st AD |
 | Amethyst & gold necklace | Ch 21 | 2nd-3rd c. BC |
-| Two gold/emerald/ruby floral rings | Back | 19th c. South India |
-| Two ornate Bali priest rings | Back | 19th-20th c., Bali |
-| Gold box with deer/chicken carving | Back | Southeast Asia (unique) |
-| Olive-green jade bracelet | Back | 3000-4000 BC, China |
+| Two gold/emerald/ruby floral rings | Back | 19th c. South India; precious stones arranged to mimic flowers |
+| Two ornate Bali priest rings | Back | 19th-20th c., Bali; "birds' beak" prong style to secure stones |
+| Gold box with deer/chicken carving | Back | Southeast Asia; "I have not come across any similar box that exists anywhere" |
+| Olive-green jade bracelet | Back | 3000-4000 BC, China; one of oldest known; symbolizes 5 virtues (charity, rectitude, wisdom, courage, equity); "jingqi" = life force |
 
 #### Shipwreck Gold (La Luz, 1752)
 
@@ -172,19 +209,19 @@ The back matter poem (7 stanzas) and front cover haiku contain location clues. F
 
 #### Other Items
 
-| Item | Chapter |
-|------|---------|
-| 1960 Rome Olympic gold medal | Ch 15 |
-| 1996 Atlanta Olympic gold medal | Ch 16 |
-| Moon rock globe (from NWA 12691) | Ch 19 |
-| Aguas Zarcas meteorite piece | Ch 19 |
-| California Gold Rush nugget (4+ oz) | Ch 12 |
-| 351.65g Australian gold nugget (98% purity) | Back |
-| Gold Chavin chalice (Peru, 400-1000 BC) | Ch 9 |
-| Egyptian faience bead necklace (3000+ years) | Ch 23 |
-| Japanese puzzle box | Ch 3 |
-| Gold & jade magnifying glass (~1900, Faberge) | Ch 3 |
-| Titanium Bitcoin coin (BTCC, 1 of 1350) | Back |
+| Item | Chapter | Notes |
+|------|---------|-------|
+| 1960 Rome Olympic gold medal | Ch 15 | |
+| 1996 Atlanta Olympic gold medal | Ch 16 | |
+| Moon rock globe (from NWA 12691) | Ch 19 | |
+| Aguas Zarcas meteorite piece | Ch 19 | |
+| California Gold Rush nugget (4+ oz) | Ch 12 | |
+| 351.65g Australian gold nugget (98% purity) | Back | "One of my favorite gold pieces in our treasure" |
+| Gold Chavin chalice (Peru, 400-1000 BC) | Ch 9 | |
+| Egyptian faience bead necklace (3000+ years) | Ch 23 | |
+| Japanese puzzle box | Ch 3 | |
+| Gold & jade magnifying glass (~1900, Faberge) | Ch 3 | |
+| Titanium Bitcoin coin (BTCC, 1 of 1350) | Back | No longer produced; private keys for 1 BTC; hologram on back |
 
 ---
 
@@ -235,6 +272,12 @@ The back matter poem (7 stanzas) and front cover haiku contain location clues. F
 | Santa Fe | NM | Ch 8 | Wheelwright Museum |
 | Clarksville | TN | Ch 15 | Wilma Rudolph birthplace |
 | Atlanta | GA | Ch 15, 16 | 1996 Olympics |
+
+### Chapter 16 Direction Analysis
+
+Chapter 16 contains directional language that may be significant. A detailed analysis examining geographic patterns and relative directions mentioned throughout the book exists at `research/chapter-16-direction-analysis.md`.
+
+Key statement from Ch 16: *"Return to this chapter...direction you need"*
 
 ---
 
@@ -438,7 +481,10 @@ JCB confirmed it contains "an extra clue or two."
 
 | Page(s) | Visual Element |
 |---------|----------------|
+| 2, 27-28 | Patchwork quilt (family warmth, generational connection) |
+| 2, 27-28 | Yellow crib (continuity across generations) |
 | 6 | Green caterpillar decoration on child's bedroom wall |
+| 9-10, 13-14 | Urban brownstones (red brick row houses, city living) |
 | 15 | Green baseball cap with yellow/gold logo |
 | 16 | Basketball poster showing player in white jersey, green shorts |
 | 18 | Dense pine forest behind father and son fishing at lake |
@@ -483,6 +529,15 @@ The reconciliation scene on page 18 shows:
 | Fishing (p.18) | "pike" (fish or peaked hills) | Dual interpretation |
 | Basketball poster (p.16) | Ch 13: "Be Like Mike" | Chapter connection |
 | Purple butterfly (back) | "Dancers are on the land" | See Poem Analysis: Dancers Definition |
+
+### Color Symbolism
+
+| Color | Meaning |
+|-------|---------|
+| Pink/magenta | Love, the thread itself, warmth |
+| Blue | Peace, trust, water/depth |
+| Yellow/gold | Joy, warmth, preciousness |
+| Green | Growth, nature, life |
 
 ---
 
@@ -532,4 +587,4 @@ The following location hypotheses are under investigation. See individual hypoth
 
 ---
 
-*Last updated: January 9, 2026 (Refactored: moved full poem and detailed analyses to chapters/joys-serenade.md)*
+*Last updated: January 9, 2026 (Added Wife & Family section with Kimberly Sitz research; Gap fill: Project Background, Father's Community Roles, treasure item details, Ch 16 reference, children's book content)*
