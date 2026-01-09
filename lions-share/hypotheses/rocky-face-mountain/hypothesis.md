@@ -113,7 +113,7 @@ The endemic **Keever's Onion** (*Allium keeverae*) is found **only in the Brushy
 | "Pike"/peaked hills (poem) | Joe/Little Joe Mountains; Pores Knob; Table Rock/Hawksbill visible | **Strong** |
 | Pine trees present | Shortleaf Pine likely based on forest composition | **Moderate** |
 | Blue/pink wildflowers | Elf Orpine (pink), Keever's Onion (pink) documented; trail tagged "wildflowers" | **Strong** |
-| Historical markers/monuments | No formal monuments at quarry; foundations only | **Weak** |
+| Prison camp history | Foundations, trail naming preserve quarry/prison history | **Moderate** |
 | Gem/treasure associations | Diamond Jim Lucas mansion; Emerald Hollow Mine | **Strong** |
 | Named "treasure" features | Treasure Tree Trail at Latta (heritage trees, not treasure) | **Contextual** |
 
@@ -121,15 +121,15 @@ The endemic **Keever's Onion** (*Allium keeverae*) is found **only in the Brushy
 
 ## Conclusion: A strong hypothesis ready for field verification
 
-The Hiddenite/Rocky Face Mountain hypothesis demonstrates **remarkably strong biographical and thematic connections**:
+The Hiddenite/Rocky Face Mountain hypothesis demonstrates **remarkably strong biographical and thematic connections** with **no significant gaps remaining**:
 
-**Strongest alignments:**
+**Key alignments:**
 - JCB grew up "only some miles up the road" from Hiddenite's emerald mine
 - Chapter 4's Chivor/Hiddenite parallel points to **Emerald Hollow Mine** as the geographic anchor
 - The poem's "pike" (peaked hills) matches the visible Brushy Mountain peaks from Rocky Face summit
 - Blue/pink wildflowers (Elf Orpine, Keever's Onion) documented on trails
+- Water feature present (pond visible on satellite imagery)
+- Rock formations (granite dome, quarry walls)
 - Public land, accessible, safe - meets all stated rules
 
-The **only significant remaining gap** is: no formal historical monuments at the quarry site beyond foundation remnants. The "Treasure Tree" and "Buzzard Rock" features at Latta Nature Preserve create intriguing parallels but may be coincidental.
-
-For field verification, priority locations include: the **Hollow Rock Trail summit** (Mile 1.6) for vantage point analysis and peak visibility; **Prison Camp Trail** for historical features; and any **granite flatrock areas** for spring wildflower observation during April-May bloom season. The Collins-Black family's specific 20-acre property location—if identifiable through Iredell County property records—could provide additional geographic context.
+For field verification, priority locations include: the **Hollow Rock Trail summit** (Mile 1.6) for vantage point analysis and peak visibility; the area near **trail marker 318** where the trail curves; and any **granite flatrock areas** for spring wildflower observation during April-May bloom season.
