@@ -67,6 +67,48 @@ Each JSON file contains `left_page` and `right_page` sections with:
 - Image descriptions and text within images
 - Potential clues identified
 
+## Page Notes Spec
+
+Page notes files provide clue analysis for each book page spread.
+
+### Structure
+
+```markdown
+# [Section/Chapter Name]: Pages X-X
+
+## Page X (Left) - [Content Type]
+
+[Image description if applicable]
+
+> [Key quoted text from book]
+
+**Key Points:**
+- Summary of important content
+
+| Element | Observation | Confidence |
+|---------|-------------|------------|
+| Item    | Analysis    | Low/Medium/High |
+
+---
+
+## Page X (Right) - [Content Type]
+[Same structure as left page]
+
+---
+
+## Cross-References
+- Related chapters or analysis documents
+
+**Verification Status**: VERIFIED against screenshot.
+```
+
+### Guidelines
+- Separate pages with horizontal rules (`---`)
+- Use blockquotes for quoted text
+- Include confidence levels for observations
+- Always verify against source screenshot
+- Cross-reference related content
+
 ## Chapter Summary Spec
 
 Chapter summaries consolidate clues from all pages in a chapter.
@@ -142,42 +184,31 @@ For each page spread in a chapter:
 
 ## Chapter Reference
 
-### Part One (Chapters 1-14)
-| Ch | Title | Subtitle |
-|----|-------|----------|
-| 1 | The 120 Carat Sapphire | A Plan That Changed the World |
-| 2 | The 100 Rings of Tuyet Nguyet | Don't Wing It |
-| 3 | A Puzzle Box, a Magnifying Glass, & the Mysterious Egg | Joy Is in the Details |
-| 4 | The 96 Carat Chivor Emerald | Blaze the Path |
-| 5 | Masterworks by Art Smith | An Exercise in Faith |
-| 6 | Rubies to Wear | Inspiration Is Welcome |
-| 7 | Amelia's Autograph | Explore More |
-| 8 | Beauty's Bespoken Treasures | Know the Past, See the Future |
-| 9 | The Golden Chalice | Confirmation Bias |
-| 10 | Jackie Onassis' Diamond Sapphire Brooch | Welcome the Good and the Bad |
-| 11 | Treasures From a Famous Shipwreck | The Temptress Greed |
-| 12 | Massive Gold Rush Nugget | Make Good Choices |
-| 13 | Best of Its Class Jordan Rookie Card | Be Like Mike |
-| 14 | Tiffany's Furnace & Thoreau's Fire | Fail Forward |
-
-### Part Two (Chapters 15-23)
-| Ch | Title | Subtitle |
-|----|-------|----------|
-| 15 | 1960 Rome Olympic Gold Medal | Don't Give Up |
-| 16 | 1996 Atlanta Olympic Gold Medal | Defy Expectations |
-| 17 | George Washington's Jelly Glass | Share Your Story |
-| 18 | Andrew Carnegie's Emerald | The Science of Giving |
-| 19 | Moon Rocks & Meteors | The Next Frontier |
-| 20 | The Six-Figure Birthstone | Choosing a New Perspective |
-| 21 | Antiquities of Alexander | Make It Make Sense |
-| 22 | Picasso's Pendant | A Love Story |
-| 23 | Sing Your Own Special Song | Finding Treasures Along the Way |
-
-## Back Cover Poem (Potential Clue)
-
-> *Be solid, have grit;*
-> *sparkle even as you pine.*
-> *Here lies a joy divined*
+| Ch | Title | Subtitle | Pages |
+|----|-------|----------|-------|
+| 1 | The 120 Carat Sapphire | A Plan That Changed the World | 18-25 |
+| 2 | The 100 Rings of Tuyet Nguyet | Don't Wing It | 26-37 |
+| 3 | A Puzzle Box, a Magnifying Glass, & the Mysterious Egg | Joy Is in the Details | 38-45 |
+| 4 | The 96 Carat Chivor Emerald | Blaze the Path | 46-55 |
+| 5 | Masterworks by Art Smith | An Exercise in Faith | 56-63 |
+| 6 | Rubies to Wear | Inspiration Is Welcome | 64-69 |
+| 7 | Amelia's Autograph | Explore More | 70-75 |
+| 8 | Beauty's Bespoken Treasures | Know the Past, See the Future | 76-85 |
+| 9 | The Golden Chalice | Confirmation Bias | 86-94 |
+| 10 | Jackie Onassis' Diamond Sapphire Brooch | Welcome the Good and the Bad | 95-100 |
+| 11 | Treasures From a Famous Shipwreck | The Temptress Greed | 101-108 |
+| 12 | Massive Gold Rush Nugget | Make Good Choices | 109-114 |
+| 13 | Best of Its Class Jordan Rookie Card | Be Like Mike | 115-122 |
+| 14 | Tiffany's Furnace & Thoreau's Fire | Fail Forward | 123-132 |
+| 15 | 1960 Rome Olympic Gold Medal | Don't Give Up | 133-140 |
+| 16 | 1996 Atlanta Olympic Gold Medal | Defy Expectations | 141-150 |
+| 17 | George Washington's Jelly Glass | Share Your Story | 151-158 |
+| 18 | Andrew Carnegie's Emerald | The Science of Giving | 159-164 |
+| 19 | Moon Rocks & Meteors | The Next Frontier | 165-170 |
+| 20 | The Six-Figure Birthstone | Choosing a New Perspective | 171-178 |
+| 21 | Antiquities of Alexander | Make It Make Sense | 179-188 |
+| 22 | Picasso's Pendant | A Love Story | 189-194 |
+| 23 | Sing Your Own Special Song | Finding Treasures Along the Way | 195-198 |
 
 ## Working Principles
 
