@@ -1,0 +1,98 @@
+{
+  "page_spread": "15-16",
+  "source_files": [
+    "unbreakable-thread-page-15.png",
+    "unbreakable-thread-page-16.png"
+  ],
+  "page_15": {
+    "text": null,
+    "illustration": {
+      "description": "Close-up of personal items in dorm room - guitar, family photo, mug, cap",
+      "items": [
+        {
+          "item": "Acoustic guitar",
+          "description": "Brown/natural wood acoustic guitar leaning against furniture",
+          "position": "Left side, prominent"
+        },
+        {
+          "item": "Family photo",
+          "description": "Gold-framed photo showing three people (the family)",
+          "details": "Parents and child visible in photo",
+          "position": "On wooden desk/shelf"
+        },
+        {
+          "item": "Cat mug",
+          "description": "Purple/pink mug with cat face design",
+          "text_on_mug": "Appears to say 'MEOW' or similar",
+          "position": "On shelf next to photo"
+        },
+        {
+          "item": "Baseball cap",
+          "description": "Green cap with yellow/gold logo (possibly lightning bolt or similar)",
+          "position": "Hanging on corner of furniture"
+        },
+        {
+          "item": "Blue fabric",
+          "description": "Blue bedding or clothing visible",
+          "position": "Right edge of image"
+        }
+      ],
+      "setting": {
+        "location": "Dorm room or apartment",
+        "furniture": "Wooden desk/shelf unit",
+        "atmosphere": "Young adult's personal space away from home"
+      }
+    }
+  },
+  "page_16": {
+    "text": {
+      "raw": "Thenonedaywhenyouwereawayandthinking abouthomeyounoticedthethreadforthefirsttime.",
+      "parsed": "Then one day when you were away and thinking about home you noticed the thread for the first time.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Young man lying on dorm bed looking at phone, thinking of home",
+      "character": {
+        "role": "child (now young adult/college age)",
+        "appearance": "Short brown hair, older teen/young adult",
+        "clothing": "Red t-shirt",
+        "expression": "Contemplative, nostalgic",
+        "position": "Lying on bed, propped up",
+        "action": "Looking at phone/device (likely viewing photos of family)"
+      },
+      "setting": {
+        "location": "Dorm room",
+        "bed": "Blue bedding",
+        "wall_decorations": [
+          {
+            "item": "Basketball poster",
+            "description": "Player in white uniform dunking basketball",
+            "position": "Upper right"
+          },
+          {
+            "item": "Bird artwork",
+            "description": "White dove or bird image",
+            "position": "Upper left"
+          }
+        ],
+        "other_elements": [
+          "Cardboard moving box on shelf",
+          "Wooden headboard/shelf unit"
+        ]
+      }
+    }
+  },
+  "narrative_elements": {
+    "critical_moment": "Child NOTICES the thread for the FIRST TIME",
+    "trigger": "Being away from home and thinking about family",
+    "developmental_stage": "College age / young adult",
+    "emotional_context": [
+      "Homesickness",
+      "Separation from family",
+      "Reflection on family bonds",
+      "Coming of age realization"
+    ],
+    "significance": "The invisible thread becomes visible/perceptible to the child"
+  }
+}

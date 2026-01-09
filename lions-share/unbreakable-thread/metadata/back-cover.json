@@ -1,0 +1,70 @@
+{
+  "page_type": "back_cover",
+  "source_file": "unbreakable-thread-back-cover.png",
+  "dedications": [
+    {
+      "text": "To Aiden & Londy and our unbreakable thread.",
+      "attribution": "—J.C.B.",
+      "author": "Jon Collins-Black",
+      "significance": "Author's dedication to his children (Aiden and Londy)",
+      "note": "Confirms autobiographical nature - book is about his real family"
+    },
+    {
+      "text": "To my husband and Jake.",
+      "attribution": "—N.G.",
+      "author": "Nicole Gsell (illustrator)"
+    }
+  ],
+  "publication_information": {
+    "text_copyright": {
+      "year": 2024,
+      "holder": "Jon Collins-Black"
+    },
+    "illustration_copyright": {
+      "year": 2024,
+      "holder": "Nicole Gsell"
+    },
+    "editor": "Michael Green",
+    "designer": "Susan Szecsi",
+    "publisher": {
+      "name": "Marble Press LLC",
+      "address": "2260 Hanover Street, Palo Alto, CA 94306",
+      "website": "www.MarblePress.com"
+    },
+    "isbn": {
+      "hardback": "978-1-958325-08-7",
+      "ebook": "978-1-958325-09-4"
+    },
+    "library_of_congress": "Cataloging-in-Publication Data has been applied for",
+    "printing": {
+      "location": "China",
+      "edition": "First Edition",
+      "date": "April 2024"
+    },
+    "art_medium": "watercolors and gouache",
+    "print_run": "10 9 8 7 6 5 4 3 2 1"
+  },
+  "illustration": {
+    "description": "Garden scene matching title page setting",
+    "elements": [
+      "Pink/purple flowering tree (cherry blossoms)",
+      "Green trees and bushes",
+      "Stone bird bath",
+      "Red tulips",
+      "Yellow tulips",
+      "Other colorful garden flowers",
+      "Blue sky with clouds",
+      "Purple butterfly"
+    ],
+    "connection_to_book": "Same garden from title page where pregnant couple sat - where the story began"
+  },
+  "key_discoveries": {
+    "author_children": {
+      "names": ["Aiden", "Londy"],
+      "significance": "Real names of Jon Collins-Black's children",
+      "confirms": "Book is autobiographical - about his own family"
+    },
+    "publication_date": "April 2024",
+    "publisher_location": "Palo Alto, CA"
+  }
+}

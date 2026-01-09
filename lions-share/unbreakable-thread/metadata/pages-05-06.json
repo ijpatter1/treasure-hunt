@@ -1,0 +1,130 @@
+{
+  "page_spread": "05-06",
+  "source_files": [
+    "unbreakable-thread-page-05.png",
+    "unbreakable-thread-page-06.png"
+  ],
+  "page_05": {
+    "text": {
+      "raw": "Sometimesthethreadwouldgetwrapped aroundthingsIwouldalwaysundothetangles.",
+      "parsed": "Sometimes the thread would get wrapped around things I would always undo the tangles.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Two scenes showing toddler tantrum and resolution",
+      "scene_1": {
+        "position": "top half",
+        "description": "Child having tantrum on floor surrounded by toys",
+        "characters": [
+          {
+            "role": "child",
+            "appearance": "Toddler",
+            "clothing": "Green pajamas with small pattern",
+            "expression": "Crying, upset, tantrum",
+            "position": "Lying on floor, arms raised in distress"
+          }
+        ],
+        "toys_scattered": [
+          "Yellow box/jack-in-the-box",
+          "Building blocks (colorful)",
+          "Yellow toy car",
+          "Brown toy truck",
+          "Brown teddy bear",
+          "Toy train",
+          "Small house/building",
+          "Newspaper/book",
+          "Various small toys"
+        ]
+      },
+      "scene_2": {
+        "position": "bottom half",
+        "description": "Parents comforting calm child",
+        "characters": [
+          {
+            "role": "father",
+            "clothing": "Red/maroon t-shirt, blue jeans",
+            "position": "Sitting on floor, holding child in lap"
+          },
+          {
+            "role": "child",
+            "clothing": "Green shirt",
+            "expression": "Calm, peaceful",
+            "position": "Sitting in father's lap"
+          },
+          {
+            "role": "mother",
+            "clothing": "Purple/lavender top",
+            "position": "Sitting facing child",
+            "action": "Showing stuffed dog puppet to child"
+          }
+        ],
+        "props": [
+          "Brown and white stuffed dog/puppet"
+        ]
+      }
+    }
+  },
+  "page_06": {
+    "text": {
+      "raw": "Atnightthethreadwouldcoveryoureyestohelpyousleep.",
+      "parsed": "At night the thread would cover your eyes to help you sleep.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Child asleep in bedroom with parents watching from doorway",
+      "characters": [
+        {
+          "role": "child",
+          "position": "Sleeping in bed",
+          "expression": "Peaceful, asleep",
+          "props": "White stuffed dog held close"
+        },
+        {
+          "role": "parents",
+          "position": "Standing in doorway",
+          "action": "Father carrying/holding child (himself?), both watching"
+        }
+      ],
+      "setting": {
+        "room": "Child's bedroom",
+        "wall_color": "Blue",
+        "bed": {
+          "type": "Wooden bed frame, toddler/twin size",
+          "bedding": "Green blanket/comforter, yellow pillow"
+        },
+        "furniture": [
+          "Brown wooden bookshelf with 4 shelves",
+          "Wooden nightstand beside bed"
+        ],
+        "decorations": [
+          "Turtle wall decoration/hanging",
+          "Rainbow/multicolored kite on wall",
+          "Blue lamp on nightstand"
+        ],
+        "toys_visible": [
+          "Red toy car on bookshelf",
+          "Pink container on bookshelf",
+          "Green caterpillar pull-toy on floor",
+          "Books on shelf and nightstand",
+          "Potted plant on top of bookshelf"
+        ]
+      },
+      "lighting": "Light from hallway illuminating doorway, room is dark/night"
+    }
+  },
+  "narrative_elements": {
+    "thread_properties_revealed": [
+      "Thread can get tangled (metaphor for problems/difficulties)",
+      "Parent can always undo the tangles (solve problems)",
+      "Thread covers child's eyes at night (provides comfort/security for sleep)"
+    ],
+    "timeline": "Early childhood - toddler years",
+    "themes": [
+      "Tantrums and comfort",
+      "Problem-solving and reassurance",
+      "Bedtime rituals and security"
+    ]
+  }
+}
