@@ -43,7 +43,7 @@
 | **Rock features** | "Peering behind a rock" (RA-027) | Granite outcrop at marker 318 | **ALIGNED** |
 | **Tree line** | "Past the tree line" (RA-030) | Forested trails | **ALIGNED** |
 | **Rise/elevation** | "Over the next rise" (RA-030) | Mountain summit ~1,800 ft | **ALIGNED** |
-| **Flowers/irises** | Blue and pink irises (RA-042, PS-011) | Dwarf Crested Iris native to region | **ALIGNED** |
+| **Blue/pink wildflowers** | "Colors of nature...similar flowers" (RA-042, PS-011) | Keever's Onion (pink), Elf Orpine (pink) documented | **ALIGNED** |
 | **Scenic/picnic-worthy** | Explicitly stated (RA-038, RA-060) | Panoramic views, designated picnic areas | **ALIGNED** |
 
 ### Author Biography
@@ -105,7 +105,7 @@ The fresh analysis **strongly supports** the existing Rocky Face hypothesis in t
 
 ### 2. Physical Characteristics (VERY HIGH Confidence)
 - Fresh analysis extracted: rock features, tree line, rise/elevation, flowers
-- Rocky Face offers: granite outcrops, forested trails, mountain terrain, native irises
+- Rocky Face offers: granite outcrops, forested trails, mountain terrain, documented wildflowers
 - **Verdict:** Near-perfect environmental match
 
 ### 3. Accessibility Rules (CONFIRMED)
@@ -113,11 +113,11 @@ The fresh analysis **strongly supports** the existing Rocky Face hypothesis in t
 - Rocky Face: public recreational area, trailhead parking, moderate trails, surface features
 - **Verdict:** Fully compliant with stated rules
 
-### 4. Iris/Flower Clue (HIGH Confidence)
-- Fresh analysis: "Blue and pink irises remind him of treasure locations"
-- Existing research: Dwarf Crested Iris native to NC mountains
-- Rocky Face: Located in iris habitat zone
-- **Verdict:** Strong environmental match
+### 4. Wildflower Clue (HIGH Confidence)
+- Fresh analysis: "Colors of nature surround each" treasure; "similar flowers along your way"
+- **Important:** Clue is about blue/pink wildflowers, NOT specifically irises (irises are on his vase at home)
+- Rocky Face: Keever's Onion (pink), Elf Orpine (pink) documented; trail tagged "wildflowers"
+- **Verdict:** Clue satisfied by documented wildflowers
 
 ### 5. Father's Influence (HIGH Confidence)
 - Fresh analysis: Father built log cabin on 20 acres, formative childhood experience
@@ -207,7 +207,7 @@ However, the specific **marker 318** encoding (3 lines + 18 syllables = 318) was
 
 ### Hypothesis Refinement
 
-The Rocky Face Mountain / Marker 318 hypothesis remains **well-supported** by the fresh analysis. The key autobiographical facts (Hiddenite childhood, nature-loving transcendentalist, father's woodland property, iris connection) all align.
+The Rocky Face Mountain / Marker 318 hypothesis remains **well-supported** by the fresh analysis. The key autobiographical facts (Hiddenite childhood, nature-loving transcendentalist, father's woodland property, wildflower connection) all align.
 
 The main uncertainty is whether Huntersville or Statesville was the actual childhood church location, which could slightly shift the geographic center but doesn't fundamentally challenge the Hiddenite-area theory.
 

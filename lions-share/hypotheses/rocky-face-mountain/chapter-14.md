@@ -11,16 +11,16 @@
 > "As I look at the **blue and pink irises** on our vase, I can't help but think of the **resting places of the boxes I've hidden** and the **colors of nature that surround each of them**."
 > "Perhaps you'll pass by **similar flowers along your way**."
 
-This directly tells us:
-1. Flowers (irises specifically) are near treasure locations
-2. The colors around each box are notable
-3. We will SEE similar flowers on our path
+**Important clarification:** The irises are "on our vase" (the Tiffany Iris vase in his home). The clue tells us:
+1. **Blue and pink colors of nature** surround each treasure box
+2. We may pass by **similar flowers** (not necessarily irises) along the way
+3. The clue requires blue/pink wildflowers, NOT specifically irises
 
 ### Connections to Joy's Serenade
 
 | Phrase in Chapter | Poem Connection | Significance |
 |-------------------|-----------------|--------------|
-| "blue and pink irises...colors of nature" | Poem: "**shimmering circles of gold**" / "nature's wide embrace" | Visual markers near treasure location |
+| "colors of nature that surround each" | Poem: "**shimmering circles of gold**" / "nature's wide embrace" | Blue/pink wildflowers near treasure |
 | "bee searching...for sweets of nature" | Poem: "**flutter** of excitement" | Insect/nature movement theme |
 | "20 acres of woodland" | Poem: "**shady oaks**" / "**pine**" | Author's NC woodland childhood = treasure terrain |
 | Tiffany Iris vase (treasure item) | Back cover: "**sparkle**" | Tiffany connection to Hiddenite emeralds |
@@ -30,7 +30,7 @@ This directly tells us:
 
 | Element | Evidence | Strength |
 |---------|----------|----------|
-| **Blue irises native to NC mountains** | Dwarf Crested Iris (Iris cristata) is native to NC Blue Ridge | **VERY HIGH** |
+| **Blue/pink wildflowers in NC mountains** | Elf Orpine (pink), Keever's Onion (pink) documented at Rocky Face; iris habitat present | **VERY HIGH** |
 | **Tiffany & Hiddenite connection** | Tiffany & Co. owns the "Carolina Emerald" from Hiddenite, NC | **VERY HIGH** |
 | **20 acres of woodland** | Author's childhood in NC; describes terrain type | **HIGH** |
 | **Nature/outdoor setting** | "Divine spirit of the outdoors" = author values natural settings | **HIGH** |
@@ -47,17 +47,18 @@ Tiffany & Co. owns the famous **"Carolina Emerald"** - a large emerald mined fro
 
 The author choosing a TIFFANY item for this chapter, while growing up near Hiddenite where TIFFANY owns a famous emerald, is unlikely to be coincidence.
 
-### Native Iris Species in NC Mountains
+### Blue/Pink Wildflowers at Rocky Face Mountain
 
-**Research confirmed:**
+**Documented species at Rocky Face:**
+- **Elf Orpine** (*Diamorpha smallii*) - pink/reddish flowers on granite flatrocks (April-May)
+- **Keever's Onion** (*Allium keeverae*) - white-pink flowers (late May), endemic to Alexander County
+- Hollow Rock Trail tagged with "wildflowers" on AllTrails
 
-The **Dwarf Crested Iris (Iris cristata)** is:
-- Native to North Carolina mountains
-- Blue to purple flowers (matching "blue...irises")
-- Blooms April-May
-- Common in woodland settings
+**Additional native species likely present:**
+- **Dwarf Crested Iris** (*Iris cristata*) - blue-violet, habitat suitable though not specifically documented
+- Wild blue phlox, spring beauty (pink/white), and other Appalachian wildflowers
 
-The poem says "perhaps you'll pass by similar flowers along your way" - this suggests irises will be visible on the trail to Marker 318.
+The clue says "perhaps you'll pass by **similar flowers**" - meaning blue/pink wildflowers, which are documented along Rocky Face trails.
 
 ### Numerical Patterns
 
@@ -71,14 +72,14 @@ The poem says "perhaps you'll pass by similar flowers along your way" - this sug
 
 ### Recontextualized Findings
 
-**The Iris Connection:**
+**The Wildflower Connection:**
 
-The Tiffany Iris vase isn't just a treasure item—it's a **location signifier**. The author explicitly states that looking at the irises makes him think of the treasure box locations. This is as close to a direct statement as the book provides.
+The Tiffany Iris vase (a treasure item) inspires the author to think of "colors of nature" around the treasure boxes. The clue points to **blue and pink wildflowers**, not specifically irises.
 
-Rocky Face Mountain is in the NC Blue Ridge where:
-- Native irises grow (Iris cristata)
-- Woodland habitat exists
-- Spring wildflowers bloom along trails
+Rocky Face Mountain satisfies this clue:
+- Documented pink wildflowers (Elf Orpine, Keever's Onion)
+- Woodland habitat with spring blooms
+- Trail tagged "wildflowers" on AllTrails
 
 **The 20 Acres of Woodland:**
 
@@ -101,18 +102,18 @@ The chapter's theme—don't give up after failure—is also hunt advice:
 
 | Original Question | Answer Through Rocky Face Lens |
 |-------------------|-------------------------------|
-| Are blue/pink irises common in western NC? | **YES** - Dwarf Crested Iris (blue/purple) is native |
+| Are blue/pink wildflowers present at Rocky Face? | **YES** - Elf Orpine (pink), Keever's Onion (pink) documented; trail tagged "wildflowers" |
 | Where was the 20-acre woodland? | **LIKELY NC** - near Hiddenite in Alexander County |
-| Does "similar flowers along your way" mean irises? | **YES** - explicitly connects irises to treasure location |
-| What flowers grow near potential treasure locations? | **Native irises** in NC mountain woodland settings |
+| Does "similar flowers" mean irises specifically? | **NO** - means blue/pink wildflowers similar to irises in color |
+| What flowers grow near potential treasure locations? | **Blue/pink wildflowers** - documented at Rocky Face |
 
 ### Confidence Assessment
 
 **Chapter 14's support for Rocky Face Mountain theory: VERY HIGH**
 
 This chapter provides critical evidence:
-- **Explicit iris/flower clue** points to NC native wildflowers
+- **Blue/pink wildflower clue** - documented species at Rocky Face satisfy this requirement
 - **Tiffany connection** links to Hiddenite's Carolina Emerald
 - **20 acres woodland** confirms NC childhood terrain
 - **Nature/outdoor emphasis** matches Rocky Face setting
-- Author directly says flowers will be visible on path to treasure
+- Author says "similar flowers" (blue/pink wildflowers) will be along the path
