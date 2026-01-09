@@ -2,6 +2,8 @@
 
 *Research conducted: January 2026*
 
+> **Note:** This document contains general research findings. Some sections include "Location Relevance" assessments that were written before the hypothesis separation. Interpret these as preliminary observations, not confirmed conclusions. For hypothesis-specific analysis, see `hypotheses/rocky-face-mountain/`.
+
 ---
 
 ## Priority 1: Geographic / Location Research
@@ -717,48 +719,16 @@ Chapter 2 mentions Tuyet Nguyet's family fleeing Vietnam with treasure "secreted
 
 ---
 
-## Summary of Location Impact
-
-| Research Item | Supports NC | Supports LA | Neutral | Notes |
-|---------------|-------------|-------------|---------|-------|
-| 1.1 Seth Gould | **YES** | | | Penland School of Craft in NC mountains |
-| 1.2 Public Lands Hiddenite | **YES** | | | Rocky Face Mtn has vistas, trails |
-| 1.3 Blue/Pink Iris | **YES** | | | Dwarf Crested Iris native to NC mtns |
-| 1.4 Rose Gardens LA | | **YES** | | Exposition Park = 7 acres |
-| 1.5 Mount Wilson | | **YES** | | SW access via Chantry Flats |
-| 2.1 Author Bio | | **YES** | | Confirms LA residence |
-| 2.2 Emerald Hollow Mine | **YES** | | | Tiffany owns Carolina Emerald! |
-| 2.3 Huntersville Churches | **YES** | | | Family roots confirmed |
-| 3.1 Carnegie | | | **X** | No NC/CA connection |
-| 3.2 Thoreau | | | **X** | Never left New England |
-| 3.3 Tiffany | **YES** | | | Carolina Emerald connection |
-| 3.4 Washington | | | **X** | Visited NC but not mountains |
-| 3.5 Jackie Onassis | | | **X** | East Coast only |
-| 3.6 Picasso | | | **X** | Works in both states |
-| 4.1 Cesare Pavese | | | **X** | Never visited US |
-| 4.2 Grand Central | | | **X** | Thematic, not geographic |
-| 4.3 Vietnamese Temples | **YES** | | | Temples exist in NC |
-| 4.4 Subtitle Analysis | | | **X** | No clear message |
-| 5.1 Community | | | **X** | Michigan theory for Lion's Share |
-| 5.2 Interviews | | | **X** | NY ruled out |
-| 5.3 Publication | | | **X** | Page 90 missing |
-
-**TOTALS:** NC = 8 supports | LA = 3 supports | Neutral = 10
-
----
-
-## Key Research Discoveries
+## Key Research Discoveries (Factual)
 
 1. **Seth Gould worked at Penland School of Craft** - Western NC mountains
 2. **Tiffany & Co. owns the "Carolina Emerald"** from Hiddenite, NC
-3. **Rocky Face Mountain** in Hiddenite has 600ft vistas matching "perspective" theme
-4. **Dwarf Crested Iris** (blue/purple) grows naturally in NC mountain woodlands
-5. **Author confirmed NY ruled out** - hasn't been there since 2019
-6. **"Lion's share of clues have been solved"** but not "seen to completion"
-7. **Page 90 is missing** - confirmed intentional, likely a clue
-8. **5 word search clues NOT yet identified** by community
-9. **Community favors Michigan** for Lion's Share (Detroit Lions theory)
-10. **Vietnamese temples exist in NC** near Charlotte (Tuyet Nguyet connection?)
+3. **Dwarf Crested Iris** (blue/purple) grows naturally in NC mountain woodlands
+4. **Author confirmed NY ruled out** - hasn't been there since 2019
+5. **"Lion's share of clues have been solved"** but not "seen to completion" (JCB interview)
+6. **Page 90 is missing** - confirmed intentional
+7. **5 word search clues NOT yet identified** by community
+8. **Vietnamese temples exist in NC** near Charlotte
 
 ---
 

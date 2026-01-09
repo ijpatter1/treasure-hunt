@@ -137,54 +137,6 @@ Jon Collins-Black is the creator of the Lion's Share treasure hunt and author of
 
 ---
 
-## Treasure Hunt Clue Analysis
-
-JCB confirmed this book contains "an extra clue or two" for the Lion's Share treasure.
-
-### CONFIRMED CLUES (Verified Jan 2026)
-
-| Clue | Page | Finding | Treasure Hunt Connection |
-|------|------|---------|-------------------------|
-| **Pine Trees** | 18 | Dense pine forest at fishing lake | Matches "sparkle even as you **pine**" in back cover poem |
-| **MJ in UNC Colors** | 16 | White jersey + GREEN shorts (not Bulls red) | NC connection - UNC = North Carolina |
-| **Green Caterpillar** | 6 | Caterpillar pull-toy on bedroom floor | Butterflies/"dancers on the land" at Rocky Face |
-| **Yellow Boats** | 2, 25-26 | Recurring boat/water imagery | Journey/voyage metaphor |
-| **Purple Butterfly** | Back cover | Butterfly near bird bath | "Dancers on the land" theme |
-
-### POTENTIAL NEW CLUES
-
-| Element | Page | Description | Significance |
-|---------|------|-------------|--------------|
-| Garden Setting | Title + Back | Tulips, cherry blossoms, bird bath | Possibly real location meaningful to JCB |
-| Green/Yellow Cap | 15 | Baseball cap in dorm room | NC State colors? |
-| Dove Artwork | 16 | White dove/bird on wall | Peace/spiritual symbol |
-
-### DISCREPANCY: Water Imagery
-
-The book heavily features lakes/water:
-- Page 2: Painting of boats on water
-- Page 18: Fishing at lake with dock and pine trees
-- Pages 25-26: Park with rowboats (resembles Central Park)
-- Page 29: Final scene at water's edge
-
-**Issue:** Rocky Face Mountain has NO lakes or major water features.
-
-**Possible Interpretations:**
-1. Artistic license - lakes represent peaceful family settings
-2. Clue points to South Mountains State Park (has Clear Creek Lake)
-3. Lake near family property (350 Trinity Rd, Statesville)
-4. Not a location clue - just autobiographical settings
-
-### What Could Be "The Extra Clue or Two"?
-
-Most likely candidates:
-1. **Pine trees** - Direct match to "pine" in poem (HIGH confidence)
-2. **MJ/UNC colors** - Reinforces NC location (HIGH confidence)
-3. **Garden setting** - Could be real location (MEDIUM confidence)
-4. **Water/lake imagery** - May point to specific lake (MEDIUM confidence)
-
----
-
 ## Personal & Autobiographical Elements
 
 1. **Personal values:** Family bonds are paramount to the author
@@ -192,11 +144,6 @@ Most likely candidates:
 3. **Mixed-heritage family:** May reflect JCB's real family
 4. **Settings:** Garden, parks, and locations may be meaningful
 5. **Generational themes:** Legacy, passing things down
-
-### Questions for Further Research
-1. Is the garden setting based on a real location near Rocky Face or family property?
-2. Is there a lake within 3 miles of Rocky Face Mountain?
-3. Does the green/yellow cap reference a specific school or team?
 
 ---
 

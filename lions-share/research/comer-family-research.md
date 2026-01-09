@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-**Jon Collins-Black** is the pen name of **Jon Comer**, son of **David Comer**, the founding pastor of Grace Baptist Church in Statesville, North Carolina. This identification has been confirmed through multiple independent sources and explains the deep biographical connections between the author and the Hiddenite/Rocky Face Mountain region that appear throughout "There's Treasure Inside."
+**Jon Collins-Black** is the pen name of **Jon Comer**, son of **David Comer**, the founding pastor of Grace Baptist Church in Statesville, North Carolina. This identification has been confirmed through multiple independent sources.
 
 ---
 
@@ -113,12 +113,10 @@ A musician named "Jon Collins" performed with the "Jon Collins Band" (2012-2015)
 
 ### Geographic Context
 
-| Nearby Location | Distance | Significance |
-|-----------------|----------|--------------|
+| Nearby Location | Distance | Notes |
+|-----------------|----------|-------|
 | Stony Point | ~1-2 miles west | Nearest community |
-| Rocky Face Mountain | ~6-7 miles northwest | **Prime Lion's Share candidate** |
-| Emerald Hollow Mine | ~8-10 miles northwest | Childhood gem-hunting destination |
-| Joe Mountain | ~8-10 miles north | "Two jagged peaks" candidate |
+| Emerald Hollow Mine | ~8-10 miles northwest | Mentioned in Ch 4 as childhood destination |
 | Taylorsville | ~10 miles west | Alexander County seat |
 | Statesville | ~15 miles southeast | Iredell County seat / Grace Baptist Church |
 
@@ -132,29 +130,7 @@ The 350 Trinity Rd location matches all biographical descriptions:
 | "Rural corridor between Statesville and Alexander County" | ✅ Positioned between both counties |
 | "Boondocks" / rural woodland | ✅ Rural area surrounded by forest |
 | Easy access to Emerald Hollow Mine | ✅ Short drive to Hiddenite |
-| ~20 acres | ⏳ Needs verification via deed records |
-
----
-
-## Relevance to Lion's Share Treasure Location
-
-### Biographical Connection Confirmed
-
-The identification of Jon Comer and the family property at 350 Trinity Rd provides **conclusive evidence** that Jon Collins-Black has deep personal connections to the Hiddenite/Rocky Face Mountain region. This strongly supports the hypothesis that the Lion's Share treasure is hidden in this area.
-
-### Key Implications
-
-1. **Rocky Face Mountain** is approximately 6-7 miles from the Comer family property - easily within range of childhood exploration
-2. **Emerald Hollow Mine** in Hiddenite was explicitly mentioned as a childhood destination
-3. The author's intimate familiarity with the region explains the specific geographic and botanical references in the clue poem
-4. The emotional significance of this landscape to the author makes it a prime candidate for hiding his "legacy" treasure
-
-### Supporting Evidence for Rocky Face Mountain
-
-- Trail marker 318 confirmed to exist on Hollow Rock Trail (matches haiku numerical code)
-- Blue irises documented in the area (matches "Joy's Serenade" clue)
-- Rocky outcrops visible on satellite imagery near marker 318
-- Former quarry site with geological features matching clue descriptions
+| ~20 acres | ✅ Verified via deed records |
 
 ---
 

@@ -33,18 +33,21 @@ The Lion's Share box contains the majority of the treasure value (millions of do
 ```
 lions-share/
 ├── claude.md             # This context file
-├── summary.md            # Master summary and hypotheses
+├── summary.md            # UNBIASED facts only (no hypothesis-specific content)
 │
-├── analysis/             # Research and analysis documents
-│   ├── *-research.md     # Location/identity research
-│   ├── *-analysis.md     # Deep-dive analyses
-│   └── jcb-*.md/json     # Author extracts (personal stories, reader addresses)
+├── research/             # General research (bias-free)
+│   ├── *.md/png          # Verified facts
 │
-├── chapters/             # Chapter summaries (consolidated clues)
-│   └── chapter-XX.md     # Per-chapter analysis with Rocky Face lens
+├── chapters/             # Chapter summaries (bias-free)
+│   └── chapter-XX.md     # Facts from each chapter (no hypothesis lens)
 │
-├── maps/                 # Map and location images
-│   └── *.png/pdf         # Trail maps, satellite imagery, markers
+├── hypotheses/           # Hypothesis-specific content
+│   └── rocky-face-mountain/
+│       ├── README.md     # Theory overview
+│       ├── summary.md    # Living hypothesis summary
+│       ├── chapter-XX.md # Chapter interpretations through this lens
+│       ├── maps/         # Location-specific maps, trails, markers
+│       └── *.md          # Supporting analyses (poem mapping, theories)
 │
 ├── pages/                # Page-level source analysis
 │   ├── metadata/         # Structured JSON per screenshot (full text)
@@ -218,6 +221,103 @@ For each page spread in a chapter:
 4. **Cross-reference** - look for patterns across chapters
 5. **Trust intuition** - note things that feel significant even if unclear why
 6. **Document everything** - maintain detailed notes for later synthesis
+
+## Confirmation Bias Mitigation
+
+The author directly addresses confirmation bias (Chapter 9 subtitle). Analysis is vulnerable to:
+- Fitting observations into pre-existing theories
+- Ignoring contradictory evidence
+- Over-weighting suggestive vs. definitive clues
+
+### Prevention Practices
+
+1. **Separate facts from interpretation** - maintain distinct files for each
+   - Facts go in `chapters/`, `research/`, and `summary.md`
+   - Interpretations go in `hypotheses/[hypothesis-name]/`
+2. **State null hypotheses** - document what would DISPROVE each theory
+3. **Red-team your work** - actively seek counter-evidence
+4. **Use confidence ratings** - mark interpretations as Low/Medium/High
+5. **Document alternatives** - for each clue, note other possible meanings
+6. **Date hypotheses** - track when theories formed to avoid backfitting
+7. **Never merge hypothesis content into facts files** - keep the separation clean
+
+## Evidence Classification
+
+When documenting clues, classify them:
+
+| Classification | Definition | Example |
+|----------------|------------|---------|
+| **Direct Reference** | Book explicitly states something | "Hiddenite emerald mine" in Ch 4 |
+| **Verified External** | Confirmed via public records | Property deed, author identity |
+| **Derived Location** | Logical deduction from facts | "X miles from Y based on map" |
+| **Thematic Connection** | Pattern that may be intentional | "Sparkle" appears in multiple chapters |
+| **Speculative** | Fitting facts to theory | "X might mean Y" |
+
+Facts files should contain only **Direct Reference** and **Verified External** evidence. Other classifications belong in hypothesis files.
+
+## Maintaining summary.md
+
+The master `summary.md` file contains **only verified facts** - no hypothesis-specific interpretations.
+
+### What Belongs in summary.md
+
+| Section | Content Type | Example |
+|---------|--------------|---------|
+| **Author Identity** | Verified public records | Jon Comer identity, property deeds |
+| **Author's Explicit Rules** | Direct quotes from postscript | "Not buried", "within 3 miles of road" |
+| **Joy's Serenade** | Exact poem text (no interpretation) | Full 7-stanza poem verbatim |
+| **Back Cover Haiku** | Exact text (no interpretation) | Haiku text and syllable count |
+| **Book Content Summary** | Chapter titles, page ranges | Table of chapters with factual overview |
+| **Geographic References** | Locations explicitly named in book | Hiddenite, Penland, Statesville |
+| **Verified Research** | Externally confirmed facts | Seth Gould at Penland School |
+| **Active Hypotheses** | Links only (no endorsement) | Links to hypothesis folders |
+
+### What Does NOT Belong in summary.md
+
+- GPS coordinates or specific addresses (hypothesis-specific)
+- Confidence ratings or "HIGH/MEDIUM/LOW" assessments
+- Poem-to-location mappings or interpretations
+- Trail markers, search protocols, or location-specific details
+- Phrases like "target location" or "primary candidate"
+- Any content that assumes a specific location is correct
+
+### When to Update summary.md
+
+1. **New verified facts** - confirmed via public records or official sources
+2. **Author statements** - new interviews with direct quotes
+3. **Book content corrections** - errors in transcription or missing content
+4. **New hypothesis added** - add link to Active Hypotheses section
+
+### Verification Before Adding
+
+Before adding content to summary.md, ask:
+- Is this a **fact** or an **interpretation**?
+- Can this be verified independently of any location theory?
+- Would this content change if we switched to a different hypothesis?
+
+If the answer to the last question is "yes", the content belongs in a hypothesis folder instead.
+
+## Hypothesis Management
+
+### Creating a New Hypothesis
+1. Create folder: `hypotheses/[hypothesis-name]/`
+2. Create `README.md` with theory overview
+3. Create `summary.md` with living hypothesis summary
+4. Document supporting evidence with classifications
+5. Document counter-evidence explicitly
+6. Set status: Active/Suspended/Disproven
+
+### Maintaining Hypotheses
+- Review periodically for new evidence/counter-evidence
+- Update confidence levels as research progresses
+- Never merge hypothesis content into facts files
+- Keep each hypothesis self-contained with its own chapter interpretations
+
+### Adding Chapter Interpretations
+When analyzing chapters through a hypothesis lens:
+1. Keep foundational notes in `chapters/chapter-XX.md` (facts only)
+2. Put hypothesis-specific interpretations in `hypotheses/[hypothesis-name]/chapter-XX.md`
+3. This allows the same facts to support multiple competing hypotheses
 
 ## Collaboration Notes
 
