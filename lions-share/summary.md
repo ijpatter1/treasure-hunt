@@ -28,6 +28,8 @@ The Lion's Share is the largest of five treasure boxes hidden in the United Stat
 8. **Hop-tree documented at park** - host plant for Giant Swallowtail butterflies confirms "dancers on the land"
 9. **JCB interview (Nov 2025): "The lion's share of its clues have been solved. Yet, these clues have not quite been seen to completion."** - Suggests armchair work is done; physical search required
 10. **Necklace Theory (Ch 23)**: Egyptian faience necklace image is a visual trail map - 13 beads = 13 trail markers (313-325), orange bead position = rock outcrop between markers 319-320
+11. **Dancers Jewelry Theory (Ch 5)**: Page 61 illustration shows 13 jewelry pieces on dancers - same count as necklace beads and trail markers; one green piece stands out like the orange bead
+12. **Children's Book Analysis (Our Unbreakable Thread)**: JCB's children's book contains visual clues - pine trees at fishing lake (matches "pine" poem reference), MJ poster in UNC colors (NC connection), caterpillar/butterfly imagery ("dancers on the land"), and recurring lake settings
 
 ---
 
@@ -283,6 +285,122 @@ The necklace visual encoding may be the element that was "not quite seen to comp
 
 ---
 
+## Dancers Jewelry Theory: Second Visual Encoding
+
+### The Illustration (Page 61, Chapter 5)
+
+The black-and-white illustration of dancers features **colorful jewelry pieces** - an unusual choice for an otherwise monochrome image. JCB confirmed: "I created the art with the help of AI" with complete creative control.
+
+### Key Observations
+
+| Element | Count/Description |
+|---------|-------------------|
+| **Jewelry pieces** | **13 distinct pieces** |
+| **Dancers** | 8 figures |
+| **Odd piece** | One GREEN piece among red/orange/brown |
+| **Art Smith connection** | Chapter discusses jewelry designed FOR dancers |
+
+### Parallel to Necklace Theory
+
+| Element | Ch 23 Necklace | Ch 5 Dancers Jewelry |
+|---------|----------------|----------------------|
+| **Item count** | 13 beads | 13 jewelry pieces |
+| **Odd one out** | Orange bead | Green piece |
+| **Potential meaning** | Trail markers 313-325 | Trail markers 313-325? |
+| **Treasure marker** | Orange = 319-320 | Green = ? (TBD) |
+
+### Connection to "Dancers on the Land"
+
+Joy's Serenade contains: **"Dancers are on the land"**
+
+This phrase may have a **dual meaning**:
+1. **Butterflies** - Giant Swallowtails at Rocky Face (confirmed via Hop-tree)
+2. **This illustration** - The jewelry positions may encode geographic data
+
+### Analysis Status
+
+The overlay analysis (`dancers-jewelry.jpg`) shows multiple ways to connect the 13 jewelry pieces with lines, potentially revealing:
+- A letter or word
+- A shape matching terrain features
+- Trail directions
+- A map overlay
+
+**The positioning of the green piece relative to the others requires further analysis** to determine if it corresponds to a specific trail marker like the orange bead in the necklace.
+
+### Why This Matters
+
+Two separate illustrations in the book both feature **exactly 13 elements** with **one odd-colored piece**:
+- Chapter 5: 13 jewelry pieces, 1 green
+- Chapter 23: 13 beads, 1 orange
+
+The probability of this being coincidence is low. These may be **redundant encodings** of the same information (trail markers 313-325 with treasure location marked).
+
+---
+
+## Our Unbreakable Thread: Children's Book Analysis
+
+### Overview
+
+JCB's children's book "Our Unbreakable Thread" (April 2024) tells the story of a father-son bond across three generations. JCB confirmed it contains "an extra clue or two."
+
+| Detail | Value |
+|--------|-------|
+| **Author** | Jon Collins-Black |
+| **Illustrator** | Nicole Gsell |
+| **Dedication** | "To Aiden & Landon, our unbreakable thread. —J.C.B." |
+| **Pages** | 29 content pages |
+
+### HIGH CONFIDENCE Clues
+
+#### 1. Pine Trees at Fishing Lake (Page 18)
+**Visual:** Dense pine forest behind father and son fishing at lake
+**Connection:** Back cover poem "sparkle even as you **pine**"
+**Significance:** Direct visual depiction of the "pine" reference
+
+#### 2. MJ Poster in UNC Colors (Page 16)
+**Visual:** Basketball poster showing player in WHITE JERSEY, GREEN SHORTS (not Bulls red)
+**Connection:** Chapter 13 - MJ at UNC, JCB "grew up in North Carolina"
+**Significance:** College-era MJ colors reinforce NC location
+
+#### 3. Green Caterpillar (Page 6)
+**Visual:** Caterpillar decoration on child's bedroom wall
+**Connection:** "Dancers on the land" = butterflies; caterpillars transform to butterflies
+**Significance:** Butterfly/transformation theme connects to Giant Swallowtails at Rocky Face
+
+### MEDIUM CONFIDENCE Clues
+
+#### 4. Yellow Boats on Water (Pages 2, 25-26, 29)
+- Page 2: Painting of yellow boats in nursery
+- Pages 25-26: Actual yellow boats on lake
+- Page 29: Final scene at lake with trees
+**Significance:** Recurring water/lake imagery may indicate significant location
+
+#### 5. Page Number Alignments
+| Page | Main Book Connection |
+|------|---------------------|
+| 13-14 | Chapter 13 (MJ) - telescope/meteor connects to Ch 19 |
+| 21-22 | Chapter 21 "Antiquities of Alexander" (funeral scene) |
+| 23 | 23 chapters in book, MJ's #23 (wedding scene) |
+
+#### 6. Purple Butterfly (Back Cover)
+**Visual:** Butterfly flying near bird bath
+**Connection:** "Dancers on the land" theme continues
+
+### Visual Theme Summary
+
+| Theme | Pages | Main Book Connection |
+|-------|-------|---------------------|
+| **Pine trees** | 18, 29 | "Sparkle even as you pine" |
+| **Water/lakes** | 2, 18, 19, 25-26, 29 | Outdoor recreation area |
+| **Green caterpillar** | 6 | Butterfly/"dancers" theme |
+| **MJ imagery** | 16 | Chapter 13, NC connection |
+| **Three generations** | 21-22, 27-29 | Family legacy theme |
+
+### Full Analysis
+See `unbreakable-thread/summary.md` for complete page-by-page breakdown and `unbreakable-thread/notes/` for individual page analyses.
+
+---
+
 ## Second Pass Chapter Findings
 
 All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Key discoveries:
@@ -361,7 +479,7 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 | # | Research Item | Status | Notes |
 |---|---------------|--------|-------|
-| 1 | Obtain "Our Unbreakable Thread" | NOT STARTED | Author confirmed "extra clue or two" in this children's book |
+| 1 | Analyze "Our Unbreakable Thread" | **DONE** | Pine trees, MJ poster in UNC colors, caterpillar/butterfly imagery all support NC hypothesis |
 | 2 | Physical site visit to marker 318 AND 319-320 area | NOT STARTED | Required for treasure recovery |
 | 3 | Property deed verification | **DONE** | 350 Trinity Rd = 20.24 acres, owned by David L & Janice L Comer, built 1982 |
 | 4 | What are the 5 word search clues? | UNKNOWN | Community hasn't identified these yet |
@@ -443,14 +561,46 @@ The author explicitly confirms:
 
 ## Alternative Hypotheses
 
-### Secondary: Los Angeles Area (LOW confidence)
+### Alternative: Los Angeles Area (MEDIUM-LOW confidence)
 
 | Evidence | Source |
 |----------|--------|
-| Current residence near Mount Wilson | Ch 18 |
-| "Massive rose garden" at local park | Ch 20 |
+| **California residence 20+ years** | Ch 12 |
+| **Mount Wilson "not far from my home, to the northeast"** | Ch 18 |
+| **"Massive rose garden...several acres...local park"** | Ch 20 |
+| California Gold Rush nugget in treasure | Ch 12 |
+| Multiple LA/CA references throughout book | Ch 1, 3, 8, 19 |
 
-**Why Secondary:** Author confirms current residence but provides fewer explicit treasure location hints tied to LA. The emotional connection is to his NC childhood, not his current residence.
+**Strongest LA Argument:** Practical proximity - JCB lives in LA and can monitor the largest treasure. The "massive rose garden...several acres...at a local park" matches **Exposition Park Rose Garden** (7 acres) exactly.
+
+**Proposed LA Search Areas (Priority Order):**
+1. **Exposition Park Rose Garden** - matches "several acres" description
+2. **Griffith Park** - 4,310 acres, butterflies, oaks, rock formations
+3. **Mount Wilson Trail/Echo Rock** - explicitly mentioned near home
+
+**Why NOT Primary:**
+- **NO 318 encoding** found in any LA location (Rocky Face has triple match)
+- **NO "Alexander" equivalent** (Ch 21 title = Alexander County, NC)
+- **NO "Will's straight edge" figure** (William Hidden = Hiddenite discoverer)
+- **Hiddenite is EXPLICIT** (Ch 4) - not coded like Mount Wilson reference
+- **Five NC locations cluster** in western NC where Rocky Face is located
+
+**See:** `la-alternative-analysis.md` for full steelman analysis.
+
+### Alternative: South Mountains State Park, NC (MEDIUM-LOW confidence)
+
+| Evidence | Source |
+|----------|--------|
+| Clear Creek Lake (paddling, fishing) | Children's book water imagery |
+| Jacob Fork River (trout waters) | Page 18 fishing scene |
+| 80-ft High Shoals Falls | No match in book (not depicted) |
+| ~35-40 mi from childhood home | Geographic proximity |
+
+**Why Alternative:** Children's book "Our Unbreakable Thread" contains 5 water/lake scenes (pp. 2, 18, 19, 25-26, 29), but Rocky Face Mountain has NO lakes. South Mountains has Clear Creek Lake with possible boat rental infrastructure that matches the yellow rowboats depicted in pp. 25-26.
+
+**Why NOT Primary:** Main treasure book has ZERO references to South Mountains, Burke County, Clear Creek, Jacob Fork, or High Shoals. The explicit "Hiddenite" mention (Ch 4), "Alexander" chapter title (Ch 21), and 318 triple encoding all point to Rocky Face.
+
+**See:** `alternative-locations-analysis.md` for full steelman analysis.
 
 ### Ruled Out: New York
 
@@ -475,6 +625,8 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `nc-research.md` - North Carolina location research
 - `rocky-face-mountain-hypothesis.md` - Focused hypothesis document
 - `research.md` - Comprehensive web research findings
+- `alternative-locations-analysis.md` - Steelman analysis of South Mountains State Park as alternative
+- `la-alternative-analysis.md` - **Steelman analysis of Los Angeles area as alternative**
 
 ### Map Evidence
 - `screenshots/map-trails.png` - Official trail map showing marker 318
@@ -482,6 +634,7 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `screenshots/map-rocky-face-mountain-summit.png` - Summit location
 - `screenshots/map-necklace-theory.png` - 3D satellite view showing rock outcrop between markers 319-320
 - `screenshots/property-record.png` - **Comer family property deed (20.24 acres, 350 Trinity Rd)**
+- `dancers-jewelry.jpg` - **Overlay analysis of Ch 5 dancers illustration showing 13 jewelry piece positions**
 
 ### Chapter Analyses
 - `chapters/front-matter.md` through `chapters/chapter-23.md`
@@ -492,6 +645,11 @@ Community favors this theory based on "Lion's Share" name. Our evidence strongly
 - `pages/metadata/*.json` - Full text transcriptions
 - `pages/notes/*.md` - Clue analysis per page spread
 
+### Children's Book Analysis
+- `unbreakable-thread/summary.md` - Complete children's book findings
+- `unbreakable-thread/notes/*.md` - Page-by-page analysis (16 files)
+- `screenshots/unbreakable-thread-*.png` - Source screenshots (32 files)
+
 ---
 
-*Last updated: January 8, 2026 (added necklace theory - target refined to rock outcrop between markers 319-320)*
+*Last updated: January 8, 2026 (added comprehensive LA steelman analysis - Exposition Park Rose Garden matches Ch 20 "several acres" clue; evidence comparison shows NC still stronger due to 318 triple encoding)*
