@@ -1,0 +1,113 @@
+{
+  "page_spread": "17-18",
+  "source_files": [
+    "unbreakable-thread-page-17.png",
+    "unbreakable-thread-page-18.png"
+  ],
+  "page_17": {
+    "text": {
+      "raw": "Oncewhenyoucametovisit,thethread wastwistedandfullofknots.",
+      "parsed": "Once when you came to visit, the thread was twisted and full of knots.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Tense moment in family kitchen - father upset, son concerned, mother in background",
+      "characters": [
+        {
+          "role": "father",
+          "appearance": "Now has facial hair/stubble, aging",
+          "clothing": "Blue cable-knit sweater",
+          "expression": "Stressed, upset, frustrated",
+          "position": "Center-left",
+          "action": "Hand on forehead in distress"
+        },
+        {
+          "role": "son (adult child)",
+          "appearance": "Young adult, short brown hair",
+          "clothing": "Red and yellow plaid flannel shirt",
+          "expression": "Concerned, worried",
+          "position": "Right side, facing father"
+        },
+        {
+          "role": "mother",
+          "appearance": "Long dark hair",
+          "clothing": "Pink/red top",
+          "position": "Background at kitchen counter",
+          "action": "Working at stove/counter, watching situation"
+        }
+      ],
+      "setting": {
+        "location": "Family kitchen",
+        "elements": [
+          "Brown wooden cabinets",
+          "Microwave above stove",
+          "Red tea kettle on stove",
+          "Utensil holder with cooking tools",
+          "Fruit bowl on counter",
+          "Hardwood floor"
+        ]
+      },
+      "atmosphere": "Tension, conflict, difficult conversation"
+    }
+  },
+  "page_18": {
+    "text": {
+      "raw": "Withsomeworkfrombothofuswewere abletostraightenthethreadoutagain.",
+      "parsed": "With some work from both of us we were able to straighten the thread out again.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Father and son fishing together on dock at sunset - reconciliation scene",
+      "characters": [
+        {
+          "role": "father",
+          "clothing": "Gray/blue hat, green jacket, jeans",
+          "position": "Right side of dock",
+          "action": "Fishing with son"
+        },
+        {
+          "role": "son",
+          "clothing": "Green sweater/jacket, jeans, brown boots",
+          "position": "Left side of dock",
+          "action": "Fishing alongside father"
+        }
+      ],
+      "setting": {
+        "location": "Lake/pond with wooden dock",
+        "time": "Sunset or sunrise",
+        "natural_elements": [
+          "Pine trees along shoreline",
+          "Calm water with reflections",
+          "Colorful sky (pink, yellow, orange)",
+          "Green deciduous trees mixed with pines"
+        ]
+      },
+      "props": [
+        "Two fishing poles in water",
+        "Red tackle box",
+        "Drinks/cups beside them"
+      ],
+      "atmosphere": "Peaceful, healing, quality time together"
+    }
+  },
+  "narrative_elements": {
+    "conflict": "Thread becomes twisted and knotted during difficult visit",
+    "resolution": "Both parties work together to straighten thread",
+    "key_insight": "Requires effort from BOTH people",
+    "themes": [
+      "Parent-adult child conflict",
+      "Reconciliation",
+      "Working through difficulties",
+      "Quality time as healing",
+      "Relationships require maintenance"
+    ],
+    "thread_properties": [
+      "Thread can become twisted/knotted (not just stretched)",
+      "Knots represent relationship difficulties",
+      "Thread can be repaired with mutual effort",
+      "Thread is resilient but requires care"
+    ]
+  }
+}
