@@ -139,6 +139,28 @@ Here lies a joy divined
 - The haiku has 3 lines
 - The haiku has 18 syllables total (5 + 7 + 6)
 
+### Poem Analysis: Pike Definition
+
+**pike** (noun, Northern England): A hill with a peaked top. Common in Lake District place names.
+
+The line "pike are rather all around" likely refers to **peaked hills surrounding the location**, not fish or turnpikes. This aligns with other elevated imagery in the poem:
+- "don't go down" = stay elevated
+- "how high you ever want to be" = elevated vantage point
+- "sat upon a rock" = rocky terrain typical of peaked hills
+
+### Location Indicators from Poem
+
+| Indicator | Poem Reference |
+|-----------|----------------|
+| Oak trees | "shady oaks" |
+| Water feature | "magic in the water" |
+| Peaked hills | "pike are rather all around" |
+| Rock formation | "sat upon a rock" |
+| Elevated position | "don't go down", "how high" |
+| Secluded | "where few have seen it" |
+| X marker | "X leads the way" |
+| Dancers reference | "Dancers are on the land" |
+
 ---
 
 ## Book Content Summary
@@ -195,6 +217,9 @@ Here lies a joy divined
 | Egyptian gold snake bracelet | Ch 21 | 1st BC - 1st AD |
 | Amethyst & gold necklace | Ch 21 | 2nd-3rd c. BC |
 | Two gold/emerald/ruby floral rings | Back | 19th c. South India |
+| Two ornate Bali priest rings | Back | 19th-20th c., Bali |
+| Gold box with deer/chicken carving | Back | Southeast Asia (unique) |
+| Olive-green jade bracelet | Back | 3000-4000 BC, China |
 
 #### Shipwreck Gold (La Luz, 1752)
 
@@ -235,10 +260,12 @@ Here lies a joy divined
 | Moon rock globe (from NWA 12691) | Ch 19 |
 | Aguas Zarcas meteorite piece | Ch 19 |
 | California Gold Rush nugget (4+ oz) | Ch 12 |
+| 351.65g Australian gold nugget (98% purity) | Back |
 | Gold Chavin chalice (Peru, 400-1000 BC) | Ch 9 |
 | Egyptian faience bead necklace (3000+ years) | Ch 23 |
 | Japanese puzzle box | Ch 3 |
 | Gold & jade magnifying glass (~1900, Faberge) | Ch 3 |
+| Titanium Bitcoin coin (BTCC, 1 of 1350) | Back |
 
 ---
 
@@ -519,16 +546,6 @@ JCB confirmed it contains "an extra clue or two."
 | Tiffany & Co. Carolina Emerald | Verified | Company owns emerald from Hiddenite |
 | Property deed (350 Trinity Rd) | Verified | 20.24 acres, owned by David L & Janice L Comer, built 1982 |
 | Significance of missing page 90 | Verified | Confirmed unintentional, editing error |
-
----
-
-## Unresolved Questions
-
-| Question | Status |
-|----------|--------|
-| What are the 5 word search clues? | Unknown - community hasn't identified |
-| Significance of missing page 90 | Confirmed unintentional, editing error |
-| Physical verification of any location | Not started |
 
 ---
 

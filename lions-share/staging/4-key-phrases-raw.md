@@ -291,6 +291,36 @@ Extracted from all 25 chapter files on 2026-01-09.
 
 ---
 
+## From Joy's Serenade Poem (Pages 205-206)
+
+**Source:** `lions-share/chapters/joys-serenade.md`
+
+| Phrase | Stanza | Analysis |
+|--------|--------|----------|
+| "X leads the way" | 4 | X marks the spot? Trail marker? |
+| "shimmering circles of gold" | 4 | Sun reflection? Golden feature? |
+| "magic in the water" | 4 | Water feature nearby |
+| **"pike are rather all around"** | 4 | **PIKE = peaked hills** (Northern England dialect) |
+| "shady oaks" | 5 | Oak trees at location |
+| "the haiku curls a little further on" | 5 | Reference to back cover haiku |
+| "don't go down" | 5 | Elevated location, don't descend |
+| "Dancers are on the land" | 6 | Dance-related place name? |
+| "sat upon a rock" | 7 | Rock formation |
+| "This is no imaginary wonderland" | 3 | Take literally, real place |
+
+### Pike Definition Discovery
+
+**pike** (noun, Northern England): A hill with a peaked top. Common in Lake District place names.
+
+This definition strongly aligns with the poem's elevated imagery:
+- "don't go down" = stay elevated
+- "how high you ever want to be" = elevated vantage point
+- "sat upon a rock" = rocky terrain typical of peaked hills
+
+**Implication:** Treasure location may be surrounded by peaked hills/mountains.
+
+---
+
 ## Summary: Author-Confirmed Clues
 
 | Phrase | Chapter | Status |

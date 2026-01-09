@@ -258,6 +258,18 @@ Extracted from all 25 chapter files on 2026-01-09.
 
 ---
 
+## From Back Matter (Pages 201-202)
+
+| Item | Description | Origin/Notes |
+|------|-------------|--------------|
+| Two ornate Bali priest rings | 19th-20th century, bird's beak prongs, large pink ruby | Bali, Tuyet Nguyet collection |
+| Gold box with deer/chicken carving | Intricate carving, "no similar box exists anywhere" | Southeast Asia, Tuyet Nguyet collection |
+| 351.65 gram Australian gold nugget | 98% purity, "one of my favorite gold pieces" | Australia |
+| Titanium physical Bitcoin coin (BTCC) | One of 1350, fully loaded private keys for 1 BTC | 2016 first production |
+| Olive-green jade bracelet | 3000-4000 BC, "one of oldest known", "jingqi" life force | China |
+
+---
+
 ## Summary Statistics
 
 - **Total chapters with treasure items:** 24 (all except front matter)

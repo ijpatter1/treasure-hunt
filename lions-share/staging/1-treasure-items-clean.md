@@ -28,6 +28,9 @@ Deduplicated, organized by category, chapter references preserved.
 | Egyptian gold snake bracelet | Cleopatra era | Ch 21 | 1st BC - 1st AD |
 | Amethyst & gold necklace | Club of Hercules pendant | Ch 21 | 2nd-3rd c. BC |
 | Two gold/emerald/ruby floral rings | 19th century South India | Back | Tuyet Nguyet collection |
+| Two ornate Bali priest rings | Bird's beak prongs, large pink ruby | Back | 19th-20th c., Tuyet Nguyet collection |
+| Gold box with deer/chicken carving | "No similar box exists anywhere" | Back | Southeast Asia, Tuyet Nguyet collection |
+| Olive-green jade bracelet | "One of oldest known", "jingqi" life force | Back | 3000-4000 BC, China |
 
 ## Shipwreck Gold (La Luz, 1752)
 
@@ -89,6 +92,8 @@ Deduplicated, organized by category, chapter references preserved.
 | Aguas Zarcas meteorite piece | Carbonaceous chondrite with amino acids | Ch 19 |
 | California Gold Rush nugget | Over 4 ounces | Ch 12 |
 | Gold Chavin chalice | Peru, 400-1000 BC | Ch 9 |
+| 351.65g Australian gold nugget | 98% purity, "one of my favorite gold pieces" | Back |
+| Titanium physical Bitcoin coin (BTCC) | One of 1350, fully loaded private keys for 1 BTC | Back |
 
 ## Art & Personal Items
 
@@ -106,13 +111,13 @@ Deduplicated, organized by category, chapter references preserved.
 | Category | Count | Notable Items |
 |----------|-------|---------------|
 | Gemstones & Minerals | 7 | 120ct sapphire, 96ct emerald, Carnegie emerald |
-| Gold Antiquities | 7 | Greek wreath, Alexander-era pieces |
+| Gold Antiquities | 10 | Greek wreath, Alexander-era pieces, Bali rings, jade bracelet |
 | Shipwreck Gold | 3 | La Luz gold bar, disk, coin |
 | Art Smith Jewelry | 4 | First African-American designer |
 | Loloma/Sonwai Jewelry | 4 | Native American master works |
 | Ruby Jewelry | 3 | Modern designers |
 | Historical Items | 6 | Washington glass, Earhart photo, Jordan card |
 | Olympic Medals | 2 | Rome 1960, Atlanta 1996 |
-| Space/Collectibles | 4 | Moon rock, meteorite, gold nugget |
+| Space/Collectibles | 6 | Moon rock, meteorite, gold nuggets, Bitcoin coin |
 | Art/Personal | 4 | Picasso pendant, faience necklace |
-| **TOTAL** | **~50** | |
+| **TOTAL** | **~55** | |
