@@ -147,6 +147,75 @@ Jon Collins-Black is the creator of the Lion's Share treasure hunt and author of
 
 ---
 
+## Cross-References to Lion's Share Clues
+
+JCB confirmed the children's book contains "an extra clue or two" (Chapter 8, "There's Treasure Inside").
+
+### Visual Elements with Potential Treasure Hunt Significance
+
+| Page | Visual Element | Poem/Book Reference | Confidence |
+|------|---------------|---------------------|------------|
+| 18 | Dense pine forest along lake shoreline | Haiku: "sparkle even as you pine" | HIGH |
+| 18 | Calm lake with reflections | Poem: "magic in the water" | HIGH |
+| 18 | Father-son fishing scene | Poem: "pike" (fish or peaked hills) | MEDIUM |
+| 16 | Basketball poster (white jersey, green shorts) | Ch 13: "Be Like Mike" | MEDIUM |
+| 25-26 | Yellow boats/kayaks on lake | Recurring motif | MEDIUM |
+| Back | Purple butterfly near bird bath | Poem: "Dancers are on the land" (structural evidence) | MEDIUM |
+| Back | Garden with tulips, cherry blossoms | Ch 20: garden references | LOW |
+| 6 | Green caterpillar wall decoration | Transformation motif | LOW |
+
+### Page 18 - Pine Forest Lake (Highest Significance)
+
+The fishing reconciliation scene (pages 17-18) shows:
+- **Dense pine forest** covering the entire shoreline
+- **Calm lake** with purple/pink sunset reflections
+- **Wooden dock** extending into water
+- **Elevated setting** with trees on higher ground
+
+This imagery aligns with multiple Joy's Serenade poem elements:
+- "magic in the water" → the lake itself
+- "pike are rather all around" → either the pike fish being caught OR peaked hills/pines
+- "sparkle even as you pine" (haiku) → pine trees
+- "don't go down / how high you ever want to be" → elevated lake setting
+
+### Page 16 - Basketball Poster
+
+The college dorm room shows a basketball poster with:
+- Player in **white jersey, green shorts** dunking
+- Connects to Chapter 13 "Be Like Mike" (Michael Jordan)
+- Author grew up in NC as UNC Tar Heels fan
+- Note: UNC colors are blue/white, not green - color choice may be intentional
+
+### Back Cover - Garden with Purple Butterfly
+
+The back cover garden scene features:
+- **Stone bird bath** (prominent center)
+- **Purple butterfly** flying near bird bath
+- Red and yellow tulips
+- Pink cherry blossom tree
+
+**Butterfly-Dancer Connection:**
+The butterfly may connect to the poem line "Dancers are on the land." The placement appears intentional:
+- **Chapter 8** is about Hopi culture (the Hopi call butterflies "dancers")
+- **Chapter 8** is where JCB states this book contains "an extra clue or two"
+- JCB placed the clue statement *in the Hopi chapter* to point readers toward the butterfly-dancer connection
+
+See `chapters/joys-serenade.md` for full analysis.
+
+### Recurring Yellow Boats
+
+Yellow boats appear multiple times:
+- Page 2: Nursery art showing two yellow sailboats on water
+- Pages 25-26: Yellow boats/kayaks on park lake
+
+The recurring water/boat motif may be significant.
+
+### Page 6 - Green Caterpillar
+
+A green caterpillar decoration appears on the child's bedroom wall. Combined with the purple butterfly on the back cover, this suggests a transformation theme (caterpillar → butterfly) that parallels the thread's role in transforming relationships over time.
+
+---
+
 ## Analysis Files
 
 ### Metadata (JSON)

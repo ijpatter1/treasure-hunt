@@ -64,6 +64,23 @@ You can sing harmonies as you travel home.
 
 ---
 
+## Back Cover Haiku
+
+```
+Be solid, have grit;
+sparkle even as you pine.
+Here lies a joy divined
+```
+
+**Observations:**
+- 3 lines, 18 syllables total (5 + 7 + 6)
+- "pine" = both verb (to yearn) and noun (tree)
+- "grit" = determination AND geological material
+- "sparkle" = connects to gems, minerals
+- "joy divined" = echoes poem title "Joy's Serenade"
+
+---
+
 ## Key Phrases & Potential Clues
 
 | Phrase | Stanza | Analysis |
@@ -86,7 +103,7 @@ You can sing harmonies as you travel home.
 | "don't go down" | 5 | Elevated location, don't descend |
 | "how high you ever want to be" | 5 | Elevated position |
 | "The sky smiles on you" | 6 | Open sky/view |
-| "Dancers are on the land" | 6 | Dance-related place name? Dancing figures? |
+| "Dancers are on the land" | 6 | **Butterflies** - Hopi tradition calls butterflies "dancers" (see below) |
 | "flame of starlight" | 6 | Nighttime? Star-related name? |
 | "sat upon a rock" | 7 | Rock formation, sitting rock |
 | "nature's wide embrace" | 7 | Natural setting, park? |
@@ -108,6 +125,22 @@ You can sing harmonies as you travel home.
 
 **Note on "pike":** In Northern England (Lake District), "pike" refers to a hill with a peaked top. This definition aligns strongly with the poem's elevated imagery ("don't go down", "how high you ever want to be") and suggests the treasure location may be surrounded by peaked hills or mountains.
 
+**Note on "Dancers are on the land":** This line likely refers to **butterflies**. The Hopi tradition provides context for why butterflies would be called "dancers":
+
+1. The **Hopi Butterfly Dance** is named for the way butterflies move - their erratic, graceful flight resembles dancing
+2. **Chapter 8** features Hopi culture extensively (Charles Loloma, Sonwai jewelry in treasure)
+3. "Dancers on the land" = butterflies in the area, not literal human dancers
+
+**Structural evidence:** The placement appears intentional:
+- **Chapter 8** is about Hopi culture
+- **Chapter 8** is where JCB states "Our Unbreakable Thread" contains "an extra clue or two"
+- **The children's book** prominently features a purple butterfly on the back cover
+- This suggests JCB placed the children's book clue statement *in the Hopi chapter* to point readers toward the butterfly-dancer connection
+
+This suggests the treasure location may have notable butterfly populations.
+
+**Source:** [Smithsonian National Museum of the American Indian](https://americanindian.si.edu/exhibitions/circleofdance/hopi.html)
+
 ---
 
 ## Cross-Chapter Patterns
@@ -126,7 +159,7 @@ You can sing harmonies as you travel home.
 1. Are there trails or landmarks with "X" markers?
 2. What locations have both oaks and water features?
 3. ~~Is "pike" literal (fish) or metaphorical (road/turnpike)?~~ **Likely peaked hills** - what US locations have multiple peaked hills "all around"?
-4. What does "Dancers on the land" reference?
+4. ~~What does "Dancers on the land" reference?~~ **Likely butterflies** - Hopi tradition calls butterflies "dancers" (see note above)
 5. What is the connection to "the haiku" (back cover poem)?
 6. What rock formations allow sitting?
 7. **NEW:** Are there US place names using "pike" in the peaked-hill sense?

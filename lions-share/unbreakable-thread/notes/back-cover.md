@@ -110,4 +110,66 @@ This book is written by **Jon Collins-Black** - the same author of "There's Trea
 
 ---
 
+## Cross-References to Joy's Serenade Poem
+
+**JCB confirmed the children's book contains "an extra clue or two" (Chapter 8).**
+
+### Back Cover Visual Elements with Potential Significance
+
+| Visual Element | Poem Line | Connection | Confidence |
+|---------------|-----------|------------|------------|
+| Purple butterfly | Stanza 6: "Dancers are on the land" | Structural evidence (see below) | MEDIUM |
+| Bird bath | Stanza 7: "sat upon a rock" | Stone feature for sitting/perching | LOW |
+| Garden setting | Ch 20: "massive rose garden" | Garden imagery | LOW |
+| Tulips/flowers | Stanza 5: "If you get warm" | Flowers bloom in warmth | LOW |
+
+### "Dancers on the Land" - Butterfly Imagery
+
+The back cover shows a **purple butterfly** prominently flying near the bird bath. This may connect to the poem line "Dancers are on the land" (Stanza 6).
+
+**Structural evidence for intentional placement:**
+- **Chapter 8** is about Hopi culture (Loloma, Sonwai jewelry)
+- **Chapter 8** is where JCB states this children's book contains "an extra clue or two"
+- The Hopi call butterflies "dancers" (hence the Butterfly Dance ceremony)
+- JCB appears to have placed the children's book clue statement *in the Hopi chapter* to point readers toward this butterfly-dancer connection
+
+**Note:** For detailed analysis, see `chapters/joys-serenade.md`.
+
+**Connection to page 6:**
+A **green caterpillar** appears on the child's bedroom wall (page 6). The caterpillar → butterfly transformation connects these two images:
+- Page 6: Caterpillar (beginning, potential)
+- Back cover: Butterfly (transformation, completion)
+
+This mirrors the book's theme of the thread transforming relationships over time.
+
+### Garden Setting Analysis
+
+The garden appears on both the **title page** and **back cover**, bookending the story. Features include:
+- Stone bird bath (center)
+- Tulips (red, yellow)
+- Cherry blossom tree
+- Dense green background
+
+**Question:** Is this garden a real location meaningful to the author?
+
+Chapter 20 of "There's Treasure Inside" mentions a "massive rose garden" in the LA area. While this garden shows tulips rather than roses, the garden imagery may be significant.
+
+### Bird Bath Significance
+
+The **stone bird bath** is prominently centered in the back cover illustration. Stanza 7 mentions:
+
+> "or sat upon a rock"
+
+While a bird bath is not a rock, it is a stone feature where birds perch. The prominence of this feature could be intentional.
+
+### Why This Page May Be Significant
+
+1. **Bookends the story** - Same garden as title page
+2. **Transformation symbolism** - Caterpillar (p.6) → butterfly (back cover)
+3. **Prominent natural features** - Bird bath, butterfly, flowers
+4. **Multiple poem echoes** - Dancers, sitting, garden
+5. **Cyclical return** - Story begins and ends in this garden
+
+---
+
 **Verification Status:** VERIFIED against screenshot

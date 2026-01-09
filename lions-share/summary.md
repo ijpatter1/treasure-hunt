@@ -61,105 +61,24 @@ The author explicitly confirms:
 
 ---
 
-## Joy's Serenade Poem (Full Text)
+## Joy's Serenade Poem
 
-### Front Matter Poem
+The back matter poem (7 stanzas) and front cover haiku contain location clues. Full text and detailed analysis in `chapters/joys-serenade.md`.
 
-> *Joy's Serenade*
->
-> **Stanza 1:**
-> A note,
-> the molten tone of a tune,
-> rests inside all of us
-> who want a song to follow,
-> a treasure to hold;
-> we may find music
-> in a poem.
->
-> **Stanza 2:**
-> Our conductor,
-> as with a trace of a baton
-> through the air,
-> gives direction.
-> While the coda is incomplete,
-> there's a flutter of excitement around.
->
-> **Stanza 3:**
-> See how far to go.
-> Use will's straight edge,
-> as the turning square or any arc
-> may align at a proper point.
-> Never despair, never doubt.
-> This is no imaginary wonderland.
-> Now look.
->
-> **Stanza 4:**
-> You can take your own path
-> an X leads the way
-> or simply follow shimmering circles of gold.
-> There may be magic in the water, but the pike
-> are rather all around.
->
-> **Stanza 5:**
-> If you get warm,
-> you may find shady oaks.
-> When close, the haiku
-> curls a little further on
-> where few have seen it.
-> And if you don't go down
-> you may never know
-> how high you ever want to be.
->
-> **Stanza 6:**
-> The sky smiles on you.
-> Dancers are on the land.
-> And if you stay to see the night
-> it will ignite with the flame of starlight.
->
-> **Stanza 7:**
-> Now that you're here
-> all that is left remains for you.
-> And if you spy others warming
-> with the sunlight,
-> or sat upon a rock,
-> allowing nature's wide embrace
-> to sustain their bliss,
-> maybe ask them to assist you.
-> You can sing harmonies as you travel home.
+### Location Indicators (Distilled)
 
-### Back Cover Haiku
+| Indicator | Poem Reference | Interpretation |
+|-----------|----------------|----------------|
+| Oak trees | "shady oaks" | Oak trees at location |
+| Water | "magic in the water" | Water feature nearby |
+| Peaked hills | "pike are rather all around" | Pike = peaked hills (Northern England) |
+| Rock | "sat upon a rock" | Rock formation |
+| Elevated | "don't go down", "how high" | Elevated position |
+| Secluded | "where few have seen it" | Hidden location |
+| X marker | "X leads the way" | Trail marker or landmark |
+| Butterflies | "Dancers are on the land" | Butterflies (Hopi tradition) |
 
-```
-Be solid, have grit;
-sparkle even as you pine.
-Here lies a joy divined
-```
-
-**Factual observations:**
-- The haiku has 3 lines
-- The haiku has 18 syllables total (5 + 7 + 6)
-
-### Poem Analysis: Pike Definition
-
-**pike** (noun, Northern England): A hill with a peaked top. Common in Lake District place names.
-
-The line "pike are rather all around" likely refers to **peaked hills surrounding the location**, not fish or turnpikes. This aligns with other elevated imagery in the poem:
-- "don't go down" = stay elevated
-- "how high you ever want to be" = elevated vantage point
-- "sat upon a rock" = rocky terrain typical of peaked hills
-
-### Location Indicators from Poem
-
-| Indicator | Poem Reference |
-|-----------|----------------|
-| Oak trees | "shady oaks" |
-| Water feature | "magic in the water" |
-| Peaked hills | "pike are rather all around" |
-| Rock formation | "sat upon a rock" |
-| Elevated position | "don't go down", "how high" |
-| Secluded | "where few have seen it" |
-| X marker | "X leads the way" |
-| Dancers reference | "Dancers are on the land" |
+*See `chapters/joys-serenade.md` for full poem text and detailed analysis.*
 
 ---
 
@@ -520,10 +439,29 @@ JCB confirmed it contains "an extra clue or two."
 | Page(s) | Visual Element |
 |---------|----------------|
 | 6 | Green caterpillar decoration on child's bedroom wall |
+| 15 | Green baseball cap with yellow/gold logo |
 | 16 | Basketball poster showing player in white jersey, green shorts |
 | 18 | Dense pine forest behind father and son fishing at lake |
 | 2, 25-26, 29 | Yellow boats on water/lake scenes |
+| 21-22 | Hillside cemetery with iron fence, American flag on one grave |
+| Title, Back | Garden with stone bird bath, tulips, cherry blossoms |
 | Back cover | Purple butterfly flying near bird bath |
+
+### Page 18 Imagery (Fishing Scene)
+
+The reconciliation scene on page 18 shows:
+- **Dense pine forest** covering the entire shoreline
+- **Calm lake** with purple/pink sunset reflections
+- **Wooden dock** extending into water
+- Father and son fishing together
+
+### Back Cover Imagery (Garden Scene)
+
+- **Stone bird bath** (prominent, center)
+- **Purple butterfly** flying near bird bath
+- Red and yellow tulips in foreground
+- Pink cherry blossom tree
+- Dense green trees in background
 
 ### Recurring Themes
 
@@ -532,7 +470,19 @@ JCB confirmed it contains "an extra clue or two."
 | Pine trees | 18, 29 |
 | Water/lakes | 2, 18, 19, 25-26, 29 |
 | Butterflies/caterpillars | 6, back cover |
+| Yellow boats | 2, 25-26 |
+| Garden setting | Title page, back cover |
 | Three generations (grandfather-father-son) | 21-22, 27-29 |
+
+### Potential Poem Connections
+
+| Visual Element | Possible Poem Reference | Notes |
+|----------------|------------------------|-------|
+| Pine forest (p.18) | Haiku: "sparkle even as you pine" | Strong visual match |
+| Lake scene (p.18) | "magic in the water" | Strong visual match |
+| Fishing (p.18) | "pike" (fish or peaked hills) | Dual interpretation |
+| Basketball poster (p.16) | Ch 13: "Be Like Mike" | Chapter connection |
+| Purple butterfly (back) | "Dancers are on the land" | See Poem Analysis: Dancers Definition |
 
 ---
 
@@ -582,4 +532,4 @@ The following location hypotheses are under investigation. See individual hypoth
 
 ---
 
-*Last updated: January 9, 2026 (ETL verification pass: Added Chapter Subtitles, Recurring Themes, Specific Location Phrases, Historical Dates, Recurring Numbers, Author's Geographic Timeline, Meta-Advice, NC+Nature observation)*
+*Last updated: January 9, 2026 (Refactored: moved full poem and detailed analyses to chapters/joys-serenade.md)*
