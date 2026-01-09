@@ -102,18 +102,18 @@ The author explicitly confirms:
 
 The back matter poem (7 stanzas) and front cover haiku contain location clues. Full text and detailed analysis in `chapters/joys-serenade.md`.
 
-### Location Indicators (Distilled)
+### Location Indicators (Direct Quotations)
 
-| Indicator | Poem Reference | Interpretation |
-|-----------|----------------|----------------|
-| Oak trees | "shady oaks" | Oak trees at location |
-| Water | "magic in the water" | Water feature nearby |
-| Peaked hills | "pike are rather all around" | Pike = peaked hills (Northern England) |
-| Rock | "sat upon a rock" | Rock formation |
-| Elevated | "don't go down", "how high" | Elevated position |
-| Secluded | "where few have seen it" | Hidden location |
-| X marker | "X leads the way" | Trail marker or landmark |
-| Butterflies | "Dancers are on the land" | Butterflies (Hopi tradition) |
+| Indicator | Poem Reference |
+|-----------|----------------|
+| Oak trees | "shady oaks" |
+| Water | "magic in the water" |
+| Pike | "pike are rather all around" |
+| Rock | "sat upon a rock" |
+| Elevation | "don't go down", "how high" |
+| Secluded | "where few have seen it" |
+| X marker | "X leads the way" |
+| Dancers | "Dancers are on the land" |
 
 *See `chapters/joys-serenade.md` for full poem text and detailed analysis.*
 
@@ -305,14 +305,14 @@ Key statement from Ch 16: *"Return to this chapter...direction you need"*
 
 #### Location/Environment Descriptions
 
-| Phrase | Chapter | Implication |
-|--------|---------|-------------|
-| "Outdoor...sights, smells, sounds of nature" | Ch 10 | Natural outdoor location |
-| "Leisurely afternoon outing" | Ch 12 | Accessible location |
-| "Picnic with loved one" | Ch 12 | Pleasant, family-friendly |
-| "Safe locations" | Ch 11 | Not dangerous |
-| "No jungle clearing required" | Ch 4 | Accessible terrain |
-| "Joy, not suffering" | Ch 10 | Easy access |
+| Phrase | Chapter |
+|--------|---------|
+| "Outdoor...sights, smells, sounds of nature" | Ch 10 |
+| "Leisurely afternoon outing" | Ch 12 |
+| "Picnic with loved one" | Ch 12 |
+| "Safe locations" | Ch 11 |
+| "No jungle clearing required" | Ch 4 |
+| "Joy, not suffering" | Ch 10 |
 
 #### Phrases Matching Back Cover Poem
 
@@ -354,14 +354,14 @@ Key statement from Ch 16: *"Return to this chapter...direction you need"*
 
 #### Recurring Themes
 
-| Theme | Chapters | Potential Significance |
-|-------|----------|------------------------|
-| Perspective/vantage point | Ch 2, 4, 7, 8, 19, 20 | Look from different angles |
-| Path/trail/blaze | Ch 3, 4, 7 | Follow a trail |
-| Faith/trust intuition | Ch 5, 6 | Trust your instincts |
-| Confirmation bias warning | Ch 8, 9 | Stay open-minded |
-| Nature/outdoor | Ch 7, 10, 12, 14 | Natural setting |
-| Family/loved ones | Ch 10, 12, 23 | Family-friendly location |
+| Theme | Chapters |
+|-------|----------|
+| Perspective/vantage point | Ch 2, 4, 7, 8, 19, 20 |
+| Path/trail/blaze | Ch 3, 4, 7 |
+| Faith/trust intuition | Ch 5, 6 |
+| Confirmation bias warning | Ch 8, 9 |
+| Nature/outdoor | Ch 7, 10, 12, 14 |
+| Family/loved ones | Ch 10, 12, 23 |
 
 #### Meta-Advice for Hunters
 
@@ -426,11 +426,6 @@ Key statement from Ch 16: *"Return to this chapter...direction you need"*
 | Author's father (pastor) | Ch 6, 9, 10, 13, 14, 18 | No |
 | Confirmation bias warning | Ch 8, 9 | No |
 | Safety/accessibility | Ch 4, 10, 11, 12, Back | No |
-
-**Observation (hypothesis-neutral):** Multiple back cover poem elements align with North Carolina geography:
-- Pine trees: Common in NC piedmont/mountains
-- Rocks/grit: NC has granite, quartz deposits
-- Sparkle: Hiddenite area known for emerald/mineral deposits
 
 ---
 
@@ -508,25 +503,6 @@ The reconciliation scene on page 18 shows:
 | Yellow boats | 2, 25-26 |
 | Garden setting | Title page, back cover |
 | Three generations (grandfather-father-son) | 21-22, 27-29 |
-
-### Potential Poem Connections
-
-| Visual Element | Possible Poem Reference | Notes |
-|----------------|------------------------|-------|
-| Pine forest (p.18) | Haiku: "sparkle even as you pine" | Strong visual match |
-| Lake scene (p.18) | "magic in the water" | Strong visual match |
-| Fishing (p.18) | "pike" (fish or peaked hills) | Dual interpretation |
-| Basketball poster (p.16) | Ch 13: "Be Like Mike" | Chapter connection |
-| Purple butterfly (back) | "Dancers are on the land" | See Poem Analysis: Dancers Definition |
-
-### Color Symbolism
-
-| Color | Meaning |
-|-------|---------|
-| Pink/magenta | Love, the thread itself, warmth |
-| Blue | Peace, trust, water/depth |
-| Yellow/gold | Joy, warmth, preciousness |
-| Green | Growth, nature, life |
 
 ---
 
