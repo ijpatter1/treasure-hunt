@@ -314,17 +314,6 @@ Key statement from Ch 16: *"Return to this chapter...direction you need"*
 | "No jungle clearing required" | Ch 4 | Accessible terrain |
 | "Joy, not suffering" | Ch 10 | Easy access |
 
-#### Specific Location Phrases
-
-| Phrase | Chapter | Context |
-|--------|---------|---------|
-| "Vista where Plains could be seen below" | Ch 4 | Vantage point concept (Chivor mine) |
-| "Two jagged grey peaks" | Ch 4 | Visual landmark (Chivor mine description) |
-| "Purple hills that hold the lake" | Ch 7 | Amelia Earhart poem |
-| "20 acres of woodland" | Ch 14 | Author's family land |
-| "Massive rose garden" | Ch 20 | LA area park |
-| "Mount Wilson...not far from my home" | Ch 18 | Author's LA location reference |
-
 #### Phrases Matching Back Cover Poem
 
 | Poem Word | Book Evidence | Chapters |
