@@ -347,7 +347,7 @@ JCB's children's book "Our Unbreakable Thread" (April 2024) tells the story of a
 |--------|-------|
 | **Author** | Jon Collins-Black |
 | **Illustrator** | Nicole Gsell |
-| **Dedication** | "To Aiden & Landon, our unbreakable thread. —J.C.B." |
+| **Dedication** | "To Aiden & Londy and our unbreakable thread. —J.C.B." |
 | **Pages** | 29 content pages |
 
 ### HIGH CONFIDENCE Clues
@@ -395,6 +395,23 @@ JCB's children's book "Our Unbreakable Thread" (April 2024) tells the story of a
 | **Green caterpillar** | 6 | Butterfly/"dancers" theme |
 | **MJ imagery** | 16 | Chapter 13, NC connection |
 | **Three generations** | 21-22, 27-29 | Family legacy theme |
+
+### Water/Lake Discrepancy
+
+**Note:** The children's book features lakes/water prominently (5+ scenes with boats, fishing, rowboats). However, Rocky Face Mountain has **NO lakes or major water features**. Possible interpretations:
+- Artistic license (lakes as peaceful settings)
+- Points to alternate location with water (South Mountains has Clear Creek Lake)
+- Nearby lake to Rocky Face not yet identified
+
+### Fresh Analysis Verification (Jan 2026)
+
+All clues re-verified through unbiased fresh analysis:
+- ✓ Pine trees at fishing lake (p18) - CONFIRMED
+- ✓ MJ poster in UNC colors (p16) - CONFIRMED (white jersey + green shorts visible)
+- ✓ Green caterpillar (p6) - CONFIRMED
+- ✓ Yellow boats (p2, 25-26) - CONFIRMED
+- ✓ Purple butterfly (back cover) - CONFIRMED
+- **Correction:** Children's names are "Aiden & Londy" (not "Landon")
 
 ### Full Analysis
 See `unbreakable-thread/summary.md` for complete page-by-page breakdown and `unbreakable-thread/notes/` for individual page analyses.
