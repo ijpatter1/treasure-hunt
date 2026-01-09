@@ -56,6 +56,31 @@ lions-share/
     └── page-XXX-XXX.png  # Raw book page scans
 ```
 
+## Version Control
+
+**Commit frequently.** After completing any meaningful unit of work, commit changes with a clear message.
+
+### Branch Strategy
+- **main**: Stable, reviewed content
+- **Feature branches**: Use for multi-step work (e.g., `lions-share/chapter-14-analysis`)
+- Create pull requests for significant changes
+
+### Commit Hygiene
+- Commit after each completed task (chapter summary, research finding, ETL load)
+- Write descriptive commit messages explaining *what* and *why*
+- Push regularly to preserve work and enable collaboration
+
+### Before Starting Work
+1. `git pull` to get latest changes
+2. Check `git status` to understand current state
+3. Create feature branch if doing multi-step work
+
+### When Finished
+1. Stage relevant files with `git add`
+2. Commit with clear message
+3. Push to remote
+4. Create PR if on feature branch
+
 ## Chapter Reference
 
 | Ch | Title | Subtitle | Pages |
@@ -117,9 +142,8 @@ The master `summary.md` file contains **only verified facts** - no hypothesis-sp
 ## Collaboration Notes
 
 - Multiple agents may work on this repository in parallel
-- Use feature branches for work (e.g., `lions-share/chapter-analysis`)
-- Create pull requests for merging
 - Coordinate to avoid duplicate effort on the same chapters
+- Check recent commits before starting new work
 
 ## Methodologies
 
