@@ -87,10 +87,10 @@ The author guides you with directional clues. The treasure hunt is still active.
 | *"conductor gives direction"* | The poem provides directional guidance | Follow the trail markers |
 | *"trace of a baton through the air"* | A line/path drawn in space | The trail route |
 | *"coda is incomplete"* | The ending isn't finished—treasure unfound | Hunt still active |
-| *"flutter of excitement"* | **Butterflies** | Rocky Face hosts **two rare butterfly species**: Cofaqui Giant Skipper and Giant Swallowtail—both on NC Natural Heritage list |
+| *"flutter of excitement"* | **Butterflies** | Rocky Face hosts **Giant Swallowtail** (confirmed via Hop-tree host plant) plus Common Buckeye and Coral Hairstreak |
 
 ### Butterfly Connection
-The word "flutter" directly connects to "Dancers are on the land" in Stanza 6. Butterflies are universally described as "dancers" in nature writing, and Rocky Face Mountain is documented habitat for two rare species found almost nowhere else in North Carolina.
+The word "flutter" directly connects to "Dancers are on the land" in Stanza 6. Butterflies are universally described as "dancers" in nature writing, and Rocky Face Mountain is documented habitat for Giant Swallowtail—the largest butterfly in North America.
 
 ---
 
@@ -146,7 +146,7 @@ Multiple routes exist to reach the destination. Follow the X (trail junction) or
 | *"take your own path"* | Multiple trail options | 6 trails access the summit area |
 | *"X leads the way"* | Trail junction forming X shape; or Roman numeral 10 | Grindstone Trail crosses Hollow Rock Trail near markers 305-307, forming an X |
 | *"shimmering circles of gold"* | Mica in granite catching sunlight | **Muscovite mica** in granite outcrops glitters gold in sun |
-| *"magic in the water"* | Misdirection—don't focus on water features | Don't get distracted by creeks or quarry pond |
+| *"magic in the water"* | Water running down granite dome face | Rainwater sheets down exposed granite—a distinctive "magic" shimmer on monadnocks |
 | *"pike are rather all around"* | **Pointed mountain peaks** visible from summit | Pikes (peaks) visible: Pores Knob, Joe Mountain, Little Joe Mountain, Grandfather Mountain, Table Rock |
 
 ### Etymology of "Pike"
@@ -203,15 +203,11 @@ Open sky views confirm you're at the right elevation. Butterflies ("dancers") ar
 | Clue | Interpretation | Rocky Face Connection |
 |------|----------------|----------------------|
 | *"sky smiles on you"* | Open sky, panoramic views | Summit overlook has **wide open views** |
-| *"Dancers are on the land"* | **Butterflies**—universally called "dancers" in nature writing | Two rare butterfly species documented at Rocky Face |
+| *"Dancers are on the land"* | **Butterflies**—universally called "dancers" in nature writing | Giant Swallowtail confirmed via Hop-tree host plant |
 | *"flame of starlight"* | Stars visible; possibly Pleiades constellation | Cherokee "Seven Dancers" constellation (Pleiades) visible from summit; clear mountain skies |
 
 ### The Butterfly Connection
-Rocky Face Mountain is documented habitat for:
-- **Cofaqui Giant Skipper** — feeds on yuccas abundant in wooded areas
-- **Giant Swallowtail** — feeds on hop-tree
-
-Both species are "very rare in North Carolina" and listed on the NC Natural Heritage Program's list of significant animal species. The "dancers on the land" and "flutter of excitement" clues both point to these butterflies.
+Rocky Face Mountain is documented habitat for **Giant Swallowtail** butterflies—the largest butterfly species in North America. The park's official plant documentation lists **Hop-tree** (*Ptelea trifoliata*), a primary host plant for Giant Swallowtails. Additional documented species include Common Buckeye and Coral Hairstreak. The "dancers on the land" and "flutter of excitement" clues both point to these butterflies.
 
 ---
 
@@ -319,7 +315,6 @@ Closed: New Year's Day, Thanksgiving, Christmas
 | Factor | Best Time |
 |--------|-----------|
 | Butterfly activity (Giant Swallowtail) | Late spring through fall |
-| Butterfly activity (Cofaqui Giant Skipper) | Spring |
 | Daylight hours | April–September (park open until 8 p.m.) |
 | Weather | Dry conditions for off-trail exploration |
 | Visibility | Clear days for peak views ("pike all around") |
