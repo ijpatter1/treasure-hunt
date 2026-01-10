@@ -22,6 +22,20 @@
 - **Geology:** Granite gneiss dome with muscovite mica
 - **Opened:** May 25, 2012 (county-owned public land)
 
+### Vantage Points & Visible Peaks
+
+| Overlook | Location | Primary View |
+|----------|----------|--------------|
+| Hollow Rock Trail summit | Mile 1.6 | Northwest toward Brushy Mountains |
+| Southwest overlook | Mile 2.0 | Lenoir, Black Mountains |
+| Buzzard Loop overlook | Mile 3.2 | Historic quarry area below |
+
+**Peaks visible from summit (on clear days, views extend 75 miles):**
+- **Pores Knob** (2,680 ft) - highest peak in Brushy Mountains, marked by communications towers
+- **Joe Mountain & Little Joe Mountain** - paired formation ("two jagged grey peaks" candidate)
+- **Grandfather Mountain** (5,946 ft) - Blue Ridge escarpment
+- **Table Rock** (3,930 ft) and **Hawksbill Mountain** - above Linville Gorge
+
 ### Specific Targets: Markers 318-320 Area
 
 | Detail | Information |
@@ -46,20 +60,73 @@
 
 ---
 
-## Evidence Chain (How We Got Here)
+## Evidence Chain (Chronological)
 
-1. Author explicitly grew up near Hiddenite, NC (Alexander County) - stated in Chapter 4
-2. Chapter 21 "Antiquities of **Alexander**" = Alexander County; author confirms subtitle "Make It Make Sense" is treasure hint
-3. Back cover haiku encodes marker number: 3 lines + 18 syllables = 318
-4. Joy's Serenade poem elements match Rocky Face features (granite/mica, oaks, pines, rare butterflies)
-5. Author identity research confirms family property ~6-7 miles from Rocky Face Mountain
-6. Trail map confirms marker 318 exists on Hollow Rock Trail; satellite imagery shows rock outcrop at location
-7. **Website analysis confirms park is exactly 318 acres** - triple confirmation (haiku + marker + acreage)
-8. **Hop-tree documented at park** - host plant for Giant Swallowtail butterflies confirms "dancers on the land"
-9. **JCB interview (Nov 2025): "The lion's share of its clues have been solved. Yet, these clues have not quite been seen to completion."** - Suggests armchair work is done; physical search required
-10. **Necklace Theory (Ch 23)**: Egyptian faience necklace image is a visual trail map - 13 beads = 13 trail markers (313-325), orange bead position = rock outcrop between markers 319-320
-11. **Dancers Jewelry Theory (Ch 5)**: Page 61 illustration shows 13 jewelry pieces on dancers - same count as necklace beads and trail markers; one green piece stands out like the orange bead
-12. **Children's Book Analysis**: Pine trees at fishing lake (matches "pine" poem reference), MJ poster in UNC colors (NC connection), caterpillar/butterfly imagery ("dancers on the land")
+Key discoveries in order of development. Full detail with source commits in `evidence-log.md` (ETL extracted from 313 commits and 12 source files).
+
+| Date | Discovery | Class | Source |
+|------|-----------|-------|--------|
+| 2026-01-07 | Author born 17 mi from Hiddenite; visited Emerald Hollow Mine as child | Direct | `72c9410` |
+| 2026-01-07 | Tiffany & Co. owns Carolina Emerald from Hiddenite; Tiffany Iris vase in treasure | Thematic | `72c9410` |
+| 2026-01-08 | Chapter 4 explicitly mentions Hiddenite emerald mine (author's childhood) | Direct | `b740efc` |
+| 2026-01-08 | Chapter 21 "Antiquities of **Alexander**" = Alexander County; subtitle confirmed hint | Direct | `4a8388c` |
+| 2026-01-08 | Haiku encodes 318 (3 lines + 18 syllables); marker 318 exists on Hollow Rock Trail | Derived | `201f78c` |
+| **2026-01-08** | **BREAKTHROUGH: Park is exactly 318 acres** — triple confirmation | Direct | `2410fb8` |
+| 2026-01-08 | JCB interview: "clues have been solved... not quite seen to completion" | Direct | `b977e9b` |
+| 2026-01-08 | Necklace Theory: 13 beads = 13 trail markers (313-325); orange bead = rock outcrop | Derived | `f8fcf02` |
+| 2026-01-08 | Children's book: Pine trees, UNC colors, butterfly theme support NC | Thematic | `789a73e` |
+| 2026-01-08 | Alternative eliminated: South Mountains (no 318 encoding) | Elimination | `cb86916` |
+| 2026-01-08 | Alternative eliminated: Los Angeles (no 318 encoding) | Elimination | `b54faab` |
+| 2026-01-09 | Wildflower clue corrected: blue/pink wildflowers, not irises; Keever's Onion endemic | Derived | `614b031` |
+| 2026-01-09 | Emerald mine parallel identified as thematic anchor (Chivor → Hiddenite) | Thematic | `9db6479` |
+| 2026-01-09 | Water feature confirmed: water runs down granite dome face | Derived | `076e097` |
+| 2026-01-10 | X junction confirmed: Grindstone crosses Hollow Rock at markers 305-307 | Direct | `bca73df` |
+| 2026-01-10 | Complete poem alignment: all haiku/poem elements matched | Derived | `6a2b59e` |
+| 2026-01-10 | Hopi butterfly tradition connects Ch 8 to "dancers on the land" | Thematic | `6cbcdb6` |
+| 2026-01-10 | Hopi/Hop-tree phonetic link noted | Speculative | `ab4f957` |
+| 2026-01-10 | Naming parallel: Emerald **Hollow** Mine → **Hollow** Rock Trail | Thematic | `45e3e9b` |
+
+**Summary:** 7 Direct, 7 Derived, 5 Thematic, 2 Elimination, 1 Speculative = 22 evidence items
+
+**Status:** All armchair clues resolved. Ready for field verification.
+
+---
+
+## Historical Context
+
+### Collins-Black's Childhood Connection
+
+**Jon Collins-Black was born in 1973 at Iredell Memorial Hospital in Statesville, NC**—just 17 miles from Hiddenite. His father served as minister at Grace Baptist Church in Statesville, and a church congregant gifted the family **20 acres of woodland** where his father built a log cabin "by hand." Collins-Black describes spending his childhood "in the boondocks of North Carolina," engaging in "imaginary woodland adventuring" and "looking for treasure in the form of arrowheads in the red dirt, rocks and clay in the creek beds."
+
+He explicitly states he frequently visited **Emerald Hollow Mine in Hiddenite** as a child, "sifting through creeks and dirt searching for hidden gems." The family property was situated in the rural corridor between Statesville (Iredell County) and Alexander County, placing his formative years within the geographic sphere of Rocky Face Mountain.
+
+### Diamond Jim Lucas: Gem World Mystique in Hiddenite
+
+James Paul "Diamond Jim" Lucas, an international diamond merchant from South Carolina, **purchased property in Hiddenite around 1908-1914** and transformed a modest Victorian home into a **22-room Queen Anne mansion**. He kept **diamonds up to 16 carats** alongside an eclectic collection including canes from Baron Rothschild, a WWI helmet from General Pershing, a pipe attributed to Czar Nicholas of Russia, Buffalo Bill's clothing, and 150 antique clocks.
+
+After retiring from the diamond trade in 1929, Lucas lived at the mansion until his death in **July 1952**. The property sat abandoned until 1981, listed on the National Register of Historic Places in 1982 as Alexander County's first such designation. Now the **Hiddenite Arts & Heritage Center** (316 Hiddenite Church Road, 35°54.383'N, 81°5.504'W).
+
+### William Earl Hidden: Defining the Mineral District
+
+Mineralogist William Earl Hidden arrived in Alexander County in **1879-1880**, commissioned by Thomas Edison to find platinum for light bulb filaments. While platinum eluded him, Hidden discovered **62 different types of minerals and gemstones**. The green spodumene crystals he documented were named "hiddenite" in his honor in 1881, and the settlement of White Plains was renamed Hiddenite accordingly.
+
+The hiddenite mineral vein spans approximately **3 miles long by 1 mile wide**. Between 1881-1885, approximately 100 employees worked the mines. The largest crystal recovered measured 8.5 inches and weighed 9 ounces; gems sold for $40-$100 per carat in 1892 dollars.
+
+*Note: No documentation places Hidden at Rocky Face Mountain specifically, though the area falls within the broader Brushy Mountains foothills he explored.*
+
+### The Quarry's Prison Labor History
+
+Rocky Face Mountain operated as a **granite gneiss quarry from 1922 to the early 1940s**, with prison inmates breaking rocks with sledgehammers before loading gravel onto railroad cars. An **8-mile railroad spur connected the quarry to Hiddenite**, with remnants still visible along the route. The **Prison Camp Trail** (orange-blazed, 1 mile) passes near **foundations of former inmate housing**.
+
+The **100-foot quarry wall** created by decades of extraction now serves as a rock climbing venue with 58 established routes. Research found no formal memorial stones, monuments, or historical plaques dedicated to the prison labor period, but the park preserves this history through trail naming and interpretive kiosks.
+
+### Huntersville Corridor Waypoints
+
+The route from Charlotte's Huntersville suburb to Hiddenite (approximately 50 miles via I-77 and US-21) passes notable locations:
+
+- **Latta Nature Preserve** (Huntersville): Features the **Treasure Tree Trail** (0.7-mile loop, named for heritage trees) and **Buzzard Rock Overlook** with views above Mountain Island Lake. The "Buzzard" name echoes Rocky Face's Buzzard Loop.
+- **Lake Norman State Park** (Troutman): 760-870 ft elevation with Lakeshore Trail and Dragonfly Trail overlooks.
+- **Fort Dobbs State Historic Site** (Statesville): Only NC site related to the French and Indian War.
 
 ---
 
@@ -100,7 +167,6 @@ The Egyptian faience necklace image on pages 195-196 (Chapter 23) appears to be 
 | Red/coral beads | Trail markers (Hollow Rock has RED blazes) |
 | Leopard's head (junction point) | Starting point where loop connects (~marker 313) |
 | **One distinct orange bead** | **Treasure location** |
-| Pendant tassels hanging DOWN | "Go down" instruction |
 
 **The Count:**
 - **13 beads** in the loop section
@@ -131,15 +197,22 @@ The black-and-white illustration of dancers (Page 61, Chapter 5) features **colo
 
 ### Joy's Serenade Interpretation
 
+**Stanzas 1-2: The Invitation**
+> "we may find music in a poem... flutter of excitement around"
+
+The poem contains the directions—follow it like a song. "Flutter" foreshadows the butterfly/"dancers" connection.
+
 **Stanza 3: Navigation**
 > "Use will's straight edge"
 
 **William Earl Hidden** discovered the hiddenite mineral in 1879. The town of Hiddenite is named after him. "Will's straight edge" points to this location.
 
 **Stanza 4: The Path**
-> "an X leads the way"
+> "an X leads the way... the pike are rather all around"
 
 The trail map shows Grindstone Trail **crosses** Hollow Rock Trail near markers 305-307, forming an **X** junction that leads to marker 318.
+
+**Pike etymology:** The word "pike" has meant "sharp, pointed mountain or summit" since c. 1400, derived from the same root as "peak." This is not a fish reference—it describes the panoramic view of pointed mountains visible from Rocky Face's summit: Pores Knob, Joe Mountain, Little Joe Mountain, Grandfather Mountain, and Table Rock.
 
 **Stanza 5: The Approach**
 > "If you get warm, you may find shady oaks. When close, the haiku curls a little further on... And if you don't go down you may never know"
@@ -151,29 +224,20 @@ The trail map shows Grindstone Trail **crosses** Hollow Rock Trail near markers 
 **Stanza 6: The Setting**
 > "Dancers are on the land"
 
-Rocky Face Mountain hosts **two rare butterfly species**: Cofaqui Giant Skipper and Giant Swallowtail. Butterflies are universally described as "dancers" in nature writing.
+**The Hopi Connection (Chapter 8):** In Hopi tradition, butterflies are sacred dancers. Chapter 8's focus on Charles Loloma and Hopi culture reinforces this interpretation—the Hopi Butterfly Dance (*Polik'mana*) celebrates butterflies as symbols of transformation and joy.
+
+Rocky Face Mountain is documented habitat for **Giant Swallowtail** butterflies—the largest butterfly species in North America. The park's official plant documentation lists **Hop-tree** (*Ptelea trifoliata*), a primary host plant for Giant Swallowtails.
+
+**Phonetic note:** The similarity between "**Hopi**" and "**Hop**-tree" may be coincidental—or another layer of wordplay connecting Chapter 8's Hopi theme to the butterfly habitat at Rocky Face.
+
+**Children's book connection:** The back cover of "Our Unbreakable Thread" features a purple butterfly flying near a bird bath—reinforcing the "dancers on the land" imagery.
 
 **Stanza 7: Confirmation**
-> "sat upon a rock"
+> "sat upon a rock... sing harmonies as you travel home"
 
-Granite outcrop visible in satellite imagery near marker 318 - the sitting rock.
+Granite outcrop visible in satellite imagery near marker 318—the sitting rock. "Sing harmonies" connects to Chapter 23's title "Sing Your Own Special Song."
 
-### Complete Poem-to-Location Mapping
-
-| Poem Element | Rocky Face Match |
-|--------------|------------------|
-| "Solid, grit" | Granite gneiss geology |
-| "Sparkle" | Muscovite mica in rock |
-| "Pine" | Shortleaf pine forest |
-| "Will's straight edge" | William Earl Hidden / Hiddenite |
-| "X leads the way" | Trail junction before 318 |
-| "Shady oaks" | Oak trees documented in park |
-| "Haiku curls" | Trail curves at marker 318 |
-| "Go down" | Descend from trail at 318 |
-| "Pike all around" | Mountain peaks visible from summit |
-| "Dancers on the land" | Rare butterflies (Cofaqui, Swallowtail) |
-| "Sat upon a rock" | Granite outcrop at marker 318 |
-| "Flame of starlight" | Clear mountain skies for stargazing |
+*See [Clue Alignment Assessment](#clue-alignment-assessment) for complete mapping with confidence ratings.*
 
 ---
 
@@ -181,33 +245,39 @@ Granite outcrop visible in satellite imagery near marker 318 - the sitting rock.
 
 ### HIGH CONFIDENCE Clues
 
-#### 1. Pine Trees at Fishing Lake (Page 18)
+#### 1. Father-Son Theme (Entire Book)
+**Visual:** Three generations - grandfather, father, son - reconciling and connecting through shared experiences
+**Connection:** JCB's father David Comer built a log cabin by hand on 20 acres in NC; JCB's childhood spent exploring those woods
+**Interpretation:** The book's central theme of father-son connection points directly to NC—the landscape where JCB and his father's relationship was forged
+
+#### 2. Pine Trees at Fishing Lake (Page 18)
 **Visual:** Dense pine forest behind father and son fishing at lake
 **Connection:** Back cover poem "sparkle even as you **pine**"
 **Interpretation:** Direct visual depiction of the "pine" reference supports NC location
 
-#### 2. MJ Poster in UNC Colors (Page 16)
+#### 3. MJ Poster in UNC Colors (Page 16)
 **Visual:** Basketball poster showing player in WHITE JERSEY, GREEN SHORTS (not Bulls red)
 **Connection:** Chapter 13 - MJ at UNC, JCB "grew up in North Carolina"
 **Interpretation:** College-era MJ colors reinforce NC location
 
-#### 3. Green Caterpillar (Page 6)
-**Visual:** Caterpillar decoration on child's bedroom wall
-**Connection:** "Dancers on the land" = butterflies; caterpillars transform to butterflies
-**Interpretation:** Butterfly/transformation theme connects to Giant Swallowtails at Rocky Face
+#### 4. Purple Butterfly (Back Cover)
+**Visual:** Purple butterfly flying near bird bath in garden scene
+**Connection:** "Dancers on the land" = butterflies (Hopi tradition, Chapter 8)
+**Interpretation:** Direct depiction of the "dancers" clue; Rocky Face has documented Giant Swallowtail habitat via Hop-tree
 
-### Water/Lake Discrepancy
+#### 5. Water Features (Throughout)
 
-**Note:** The children's book features lakes/water prominently (5+ scenes with boats, fishing, rowboats). However, Rocky Face Mountain has **NO lakes or major water features**. Possible interpretations:
-- Artistic license (lakes as peaceful settings)
-- Points to alternate location with water
-- Nearby lake to Rocky Face not yet identified
+The children's book features lakes/water prominently (5+ scenes with boats, fishing, rowboats). Rocky Face Mountain water features that satisfy this imagery:
+- **Rocky Face Branch** - stream running through the park
+- **Wetlands** documented in park ecology
+- **Water running down granite dome face** - seasonal feature
+- Poem's "magic in the water" aligns with these features
 
 ---
 
 ## Map Evidence
 
-### Trail Map (screenshots/map-trails.png)
+### Trail Map (maps/map-trails.png)
 
 The official Rocky Face Mountain Recreational Area trail map confirms:
 - **Marker 318 exists** on Hollow Rock Trail
@@ -215,14 +285,14 @@ The official Rocky Face Mountain Recreational Area trail map confirms:
 - **Grindstone Trail crosses Hollow Rock Trail** near markers 305-307, creating the "X" junction
 - Park phone: 828-632-1093
 
-### Satellite Imagery (screenshots/marker-318.png)
+### Satellite Imagery (maps/marker-318.png)
 
 Satellite imagery of the marker 318 area shows:
 - **Exposed rock formation** visible through forest canopy (circled in red)
 - Granite outcrop consistent with "sat upon a rock" clue
 - Location is off the main trail path ("where few have seen it")
 
-### Necklace Theory Satellite View (screenshots/map-necklace-theory.png)
+### Necklace Theory Satellite View (maps/map-necklace-theory.png)
 
 3D satellite imagery showing:
 - Markers 318, 319, and 320 positions
@@ -285,10 +355,16 @@ At both locations, **examine rock formations** for:
 
 | Factor | Best Time |
 |--------|-----------|
+| **Wildflower observation** | **April-May** (Elf Orpine, Keever's Onion bloom on granite flatrocks) |
 | Butterfly activity | Late spring through fall |
 | Daylight hours | April-September (park open until 8 p.m.) |
 | Weather | Dry conditions for off-trail exploration |
 | Visibility | Clear days for peak views |
+
+**Priority Field Verification Locations:**
+1. **Hollow Rock Trail summit** (Mile 1.6) - vantage point analysis and peak visibility
+2. **Trail marker 318** - where trail curves
+3. **Granite flatrock areas** - spring wildflower observation (April-May bloom)
 
 ---
 
@@ -389,6 +465,46 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 ---
 
+## Clue Alignment Assessment
+
+| Clue Element | Evidence Found | Alignment Strength |
+|--------------|----------------|-------------------|
+| Creator's personal connection | Collins-Black born in Statesville, visited Emerald Hollow Mine as child | **Very Strong** |
+| Emerald mine parallel (Ch 4) | Chivor/Hiddenite parallel; Emerald Hollow Mine ~3 mi from Rocky Face | **Very Strong** |
+| "X leads the way" (poem) | Grindstone Trail crosses Hollow Rock Trail at markers 305-307 | **Moderate** |
+| "Dancers on the land" (poem) | Hop-tree host plant confirms Giant Swallowtail butterfly habitat | **Strong** |
+| Elevated vantage point | Multiple documented overlooks with 75-mile views | **Strong** |
+| "Pike"/peaked hills (poem) | Joe/Little Joe Mountains; Pores Knob; Table Rock/Hawksbill visible | **Strong** |
+| "shady oaks" (poem) | Park description: "second growth oaks, cedars, and pines" | **Strong** |
+| "magic in the water" (poem) | Water runs down granite dome face; Rocky Face Branch; wetlands | **Strong** |
+| "sat upon a rock" (poem) | Granite dome, quarry walls, natural rock outcrops throughout | **Strong** |
+| "sparkle" (haiku) | Muscovite mica in granite gneiss catches sunlight | **Strong** |
+| "Be solid, have grit" (haiku) | Granite gneiss dome composition | **Strong** |
+| "where few have seen it" (poem) | Park opened 2012, relatively unknown; requires field verification | **Pending** |
+| Pine trees present | Shortleaf Pine likely based on forest composition | **Moderate** |
+| Blue/pink wildflowers | Elf Orpine (pink), Keever's Onion (pink) documented; trail tagged "wildflowers" | **Strong** |
+| Gem/treasure associations | Diamond Jim Lucas mansion; Emerald Hollow Mine | **Strong** |
+| Tiffany-Hiddenite link | Carolina Emerald (from Hiddenite) owned by Tiffany & Co.; Tiffany Iris vase in treasure | **Very Strong** |
+
+**Key Insight:** The presence of an emerald mine near Rocky Face (Emerald Hollow Mine, ~3 miles away) may be the true geographic anchor—the "peaks" confirm the vista, but **the emerald mine is the thematic key**.
+
+**Naming Parallel:** **Emerald Hollow** Mine → **Hollow Rock** Trail
+
+---
+
+## Research Gaps & Limitations
+
+This section documents what is NOT confirmed (intellectual honesty):
+
+| Gap | Notes |
+|-----|-------|
+| William Earl Hidden at Rocky Face | No documentation places Hidden at Rocky Face Mountain specifically, though the area falls within the broader Brushy Mountains foothills he explored |
+| Species-specific pine survey | No species-specific survey confirms exact Shortleaf Pine distribution on the mountain; presence is inferred from regional data |
+| "Where few have seen it" verification | Park opened 2012, relatively unknown, but requires field verification of off-trail visibility |
+| Diamond Jim Lucas treasure legends | No specific documented legends of hidden treasure exist at the Lucas mansion |
+
+---
+
 ## Research Status
 
 ### Completed Research
@@ -412,23 +528,27 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 ## Source Files
 
 ### Hypothesis-Specific Analysis
-- `hypothesis.md` - Core hypothesis document (moved from research/)
-- `website-analysis.md` - Park website analysis
-- `joys-serenade-analysis.md` - Poem interpretation
-- `hypothesis-comparison.md` - Comparison with fresh analysis
+- `analysis/website-analysis.md` - Park website analysis
+- `analysis/joys-serenade-analysis.md` - Poem interpretation
+- `analysis/hypothesis-comparison.md` - Comparison with fresh analysis
+- `analysis/jcb-interview-correlation.md` - JCB interview statement analysis
+- `analysis/nc-research.md` - North Carolina research notes
 - `alternatives/los-angeles.md` - LA steelman analysis
 - `alternatives/south-mountains.md` - South Mountains steelman analysis
+- `archive/hypothesis.md` - Original comprehensive hypothesis (consolidated into this summary)
 
 ### Chapter Interpretations
-- `front-matter.md` through `chapter-23.md`
-- `back-matter.md`
+- `analysis/chapters/front-matter.md` through `analysis/chapters/chapter-23.md`
+- `analysis/chapters/back-matter.md`
 
 ### Map Evidence
-- `screenshots/map-trails.png` - Official trail map showing marker 318
-- `screenshots/marker-318.png` - Satellite imagery of rock outcrop
-- `screenshots/map-rocky-face-mountain-summit.png` - Summit location
-- `screenshots/map-necklace-theory.png` - 3D satellite view showing rock outcrop between markers 319-320
-- `screenshots/property-record.png` - Comer family property deed
+- `maps/map-trails.png` - Official trail map showing marker 318
+- `maps/marker-318.png` - Satellite imagery of rock outcrop at marker 318
+- `maps/map-rocky-face-mountain-summit.png` - Summit location
+- `maps/map-necklace-theory.png` - 3D satellite view showing rock outcrop between markers 319-320
+- `maps/map-landmarks-vistas.png` - Landmarks and vista points
+- `maps/map-water-body.png` - Water features in the area
+- `../../research/property-record.png` - Comer family property deed (in main research folder)
 
 ---
 
@@ -438,4 +558,4 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 ---
 
-*Last updated: January 9, 2026*
+*Last updated: January 10, 2026 (added Tiffany-Hiddenite connection; expanded pike etymology and Hopi/dancers explanation)*

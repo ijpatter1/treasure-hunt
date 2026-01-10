@@ -67,10 +67,12 @@ Here lies a joy divined        ← 6 syllables
 
 | File | Description |
 |------|-------------|
-| **hypothesis.md** | Comprehensive hypothesis with all clue alignments |
-| **joys-serenade-analysis.md** | Line-by-line poem analysis with search protocol |
-| **website-analysis.md** | Official park website analysis, 318 acres discovery |
-| **chapter-XX.md** | Chapter-specific analysis through Rocky Face lens |
+| **summary.md** | Living summary with all clue alignments, historical context, and search protocol |
+| **evidence-log.md** | Chronological evidence log (ETL extracted from 313 commits + 12 source files) |
+| **analysis/joys-serenade-analysis.md** | Line-by-line poem analysis |
+| **analysis/website-analysis.md** | Official park website analysis, 318 acres discovery |
+| **archive/hypothesis.md** | Original comprehensive hypothesis (consolidated into summary.md) |
+| **staging/** | ETL extraction audit trail (raw commits, filtered commits, source extracts) |
 
 ---
 
@@ -101,4 +103,4 @@ The Rocky Face Mountain hypothesis proposes that:
 
 ---
 
-*See `joys-serenade-analysis.md` for detailed search protocol and `hypothesis.md` for complete evidence analysis.*
+*See `summary.md` for complete evidence analysis, historical context, and detailed search protocol.*
