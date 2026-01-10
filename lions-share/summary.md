@@ -52,6 +52,8 @@ When Jon was approximately 3 years old (~1976):
 | Detail | Information | Source |
 |--------|-------------|--------|
 | **Project Start** | ~2019-2020 (during COVID) | Ch 22 |
+| **Project Duration** | "Close to five years" | Ch 22 |
+| **Project Budget** | "Millions of dollars" | Ch 22 |
 | **Author's Role** | Full-time dad with two toddlers at home | Page 12 |
 | **Experience Level** | "I am not a professional collector. I had no experience in acquiring precious or unique items of any kind." | Page 12 |
 | **Research Team** | Enlisted five researchers for historical deep dives | Page 13 |
@@ -428,18 +430,6 @@ Key statement from Ch 16: *"Return to this chapter...direction you need"*
 | Safety/accessibility | Ch 4, 10, 11, 12, Back | No |
 
 ---
-
-### Key Statements by Author
-
-| Statement | Chapter | Context |
-|-----------|---------|---------|
-| "Antiquities of Alexander" subtitle "Make It Make Sense" is a treasure hint | Ch 21 | Author explicitly confirms |
-| "Blue and pink irises...colors of nature that surround each [box]" | Ch 14 | Flower clue near treasures |
-| "Lion atop a mountain" | Ch 20 | Phrase appears in text |
-| "Joy divined" | Ch 21 | Exact phrase from back cover haiku |
-| "Sparkle" | Ch 4, 14, 22 | Word matches back cover haiku |
-| Project took "close to five years" | Ch 22 | Timeline |
-| Project cost "millions of dollars" | Ch 22 | Budget |
 
 ### JCB Interview Statement (Nov 2025)
 
