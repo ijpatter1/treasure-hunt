@@ -211,6 +211,8 @@ The phrase "Dancers are on the land" connects to **Hopi tradition**, where butte
 
 Rocky Face Mountain is documented habitat for **Giant Swallowtail** butterflies—the largest butterfly species in North America. The park's official plant documentation lists **Hop-tree** (*Ptelea trifoliata*), a primary host plant for Giant Swallowtails. Additional documented species include Common Buckeye and Coral Hairstreak.
 
+**Phonetic note:** The similarity between "**Hopi**" and "**Hop**-tree" may be coincidental—or another layer of wordplay connecting Chapter 8's Hopi theme to the butterfly habitat at Rocky Face.
+
 ---
 
 ## Stanza 7: The Confirmation
