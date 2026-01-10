@@ -90,7 +90,7 @@ The author guides you with directional clues. The treasure hunt is still active.
 | *"flutter of excitement"* | **Butterflies** | Rocky Face hosts **Giant Swallowtail** (confirmed via Hop-tree host plant) plus Common Buckeye and Coral Hairstreak |
 
 ### Butterfly Connection
-The word "flutter" directly connects to "Dancers are on the land" in Stanza 6. Butterflies are universally described as "dancers" in nature writing, and Rocky Face Mountain is documented habitat for Giant Swallowtail—the largest butterfly in North America.
+The word "flutter" directly connects to "Dancers are on the land" in Stanza 6. In **Hopi tradition, butterflies are sacred dancers**—a connection reinforced by Chapter 8's focus on Charles Loloma and Hopi culture. The Hopi Butterfly Dance (*Polik'mana*) is a social dance celebrating these creatures as symbols of transformation and joy. Rocky Face Mountain is documented habitat for Giant Swallowtail—the largest butterfly in North America.
 
 ---
 
@@ -207,7 +207,9 @@ Open sky views confirm you're at the right elevation. Butterflies ("dancers") ar
 | *"flame of starlight"* | Stars visible; possibly Pleiades constellation | Cherokee "Seven Dancers" constellation (Pleiades) visible from summit; clear mountain skies |
 
 ### The Butterfly Connection
-Rocky Face Mountain is documented habitat for **Giant Swallowtail** butterflies—the largest butterfly species in North America. The park's official plant documentation lists **Hop-tree** (*Ptelea trifoliata*), a primary host plant for Giant Swallowtails. Additional documented species include Common Buckeye and Coral Hairstreak. The "dancers on the land" and "flutter of excitement" clues both point to these butterflies.
+The phrase "Dancers are on the land" connects to **Hopi tradition**, where butterflies are sacred dancers. Chapter 8's focus on Charles Loloma and Hopi culture reinforces this interpretation—the Hopi Butterfly Dance (*Polik'mana*) celebrates butterflies as symbols of transformation and joy.
+
+Rocky Face Mountain is documented habitat for **Giant Swallowtail** butterflies—the largest butterfly species in North America. The park's official plant documentation lists **Hop-tree** (*Ptelea trifoliata*), a primary host plant for Giant Swallowtails. Additional documented species include Common Buckeye and Coral Hairstreak.
 
 ---
 
