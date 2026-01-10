@@ -50,6 +50,8 @@ Here lies a joy divined        ← 6 syllables
 - **Emerald Hollow Mine** is ~3 miles from Rocky Face Mountain
 - The poem's "pike" (peaks) + emerald mine parallel point to this region
 
+**Naming parallel:** **Emerald Hollow** Mine → **Hollow Rock** Trail
+
 ### Postscript Rules - All Match
 | Rule | Rocky Face Match |
 |------|-----------------|
