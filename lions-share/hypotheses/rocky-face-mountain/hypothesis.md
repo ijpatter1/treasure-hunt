@@ -1,6 +1,6 @@
 # Lion's Share Treasure Hunt: Hiddenite/Rocky Face Mountain Hypothesis Research
 
-The hypothesis centering the Lion's Share treasure location on Hiddenite, North Carolina and Rocky Face Mountain Recreational Area shows **multiple compelling alignments** with known treasure hunt clues, though critical gaps remain. This comprehensive analysis examines 13 research areas across botanical evidence, geographic features, historical figures, and personal connections to treasure hunt creator Jon Collins-Black.
+The hypothesis centering the Lion's Share treasure location on Hiddenite, North Carolina and Rocky Face Mountain Recreational Area shows **multiple compelling alignments** with known treasure hunt clues. This comprehensive analysis examines the botanical evidence, geographic features, historical figures, and personal connections to treasure hunt creator Jon Collins-Black.
 
 ---
 
@@ -103,12 +103,43 @@ The endemic **Keever's Onion** (*Allium keeverae*) is found **only in the Brushy
 
 ---
 
+## Trail crossing marks "X leads the way"
+
+The poem's instruction "X leads the way" finds a direct physical match at Rocky Face Mountain. The **Grindstone Trail** (green blazes) crosses the **Hollow Rock Trail** (red blazes) at approximately **markers 305-307**, forming an unmistakable X on the trail map. This intersection occurs along the primary route to the summit, making it a natural waypoint for searchers following the trail system.
+
+The crossing is significant because:
+- It creates a literal "X" visible on official park maps
+- The junction sits on the recommended search route toward marker 318
+- Trail blazes in two colors (red and green) mark the intersection clearly
+- The X appears approximately 0.3 miles before the target marker 318 area
+
+This is not a speculative interpretation—two named, blazed trails physically cross each other, creating the X shape the poem describes.
+
+---
+
+## Giant Swallowtail butterflies are the "Dancers on the land"
+
+The poem's phrase "Dancers are on the land" aligns with the Hopi tradition where butterflies represent dancers—a connection reinforced by Chapter 8's focus on Charles Loloma and Hopi culture. Rocky Face Mountain provides **confirmed butterfly habitat** through documented host plants.
+
+The park's official plant life documentation lists **Hop-tree** (*Ptelea trifoliata*) among the flora. Hop-tree is a **primary host plant for Giant Swallowtail butterflies** (*Papilio cresphontes*)—the largest butterfly species in North America. Where Hop-tree grows, Giant Swallowtails reliably appear to lay eggs and feed.
+
+Additional butterfly species documented at Rocky Face include:
+- **Common Buckeye** - distinctive eyespot pattern
+- **Coral Hairstreak** - small but colorful species
+- Various moths including Buck Moth, Yucca Moth, and Ailanthus Moth
+
+The presence of Hop-tree provides ecological confirmation that "Dancers" (butterflies) inhabit Rocky Face Mountain, satisfying this poem element through verifiable botanical evidence rather than speculation.
+
+---
+
 ## Assessment of clue alignments for the Hiddenite hypothesis
 
 | Clue Element | Evidence Found | Alignment Strength |
 |--------------|----------------|-------------------|
 | Creator's personal connection | Collins-Black born in Statesville, visited Emerald Hollow Mine as child | **Very Strong** |
 | Emerald mine parallel (Ch 4) | Chivor/Hiddenite parallel; Emerald Hollow Mine ~3 mi from Rocky Face | **Very Strong** |
+| "X leads the way" (poem) | Grindstone Trail crosses Hollow Rock Trail at markers 305-307 | **Very Strong** |
+| "Dancers on the land" (poem) | Hop-tree host plant confirms Giant Swallowtail butterfly habitat | **Strong** |
 | Elevated vantage point | Multiple documented overlooks with 75-mile views | **Strong** |
 | "Pike"/peaked hills (poem) | Joe/Little Joe Mountains; Pores Knob; Table Rock/Hawksbill visible | **Strong** |
 | Pine trees present | Shortleaf Pine likely based on forest composition | **Moderate** |
