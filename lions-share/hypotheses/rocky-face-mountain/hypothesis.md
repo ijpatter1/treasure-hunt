@@ -142,6 +142,12 @@ The presence of Hop-tree provides ecological confirmation that "Dancers" (butter
 | "Dancers on the land" (poem) | Hop-tree host plant confirms Giant Swallowtail butterfly habitat | **Strong** |
 | Elevated vantage point | Multiple documented overlooks with 75-mile views | **Strong** |
 | "Pike"/peaked hills (poem) | Joe/Little Joe Mountains; Pores Knob; Table Rock/Hawksbill visible | **Strong** |
+| "shady oaks" (poem) | Park description: "second growth oaks, cedars, and pines" | **Strong** |
+| "magic in the water" (poem) | Water runs down granite dome face; Rocky Face Branch; wetlands | **Strong** |
+| "sat upon a rock" (poem) | Granite dome, quarry walls, natural rock outcrops throughout | **Strong** |
+| "sparkle" (haiku) | Muscovite mica in granite gneiss catches sunlight | **Strong** |
+| "Be solid, have grit" (haiku) | Granite gneiss dome composition | **Strong** |
+| "where few have seen it" (poem) | Park opened 2012, relatively unknown; requires field verification | **Pending** |
 | Pine trees present | Shortleaf Pine likely based on forest composition | **Moderate** |
 | Blue/pink wildflowers | Elf Orpine (pink), Keever's Onion (pink) documented; trail tagged "wildflowers" | **Strong** |
 | Prison camp history | Foundations, trail naming preserve quarry/prison history | **Moderate** |
