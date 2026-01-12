@@ -3,7 +3,7 @@
 Chronological record of evidence supporting the Rocky Face Mountain theory.
 
 **ETL Source:** Extracted from 313 git commits and 12 source files via ETL consolidation methodology.
-**Last Updated:** 2026-01-10
+**Last Updated:** 2026-01-11
 
 ---
 
@@ -236,9 +236,26 @@ Chronological record of evidence supporting the Rocky Face Mountain theory.
 
 ---
 
+## 2026-01-11 — "Shimmering Circles of Gold" Deep Dive
+
+**Source:** analysis/shimmering-circles-of-gold.md
+**Finding:** Deep dive analysis of poem line "shimmering circles of gold" identifies multiple complementary interpretations:
+
+1. **Muscovite mica in granite** (STRONG) - Confirmed at Rocky Face; mica weathers to golden color and creates shimmer effect in sunlight. Etymology: "mica" from Latin *micare* = "to shine"
+2. **Vernal pools on granite flatrock** (MODERATE) - Circular water-filled depressions documented on SE granite domes; Elf Orpine presence at Rocky Face confirms vernal pool habitat
+3. **Lichen rosettes** (MODERATE) - Xanthoria lichens grow in circular patterns on granite; more yellow-orange than gold
+4. **Trail markers** (WEAK) - Does not match; Rocky Face uses rectangular painted blazes
+
+**Classification:** Derived
+**Impact:** Supports
+**Notes:** Multiple interpretations are not mutually exclusive. Field verification protocol: visit during mid-morning for optimal mica shimmer observation. See `analysis/shimmering-circles-of-gold.md` for full analysis.
+
+---
+
 ## Pending Field Verification
 
 - [ ] Rock outcrop at marker 318 exists and has hiding spots
+- [ ] Muscovite mica shimmer visible on exposed granite surfaces
 - [ ] Trail curves at marker 318 ("the haiku curls")
 - [ ] Off-trail descent possible and safe ("go down")
 - [ ] Mica shimmer visible in sunlight ("sparkle")
@@ -252,7 +269,7 @@ Chronological record of evidence supporting the Rocky Face Mountain theory.
 | Classification | Count |
 |----------------|-------|
 | Direct | 7 |
-| Derived | 7 |
+| Derived | 8 |
 | Thematic | 5 |
 | Elimination | 2 |
 | Speculative | 1 |
@@ -260,7 +277,7 @@ Chronological record of evidence supporting the Rocky Face Mountain theory.
 | Impact | Count |
 |--------|-------|
 | Supports (Critical/Major) | 4 |
-| Supports | 14 |
+| Supports | 15 |
 | Neutral | 1 |
 | By exclusion | 2 |
 
