@@ -1,0 +1,16 @@
+{
+  "source_file": "page-000a-cover.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "front_matter",
+  "page_number": null,
+  "full_text": "The Forrest Fenn Treasure Box\n\nTHERE'S TREASURE INSIDE\nA Treasure Hunt by\nJON COLLINS-BLACK\n\nA literary project unlike anything else. A true and monumental treasure quest.\n\nNATIONAL BESTSELLER",
+  "formatting": {
+    "headers": ["The Forrest Fenn Treasure Box", "THERE'S TREASURE INSIDE"],
+    "subtitle": "A Treasure Hunt by JON COLLINS-BLACK",
+    "emphasized_text": ["NATIONAL BESTSELLER"]
+  },
+  "images": [
+    {"description": "Book cover collage featuring: antique compass, celestial sphere, gold nugget, emerald crystal, treasure box, silhouettes of hikers, topographic map elements, bitcoin symbol, ornate golden box", "text_in_image": "None besides title text"}
+  ],
+  "key_elements": ["Forrest Fenn", "treasure hunt", "Jon Collins-Black", "national bestseller"]
+}
