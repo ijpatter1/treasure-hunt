@@ -1,0 +1,43 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.07.24 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "image_collage",
+  "full_text": "",
+  "formatting": {},
+  "images": [
+    {
+      "position": "top_left",
+      "description": "Antique compass or armillary sphere on orange background"
+    },
+    {
+      "position": "top_center",
+      "description": "Dark spherical object (possibly moon rock or meteorite) on orange background"
+    },
+    {
+      "position": "top_right",
+      "description": "Large green emerald crystal on green background"
+    },
+    {
+      "position": "center",
+      "description": "Large gold nugget on golden/tan background - prominent central image"
+    },
+    {
+      "position": "bottom_left",
+      "description": "Geometric circular pattern (Flower of Life or similar sacred geometry) on tan background"
+    },
+    {
+      "position": "bottom_right",
+      "description": "Silver/metallic triangular or pyramid-shaped object with engraved symbols on red background"
+    }
+  ],
+  "key_elements": [
+    "gold nugget",
+    "emerald",
+    "compass/armillary sphere",
+    "moon rock/meteorite",
+    "sacred geometry pattern",
+    "silver pyramid/triangle"
+  ],
+  "layout": "X-shaped collage with black background, center image of gold nugget is largest",
+  "notes": "No text on this page - purely visual collage showcasing treasure items"
+}

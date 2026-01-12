@@ -1,0 +1,42 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.07.28 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "part_title_page",
+  "full_text": "Being able to 'go beyond the information' given to 'figure things out' is one of the few untarnishable joys of life.\n—JEROME BRUNER\n\nThe noblest pleasure is the joy of understanding.\n—LEONARDO DA VINCI\n\nPART TWO\n\nOUR NEXT FOUR TREASURE BOXES\n\nAt the onset of this project, as the seeds of this treasure hunt were just taking root, one of the first questions I wrestled with was how big in scale our treasure should be. As I previously stated, I set out to include a breadth of items as to attract as wide an interest and audience as possible. I wanted you to be involved.",
+  "formatting": {
+    "quotes": [
+      {
+        "text": "Being able to 'go beyond the information' given to 'figure things out' is one of the few untarnishable joys of life.",
+        "attribution": "Jerome Bruner",
+        "style": "italic gold"
+      },
+      {
+        "text": "The noblest pleasure is the joy of understanding.",
+        "attribution": "Leonardo da Vinci",
+        "style": "italic gold"
+      }
+    ],
+    "part_title": {
+      "text": "PART TWO",
+      "style": "large white block letters"
+    },
+    "subtitle": {
+      "text": "OUR NEXT FOUR TREASURE BOXES",
+      "style": "spaced white capitals"
+    },
+    "body_text": {
+      "style": "white serif"
+    }
+  },
+  "images": [],
+  "key_elements": [
+    "Jerome Bruner",
+    "Leonardo da Vinci",
+    "Part Two",
+    "Our Next Four Treasure Boxes",
+    "go beyond the information",
+    "figure things out",
+    "joy of understanding"
+  ],
+  "background": "black"
+}

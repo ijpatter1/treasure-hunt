@@ -1,0 +1,40 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.07.44 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "treasure_map",
+  "page_header": "THERE'S TREASURE INSIDE",
+  "full_text": "",
+  "formatting": {},
+  "images": [
+    {
+      "description": "Hand-drawn treasure map on aged/burned parchment paper",
+      "details": {
+        "style": "Aged parchment with burned/torn edges",
+        "background": "Golden/tan aged paper with creases and wear marks",
+        "compass_rose": "Decorative compass rose in bottom right corner",
+        "path": "Dashed line path starting from an arrow marker, making several turns, ending at a destination point",
+        "markings": "Various small marks and symbols along the path",
+        "overall_shape": "Square parchment with irregular burned edges"
+      }
+    }
+  ],
+  "key_elements": [
+    "treasure map",
+    "dashed path line",
+    "compass rose",
+    "aged parchment",
+    "burned edges",
+    "arrow marker (start point)",
+    "destination marker (X or endpoint)",
+    "directional changes in path"
+  ],
+  "map_analysis": {
+    "start_indicator": "Black arrow/pointer shape in upper portion",
+    "path_type": "Dashed line with multiple direction changes",
+    "end_indicator": "Path terminates at a specific point",
+    "compass_position": "Bottom right corner",
+    "compass_orientation": "Standard N-S-E-W orientation visible",
+    "path_turns": "Multiple turns - appears to follow a specific route"
+  },
+  "notes": "This is the author's hand-drawn treasure map - the primary clue for finding the Appalachian Footpath treasure box. The author stated this is his 'first real treasure map' and that following it leads to the treasure location 'somewhere along The Appalachian Trail.'"
+}
