@@ -1,0 +1,31 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 4.58.19 PM.png",
+  "section": "part_two_intro",
+  "page_type": "section_opener",
+
+  "content": {
+    "epigraph_1": "Being able to 'go beyond the information' given to 'figure things out' is one of the few untarnishable joys of life.",
+    "epigraph_1_attribution": "—JEROME BRUNER",
+    "epigraph_2": "The noblest pleasure is the joy of understanding.",
+    "epigraph_2_attribution": "—LEONARDO DA VINCI",
+    "section_title": "PART TWO",
+    "section_subtitle": "OUR NEXT FOUR TREASURE BOXES",
+    "body_text": "At the onset of this project, as the seeds of this treasure hunt were just taking root, one of the first questions I wrestled with was how big in scale our treasure should be. As I previously stated, I set out to include a breadth of items as to attract as wide an interest and audience as possible. I wanted you to be involved."
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "epigraph_style": "italic gold text",
+    "title_style": "large white serif capitals",
+    "separator": "dotted line between epigraphs, red line below subtitle"
+  },
+
+  "key_elements": {
+    "quoted_authors": ["Jerome Bruner", "Leonardo da Vinci"],
+    "section_number": "Part Two",
+    "boxes_count": "four"
+  },
+
+  "verification_notes": "Part Two section opener with two epigraphs about understanding/discovery"
+}

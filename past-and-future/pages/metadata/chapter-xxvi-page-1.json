@@ -1,0 +1,40 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.05.50 PM.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "chapter_opener",
+
+  "content": {
+    "chapter_number": "CHAPTER XXVI",
+    "chapter_title": "THE PAST AND FUTURE BOX",
+    "body_paragraphs": [
+      "One morning, I was talking on the phone to Seth Gould as I looked out at the inviting sunny day through the window of my home office. During our chat, I mentioned to Seth Gould how cool I thought it would be to have a futuristic styled treasure box. I imagined this box might harbor a technological treasure or two that I had acquired, along with some other unique and valuable items. Seth liked the idea, and several months later this sleek and elegant work of art arrived at my doorstep in California.",
+      "When I unwrapped this box and held its cool steel in my hands for the very first time, I couldn't help but notice its heft. This treasure box is crafted from steel, carbon steel, stainless steel, and brass. Its sleek aesthetic harkens to a world yet to come. The top and bottom are glassy smooth. But its sides are forged to make an undulated texture that appears not unlike the surface of the moon. It took me a while to figure out how to open this box, as it looks almost identical on all sides. There are five steps to unlock it. Once successful, I peered into its depths and pondered what treasure items it might hold.",
+      "While there are several items inside this box, there is one object in particular that seems especially appropriate. It's a digital asset born just fifteen years ago by an anonymous creator to be a currency of the future. This money was created so as not to be dependent upon institutions but as an independent programmable asset to be used in a world of technology and AI."
+    ],
+    "margin_note": {
+      "label": "(Opposite page)",
+      "text": "This is our into-the-future inspired treasure puzzle box."
+    }
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "chapter_number_style": "gold small caps",
+    "title_style": "gold large serif",
+    "separator": "red double line below title",
+    "margin_note_style": "gold italic, right margin"
+  },
+
+  "key_elements": {
+    "box_creator": "Seth Gould",
+    "author_location": "California (home office)",
+    "box_materials": ["steel", "carbon steel", "stainless steel", "brass"],
+    "unlock_steps": 5,
+    "digital_asset_age": "fifteen years ago",
+    "digital_asset_creator": "anonymous"
+  },
+
+  "verification_notes": "Chapter opener with Seth Gould origin story and Bitcoin reference"
+}

@@ -1,0 +1,30 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 4.58.24 PM.png",
+  "section": "part_two_intro",
+  "page_type": "body_text",
+
+  "content": {
+    "paragraphs": [
+      "But the realization dawned on me that no matter how broad the appeal of objects I amassed might be, the act of hiding one treasure in one spot in a country as big as the United States would make this treasure hunt seem limiting for many people—especially those who have a difficult time traveling long distances.",
+      "So, I made an important decision. Instead of hiding just one treasure box, I chose to spread five treasure boxes out in various locations across the country, with no more than one box hidden in any single U.S. state. I wanted you to feel there was a reasonable possibility that at least one of our treasure boxes was in a location not terribly far from where you are right now. My idea was that hiding five boxes would make it easier for you to be motivated or inspired to go out into nature and see what you might discover.",
+      "At first, this plan sounded awesome as it reverberated between my ears. But I soon came to understand that I had grossly underestimated the consequence of my choice. Hiding five treasure boxes is exponentially more challenging than one!",
+      "For starters, hiding five boxes required five times the amount of research to source potential places I would eventually travel to visit. I knew that it would be impossible for me to discern exactly where each box should go until I was actually on the ground to survey an area. I could, at best, hope to narrow down a potential spot to four or five general locations per box before I came to a region. But this still meant that upon arriving at all these destinations, I would embark, in total, on five times the amount of reconnaissance. This also meant I had to avoid five times the number of people and hike five times the number of miles.",
+      "But perhaps the greatest challenge of all was figuring out how to write one book with clues to these five separate destinations. The thought of this task made my head spin. I quickly realized that a little order was needed to quell the potential chaos. To organize things, I decided to segregate the hints and clues for four of our boxes into their own individual chapters, leaving the rest of the book solely for the clues to our largest treasure box.",
+      "Our next four chapters, then, are the ones I wrote specifically for these four additional treasure boxes. Each chapter is dedicated to one treasure box and how to go about finding it. Each of these four chapters and its treasure box has its own unique style, subject, and solution."
+    ]
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "header": "JON COLLINS-BLACK"
+  },
+
+  "key_elements": {
+    "total_boxes": 5,
+    "boxes_per_state": "no more than one",
+    "structure": "four chapters for four boxes, rest of book for largest box"
+  },
+
+  "verification_notes": "Explanation of five-box structure and chapter organization"
+}

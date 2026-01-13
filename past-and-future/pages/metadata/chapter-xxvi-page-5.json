@@ -1,0 +1,56 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.06.03 PM.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "puzzle_page",
+
+  "content": {
+    "header": "THERE'S TREASURE INSIDE",
+    "puzzle_title": "WELCOME TO WORD SEARCH",
+    "word_search_grid": [
+      "Q V U C A L I L E N I N E T E E N B M A",
+      "C R E T E H T R E A O U C S I F E V L E",
+      "O R O U N D H N I M I H S T O L I A R O",
+      "U H T R O N R O E O C E H S R A R D W O",
+      "N O U B T D E L O E L T L N T R E T A W",
+      "T E T A T S E O N Y N E O A O L I N E O",
+      "P M U E H T T S E W O D A H R E E R E T",
+      "E O N S K A E P T O O O I L P A S I E C",
+      "L E S D B N O O R A O O E V L E W T S R",
+      "E N T U F I V E T N T N C O I U J T S O",
+      "V R N I E M A K L A W E S C O D T R I D",
+      "E A D T T E Y O S S Q U A R E E E R H T",
+      "N M T O P L E C E O H E T Q U A R R Y O",
+      "N S I O S M I X Z F D Q B C C A S L I Y",
+      "A P S O R E Z N G O Z P S A P P H I R E"
+    ],
+    "word_search_instruction": "(You may ignore all three letter words and some proper nouns.)",
+    "body_text_1": "Once you have finished our word search, you will have plenty of what you need to find this treasure box. But in case you still aren't convinced and want even more help, you're in luck. Because while you were searching for words, I happened to remember a second game, also inspired from my boyhood memories.",
+    "body_text_2": "This daily newspaper puzzler was one of my grandfather's favorite pastimes. I was sometimes bored at Grandpa's house, so I'd often peer over his shoulder while he worked on solving one of these games. Perhaps the only thing my grandfather enjoyed more than this riddler was counting the vehicles that passed in front of his yard. Grandma and Grandpa would sit down in lawn chairs and tally all the traffic, as happy as if basking in the heavens. In honor of my loving grandparents, I have created a cryptogram for you.",
+    "cryptogram": {
+      "line_1": "This hiuz li trxaq this pihiyb li pihxvs,",
+      "line_2": "mvpi lhxx yxj mjplp li shiupj blxxxy,",
+      "line_3": "vilhrve nle ylJ doelxij jveip poxxyp.",
+      "line_4": "Rl'p cyqph, iesth, ry jxldxxy."
+    }
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream/gold",
+    "header": "gold small caps",
+    "puzzle_title": "gold large text",
+    "grid": "gold letters in monospace grid",
+    "cryptogram": "gold italic text"
+  },
+
+  "key_elements": {
+    "puzzle_types": ["word_search", "cryptogram"],
+    "word_search_size": "15x20",
+    "instruction": "ignore three letter words and some proper nouns",
+    "grandfather_reference": "daily newspaper puzzler favorite pastime",
+    "counting_reference": "counting vehicles, tally traffic"
+  },
+
+  "verification_notes": "Main puzzle page with word search grid and cryptogram"
+}

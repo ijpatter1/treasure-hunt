@@ -1,0 +1,27 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.05.44 PM.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "full_page_image",
+
+  "content": {
+    "description": "Full-page photograph of the Past and Future treasure box"
+  },
+
+  "images": [
+    {
+      "subject": "Past and Future treasure box",
+      "description": "Rectangular metallic box with sleek, modern design. Made of steel/stainless steel with brushed metal finish. The sides have an undulated/textured surface resembling lunar surface. Top and bottom are smooth. Frame appears to be polished steel or chrome.",
+      "materials": ["steel", "carbon steel", "stainless steel", "brass"],
+      "aesthetic": "Futuristic, minimalist, industrial",
+      "background": "Plain white/grey gradient studio background"
+    }
+  ],
+
+  "formatting": {
+    "layout": "Full-page product photograph",
+    "background": "White/grey gradient"
+  },
+
+  "verification_notes": "Standalone image of the Past and Future Box treasure container"
+}

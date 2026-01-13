@@ -1,0 +1,48 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.05.57 PM.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "body_text",
+
+  "content": {
+    "header": "THERE'S TREASURE INSIDE",
+    "body_paragraphs": [
+      "Nakamoto launched the Bitcoin protocol in 2009. As a function of the protocol, a new block of digital Bitcoin is mined approximately every ten minutes. Bitcoin miners, many with huge warehouses full of computers dedicated to the task, work around the clock in an attempt to be the first to solve the new block equation and be rewarded in kind.",
+      "Since Bitcoin's inception, a limited number of representative physical Bitcoin coins have been made as collectors' items. While this might at first seem confusing, it is actually quite simple. Though Bitcoin is digital, its private keys are numbers that can be written down. Each physical Bitcoin coin that has been made contains the private keys to a certain amount of corresponding digital Bitcoin. You can use these keys to claim the digital Bitcoin (unload it) or you can keep the physical coin fully loaded with the keys intact.",
+      "There are different brands of physical Bitcoin coins, and different coins have been produced, using gold, silver, titanium, and brass. Yet by far the most famous brand of physical Bitcoin coins are Casascius coins.",
+      "Casascius coins were the first physical Bitcoin coins ever made, and despite ending their production in 2013, they remain the most coveted by collectors. Very rarely do these coins ever become publicly available, especially fully loaded. The premium value of a Casascius coin like the one in our treasure can exceed $20,000 more than the current value of the digital Bitcoin it holds the private keys to.",
+      "This particular Casascius coin in our treasure is rarer still because it was produced from gilt silver and assigned a quality rating of 68 out of 70. A hologram on the back of this coin protects the private keys to the digital asset. There is more than one fully loaded coin in our treasure's complete inventory. And at least one of these coins was placed inside this box.",
+      "I also wanted to create digital NFTs (non-fungible tokens) of all the treasure boxes and each of their items. This would provide you with digital proof of ownership when you found them. But I made the choice to delay this idea because I am not confident I know who the most reputable NFT provider will be at the time you discover our treasure. Instead, I'll wait until you find the boxes, and if you would like me to, I will create NFTs from the original picture files of each box and each item. You can consider this an optional technological bonus awaiting you in the future."
+    ],
+    "margin_notes": [
+      {
+        "label": "(Opposite page, top)",
+        "text": "This is our commemorative coin for our futuristic treasure box. This coin even more subtly points you to see the textured steel on the back face of this coin."
+      },
+      {
+        "label": "(Opposite page, bottom)",
+        "text": "This is a fully loaded Casascius physical Bitcoin coin now in our treasure. This physical coin contains the private keys to one full digital Bitcoin."
+      }
+    ]
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "header": "gold text",
+    "margin_notes": "gold italic text, right side"
+  },
+
+  "key_elements": {
+    "bitcoin_launch_year": 2009,
+    "casascius_end_year": 2013,
+    "casascius_premium": "$20,000+",
+    "coin_grade": "68 out of 70",
+    "coin_material": "gilt silver",
+    "security_feature": "hologram on back",
+    "multiple_coins": "more than one fully loaded coin",
+    "nft_plan": "optional, will create after discovery"
+  },
+
+  "verification_notes": "Detailed Bitcoin/Casascius explanation with treasure content confirmation"
+}

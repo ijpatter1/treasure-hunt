@@ -1,0 +1,44 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 4.58.14 PM.png",
+  "section": "front_matter",
+  "page_type": "artwork",
+
+  "content": {
+    "description": "Full-page artwork featuring an X-shaped composition with treasure items"
+  },
+
+  "images": [
+    {
+      "position": "top_left",
+      "description": "Antique compass on orange/gold background with partial view"
+    },
+    {
+      "position": "top_left_center",
+      "description": "Dark spherical object (possibly meteorite or dark gem)"
+    },
+    {
+      "position": "top_right",
+      "description": "Green emerald or green mineral/crystal formation"
+    },
+    {
+      "position": "center",
+      "description": "Large irregular gold nugget on tan/topographic map background"
+    },
+    {
+      "position": "bottom_left",
+      "description": "Geometric circular pattern (flower of life or seed of life sacred geometry)"
+    },
+    {
+      "position": "bottom_right",
+      "description": "Silver/metallic pyramid with triangular design and symbol on red background"
+    }
+  ],
+
+  "formatting": {
+    "layout": "X-shaped diagonal composition",
+    "color_sections": "Orange (top-left), Green (top-right), Tan/Gold (center), Cream (bottom-left), Red (bottom-right), Black (corners)",
+    "style": "Collage of treasure items"
+  },
+
+  "verification_notes": "Decorative page featuring treasure items in X pattern, mirrors cover design"
+}

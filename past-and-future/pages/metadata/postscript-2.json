@@ -1,0 +1,35 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.06.34 PM.png",
+  "section": "postscript",
+  "page_type": "body_text",
+
+  "content": {
+    "header": "THERE'S TREASURE INSIDE",
+    "body_paragraphs": [
+      "ways, and where that section has been given a public easement, granting trail walkers permission to travel across. Also, no treasure box is buried under the ground on public lands. So, there is no need to dig up or disturb public lands in this way. Digging will not help you find any of our treasures, but it might get you in trouble with a local park ranger.",
+      "Make sure you research the wildlife in the area you are searching. If bears are known to be local, make sure you carry bear spray and have practiced how to use it. Be aware of poisonous snakes and other potentially dangerous wildlife, such as buffaloes, moose, or even elk during mating season. The odds of your having dangerous contact with wildlife during your search is probably very low, but it is always best to be prepared.",
+      "If you are aware of anyone who is ignoring my advice on these topics, it is most likely because they have become too excited and convinced themselves that there is a good reason to ignore me. In either case, they are misguided, being reckless, and could endanger themselves needlessly. I ask you to intervene on behalf of their safety and well-being.",
+      "Another important point to mention is that throughout this entire process I did not give anyone I know clues to where I hid any of our five treasure boxes. My wife, my children, my parents, my siblings, none of my friends, and none of the people mentioned in this book were privy to any proprietary information. If you happen to cross paths with any of these wonderful people, please do not ask them questions or bother them for information. I made sure no one had any such knowledge. They can't help you, even if they tried.",
+      "Please realize this postscript is not meant to discourage, dissuade, or frighten you! Not at all. I am writing this to remind you that hunting for our treasures should be fun, invigorating, scenic, and pleasurable. It should bring you joy every step of the way! I hope what I shared here will give you confidence that each treasure box is well within your ability to safely retrieve. At the end of this hunt, that is all I wish for you."
+    ]
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "header": "gold text"
+  },
+
+  "key_elements": {
+    "additional_rules": {
+      "not_buried": "no treasure box is buried under the ground",
+      "no_digging": "Digging will not help you find any of our treasures",
+      "public_easement_exception": "rare case where public trail crosses private land"
+    },
+    "wildlife_warnings": ["bears", "poisonous snakes", "buffaloes", "moose", "elk"],
+    "no_insider_knowledge": "wife, children, parents, siblings, friends have no clues",
+    "search_qualities": ["fun", "invigorating", "scenic", "pleasurable"]
+  },
+
+  "verification_notes": "Postscript page 2 with additional safety rules and closing"
+}

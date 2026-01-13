@@ -1,0 +1,43 @@
+{
+  "screenshot": "Screenshot 2026-01-12 at 5.06.31 PM.png",
+  "section": "postscript",
+  "page_type": "body_text",
+
+  "content": {
+    "header": "JON COLLINS-BLACK",
+    "section_title": "POSTSCRIPT",
+    "body_paragraphs": [
+      "I hope you had as much fun reading this book as I had writing it. Whether or not you look for the boxes I have hidden, I hope you might be a little more inspired to find whatever treasures you deem valuable. But, if you do decide to search for our treasures, there are some best practices I feel are of the utmost importance for you to follow. My goal with this postscript is to advocate for your full and complete safety.",
+      "There is no subterfuge in what I am going to say to you now. No double meanings. No innuendos. There is no subtext. No clues. No code. You should take what I say here as literally as you possibly can.",
+      "I have hidden none of our five treasure boxes in a dangerous place. By this, I mean it is not hazardous to arrive at any box nor does any box reside in a perilous spot. No box is hidden under any body of water. You do not need to get into a raft, or canoe, or a water vessel of any kind to come to or find any of our treasure boxes. No box is precariously close to a swift current or a high or dangerous ledge. And you will not need to scale a cliff or rock face to find a box.",
+      "All that being said, while I purposely chose locations that were not dangerous, it is still important to use sound judgment when deciding where and when to go looking for our treasure boxes. Please be mindful not to overexert yourself. Do not search in areas during times of year where there is high heat or humidity, especially if there is no shade. Always take plenty of food and water with you. As a rule, you should take a liter of water for every two hours you plan to hike and more if the temperature is high.",
+      "Likewise, do not search in the winter in areas where there is bitter cold and snow. It will be impossible to find any of the five treasure boxes if there is a blanket of snow covering the ground. Please do not put yourself in such unnecessary risk.",
+      "If you are on any land where hunting is allowed, please make yourself aware of those hunting seasons and always dress in bright clothes so that you are clearly identifiable to hunters.",
+      "Whenever possible, search with a friend or loved one. It is more fun this way, and it's always good to have a companion in case one of you needs help. For the same reason, it is wise to always bring a phone. There is no treasure hidden more than three miles from any road. Even so, make sure you always know your location and how to get back the way you came.",
+      "Avoid going on private property. This is a strict rule. No box is hidden on private property of any kind, and there is no need to walk through private property to arrive at the location of any box. The only exception I can think of would be the rare case where a public trail crosses private land for a short"
+    ]
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "header": "gold text",
+    "section_title": "gold large centered text"
+  },
+
+  "key_elements": {
+    "safety_rules": {
+      "no_water_crossing": true,
+      "no_cliffs": true,
+      "no_dangerous_ledges": true,
+      "no_swift_currents": true,
+      "no_underwater": true,
+      "no_private_property": true,
+      "max_distance_from_road": "three miles",
+      "no_snow_covered": true
+    },
+    "explicit_statement": "no subterfuge, no double meanings, no innuendos, no subtext, no clues, no code"
+  },
+
+  "verification_notes": "Postscript page 1 with safety guidelines and location rules"
+}
