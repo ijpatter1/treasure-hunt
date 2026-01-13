@@ -8,20 +8,22 @@ The hidden message confirms **5 clues** exist in the word search. This document 
 
 ## Approach 1: Directional Groupings
 
-Words grouped by their direction in the word search grid.
+Words grouped by their direction in the word search grid. **This approach led to the Lake Tahoe discovery** - the backward (R→L) words encode the coordinates.
 
-### Horizontal L→R (Forward)
-| Word | Category |
-|------|----------|
-| NINETEEN | Number (self-referential) |
-| FIVE | Number (self-referential) |
-| QUARRY | Location |
-| SQUARE | Shape |
-| SAPPHIRE | Gem/Color |
-| ROUND | Shape |
-| LINE | Shape |
+### Directional Status Summary
 
-### Horizontal R→L (Backward)
+| Direction | Words | Status |
+|-----------|-------|--------|
+| Horizontal R→L (Backward) | TWELVE, NINE, THREE, ZERO, NORTH, WEST + PEAKS, WATER, WALK, DIRT, RAIL, LILAC | **SOLVED: Coordinates** / Pending: Path words |
+| Diagonal TL→BR | STATE, DIVIDE | **SOLVED: Location confirmation** |
+| Horizontal L→R (Forward) | NINETEEN, FIVE, QUARRY, SQUARE, SAPPHIRE, ROUND, LINE | Pending |
+| Vertical T→B | ELEVEN, COUNT | Pending |
+| Diagonal BL→TR | LEMON | Pending |
+
+---
+
+### Horizontal R→L (Backward) - KEY BREAKTHROUGH
+
 | Word | Category |
 |------|----------|
 | TWELVE | Number |
@@ -37,28 +39,93 @@ Words grouped by their direction in the word search grid.
 | RAIL | Structure |
 | LILAC | Color |
 
+**Key Insight:** All coordinate-forming words (numbers + cardinal directions) appear backwards. This directional encoding led directly to 39°N, 120°W (Lake Tahoe).
+
+**Possible interpretations:**
+- Backward direction = "hidden" or encoded information
+- Coordinate words grouped by shared direction suggests intentional design
+- Remaining backward words (PEAKS, WATER, WALK, DIRT, RAIL, LILAC) may form a secondary clue
+- Path description: Walk from peaks, past water, on dirt, to rail?
+
+---
+
+### Horizontal L→R (Forward)
+
+| Word | Category |
+|------|----------|
+| NINETEEN | Number (self-referential) |
+| FIVE | Number (self-referential) |
+| QUARRY | Location |
+| SQUARE | Shape |
+| SAPPHIRE | Gem/Color |
+| ROUND | Shape |
+| LINE | Shape |
+
+**Possible interpretations:**
+- Forward direction = "surface" or explicit information
+- Self-referential numbers (19 O's, 5 clues) confirm puzzle structure
+- Shapes (SQUARE, ROUND, LINE) may describe physical features
+- QUARRY could be a specific location near Lake Tahoe
+- SAPPHIRE: blue gem/color - trail marker? Landmark?
+
+---
+
 ### Vertical T→B (Top to Bottom)
+
 | Word | Category |
 |------|----------|
 | ELEVEN | Number |
 | COUNT | Action |
 
-### Diagonal TL→BR
+**Possible interpretations:**
+- Vertical = instruction to be read downward: "COUNT ELEVEN"
+- Count 11 of something at the location
+- 11 steps, markers, or objects
+- Could indicate sequence position
+
+---
+
+### Diagonal TL→BR - CONFIRMATION CLUE (SOLVED)
+
 | Word | Category |
 |------|----------|
 | STATE | Location |
 | DIVIDE | Geography |
 
+**Result:** "STATE DIVIDE" confirms 39°N, 120°W lands on the California/Nevada state border.
+
+**Key Insight:** The diagonal words independently validate the coordinate interpretation - they describe WHERE the coordinates point.
+
+---
+
 ### Diagonal BL→TR
+
 | Word | Category |
 |------|----------|
 | LEMON | Color |
 
+**Possible interpretations:**
+- Yellow color - trail marker?
+- Opposite diagonal from STATE DIVIDE - may indicate direction
+- Part of color sequence with SAPPHIRE and LILAC
+
 ---
 
-## Approach 2: Semantic Groupings (Preferred)
+## Approach 2: Semantic Groupings
 
 Words grouped by meaning, regardless of grid direction.
+
+### Semantic Status Summary
+
+| Clue | Words | Status |
+|------|-------|--------|
+| Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W** |
+| Colors | SAPPHIRE, LEMON, LILAC | Pending |
+| Geometry | SQUARE, ROUND, LINE | Pending |
+| Instruction | COUNT, ELEVEN | Pending |
+| Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending |
+
+---
 
 ### Clue 1: Coordinates + Confirmation (SOLVED)
 
@@ -171,15 +238,29 @@ These confirm the puzzle structure, not treasure location.
 
 ---
 
-## Summary: The 5 Clues
+## Summary
 
-| # | Type | Words | Status |
-|---|------|-------|--------|
-| 1 | Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W at State Divide** |
-| 2 | Colors | SAPPHIRE, LEMON, LILAC | Pending interpretation |
-| 3 | Geometry | SQUARE, ROUND, LINE | Pending interpretation |
-| 4 | Instruction | COUNT, ELEVEN | Pending interpretation |
-| 5 | Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending interpretation |
+Both directional and semantic groupings provide valid analytical frameworks. The directional approach led to the coordinate discovery; the semantic approach helps interpret meaning.
+
+### Directional Summary
+
+| Direction | Status |
+|-----------|--------|
+| Horizontal R→L (Backward) | **SOLVED: Coordinates (39°N, 120°W)** / Pending: Path words |
+| Diagonal TL→BR | **SOLVED: STATE DIVIDE confirmation** |
+| Horizontal L→R (Forward) | Pending |
+| Vertical T→B | Pending |
+| Diagonal BL→TR | Pending |
+
+### Semantic Summary
+
+| Clue | Status |
+|------|--------|
+| Coordinates | **SOLVED: 39°N, 120°W at State Divide** |
+| Colors | Pending |
+| Geometry | Pending |
+| Instruction | Pending |
+| Path | Pending |
 
 ---
 
@@ -189,6 +270,7 @@ These confirm the puzzle structure, not treasure location.
 2. Look for square/round/line features on maps
 3. Identify what to "count eleven" of
 4. Map the path description words to actual landmarks
+5. Investigate remaining backward words (PEAKS, WATER, WALK, DIRT, RAIL, LILAC) as potential path clue
 
 ---
 

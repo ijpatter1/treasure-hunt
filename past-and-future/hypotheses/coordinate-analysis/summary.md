@@ -39,21 +39,37 @@ The diagonal words independently confirm where the coordinates point!
 
 ---
 
-## The 5 Clues (Semantic Groupings)
+## The 5 Clues
 
-The hidden message says there are **5 clues**. Using semantic groupings:
+The hidden message says there are **5 clues**. Two analytical approaches help decode them:
 
-| # | Type | Words | Status |
-|---|------|-------|--------|
-| 1 | **Coordinates** | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W** |
-| 2 | **Colors** | SAPPHIRE, LEMON, LILAC | Pending |
-| 3 | **Geometry** | SQUARE, ROUND, LINE | Pending |
-| 4 | **Instruction** | COUNT, ELEVEN | Pending |
-| 5 | **Path** | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending |
+### Directional Groupings
+
+Words grouped by direction in the grid. **This approach led to the Lake Tahoe discovery.**
+
+| Direction | Words | Status |
+|-----------|-------|--------|
+| Horizontal R→L (Backward) | TWELVE, NINE, THREE, ZERO, NORTH, WEST + PEAKS, WATER, WALK, DIRT, RAIL, LILAC | **SOLVED: Coordinates** / Pending: Path |
+| Diagonal TL→BR | STATE, DIVIDE | **SOLVED: Location confirmation** |
+| Horizontal L→R (Forward) | NINETEEN, FIVE, QUARRY, SQUARE, SAPPHIRE, ROUND, LINE | Pending |
+| Vertical T→B | ELEVEN, COUNT | Pending |
+| Diagonal BL→TR | LEMON | Pending |
+
+### Semantic Groupings
+
+Words grouped by meaning, regardless of direction.
+
+| Clue | Words | Status |
+|------|-------|--------|
+| Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W** |
+| Colors | SAPPHIRE, LEMON, LILAC | Pending |
+| Geometry | SQUARE, ROUND, LINE | Pending |
+| Instruction | COUNT, ELEVEN | Pending |
+| Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending |
 
 **Self-referential (not clues):** NINETEEN, FIVE → 19 O's remain, 5 clues
 
-See `clue-groupings.md` for detailed analysis of both directional and semantic groupings.
+See `clue-groupings.md` for detailed analysis of both approaches.
 
 ---
 

@@ -112,28 +112,58 @@ Construction of 39°N, 120°W:
 
 ---
 
+### Directional Grouping Analysis
+
+**Source:** Analysis of word directions in the grid
+**Finding:** Words grouped by direction reveal that **all coordinate-forming words appear backwards (R→L)**. This directional pattern led directly to the Lake Tahoe discovery.
+
+| Direction | Words | Status |
+|-----------|-------|--------|
+| Horizontal R→L (Backward) | TWELVE, NINE, THREE, ZERO, NORTH, WEST + PEAKS, WATER, WALK, DIRT, RAIL, LILAC | **SOLVED: Coordinates** / Pending: Path |
+| Diagonal TL→BR | STATE, DIVIDE | **SOLVED: Location confirmation** |
+| Horizontal L→R (Forward) | NINETEEN, FIVE, QUARRY, SQUARE, SAPPHIRE, ROUND, LINE | Pending |
+| Vertical T→B | ELEVEN, COUNT | Pending |
+| Diagonal BL→TR | LEMON | Pending |
+
+**Impact:** Strongly Supports
+**Notes:** The directional approach was the key to discovering the coordinates. The consistent backward direction of coordinate words suggests intentional encoding. Remaining directional patterns may reveal additional clues.
+
+---
+
 ### Semantic Grouping Analysis
 
 **Source:** Analysis of all word search words by meaning
 **Finding:** Words can be grouped semantically into 5 potential clues:
 
-| # | Type | Words |
-|---|------|-------|
-| 1 | Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE |
-| 2 | Colors | SAPPHIRE, LEMON, LILAC |
-| 3 | Geometry | SQUARE, ROUND, LINE |
-| 4 | Instruction | COUNT, ELEVEN |
-| 5 | Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL |
+| Clue | Words | Status |
+|------|-------|--------|
+| Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W** |
+| Colors | SAPPHIRE, LEMON, LILAC | Pending |
+| Geometry | SQUARE, ROUND, LINE | Pending |
+| Instruction | COUNT, ELEVEN | Pending |
+| Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending |
 
 **Self-referential:** NINETEEN (19 O's), FIVE (5 clues)
 **Removed:** CRETE (proper noun), OHIO (removed)
 
 **Impact:** Supports
-**Notes:** Semantic groupings provide cleaner categorization than directional groupings. Colors, shapes, and path words likely provide additional location/instruction clues.
+**Notes:** Semantic groupings help interpret the meaning of word clusters. Colors, shapes, and path words likely provide additional location/instruction clues.
 
 ---
 
 ## Summary After Day 1
+
+### Directional Status
+
+| Direction | Status | Confidence |
+|-----------|--------|------------|
+| Horizontal R→L (Backward) | **SOLVED: Coordinates** / Pending: Path words | High / - |
+| Diagonal TL→BR | **SOLVED: STATE DIVIDE** | High |
+| Horizontal L→R (Forward) | Pending | - |
+| Vertical T→B | Pending | - |
+| Diagonal BL→TR | Pending | - |
+
+### Semantic Status
 
 | Clue | Status | Confidence |
 |------|--------|------------|
@@ -148,4 +178,4 @@ Construction of 39°N, 120°W:
 
 ---
 
-*Next update: After research on remaining semantic groupings*
+*Next update: After research on remaining groupings (both directional and semantic)*
