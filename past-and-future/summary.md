@@ -59,7 +59,7 @@
 | Item | Description | Source Quote |
 |------|-------------|--------------|
 | Casascius Bitcoin | Gilt silver, MS 68 grade, hologram-protected | "At least one of these coins was placed inside this box" |
-| Seth Gould commemorative coin | "Subtly points you to see the textured steel on the back face" | Margin note |
+| Seth Gould commemorative coin | "This picture more easily allows you to see the textured steel on the back face of this coin" | Margin note |
 | Laminated clue | For finding Lion's Share box | Part Two intro |
 
 ### Bitcoin Details
@@ -137,10 +137,20 @@ Rl'p cyqph, iesth, ry jxldxxy.
 
 ---
 
+## Epigraphs
+
+### Page 3 - Satoshi Nakamoto Quote
+> *"As a new form of money that is not tied to any government or bank, Bitcoin represents a revolutionary step forward in the evolution of financial systems."*
+> —SATOSHI NAKAMOTO
+
+---
+
 ## Key Phrases (Exact Quotes)
 
 | Phrase | Source | Context |
 |--------|--------|---------|
+| **"somewhere I loved"** | Page 3 | "eager for me to dispatch it quickly somewhere I loved" - **personal connection to location** |
+| "reflect a state of gold from the sunshine" | Page 3 | Box appearance in author's office |
 | "basking in the heavens" | Page 5 | Grandfather reference: "as happy as if basking in the heavens" |
 | "counting the vehicles" | Page 5 | Grandfather's pastime |
 | "tally all the traffic" | Page 5 | Grandparents counting cars |
@@ -229,6 +239,8 @@ Rl'p cyqph, iesth, ry jxldxxy.
 4. What is the relationship between the word search and cryptogram puzzles?
 5. What does "POSTS" refer to in the cryptogram (trail markers? fence posts? other)?
 6. Why does the author reference his grandfather's counting habit?
+7. **Where is the "somewhere I loved" that the author mentions?** What personal connection does JCB have to the hiding location?
+8. What is the significance of "basking in the heavens" - potential Heavenly Resort reference?
 
 ---
 
