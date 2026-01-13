@@ -9,7 +9,7 @@
 **CONFIRMED: The word search encodes coordinates pointing to Lake Tahoe at the California/Nevada STATE DIVIDE.**
 
 Two separate clue groups work together:
-1. **R→L numbers + directions** → 39°N, 120°W coordinates
+1. **R→L horizontal numbers + directions** → 39°N, 120°W coordinates
 2. **TL→BR diagonal words** → "STATE DIVIDE" confirms the location
 
 ---
@@ -150,6 +150,8 @@ Result: Lake Tahoe, CA/NV
 | evidence-log.md | Chronological evidence |
 | coordinates.md | Complete coordinate analysis |
 | clue-groupings.md | Analysis of all 5 clue groupings |
+| public-lands-research.md | Public lands near CA/NV state line |
+| star-lake-analysis.md | Star Lake area clue mapping |
 | coordinate-generator.py | Script that generated all coordinates |
 
 ---
