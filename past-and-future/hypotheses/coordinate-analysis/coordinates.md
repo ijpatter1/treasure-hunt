@@ -11,16 +11,23 @@ Directions: **N** (latitude), **W** (longitude)
 
 ## US Coordinates (Priority)
 
-### 39°N, 120°W - LAKE TAHOE REGION
+### 39°N, 120°W - LAKE TAHOE STATE DIVIDE
 
 | Attribute | Value |
 |-----------|-------|
 | **Latitude** | 39°N |
 | **Longitude** | 120°W |
 | **Construction** | (3+9) → (12+0) |
-| **Location** | Lake Tahoe, California/Nevada border |
+| **Location** | Lake Tahoe, California/Nevada STATE DIVIDE |
 | **County** | Douglas County, Nevada |
 | **Region** | Sierra Nevada mountain range |
+
+#### Confirmation: STATE DIVIDE
+
+The diagonal words (TL→BR direction) **STATE** and **DIVIDE** confirm this location:
+- The coordinates 39°N, 120°W land exactly on the **state divide** (border) between California and Nevada
+- This is a separate clue that validates the coordinate interpretation
+- See `state-divide-coordinates.png` for visual confirmation
 
 #### About Lake Tahoe
 

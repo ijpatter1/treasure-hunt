@@ -43,12 +43,11 @@ All positions verified using `word-search-solver.py` which searches all 8 direct
 | **QUARRY** | Horizontal (L→R) | (13,14) | (13,19) |
 | **SQUARE** | Horizontal (L→R) | (12,10) | (12,15) |
 | **SAPPHIRE** | Horizontal (L→R) | (15,13) | (15,20) |
-| **STATE** | Horizontal (R→L) | (6,6) | (6,2) |
+| **STATE** | Diagonal (TL→BR) | (7,8) | (11,12) |
 | **NORTH** | Horizontal (R→L) | (4,6) | (4,2) |
 | **WEST** | Horizontal (R→L) | (7,10) | (7,7) |
 | **PEAKS** | Horizontal (R→L) | (8,8) | (8,4) |
 | **WATER** | Horizontal (R→L) | (5,20) | (5,16) |
-| **OHIO** | Diagonal (TR→BL) | (6,15) | (9,12) |
 
 ### Descriptive/Action Words (9 words)
 | Word | Direction | Start (Row,Col) | End (Row,Col) |

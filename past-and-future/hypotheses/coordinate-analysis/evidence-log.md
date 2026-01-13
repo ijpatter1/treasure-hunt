@@ -99,4 +99,53 @@ Construction of 39°N, 120°W:
 
 ---
 
-*Next update: After further research on Lake Tahoe connections*
+### STATE DIVIDE Confirmation
+
+**Source:** word-search-solution.md + map analysis
+**Finding:** The diagonal words STATE and DIVIDE (both TL→BR direction) confirm the coordinate location:
+
+- 39°N, 120°W lands exactly on the **state divide** (border) between California and Nevada
+- The coordinates intersect with the CA/NV state line in Lake Tahoe
+
+**Impact:** Strongly Supports
+**Notes:** This is independent confirmation. The diagonal words describe WHERE the coordinates point, validating the coordinate interpretation. See `state-divide-coordinates.png`.
+
+---
+
+### Semantic Grouping Analysis
+
+**Source:** Analysis of all word search words by meaning
+**Finding:** Words can be grouped semantically into 5 potential clues:
+
+| # | Type | Words |
+|---|------|-------|
+| 1 | Coordinates | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE |
+| 2 | Colors | SAPPHIRE, LEMON, LILAC |
+| 3 | Geometry | SQUARE, ROUND, LINE |
+| 4 | Instruction | COUNT, ELEVEN |
+| 5 | Path | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL |
+
+**Self-referential:** NINETEEN (19 O's), FIVE (5 clues)
+**Removed:** CRETE (proper noun), OHIO (removed)
+
+**Impact:** Supports
+**Notes:** Semantic groupings provide cleaner categorization than directional groupings. Colors, shapes, and path words likely provide additional location/instruction clues.
+
+---
+
+## Summary After Day 1
+
+| Clue | Status | Confidence |
+|------|--------|------------|
+| Coordinates (39°N, 120°W) | **SOLVED** | High |
+| STATE DIVIDE confirmation | **SOLVED** | High |
+| Colors (SAPPHIRE, LEMON, LILAC) | Pending | - |
+| Geometry (SQUARE, ROUND, LINE) | Pending | - |
+| Instruction (COUNT ELEVEN) | Pending | - |
+| Path (QUARRY, PEAKS, etc.) | Pending | - |
+
+**Current Confidence:** High for coordinate clue
+
+---
+
+*Next update: After research on remaining semantic groupings*

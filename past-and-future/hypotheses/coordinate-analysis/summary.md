@@ -6,15 +6,17 @@
 
 ## Current Status
 
-**The backwards words in the Chapter XXVI word search encode coordinates pointing to Lake Tahoe, California/Nevada.**
+**CONFIRMED: The word search encodes coordinates pointing to Lake Tahoe at the California/Nevada STATE DIVIDE.**
 
-Only ONE valid US coordinate can be formed from the numbers 12, 9, 3, 0: **39°N, 120°W** = Lake Tahoe region.
+Two separate clue groups work together:
+1. **R→L numbers + directions** → 39°N, 120°W coordinates
+2. **TL→BR diagonal words** → "STATE DIVIDE" confirms the location
 
 ---
 
 ## Key Finding
 
-### 39°N, 120°W = Lake Tahoe
+### 39°N, 120°W = Lake Tahoe STATE DIVIDE
 
 | Component | Value | Construction |
 |-----------|-------|--------------|
@@ -22,10 +24,36 @@ Only ONE valid US coordinate can be formed from the numbers 12, 9, 3, 0: **39°N
 | Longitude | 120°W | TWELVE(12) + ZERO(0) = 120 |
 
 **Location Details:**
-- Lake Tahoe, straddling California/Nevada border
+- Lake Tahoe, exactly on the California/Nevada **state divide** (border)
 - Douglas County, Nevada (on reverse geocoding)
 - Sierra Nevada mountain range
 - Largest alpine lake in North America
+
+### Confirmation Clue
+
+| Direction | Words | Meaning |
+|-----------|-------|---------|
+| Diagonal TL→BR | STATE, DIVIDE | "State Divide" = CA/NV border |
+
+The diagonal words independently confirm where the coordinates point!
+
+---
+
+## The 5 Clues (Semantic Groupings)
+
+The hidden message says there are **5 clues**. Using semantic groupings:
+
+| # | Type | Words | Status |
+|---|------|-------|--------|
+| 1 | **Coordinates** | TWELVE, NINE, THREE, ZERO, NORTH, WEST + STATE, DIVIDE | **SOLVED: 39°N, 120°W** |
+| 2 | **Colors** | SAPPHIRE, LEMON, LILAC | Pending |
+| 3 | **Geometry** | SQUARE, ROUND, LINE | Pending |
+| 4 | **Instruction** | COUNT, ELEVEN | Pending |
+| 5 | **Path** | QUARRY, PEAKS, WATER, WALK, DIRT, RAIL | Pending |
+
+**Self-referential (not clues):** NINETEEN, FIVE → 19 O's remain, 5 clues
+
+See `clue-groupings.md` for detailed analysis of both directional and semantic groupings.
 
 ---
 
@@ -102,6 +130,7 @@ Result: Lake Tahoe, CA/NV
 | summary.md | This summary |
 | evidence-log.md | Chronological evidence |
 | coordinates.md | Complete coordinate analysis |
+| clue-groupings.md | Analysis of all 5 clue groupings |
 | coordinate-generator.py | Script that generated all coordinates |
 
 ---
