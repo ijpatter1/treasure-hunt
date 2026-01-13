@@ -32,7 +32,7 @@ All positions verified using `word-search-solver.py` which searches all 8 direct
 | **NINETEEN** | Horizontal (L→R) | (1,10) | (1,17) |
 | **TWELVE** | Horizontal (R→L) | (9,18) | (9,13) |
 | **ELEVEN** | Vertical (T→B) | (8,1) | (13,1) |
-| **NINE** | Horizontal (L→R) | (1,10) | (1,13) |
+| **NINE** | Horizontal (R→L) | (1,12) | (1,9) |
 | **FIVE** | Horizontal (L→R) | (10,5) | (10,8) |
 | **THREE** | Horizontal (R→L) | (12,20) | (12,16) |
 | **ZERO** | Horizontal (R→L) | (15,7) | (15,4) |
