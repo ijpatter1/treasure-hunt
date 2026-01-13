@@ -47,13 +47,16 @@ The hidden message says there are **5 clues**. Two analytical approaches help de
 
 Words grouped by direction in the grid. **This approach led to the Lake Tahoe discovery.**
 
-| Direction | Words | Status |
-|-----------|-------|--------|
-| Horizontal R→L (Backward) | TWELVE, NINE, THREE, ZERO, NORTH, WEST + PEAKS, WATER, WALK, DIRT, RAIL, LILAC | **SOLVED: Coordinates** / Pending: Path |
-| Diagonal TL→BR | STATE, DIVIDE | **SOLVED: Location confirmation** |
-| Horizontal L→R (Forward) | NINETEEN, FIVE, QUARRY, SQUARE, SAPPHIRE, ROUND, LINE | Pending |
-| Vertical T→B | ELEVEN, COUNT | Pending |
-| Diagonal BL→TR | LEMON | Pending |
+| Clue | Direction | Words | Status |
+|------|-----------|-------|--------|
+| Coordinates | R→L (Backward) | TWELVE, NINE, THREE, ZERO, NORTH, WEST | **SOLVED: 39°N, 120°W** |
+| Location Confirmation | Diagonal TL→BR | STATE, DIVIDE | **SOLVED: State Divide** |
+| Path | R→L (Backward) | PEAKS, WATER, WALK, DIRT, RAIL, LILAC | Pending |
+| Shapes/Location | L→R (Forward) | QUARRY, SQUARE, SAPPHIRE, ROUND, LINE | Pending |
+| Instruction | Vertical T→B | COUNT, ELEVEN | Pending |
+| Color | Diagonal BL→TR | LEMON | Pending |
+
+**Self-referential (not clues):** NINETEEN, FIVE → 19 O's remain, 5 clues (L→R Forward)
 
 ### Semantic Groupings
 
