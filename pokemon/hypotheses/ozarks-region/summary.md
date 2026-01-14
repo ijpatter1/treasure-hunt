@@ -6,25 +6,48 @@
 
 ## Current Status
 
-**Active** - Initial hypothesis formed from chapter analysis. The Ozarks region (Arkansas/Missouri) is proposed as the treasure location based on direct mention in the childhood route and strong environmental matches. Further research needed to narrow down specific locations.
+**Active - HIGH PRIORITY CANDIDATE IDENTIFIED**
+
+Johnson's Shut-Ins State Park (Missouri) has emerged as a strong specific location candidate based on web research. The park matches multiple critical clues including the "locals turn up" phrase, rocky terrain photo, and environmental descriptions.
 
 ---
 
-## Strongest Evidence
+## Priority Candidate: Johnson's Shut-Ins State Park
 
-1. **Direct route mention** - Ozarks explicitly listed as part of the childhood road trip return route (Statesville → New Orleans → Houston → Ozarks → Statesville)
+**Location:** Middle Brook, Reynolds County, Missouri
+**Confidence:** Medium-High (70%)
 
-2. **Environmental match** - The described terrain (shaded oak forests, water features, rocky landscape, hot summers) aligns well with Ozark geography
+### Why This Location
 
-3. **"Locals turn up" clue** - The Ozarks has numerous popular local swimming holes, hiking trails, and scenic overlooks that match this description
+| Clue | Match Quality |
+|------|---------------|
+| "Locals turn up from time to time" | **EXCELLENT** - Called "Missouri's Best Swimming Spot" |
+| Rocky terrain (p18 photo) | **EXCELLENT** - Pink/purple rhyolite, boulder field |
+| Water features | **EXCELLENT** - Black River, swimming pools, cascades |
+| On Ozarks childhood route | **STRONG** - Plausible Houston → MO → NC route |
+| Public land, <3mi from road | **STRONG** - State park with road access |
+| Shaded forest | **STRONG** - Oak-hickory woodlands |
+| Amphibian presence | **MODERATE** - Salamanders, frogs documented |
+
+See: `johnsons-shut-ins-analysis.md` for full details
+
+---
+
+## Strongest Evidence (Overall)
+
+1. **"Locals turn up" = Johnson's Shut-Ins** - Famous local swimming destination, generations of Missouri families visit
+
+2. **Pink/purple boulder match** - 1.4 billion year old rhyolite rocks match p18 photo description ("smooth, rounded boulders" in "pinkish/purple tones")
+
+3. **Direct route mention** - Ozarks explicitly on childhood return route
 
 ---
 
 ## Biggest Challenges
 
-1. **Strong jazz/New Orleans themes** - The chapter has significant jazz references (French Quarter, John Coltrane, jazz bar) that could point to Louisiana instead
+1. **Jazz theme unexplained** - No jazz connection at Johnson's Shut-Ins (may be narrative framing only)
 
-2. **Frog theme interpretation** - The frog/water creature theme could equally support Louisiana swamp environments
+2. **Route verification needed** - Need to confirm Houston → Johnson's Shut-Ins → Statesville is reasonable childhood route
 
 ---
 
@@ -36,11 +59,20 @@
 
 ---
 
+## Updated Statistics
+
+| Evidence | Supports | Challenges | Neutral |
+|----------|----------|------------|---------|
+| Total pieces | 23 (77%) | 4 (13%) | 3 (10%) |
+
+---
+
 ## Next Steps
 
-- [ ] Research popular "locals" spots in AR/MO Ozarks region
-- [ ] Identify swimming holes and hiking trails matching description
-- [ ] Attempt to match p18 rocky landscape photo
-- [ ] Map likely driving route Houston → Ozarks → Statesville
-- [ ] Compare Ozark frog habitats to Louisiana alternatives
-- [ ] Review Pokemon types mentioned for environmental clues
+- [x] ~~Research popular "locals" spots~~ → Johnson's Shut-Ins identified
+- [x] ~~Attempt to match p18 rocky landscape~~ → Rhyolite match found
+- [ ] Detailed route mapping Houston → Johnson's Shut-Ins → Statesville
+- [ ] Research specific trails within park for hiding spots
+- [ ] Compare p18 photo to actual Johnson's Shut-Ins imagery
+- [ ] Investigate "Golem" Pokemon clue → igneous rock connection?
+- [ ] Check for any additional location-specific matches in chapter text

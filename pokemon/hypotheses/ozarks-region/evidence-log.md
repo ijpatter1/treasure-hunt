@@ -67,3 +67,69 @@ Chronological record of evidence discovery and analysis.
 | **Total** | **20** | **13** | **4** | **3** |
 
 **Initial Confidence:** Medium (65% evidence supports, 20% challenges, 15% neutral)
+
+---
+
+## 2026-01-14 - Johnson's Shut-Ins Research
+
+**Source:** Web research on Johnson's Shut-Ins State Park, Missouri
+**Activity:** Detailed analysis of specific location candidate
+
+### Key Findings
+
+| Finding | Impact | Classification |
+|---------|--------|----------------|
+| Known as "Missouri's Best Swimming Spot" - popular local destination | **STRONG SUPPORT** | Direct |
+| 1.4-1.5 billion year old rhyolite rocks in pink/purple colors | **STRONG SUPPORT** | Derived |
+| Boulder field from 2005 flood - matches p18 description | **STRONG SUPPORT** | Derived |
+| Located in Missouri Ozarks on plausible childhood route | Supports | Direct |
+| State park with road access (within 3 miles) | Supports | Direct |
+| Four-toed & long-tailed salamanders documented | Supports | Thematic |
+| Frog activity reported at park pond | Supports | Thematic |
+| Water features: Black River, pools, cascades | Supports | Derived |
+| Oak-hickory woodlands, shaded trails | Supports | Derived |
+| No jazz connection at location | Neutral | - |
+
+### Critical Match: Rocky Terrain Photo (p18)
+
+The p18 photo description states: "smooth, rounded boulders" in "pinkish/purple tones"
+
+Johnson's Shut-Ins features:
+- Rhyolite rocks described as "light gray through pink and red to dark purplish-red"
+- Smooth, water-worn surfaces from river erosion
+- Boulder field created by 2005 flood
+
+**Assessment:** High probability of photo match
+
+### Critical Match: "Locals Turn Up" Clue (p17)
+
+Johnson's Shut-Ins is:
+- Called "Missouri's best swimming spot"
+- Generations of local families visit
+- Heavy summer crowds of returning locals
+- Consistently mentioned as regional favorite
+
+**Assessment:** Near-perfect fit for this clue
+
+### Route Plausibility
+
+- Houston, TX → Johnson's Shut-Ins, MO: ~6-7 hours via I-44/US-67
+- Johnson's Shut-Ins → Statesville, NC: ~9-10 hours via I-44/I-64
+- This aligns with a "return via the Ozarks" route
+
+**Status:** Plausible, needs detailed mapping
+
+---
+
+## Updated Summary Statistics
+
+| Category | Count | Supports | Challenges | Neutral |
+|----------|-------|----------|------------|---------|
+| Direct | 10 | 7 | 0 | 3 |
+| Derived | 9 | 9 | 0 | 0 |
+| Thematic | 11 | 7 | 4 | 0 |
+| **Total** | **30** | **23** | **4** | **3** |
+
+**Updated Confidence:** Medium-High (77% supports, 13% challenges, 10% neutral)
+
+**New Priority:** Johnson's Shut-Ins elevated to HIGH-PRIORITY candidate within Ozarks hypothesis
