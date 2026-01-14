@@ -1,0 +1,36 @@
+{
+  "source_file": "page-009.png",
+  "extracted_date": "2026-01-12",
+  "page_type": "image",
+  "full_text": "",
+  "formatting": {},
+  "images": [
+    {
+      "description": "Two PSA-graded Pokemon Charizard trading cards displayed side by side",
+      "left_card": {
+        "title": "2002 POKEMON NEO DEST.",
+        "card_number": "#107",
+        "card_name": "SHINING CHARIZARD",
+        "edition": "1ST EDITION",
+        "psa_grade": "GEM MT 10",
+        "cert_number": "14628224",
+        "card_description": "Black silhouette of Charizard with shining/holographic effect, 'White-hot Flame' attack listed, 100 HP"
+      },
+      "right_card": {
+        "title": "1999 POKEMON GAME",
+        "card_number": "#4",
+        "card_name": "CHARIZARD - HOLO",
+        "edition": "1ST EDITION",
+        "psa_grade": "MINT 9",
+        "cert_number": "28518304",
+        "card_description": "Classic Charizard holographic card, orange dragon breathing fire, 'Fire Spin' attack, 100 HP"
+      }
+    }
+  ],
+  "key_elements": [
+    "2002 Neo Destiny Shining Charizard 1st Edition PSA 10",
+    "1999 Base Set Charizard Holo 1st Edition PSA 9",
+    "Pokemon trading cards as treasure items",
+    "Valuable collectible cards"
+  ]
+}

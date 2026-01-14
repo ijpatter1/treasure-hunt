@@ -1,0 +1,20 @@
+{
+  "source_file": "page-004.png",
+  "extracted_date": "2026-01-12",
+  "page_type": "dedication",
+  "full_text": "DEDICATED TO KIMBERLY,\nAIDEN & LONDYN\nAND\nTREASURE HUNTERS EVERYWHERE\n\nWhere your pleasure is, there is your treasure:\nwhere your treasure, there your heart;\nwhere your heart, there your happiness.\n\n-SAINT AUGUSTINE",
+  "formatting": {
+    "dedication": "DEDICATED TO KIMBERLY, AIDEN & LONDYN AND TREASURE HUNTERS EVERYWHERE",
+    "quote": "Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness.",
+    "attribution": "SAINT AUGUSTINE",
+    "quote_style": "italicized, red text"
+  },
+  "images": [],
+  "key_elements": [
+    "Kimberly (dedicatee - likely wife)",
+    "Aiden (dedicatee - likely child)",
+    "Londyn (dedicatee - likely child)",
+    "Saint Augustine quote",
+    "Treasure/heart/happiness connection"
+  ]
+}
