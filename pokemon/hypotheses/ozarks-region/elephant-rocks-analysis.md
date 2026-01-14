@@ -25,20 +25,29 @@
 
 ---
 
-## Photo Analysis (p18)
+## Photo Analysis (p18) - REVISED
 
-The photo on page 18 shows:
-- Smooth, rounded boulders
-- Pinkish/purple coloring
-- Possible "faces" or creature shapes in background rocks
+**Original assessment:** Photo might show Elephant Rocks
 
-**Elephant Rocks features:**
-- Giant pink/red granite boulders
-- Elephant-shaped (creature-like) formations
-- Arranged "end-to-end like a train of circus elephants"
-- 1.5 billion year old formations
+**Revised assessment:** Photo more likely shows **Johnson's Shut-Ins riverbed**
 
-**Assessment:** The photo could depict Elephant Rocks with artistic color filtering applied.
+### Why the Revision
+
+1. **Photo timing:** Author says "I do reckon it was closer to the end of our day" - taken while returning to start
+2. **Visual appearance:** Photo shows water-worn rocks in riverbed, not giant standing boulders
+3. **Narrative flow:** After hiding treasure, he walked "back towards where we'd begun" (swimming area)
+
+### The p18 Photo Shows:
+- Smooth, **water-worn** rocks (river erosion)
+- **Riverbed** setting
+- Pink/purple coloring = rhyolite at Johnson's Shut-Ins
+
+### Elephant Rocks Would Show:
+- Giant **standing** boulders
+- **Elephant-shaped** formations on hilltop
+- No water features
+
+**Updated Assessment:** Photo is NOT Elephant Rocks. Photo shows Johnson's Shut-Ins swimming area.
 
 ---
 
@@ -97,17 +106,27 @@ Both parks are:
 
 ---
 
-## Confidence Assessment
+## Confidence Assessment - REVISED
 
-| Factor | Rating |
-|--------|--------|
-| Golem = boulder creature match | **HIGH** |
-| Photo visual match | **MEDIUM-HIGH** |
-| "Locals" clue fit | **HIGH** |
-| Geographic fit (Ozarks route) | **HIGH** |
-| Pokemon symbolism alignment | **HIGH** |
+| Factor | Rating | Notes |
+|--------|--------|-------|
+| Golem = boulder creature match | **MEDIUM** | Symbolic, may not be literal location |
+| Photo visual match | **LOW** | Photo shows riverbed, not standing boulders |
+| "Locals" clue fit | **HIGH** | Popular destination |
+| Geographic fit (Ozarks route) | **HIGH** | 15 miles from Johnson's Shut-Ins |
+| Pokemon symbolism alignment | **MEDIUM** | Golem reference intriguing but uncertain |
 
-**Overall Confidence:** **HIGH (75%)**
+**Original Confidence:** HIGH (75%)
+**Revised Confidence:** **MEDIUM (55%)**
+
+### Revised Interpretation
+
+The Golem reference could mean:
+1. **Literal:** Elephant Rocks (giant boulders = Golem)
+2. **Symbolic:** Ancient rock formations in general (1.5 billion year old rhyolite)
+3. **Directional:** Golem pointed them toward the hiding spot (not Golem's location)
+
+The treasure may NOT be at Elephant Rocks itself, but Golem's "great idea" led them to a location that could still be near Johnson's Shut-Ins.
 
 ---
 

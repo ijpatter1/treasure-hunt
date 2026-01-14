@@ -122,6 +122,40 @@ This clue is particularly compelling for Johnson's Shut-Ins:
 
 ---
 
+## Narrative Timeline Analysis (Updated 2026-01-14)
+
+### Photo Timing Clue
+
+The author states about the p18 photo: **"I do reckon it was closer to the end of our day"**
+
+This means the photo was taken:
+- **After** the treasure was hidden
+- **During** the return journey
+- **Near** the starting/ending point (the swimming area)
+
+### Journey Reconstruction
+
+| Stage | Event | Location |
+|-------|-------|----------|
+| START | Arrived at hiking spot | Shut-ins swimming area (trailhead) |
+| IN | Hiked trail, saw Mudkip/Swampert | Deeper into park, water features |
+| MIDDLE | Met Golem, got hiding idea | Along trail |
+| TURN | "Reversed course" / "circled back" | Turning point |
+| HIDE | Left treasure "where locals turn up" | **HIDING LOCATION** |
+| RETURN | "Walk back towards where we'd begun" | Returning |
+| END | Photo taken "end of our day" | Back at shut-ins |
+
+### Key Insight
+
+The **photo shows the ending point** (swimming area) - NOT the hiding spot. The treasure was hidden **before** returning to the swimming area.
+
+This means:
+- The photo depicts Johnson's Shut-Ins swimming area (water-worn rhyolite riverbed)
+- The treasure is somewhere **between** the turnaround point and the swimming area
+- "Where locals turn up" could be the swimming area OR a spot along the return route
+
+---
+
 ## Research Next Steps
 
 1. [ ] Compare p18 photo to Johnson's Shut-Ins imagery
