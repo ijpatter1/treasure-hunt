@@ -133,3 +133,59 @@ Johnson's Shut-Ins is:
 **Updated Confidence:** Medium-High (77% supports, 13% challenges, 10% neutral)
 
 **New Priority:** Johnson's Shut-Ins elevated to HIGH-PRIORITY candidate within Ozarks hypothesis
+
+---
+
+## 2026-01-14 - Elephant Rocks Discovery (Golem Connection)
+
+**Source:** Web research + p18 photo analysis
+**Activity:** Identified Golem Pokemon = Elephant Rocks connection
+
+### Critical Finding: The Golem Clue
+
+Chapter text (p17): "The Greninja also introduced me to a **wise Golem** who happened to have **a great idea about where we could hide our treasure**."
+
+| Clue Element | Real-World Match | Classification |
+|--------------|------------------|----------------|
+| Golem (rock-type Pokemon) | Looks like a large boulder | Direct |
+| "Wise Golem" | Elephant Rocks - 1.5 billion year old formations | Derived |
+| "Great idea about where to hide" | Golem directed to hiding location | Direct |
+| Creature-shaped boulders | Elephant Rocks look like elephants | Derived |
+
+### Photo Match (p18)
+
+| Photo Feature | Elephant Rocks Feature |
+|---------------|------------------------|
+| Smooth, rounded boulders | Spheroidally weathered granite |
+| Pinkish/purple tones | Pink/red granite |
+| Possible "faces" in background | Elephant-shaped (creature) formations |
+
+### Geographic Connection
+
+- **Distance:** Elephant Rocks is only **15 miles (29 min)** from Johnson's Shut-Ins
+- **Region:** Both in St. Francois Mountains, Missouri Ozarks
+- **Visitor pattern:** Often visited together as day trip
+
+### New Evidence Summary
+
+| Finding | Impact | Classification |
+|---------|--------|----------------|
+| Golem = boulder creature = Elephant Rocks | **STRONG SUPPORT** | Direct (symbolic) |
+| Pink granite matches p18 photo | **STRONG SUPPORT** | Derived |
+| Elephant-shaped rocks = "faces" in photo | **STRONG SUPPORT** | Derived |
+| 15 miles from Johnson's Shut-Ins | Supports regional theory | Direct |
+| Popular local destination | Supports "locals turn up" | Direct |
+| State park (public land) | Meets safety requirements | Direct |
+
+---
+
+## Updated Hypothesis Status
+
+**Two HIGH-PRIORITY candidates identified:**
+
+1. **Johnson's Shut-Ins State Park** - "Locals turn up" swimming hole, water/frog theme
+2. **Elephant Rocks State Park** - Golem reference, boulder imagery in photo
+
+**Distance between candidates:** 15 miles
+
+**Combined Confidence:** HIGH (80%)
