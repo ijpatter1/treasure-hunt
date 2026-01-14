@@ -183,7 +183,9 @@ Locations explicitly mentioned in processed pages:
 
 ## Active Hypotheses
 
-*No hypotheses currently documented.*
+| Hypothesis | Status | Confidence | Summary |
+|------------|--------|------------|---------|
+| [Northern New Mexico](hypotheses/northern-new-mexico/README.md) | Active | Medium | Box hidden in NM mountains where author searched for Fenn's treasure |
 
 ---
 
