@@ -1,0 +1,34 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.07.19 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "dedication_page",
+  "full_text": "DEDICATED TO KIMBERLY,\nAIDEN & LONDYN\nAND\nTREASURE HUNTERS EVERYWHERE\n\nWhere your pleasure is, there is your treasure:\nwhere your treasure, there your heart;\nwhere your heart, there your happiness.\n\n—SAINT AUGUSTINE",
+  "formatting": {
+    "dedication": {
+      "style": "small caps",
+      "names": ["Kimberly", "Aiden", "Londyn"],
+      "additional": "Treasure Hunters Everywhere"
+    },
+    "quote": {
+      "style": "italic",
+      "color": "red/burgundy",
+      "attribution": "Saint Augustine"
+    }
+  },
+  "images": [],
+  "key_elements": [
+    "Kimberly",
+    "Aiden",
+    "Londyn",
+    "Treasure Hunters Everywhere",
+    "Saint Augustine",
+    "pleasure",
+    "treasure",
+    "heart",
+    "happiness"
+  ],
+  "quote": {
+    "text": "Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness.",
+    "attribution": "Saint Augustine"
+  }
+}

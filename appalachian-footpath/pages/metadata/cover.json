@@ -1,0 +1,63 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.06.58 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "book_cover",
+  "full_text": "The Appalachian Footpath Treasure Box\n\nTHERE'S TREASURE INSIDE\n\nA Treasure Hunt by\nJON COLLINS-BLACK\n\nA literary project unlike anything else. A true and monumental treasure quest.\n\nNATIONAL BESTSELLER",
+  "formatting": {
+    "title": "There's Treasure Inside",
+    "subtitle": "A Treasure Hunt by Jon Collins-Black",
+    "header_label": "The Appalachian Footpath Treasure Box",
+    "tagline": "A literary project unlike anything else. A true and monumental treasure quest.",
+    "badge": "NATIONAL BESTSELLER"
+  },
+  "images": [
+    {
+      "position": "top_left",
+      "description": "Antique compass or astrolabe device"
+    },
+    {
+      "position": "top_center",
+      "description": "Large blue sapphire crystal"
+    },
+    {
+      "position": "top_right",
+      "description": "Antique pages with handwriting and small portrait photograph"
+    },
+    {
+      "position": "center_right",
+      "description": "Bitcoin physical coin"
+    },
+    {
+      "position": "center",
+      "description": "Ornate golden treasure box with detailed metalwork"
+    },
+    {
+      "position": "bottom_left",
+      "description": "Topographical map detail"
+    },
+    {
+      "position": "bottom_left_overlay",
+      "description": "Silhouettes of four hikers walking"
+    },
+    {
+      "position": "bottom_center",
+      "description": "Large green emerald crystal"
+    },
+    {
+      "position": "bottom_right",
+      "description": "People climbing or hiking on rocks/mountain"
+    }
+  ],
+  "key_elements": [
+    "The Appalachian Footpath Treasure Box",
+    "Jon Collins-Black",
+    "National Bestseller",
+    "treasure hunt",
+    "compass",
+    "sapphire",
+    "emerald",
+    "treasure box",
+    "hikers",
+    "topographical map"
+  ]
+}
