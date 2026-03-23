@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-**Theory:** The Lion's Share treasure is hidden near Marker 318 (or between markers 319-320) on the Hollow Rock Trail at Rocky Face Mountain Recreational Area in Alexander County, North Carolina.
+**Theory:** The Lion's Share treasure is hidden near **Marker 320** on the Hollow Rock Trail at Rocky Face Mountain Recreational Area in Alexander County, North Carolina.
 
 **Confidence Level:** VERY HIGH - multiple independent lines of evidence converge
 
-**Primary Target:** Hollow Rock Trail, **Marker 318** (haiku code) AND **319-320 rock outcrop** (necklace theory)
+**Primary Target:** Hollow Rock Trail, **Zone C (markers 319-320)** with **marker 320** as the specific priority — three independent evidence lines converge here (stanza ordering, necklace theory, Hopi calendar encoding)
 
 ---
 
@@ -190,6 +190,28 @@ The black-and-white illustration of dancers (Page 61, Chapter 5) features **colo
 | **Item count** | 13 beads | 13 jewelry pieces |
 | **Odd one out** | Orange bead | Green piece |
 | **Potential meaning** | Trail markers 313-325 | Trail markers 313-325? |
+
+### Stanza-to-Chapter Mapping Theory
+
+Each of the 7 stanzas in Joy's Serenade maps 1:1 to a specific book chapter via thematic/vocabulary connections:
+
+| Stanza | Key Imagery | Chapter | Primary Link |
+|--------|------------|---------|-------------|
+| 1 | "song to follow," "music in a poem" | Ch 23 | "Sing Your Own Special Song" |
+| 2 | "flutter of excitement," "conductor" | Ch 2 | "Don't Wing It" = flutter/wings |
+| 3 | "Will's straight edge," geometry | Ch 4 | William Hidden → Hiddenite |
+| 4 | "X leads the way," "circles of gold" | Ch 9 | Golden Chalice; "look both ways before crossing" |
+| 5 | "shady oaks," "haiku curls," "go down" | Ch 6 | "Peering behind a rock to find a treasure box" |
+| 6 | "Dancers are on the land" | Ch 8 | Hopi Butterfly Dance |
+| 7 | "sat upon a rock," "harmonies" | Ch 21 | "Alexander" = Alexander County; "joy divined" echo |
+
+**Sum: 23 + 2 + 4 + 9 + 6 + 8 + 21 = 73 = author's birth year (1973)**
+
+The mapped chapter subtitles also read as a sequential treasure-hunting guide: "Finding Treasures Along the Way" → "Don't Wing It" → "Blaze the Path" → "Confirmation Bias" → "Inspiration Is Welcome" → "Know the Past, See the Future" → "Make It Make Sense."
+
+**New micro-clues from spotlight chapters:** Ch 9 yields "lie on the ground to read" (look low/ground level), "look both ways before crossing" (observe at X junction), and "no discernible entrance" (hidden approach to hiding spot).
+
+*Full analysis: `analysis/stanza-chapter-mapping.md`*
 
 ---
 
@@ -420,7 +442,9 @@ See `alternatives/south-mountains.md` for full steelman analysis.
 
 ## Chapter Analysis Summary
 
-All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Key discoveries:
+All 25 chapter files have been analyzed through the Rocky Face Mountain lens. A **second pass** was completed on February 16, 2026 (`analysis/chapters-v2/`, consolidated in `analysis/secondary-analysis-consolidated.md`). The second pass downgraded 12 non-spotlight chapters whose first-pass ratings were inflated by generic motivational vocabulary, upgraded 3 chapters (9, 17, 23) with newly discovered evidence, and left 10 stable. The strongest chapters (4, 21, Back Matter) held firm. Key new findings include a coherent multi-chapter physical search protocol (synthesized from Chs 6, 9, 20, and the poem) and the author's confirmed puzzle-making hobby (Ch 23). The confidence ratings below reflect the first-pass assessments; see the consolidated secondary analysis for the updated per-chapter confidence evolution table.
+
+Key discoveries:
 
 ### VERY HIGH Confidence Chapters
 
@@ -492,6 +516,100 @@ All 25 chapter files have been analyzed through the Rocky Face Mountain lens. Ke
 
 ---
 
+## Post-Expedition Results
+
+### Expedition Log
+
+| Date | Duration | Areas Covered | Key Finding |
+|------|----------|---------------|-------------|
+| **Feb 14, 2026** | ~2 hours | Marker 318 downhill, 319-320 clearing downhill | Trail geometry confirmed; nothing found |
+| **Feb 15, 2026** | ~2 hours | 314-315 campsite zone (~25%) | Campsite discovered; Stanza 6 validated; 4 search zones identified |
+
+### February 14 Results
+
+- **Trail curve at 317-318:** CONFIRMED - very noticeable curve ("the haiku curls")
+- **Peaked hills on horizon:** CONFIRMED - "pike are rather all around" is accurate
+- **Marker 318 downhill (150 ft):** ELIMINATED - thorough search, nothing found
+- **319-320 clearing downhill:** Searched (crevice-only); nothing found
+- **Hollow Rock feature:** NOT identified during expedition
+- **Revised clue interpretation:** "Peering behind a rock" (Ch 6) means the FAR SIDE, not crevices. The v1 crevice-focused search method was incorrect.
+
+### February 15 Results
+
+- **Campsite discovery:** Official primitive/backpack camping exists between markers 314-315 ($15/night, year-round, no fires). Source: official park document (`analysis/campsite-description.png`).
+- **Stanza 6 validated:** "stay to see the night" = you can camp overnight at 314-315. "Flame of starlight" = ABSOLUTELY NO FIRES allowed; starlight is the only "flame." This is the first stanza interpretation grounded in an official park document.
+- **314-315 zone observations:** Open slope, pine trees, 3 NW outcroppings, boulders with nooks/crannies. Terrain identical to 319-320 area. ~25% searched, nothing found.
+- **321-322 outcropping identified:** New rock formation below markers 321-322, previously unnoticed. Completely unsearched.
+- **Annotated satellite map:** Four search zones identified and mapped (`analysis/hollow-rock-trail-annotated.png`).
+
+### Four Search Zones (from annotated satellite image)
+
+| Zone | Location | Key Features | Status |
+|------|----------|-------------|--------|
+| **A** | **314-315 campsite** | Open slope, pine trees, 3 NW outcroppings; Stanza 6 validated | 25% searched; nothing found |
+| **B** | **317-318 curve** | Dramatic trail curve ("the haiku curls"); 318 reference point | 318 downhill ELIMINATED; curve area partially observed |
+| **C** | **319-320 summit** | Granite clearing near summit; large exposed rock formation | Downhill searched (nothing); uphill/behind unsearched |
+| **D** | **321-322 outcropping** | Newly identified outcropping below trail | Identified; completely unsearched |
+
+### Areas Eliminated
+
+| Area | Date | Confidence | Notes |
+|------|------|-----------|-------|
+| Marker 318, 150+ ft downhill | Feb 14 | HIGH | Thorough crevice/underhang search in all directions |
+| 319-320 clearing, downhill side | Feb 14 | MODERATE | Crevice-only search; "behind a rock" not applied |
+
+### Areas Pending
+
+| Area | Zone | Priority | Notes |
+|------|------|----------|-------|
+| 319-320 clearing uphill/behind | C | 1 | Strongest clue convergence; behind-rock protocol not yet applied |
+| 314-315 remaining 75% | A | 2 | Stanza 6 validated; 3 NW outcroppings unsearched |
+| 321-322 outcropping | D | 3 | Newly identified; viable geology |
+| 317-318 curve area features | B | 4 | Reference point; adjacent features need behind-rock inspection |
+| Hollow Rock namesake feature | Any | Ongoing | Unidentified; could be in any zone |
+
+### 318-Encoding Uncertainty
+
+The haiku encoding (3 lines + 18 syllables = 318) is an interpretation, not an irrefutable fact. The park being 318 acres is a separate, confirmed data point. Whether this means the treasure is AT marker 318 specifically (vs. anywhere on the Hollow Rock Trail loop) is an assumption. Unless something irrefutable is deduced from the book or poem, all interpretations remain open — the search should not over-index on marker 318. The four-zone framework reflects this broader approach.
+
+### Updated Search Priorities (Zone C Narrowing)
+
+Three independent evidence lines converge on Zone C, with marker 320 as the specific priority:
+1. **Stanza ordering:** Poem reverses trail order (Stanza 5 treasure before Stanza 6 campsite), indicating a return journey past Zone C
+2. **Necklace theory:** Orange bead position in the 13-bead / 13-marker mapping = markers 319-320
+3. **Hopi calendar:** Five poem-connected ceremony months (1,2,4,5,8) — product = 320, sum + 300 = 320
+
+**Hollow Rock clarification:** The granite gneiss dome sounds hollow when tapped throughout the summit. "Hollow Rock" is the geology, not a single feature. The "find the Hollow Rock" strategy is eliminated.
+
+| Priority | Zone | Target | Rationale |
+|----------|------|--------|-----------|
+| **1** | C | **319-320 clearing — marker 320 focus** | **Three-line convergence** (stanza ordering + necklace + Hopi calendar); uphill/behind unsearched |
+| **2** | A | 314-315 campsite — remaining 75% + NW outcroppings | Stanza 6 validated by official document; viable geology |
+| **3** | D | 321-322 outcropping | Newly identified; viable geology; completely unsearched |
+| **4** | B | 317-318 curve area features | Reference point; behind-rock inspection of adjacent features |
+
+*Full narrowing analysis: `analysis/zone-c-narrowing-evidence.md`*
+
+### Updated Confidence Levels
+
+| Element | Pre-Expedition | Post-Feb 14 | Post-Feb 15 | Post-Narrowing |
+|---------|---------------|-------------|-------------|----------------|
+| Rocky Face Mountain (macro) | VERY HIGH | VERY HIGH | VERY HIGH | **VERY HIGH** |
+| Marker 318 as reference point | VERY HIGH | VERY HIGH | HIGH | **HIGH** (reference, not destination) |
+| Below marker 318 (150 ft) | HIGH | ELIMINATED | ELIMINATED | ELIMINATED |
+| Zone A: 314-315 campsite | Not assessed | Not assessed | MODERATE-HIGH | **MODERATE-HIGH** |
+| Zone B: 317-318 curve | VERY HIGH | VERY HIGH | HIGH | **HIGH** (reference point) |
+| Zone C: 319-320 (downhill) | HIGH | LOW | LOW | LOW |
+| Zone C: 319-320 (uphill/behind) | Not assessed | HIGH | HIGH | **VERY HIGH** (three-line convergence) |
+| Zone C: Marker 320 specifically | Not assessed | Not assessed | Not assessed | **HIGH** (Hopi calendar encoding) |
+| Zone D: 321-322 outcropping | Not assessed | Not assessed | MODERATE | **MODERATE** |
+| Hollow Rock as single feature | Not assessed | MODERATE-HIGH | MODERATE-HIGH | **ELIMINATED** (geological property of entire summit) |
+
+*Full analysis: `analysis/post-expedition-feb-2026.md`*
+*Revised field checklist: `field-checklist-v2.md`*
+
+---
+
 ## Research Gaps & Limitations
 
 This section documents what is NOT confirmed (intellectual honesty):
@@ -502,6 +620,8 @@ This section documents what is NOT confirmed (intellectual honesty):
 | Species-specific pine survey | No species-specific survey confirms exact Shortleaf Pine distribution on the mountain; presence is inferred from regional data |
 | "Where few have seen it" verification | Park opened 2012, relatively unknown, but requires field verification of off-trail visibility |
 | Diamond Jim Lucas treasure legends | No specific documented legends of hidden treasure exist at the Lucas mansion |
+| **Hollow Rock namesake feature** | **RESOLVED (Feb 16): The granite gneiss dome sounds hollow when tapped throughout the summit. "Hollow Rock" is a geological property of the entire summit, not a single identifiable formation.** |
+| **"Behind a rock" search coverage** | **The 319-320 clearing was only searched on its downhill side with a crevice-focused method. The uphill side, far perimeter, and behind-rock areas remain unsearched.** |
 
 ---
 
@@ -519,9 +639,14 @@ This section documents what is NOT confirmed (intellectual honesty):
 
 ### Remaining Research
 
-| # | Research Item | Status | Notes |
-|---|---------------|--------|-------|
-| 1 | Physical site visit to marker 318 AND 319-320 area | NOT STARTED | Required for treasure recovery |
+| # | Research Item | Zone | Status | Notes |
+|---|---------------|------|--------|-------|
+| 1 | **319-320 clearing: marker 320 focus, full perimeter search** | C | **NEXT** | **Three-line convergence** — stanza ordering + necklace + Hopi calendar all point here |
+| 2 | 314-315 campsite: remaining 75% + NW outcroppings | A | **NEXT** | Stanza 6 validated; 3 outcroppings identified but unsearched |
+| 3 | 321-322 outcropping search | D | **NEXT** | Newly identified; completely unsearched |
+| 4 | 317-318 curve area behind-rock search | B | **NEXT** | Reference point area; adjacent features need inspection |
+| 5 | ~~Hollow Rock namesake feature identification~~ | ~~All~~ | **RESOLVED** | Granite gneiss dome sounds hollow throughout — geological property, not single feature |
+| 6 | Spring verification visit (April-May) | All | NOT STARTED | Wildflowers, butterflies, mica sparkle in sunlight |
 
 ---
 
@@ -530,6 +655,8 @@ This section documents what is NOT confirmed (intellectual honesty):
 ### Hypothesis-Specific Analysis
 - `analysis/website-analysis.md` - Park website analysis
 - `analysis/joys-serenade-analysis.md` - Poem interpretation
+- `analysis/stanza-chapter-mapping.md` - Stanza-to-chapter 1:1 mapping theory (sum=73)
+- `analysis/zone-c-narrowing-evidence.md` - Three-line convergence analysis pointing to Zone C / marker 320
 - `analysis/hypothesis-comparison.md` - Comparison with fresh analysis
 - `analysis/jcb-interview-correlation.md` - JCB interview statement analysis
 - `analysis/nc-research.md` - North Carolina research notes
@@ -540,6 +667,8 @@ This section documents what is NOT confirmed (intellectual honesty):
 ### Chapter Interpretations
 - `analysis/chapters/front-matter.md` through `analysis/chapters/chapter-23.md`
 - `analysis/chapters/back-matter.md`
+- `analysis/chapters-v2/` — Second-pass chapter analyses (25 files)
+- `analysis/secondary-analysis-consolidated.md` — Consolidated secondary analysis findings
 
 ### Map Evidence
 - `maps/map-trails.png` - Official trail map showing marker 318
@@ -548,14 +677,21 @@ This section documents what is NOT confirmed (intellectual honesty):
 - `maps/map-necklace-theory.png` - 3D satellite view showing rock outcrop between markers 319-320
 - `maps/map-landmarks-vistas.png` - Landmarks and vista points
 - `maps/map-water-body.png` - Water features in the area
+- `analysis/hollow-rock-trail-annotated.png` - Annotated satellite image with 4 search zones (A-D) circled
 - `../../research/property-record.png` - Comer family property deed (in main research folder)
 
 ---
 
 ## Status
 
-**Hypothesis Status:** Active - awaiting physical verification
+**Hypothesis Status:** Active - two expeditions complete, narrowing analysis points to Zone C (marker 320)
+
+**First Expedition (Feb 14, 2026):** Marker 318 downhill and 319-320 clearing downhill searched; nothing found. Trail geometry and vista clues confirmed. Revised search protocol targets unsearched areas with corrected "behind a rock" methodology.
+
+**Second Expedition (Feb 15, 2026):** Campsite discovered between 314-315, validating Stanza 6 ("flame of starlight" = no fires allowed). Four search zones identified across the full Hollow Rock Trail loop. 318-encoding uncertainty acknowledged — search broadened from single corridor to four-zone framework.
+
+**Narrowing Analysis (Feb 16, 2026):** Three independent evidence lines (stanza ordering, necklace theory, Hopi calendar encoding) converge on Zone C (markers 319-320), with marker 320 as the specific priority. Hollow Rock geological finding eliminates the "find the Hollow Rock" strategy — the granite gneiss dome sounds hollow throughout, making it a summit-wide geological property rather than a single identifiable feature.
 
 ---
 
-*Last updated: January 10, 2026 (added Tiffany-Hiddenite connection; expanded pike etymology and Hopi/dancers explanation)*
+*Last updated: February 16, 2026 (added secondary analysis references, Zone C narrowing analysis, three-line convergence, Hollow Rock geological clarification, marker 320 priority)*

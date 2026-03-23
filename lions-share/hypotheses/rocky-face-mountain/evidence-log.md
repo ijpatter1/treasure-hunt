@@ -3,7 +3,7 @@
 Chronological record of evidence supporting the Rocky Face Mountain theory.
 
 **ETL Source:** Extracted from 313 git commits and 12 source files via ETL consolidation methodology.
-**Last Updated:** 2026-01-11
+**Last Updated:** 2026-02-16
 
 ---
 
@@ -252,15 +252,191 @@ Chronological record of evidence supporting the Rocky Face Mountain theory.
 
 ---
 
+## 2026-02-14 — First Field Expedition
+
+**Source:** In-person expedition, February 14, 2026
+**Finding:** First physical search of Rocky Face Mountain, Hollow Rock Trail, markers 318 through 320 area.
+
+### Areas Searched
+
+| Area | Method | Result |
+|------|--------|--------|
+| Marker 318, 150+ ft downhill | All crevices, underhangs, sheltered areas in all directions | Nothing found |
+| 319-320 granite clearing, downhill | Crevices, underhangs, sheltered spots below trail | Nothing found |
+
+### Field Verifications
+
+| Clue | Status | Observation |
+|------|--------|-------------|
+| Trail curves at 317-318 | **CONFIRMED** | Very noticeable curve between markers 317-318 |
+| Slight curve at 318-319 | **CONFIRMED** | Less dramatic but present |
+| Peaked hills on horizon | **CONFIRMED** | Peaked hills filled the horizon in every direction |
+| Rock outcrops at 318 | **CONFIRMED** | Granite outcrops present |
+| Rock outcrops at 319-320 | **CONFIRMED** | Large granite clearing present |
+| Hollow Rock feature | **NOT FOUND** | Namesake feature not identified |
+| Wildflowers | Not applicable | February visit - expected absence |
+| Butterflies | Not applicable | February visit - expected absence |
+| Mica sparkle | Not verified | Winter conditions; needs direct sunlight observation |
+
+**Classification:** Direct (field verification)
+**Impact:** Supports (Major) — confirms macro-level hypothesis; eliminates specific sub-targets; reveals critical unsearched areas
+
+---
+
+## 2026-02-14 — Clue Reinterpretation: "Behind a Rock"
+
+**Source:** Post-expedition analysis cross-referencing Ch 6 (p. 69) with field results
+**Finding:** Chapter 6 says "peering **behind** a rock to find a treasure box" — literal meaning is the FAR SIDE of a rock from the approach direction. The Feb 14 search focused on crevices and underhangs (IN/UNDER), not on the back sides of rocks (BEHIND). The 319-320 clearing was only searched on its downhill side; the uphill side, far perimeter, and behind-rock areas are entirely unsearched.
+**Classification:** Derived (reinterpretation based on field evidence)
+**Impact:** Supports (Critical) — identifies fundamental search methodology error and unsearched high-probability zone
+
+---
+
+## 2026-02-14 — Clue Reinterpretation: "Haiku Curls a Little Further On"
+
+**Source:** Post-expedition analysis based on observed trail geometry
+**Finding:** The dramatic trail curve is between markers 317-318 (confirmed in field). "A little further on" from this curve points to the 318-to-320 corridor as the target zone. The haiku (318) is the reference point; the treasure is past it in the direction of travel.
+**Classification:** Derived (reinterpretation based on field evidence)
+**Impact:** Supports (Major) — shifts primary target from marker 318 to the 318-320 corridor
+
+---
+
+## 2026-02-14 — Hollow Rock Feature Unidentified
+
+**Source:** Field observation, February 14, 2026
+**Finding:** The trail's namesake "Hollow Rock" feature was not identified during the expedition. Online sources do not pinpoint a specific standalone formation — the name may refer to quarry remnants ("deep recesses"), natural exfoliation cavities in the granite dome, or an undocumented feature along the ridge. This is a critical research gap.
+**Classification:** Direct (field observation)
+**Impact:** Neutral (currently) — becomes potentially Critical if feature is located and matches hiding criteria
+
+---
+
+## 2026-02-14 — Stanza-to-Chapter Mapping Theory
+
+**Source:** Cross-referencing Joy's Serenade stanzas with book chapter themes and vocabulary
+**Finding:** Each of the 7 stanzas in Joy's Serenade maps 1:1 to a specific chapter via thematic/vocabulary connections. The 7 mapped chapters are: 23, 2, 4, 9, 6, 8, 21.
+
+**Key encoding discovery:** The sum of mapped chapter numbers (23+2+4+9+6+8+21) = **73**, matching the author's birth year (1973, Iredell Memorial Hospital, Statesville, NC).
+
+**Supporting patterns:**
+- The mapped chapter subtitles read as a sequential treasure-hunting guide when read in stanza order
+- Strongest individual links: "Will's straight edge" → William Hidden (Ch 4), "Dancers on the land" → Hopi Butterfly Dance (Ch 8), "Alexander" = Alexander County (Ch 21)
+- Weakest link: Stanza 4 → Ch 9 (Golden Chalice = "circles of gold" is plausible but not as tight)
+
+**New micro-level clues surfaced:**
+- Ch 9 (p. 91): "Lie on the ground to read" — look at ground level
+- Ch 9 (p. 94): "Look both ways before crossing" — observe at X junction (markers 305-307)
+- Ch 9 (p. 88): "No discernible entrance" — hidden approach to hiding spot
+- Ch 2 (p. 30): "Secreted away within temple walls" — treasure wedged into natural rock feature
+
+**Classification:** Derived
+**Impact:** Supports — validates macro-level encoding theory and surfaces actionable micro-level clues from spotlight chapters
+
+*Full analysis: `analysis/stanza-chapter-mapping.md`*
+
+---
+
+## 2026-02-15 — Campsite Discovery & Stanza 6 Validation
+
+**Source:** In-person expedition, February 15, 2026; official park document (`analysis/campsite-description.png`)
+**Finding:** Primitive/backpack camping exists on Hollow Rock Trail between markers 314 and 315. Official park document confirms: Leave No Trace Site, $15/night, year-round (except holidays), reservations required, not car-accessible, carry-in/carry-out, rain barrel, **ABSOLUTELY NO FIRES**.
+
+This validates Stanza 6 of Joy's Serenade:
+- **"stay to see the night"** → you can camp overnight at the 314-315 campsite
+- **"flame of starlight"** → no fires allowed; starlight is the only "flame" visible at night
+- **"The sky smiles on you"** → open sky above the campsite clearing
+- **"Dancers are on the land"** → open clearing suitable for butterfly activity (spring-fall)
+
+**Classification:** Direct (confirmed from official park document)
+**Impact:** Supports (Major) — validates a previously ungrounded stanza interpretation; the "flame of starlight" / "no fires" connection is the first interpretation grounded in a verifiable official document rather than subjective landscape reading. Expands search area to include the 314-315 zone.
+
+---
+
+## 2026-02-15 — 314-315 Zone Terrain Observation
+
+**Source:** In-person expedition, February 15, 2026
+**Finding:** The 314-315 campsite zone has terrain identical to the 319-320 area: big open slope surrounded by pine trees, with 3 additional rock outcroppings to the northwest. Boulders with nooks and crannies throughout the area. ~25% of the zone was searched with the "behind a rock" protocol; nothing found.
+**Classification:** Direct (field observation)
+**Impact:** Supports — demonstrates that viable hiding geology extends beyond the 317-320 corridor to the 314-315 area
+
+---
+
+## 2026-02-15 — 321-322 Outcropping Identification
+
+**Source:** In-person expedition, February 15, 2026
+**Finding:** A rock outcropping was identified below markers 321-322 on the Hollow Rock Trail loop. This formation had not been previously noted in any analysis or satellite imagery review. Completely unsearched.
+**Classification:** Direct (field observation)
+**Impact:** Supports — further demonstrates that the entire Hollow Rock Trail loop has viable geology for hiding, not just the 317-320 corridor
+
+---
+
+## 2026-02-15 — Annotated Satellite Map: Four Search Zones
+
+**Source:** Post-expedition analysis, February 15, 2026 (`analysis/hollow-rock-trail-annotated.png`)
+**Finding:** Four distinct search zones identified and annotated on satellite imagery:
+- **Zone A:** 314-315 campsite (open slope, NW outcroppings)
+- **Zone B:** 317-318 curve (the haiku reference point)
+- **Zone C:** 319-320 summit (granite clearing)
+- **Zone D:** 321-322 outcropping (newly identified)
+
+This represents a strategic broadening from a single corridor (317-320) to four zones spanning the full Hollow Rock Trail loop.
+**Classification:** Derived (strategic reassessment based on field observations)
+**Impact:** Supports — comprehensive search framework based on ground-truth observations
+
+---
+
+## 2026-02-15 — 318-Encoding Uncertainty Acknowledged
+
+**Source:** Post-expedition analysis, February 15, 2026
+**Finding:** The haiku encoding (3 lines + 18 syllables = 318) is an interpretation, not an irrefutable deduction. The park being 318 acres is a separate confirmed fact. Whether the number 318 points to marker 318 specifically, or to the park/trail generally, is an assumption. Unless new irrefutable evidence emerges, all four zones are equally viable search targets.
+**Classification:** Derived (reassessment)
+**Impact:** Neutral — does not weaken the macro Rocky Face hypothesis, but broadens the micro-level search strategy
+
+---
+
+## 2026-02-16 — Secondary Analysis: Full 25-Chapter Re-Read
+
+**Source:** Secondary analysis — 25 second-pass chapter files (`analysis/chapters-v2/`) consolidated in `analysis/secondary-analysis-consolidated.md`
+**Finding:** Complete re-read of all 25 sections through the Hollow Rock Trail / Zone C / Marker 320 lens. Key outcomes:
+
+1. **Confidence corrections:** 12 chapters downgraded, 3 upgraded, 10 stable. Chapters 5, 10, 11, 12, 15, 16, and 20 were found to have been inflated by the first pass — their "supporting" vocabulary (grit, sparkle, direction, perspective) proved to be generic motivational language applicable to any location. The strongest chapters (4, 21, Back Matter) held firm at their original ratings.
+
+2. **Multi-chapter physical search protocol discovered:** Instructions from four independent sources (Ch 6 "behind a rock," Ch 9 "lie on ground" / "no discernible entrance," Ch 20 "bend down," Stanza 5 "go down") form a coherent step-by-step search procedure the first pass missed.
+
+3. **New numerical findings:**
+   - Washington's "three hundred and seventeen" slaves (Ch 17) matches Marker 317 — a historical fact the author included with the number spelled out
+   - The number 13 recurs across four independent sources: Alexander's reign (Ch 21), necklace beads (Ch 23), trail markers, Jacqueline's solitude (Ch 22)
+   - Birth year (~1973) cross-validated by "forty years" references in Chapters 4, 19, 20, 22, and 23
+
+4. **Geometric analysis deepened:** Stanza 3's eight geometric terms (straight edge, turning square, arc, align, point, see, far, look) analyzed as compass-and-straightedge vocabulary. Six geometric hypotheses formulated, including a testable GPS bearing from Emerald Hollow Mine to Zone C.
+
+5. **Author's puzzle-making confirmed:** "Created puzzles for friends" (Ch 23, p.197) is critical meta-evidence for encoding theories.
+
+6. **Counter-evidence cataloged:** 10 strongest counter-arguments documented, including the inconsistency of mathematical operations across encodings, the $310B near-miss (Carnegie, Ch 18), and the "over forty years" timeline tension (Ch 22).
+
+**Classification:** Derived (secondary re-analysis of primary source material)
+**Impact:** Mixed — strengthens the hypothesis through search protocol synthesis, birth-year cross-validation, and honest pruning of weak connections; weakens the micro-level Zone C / Marker 320 convergence by exposing the subjectivity of the Hopi calendar month selection and the unverified necklace bead count
+
+*Full consolidated analysis: `analysis/secondary-analysis-consolidated.md`*
+*Individual chapter files: `analysis/chapters-v2/`*
+
+---
+
 ## Pending Field Verification
 
-- [ ] Rock outcrop at marker 318 exists and has hiding spots
-- [ ] Muscovite mica shimmer visible on exposed granite surfaces
-- [ ] Trail curves at marker 318 ("the haiku curls")
-- [ ] Off-trail descent possible and safe ("go down")
+- [x] ~~Rock outcrop at marker 318 exists and has hiding spots~~ CONFIRMED Feb 14
+- [ ] Muscovite mica shimmer visible on exposed granite surfaces (needs direct sunlight)
+- [x] ~~Trail curves at marker 318 ("the haiku curls")~~ CONFIRMED Feb 14 — dramatic curve between 317-318
+- [x] ~~Off-trail descent possible and safe ("go down")~~ CONFIRMED Feb 14
 - [ ] Mica shimmer visible in sunlight ("sparkle")
 - [ ] Giant Swallowtail butterflies present (spring-fall)
 - [ ] Keever's Onion blooming (late May)
+- [ ] **Hollow Rock namesake feature identified and located**
+- [ ] **"Sitting rock" at 319-320 clearing identified**
+- [ ] **Behind-rock search of 319-320 clearing (uphill/perimeter)**
+- [ ] **314-315 zone: remaining 75% + 3 NW outcroppings**
+- [ ] **321-322 outcropping searched**
+- [ ] **318-319 corridor rock features examined**
+- [ ] **Oak trees present near all search zones ("shady oaks")**
 
 ---
 
@@ -268,17 +444,18 @@ Chronological record of evidence supporting the Rocky Face Mountain theory.
 
 | Classification | Count |
 |----------------|-------|
-| Direct | 7 |
-| Derived | 8 |
+| Direct | 12 |
+| Derived | 14 |
 | Thematic | 5 |
 | Elimination | 2 |
 | Speculative | 1 |
 
 | Impact | Count |
 |--------|-------|
-| Supports (Critical/Major) | 4 |
-| Supports | 15 |
-| Neutral | 1 |
+| Supports (Critical/Major) | 8 |
+| Supports | 20 |
+| Mixed | 1 |
+| Neutral | 3 |
 | By exclusion | 2 |
 
 ---
@@ -294,3 +471,6 @@ ETL staging files retained for audit trail:
 ---
 
 *ETL extraction completed: 2026-01-10*
+*Field verification entries added: 2026-02-14*
+*Feb 15 expedition entries added: 2026-02-15*
+*Secondary analysis entry added: 2026-02-16*
