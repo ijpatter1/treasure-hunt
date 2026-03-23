@@ -104,12 +104,41 @@
 
 ---
 
-## REVISED CONFIDENCE
+## REVISED CONFIDENCE (Updated After First-Hand Observations)
+
+Three critical corrections from someone who has visited Rocky Face summit:
+
+### 1. PIKE — RESOLVED
+Pointed peaks (pikes) ARE visible in every direction from the summit. First-hand observation confirms this. "Pike are rather all around" describes the view from Rocky Face Mountain. The Middle English etymology (pike = pointed/peaked hill) is the correct reading. **Upgraded from 2/10 to 7/10.**
+
+### 2. WILL — RESOLVED: WILLIAM EARL HIDDEN
+The most obvious candidate was overlooked: **William Earl Hidden** (1853-1918), the mineralogist who discovered hiddenite, the namesake of the town where Rocky Face sits. Sent by Thomas Edison in 1879, he prospected this exact area. His surname is literally "HIDDEN" — the thematic parallel to hidden treasure is unmistakable. The author's story of discovering gems near Hiddenite mirrors Hidden's own discovery. "Will's straight edge" = William Hidden's prospecting/surveying tools, or the straight mineral veins he followed, or the direct path he blazed to discovery. **Upgraded from 2/10 to 7/10.**
+
+### 3. CAMPING ON SUMMIT — STARLIGHT CONFIRMED
+You can camp overnight on Rocky Face's summit. "And if you stay to see the night / it will ignite with the flame of starlight" is not hypothetical — campers on this granite dome in rural NC see the Milky Way, exactly as the author did growing up nearby. **Upgraded from 5/10 to 7/10.**
+
+### Remaining Challenge: "Shimmering Circles of Gold"
+Still the weakest NC clue. No aspen trees. Best interpretations:
+- Mica flakes in gem-bearing streams creating golden shimmer
+- Sunlight on water
+- Connection to Carolina Gold Belt / Charlotte Mint gold coins
+**Still 3-4/10.**
+
+### Remaining Challenge: "Magic in the Water"
+Stronger than initially assessed when considering the AREA not just the mountain:
+- Emerald Hollow Mine (4 mi): finding gems in water IS magic — this is the author's origin story
+- Historical mineral springs (Davis White Sulphur, All Healing) — gone but once present
+- Gem-bearing creeks throughout the Hiddenite area
+**Upgraded from 3/10 to 5/10.**
+
+### Updated Confidence
 
 | Hypothesis | Confidence | Change |
 |-----------|-----------|--------|
-| Colorado Springs | 65% | Down from 75% — Rocky Face's back-cover-poem match and author connection are stronger than initially credited |
-| Rocky Face Mountain / Hiddenite area | 20% | Up from 10% — oaks, granite/grit, sparkle, railroad, and author connection are genuinely strong |
+| Colorado Springs | 50% | Down from 65% — three NC "fatal flaws" resolved |
+| Rocky Face Mountain / Hiddenite | 35% | Up from 20% — pike, Will Hidden, and camping/starlight resolved |
 | Somewhere else | 15% | Unchanged |
 
-**The critical deciding factor remains "pike."** If someone can demonstrate that the Brushy Mountain peaks visible from Rocky Face genuinely look like "pikes" (pointed summits) and are "rather all around," the NC confidence would increase significantly. A visit to the summit to assess the panoramic view would be decisive.
+**The gap has narrowed significantly.** Colorado still leads on "magic in the water" (Manitou Springs) and "shimmering circles of gold" (aspen), but Rocky Face now matches or exceeds Colorado on: oaks, rock, grit, sparkle, pine, Will, author connection, irises, starlight, and the back cover poem as a whole.
+
+**The deciding factor is now the STORY, not individual clues.** Rocky Face tells a deeply personal story: the author returned to where his love of gems began (Hiddenite), to the mountain named for its rock face, in the town named for William Hidden's discovery, to hide his own treasure for others to "divine." Colorado tells a geographic puzzle story with elegant multi-layered wordplay. Which is more like this author?
