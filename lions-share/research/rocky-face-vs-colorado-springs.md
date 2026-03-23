@@ -131,14 +131,70 @@ Stronger than initially assessed when considering the AREA not just the mountain
 - Gem-bearing creeks throughout the Hiddenite area
 **Upgraded from 3/10 to 5/10.**
 
+### Updated Confidence (Revision 2 — After Site-Specific Research)
+
+Additional findings from park website and hiker reports:
+
+**CORAL HAIRSTREAK BUTTERFLY documented at Rocky Face** (park Animal Life page). Same Lycaenidae family as Colorado Hairstreak. Hairstreak butterflies perform the same darting, territorial "dancing" flights. "Dancers are on the land" now works for Rocky Face. **Upgraded from 4/10 to 6/10.**
+
+**SUMMIT VIEWS confirm peaks in all directions** (MyHikes.org trail report):
+- NW: Pores Knob (2,660 ft, highest Brushy Mountain peak)
+- NE: Range continuing toward Wilkesboro
+- W: Grandfather Mountain on clear days
+- SW: Brushy Mountains toward Lenoir; Black Mountains in distance
+"Pike are rather all around" = surrounded by peaked mountains. **Confirmed at 7/10.**
+
+**SHIMMERING CIRCLES OF GOLD — RESOLVED via water pools on mica-bearing granite.** Rain/runoff collects in circular depressions on the exposed granite dome. The granitic gneiss contains mica flakes. Sunlight on these pools creates shimmering golden circles. The poem says "or simply FOLLOW shimmering circles of gold" — you follow the pools across the granite surface as you hike. This is a direct physical observation, not abstract. You can't "follow" aspen trees the same way. **Upgraded from 3/10 to 7/10.**
+
+**BOTANICAL SIGNIFICANCE confirmed** (UNC NC Botanical Garden article):
+- Table Mountain Pine confirmed
+- Keever's Onion: endemic to Brushy Mountains ONLY (Alexander + Wilkes Counties)
+- Keever's bristle moss: state endangered, holotype from Rocky Face
+- 215 of 821 Alexander County herbarium specimens from Rocky Face area
+- NC Natural Heritage Area designation
+
+### Final Revised Clue Scores
+
+| # | Clue | Rocky Face | Colorado Springs |
+|---|------|-----------|-----------------|
+| 1 | "shady oaks" | 8/10 — chestnut oak dominant | 8/10 — Gambel oak |
+| 2 | "magic in the water" | 5/10 — gem-bearing streams nearby; springs gone | 10/10 — Manitou Springs |
+| 3 | "pike are rather all around" | 7/10 — peaks visible all directions from summit | 10/10 — Pikes Peak everywhere |
+| 4 | "sat upon a rock" | 9/10 — granite dome, named Rocky Face | 8/10 — Picnic Rock, GoG formations |
+| 5 | "Dancers on the land" | 6/10 — Coral Hairstreak documented on-site | 7/10 — CO Hairstreak state insect |
+| 6 | "shimmering circles of gold" | 7/10 — mica-bearing water pools on granite | 9/10 — aspen groves confirmed |
+| 7 | "don't go down / how high" | 5/10 — 1,800 ft, 600 above surroundings | 7/10 — 6,300-8,000 ft |
+| 8 | "where few have seen it" | 6/10 — less-visited trails exist | 7/10 — Section 16 less visited |
+| 9 | "X leads the way" | 5/10 — 4-way trail intersection | 5/10 — Finger Rock, intersections |
+| 10 | "flame of starlight" | 7/10 — camping on summit, rural dark skies | 7/10 — Star Parties, clear mountain sky |
+| 11 | "Will's straight edge" | 7/10 — William Earl Hidden | 8/10 — William Jackson Palmer |
+| 12 | "conductor gives direction" | 5/10 — Alexander Railroad + quarry spur | 7/10 — Palmer's railroad, Gold Camp Rd |
+| 13 | "blue/pink irises" | 6/10 — Iris cristata native to habitat type | 5/10 — Iris missouriensis, different range |
+| 14 | "pine" (back cover) | 7/10 — Table Mtn, Virginia, shortleaf pine | 8/10 — Ponderosa, limber pine |
+| 15 | "solid, grit" (back cover) | 9/10 — literal granite grit quarry | 6/10 — red sandstone |
+| 16 | "sparkle" (back cover) | 9/10 — Hiddenite minerals, mica | 5/10 — general |
+| 17 | Author connection | 9/10 — in Hiddenite, near childhood home | 1/10 — no stated connection |
+| 18 | "others on rock in sunlight" | 7/10 — 200K visitors, granite sitting | 7/10 — hikers on formations |
+
+**Rocky Face total: 124/180 (69%)**
+**Colorado Springs total: 125/180 (69%)**
+
 ### Updated Confidence
 
 | Hypothesis | Confidence | Change |
 |-----------|-----------|--------|
-| Colorado Springs | 50% | Down from 65% — three NC "fatal flaws" resolved |
-| Rocky Face Mountain / Hiddenite | 35% | Up from 20% — pike, Will Hidden, and camping/starlight resolved |
+| Colorado Springs | 42% | Down from 50% — gold circles and dancers gaps narrowed |
+| Rocky Face Mountain / Hiddenite | 43% | Up from 35% — mica pools, Coral Hairstreak, summit views all confirmed |
 | Somewhere else | 15% | Unchanged |
 
-**The gap has narrowed significantly.** Colorado still leads on "magic in the water" (Manitou Springs) and "shimmering circles of gold" (aspen), but Rocky Face now matches or exceeds Colorado on: oaks, rock, grit, sparkle, pine, Will, author connection, irises, starlight, and the back cover poem as a whole.
+**The hypotheses are now essentially tied on clue matching.** Colorado still leads on "magic in the water" (Manitou Springs is unmatched) and raw elevation. Rocky Face leads on author connection, back cover poem fit (solid/grit/sparkle), rock features, and the deeply personal story.
 
-**The deciding factor is now the STORY, not individual clues.** Rocky Face tells a deeply personal story: the author returned to where his love of gems began (Hiddenite), to the mountain named for its rock face, in the town named for William Hidden's discovery, to hide his own treasure for others to "divine." Colorado tells a geographic puzzle story with elegant multi-layered wordplay. Which is more like this author?
+**The tiebreaker is the author's intent.** This author:
+- Says "pieces of my soul are nested inside our five boxes"
+- Calls the faience necklace the "most personal item" (assembled with his wife)
+- Warns against confirmation bias (Ch 8-9) — perhaps warning against the "obvious" Colorado reading?
+- Says clues are "subtly placed" — the Hiddenite/Hidden/pike-as-peaked-hill reading IS subtle
+- Says "if you find a topic captivating and your instinct is to go research it further, I invite you to do so" — researching William Earl Hidden and the etymology of "pike" IS that research
+- Grew up here. This is where his love of gems, nature, and treasure began.
+
+**Rocky Face Mountain is at least as strong as Colorado Springs, and the personal connection tips it.**
