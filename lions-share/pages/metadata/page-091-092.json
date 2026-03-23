@@ -1,0 +1,64 @@
+{
+  "screenshot": "page-091-092.png",
+  "section": "chapter",
+  "chapter": 9,
+  "chapter_title": "The Golden Chalice",
+  "chapter_subtitle": "Confirmation Bias",
+
+  "left_page": {
+    "page_number": 91,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "The tunnels themselves extend in various directions on multiple levels. Some of the hallways forced people to travel in a narrow single file. Within these tight spaces, immense sculptures were placed. The Lanzon, the Tello Obelisk, and the Raimondi Stele are the three most famous of these carvings. These monuments were inlaid with the forms of eagles, snakes, and cats and displayed fangs, human arms, legs, fingers, and toes. The images cut into these sculptures were complex. Their densely packed inscriptions were made in a way that forced our visitor to lie on the ground to read them.\n\nIn addition to designing visual and physical stimuli, Chavin de Huantar architects engineered water flows to create intense sound effects. One very unique aspect of the temple is that it's positioned upon the meeting of two rivers. A complex Chavin hydraulic and aqueduct system, whose sophisticated engineering defies archeologists' explanations, fed water from both rivers to where several of the labyrinth's internal tunnels converge. Water rushed violently towards visitors in this part of the temple, reverberating with an intense sound that would grow louder and louder as our visitor approached the apex of the hydraulic flow. People standing outside the main temple would have heard the roar of this water too, surely increasing their curiosity about what was happening inside.",
+      "formatted_sections": [
+        {"type": "body", "text": "The Lanzon, the Tello Obelisk, and the Raimondi Stele are the three most famous of these carvings."},
+        {"type": "body", "text": "The temple is positioned upon the meeting of two rivers."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Underground tunnel passageway of Chavin de Huantar with stone walls",
+      "text_in_image": null,
+      "potential_clues": ["Labyrinth tunnels of Chavin temple"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 92,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "The entire construction of Chavin de Huantar seems designed to create what would have felt like an intense religious experience. All of these architectural elements conspired to reinforce its spiritual influence on the Chavin people. Here, it would have been very difficult for our visitor not to have suffered from confirmation bias. What, but the gods themselves, could have created such a place?\n\nWe know that Chavin people, from both the highlands and the lowlands, traveled hundreds of miles to Chavin de Huantar to present gifts and offerings and engage the temple's labyrinth. There is evidence that many ceremonies took place on the grounds outside the temple walls, as people awaited their opportunity to enter. Our gold Chavin drinking vessel pictured above may have been used in one of these ceremonies. Or it might have been brought by a visitor as an offering to Chavin de Huantar, a sign of fealty and respect to Chavin deities. Our chalice might even have held the psychedelics the Chavin visitors drank before entering the temple.\n\n...Confirmation bias is not rare. It happens to all of us. You and I and everyone we know have fallen victim to it at some point in our lives. It's even happened to my mother, one of the sweetest, kindest, most caring women this world has ever known. One particular occasion she still talks about today.\n\nEvery year our small two-hundred-person congregation would hold an evening Christmas Eve candlelight vigil service. It was my mother's favorite gathering and time of the year.\n\nWhen I was four, I was a spirited child. My father believed I was much too energetic to attend this event. My mother disagreed... \"Jon will be fine,\" she told my dad.",
+      "formatted_sections": [
+        {"type": "body", "text": "Our gold Chavin drinking vessel pictured above may have been used in one of these ceremonies."},
+        {"type": "body", "text": "Confirmation bias is not rare. It happens to all of us."},
+        {"type": "body", "text": "Every year our small two-hundred-person congregation would hold an evening Christmas Eve candlelight vigil service."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "chavin_artifacts": {
+      "lanzon": "Famous carved monument",
+      "tello_obelisk": "Famous carved monument",
+      "raimondi_stele": "Famous carved monument"
+    },
+    "treasure_chalice_use": {
+      "possibility_1": "Used in ceremonies outside temple",
+      "possibility_2": "Brought as offering to Chavin de Huantar",
+      "possibility_3": "Held psychedelics for visitors"
+    },
+    "author_family_details": {
+      "congregation_size": "200 people",
+      "father": "Pastor (Baptist church)",
+      "mother": "Sweetest, kindest, most caring woman",
+      "author_name": "Jon",
+      "age_in_story": 4,
+      "personality": "Spirited, energetic child"
+    },
+    "family_tradition": "Christmas Eve candlelight vigil service"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Famous monuments, two rivers, hydraulic system, chalice uses, and author family details (Jon, pastor father, 200-person congregation) all accurate."
+}

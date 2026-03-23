@@ -1,0 +1,73 @@
+{
+  "screenshot": "page-080-081.png",
+  "section": "chapter",
+  "chapter": 8,
+  "chapter_title": "Beauty's Bespoken Treasures",
+  "chapter_subtitle": "Know the Past, See the Future",
+
+  "left_page": {
+    "page_number": 80,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "Eventually, awards flooded in from all over. Charles Loloma won first prize seven consecutive years at the Scottsdale National Indian Art Exhibition alone... In 1962, Charles created a bracelet incorporating ironwood. Charles said his bracelet-stacking techniques were influenced by trips he'd made to New York City. Those pieces were inlaid in a way that looked like a cityscape. These ironwood bracelets would become his most prized pieces of jewelry. At the time Charles designed this bracelet, now in our treasure, most Native American jewelry consisted of traditional silver and turquoise designs that are still common today... In 1963, Charles was invited to Paris where his jewelry was featured on Parisian fashion runways. In 1964, President Lyndon Johnson gifted one of Charles' necklaces to the Queen of the Netherlands... Olgivanna Wright, wife of Frank Lloyd Wright, commissioned two bracelets from Charles. When Charles cast the first bracelet, he made an error that",
+      "formatted_sections": [
+        {"type": "body", "text": "Charles Loloma won first prize seven consecutive years at the Scottsdale National Indian Art Exhibition"},
+        {"type": "body", "text": "In 1962, Charles created a bracelet incorporating ironwood"},
+        {"type": "body", "text": "At the time Charles designed this bracelet, now in our treasure..."},
+        {"type": "body", "text": "President Lyndon Johnson gifted one of Charles' necklaces to the Queen of the Netherlands"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Charles Loloma ironwood bracelet with turquoise, lapis, fossil, coral, and gold inlay",
+      "text_in_image": null,
+      "potential_clues": ["Loloma ironwood bracelet in treasure - valued $27,000+"]
+    }],
+    "sidebar": {"text": "This bracelet in our treasure is an example of Charles Loloma's ironwood design. This bracelet is made of ironwood, turquoise, lapis, fossil, coral, and gold. Its estimated value is over $27,000", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 81,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "...left a hole in the metal's design. Charles showed his mistake to Mrs. Wright. She asked if he would put a stone in the hole rather than throw the bracelet away. Charles loved Olgivanna's suggestion so much that this initial blunder became an inspiration for future pieces. Charles' stone inlay technique became his second signature creation.\n\nDespite all of his commercial success, Charles Loloma continued to live in Hotevilla. His home was one of many tightly clustered homes on the Hopi reservation. Home with no running water, phones, or electricity. Charles tended the fields and played music. He mimed as a clown to entertain the children. He enjoyed the majestic land around him which inspired his art. When asked what he wanted to be remembered for, Charles simply said \"I'd like to be known for beauty.\" Appropriately, the name Loloma means beauty.\n\n\"His house sits right on the edge of Hopi, so when you look out there you see the vastness . . . Charles was that way, he was just so vast.\"\n—DEBBIE DRYE (HOPI TRIBE)\n\nCharles' artwork was always influenced by his love for the Hopi land. \"I wish to create a relationship between the earth and myself,\" Charles said. Reflecting on a rock he'd picked from the ground, he remarked, \"I want to",
+      "formatted_sections": [
+        {"type": "body", "text": "Charles Loloma continued to live in Hotevilla."},
+        {"type": "body", "text": "Appropriately, the name Loloma means beauty."},
+        {"type": "quote", "text": "His house sits right on the edge of Hopi, so when you look out there you see the vastness...Charles was that way, he was just so vast.", "attribution": "Debbie Drye (Hopi Tribe)"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": true, "emphasized_text": []},
+    "images": [{
+      "description": "Two Charles Loloma silver rings with mixed inlay",
+      "text_in_image": null,
+      "potential_clues": ["Two Loloma rings in treasure"]
+    }],
+    "sidebar": {"text": "There are two Charles Loloma silver rings in our treasure. The larger ring pictured above, or page 80, is made with lapis lazuli, turquoise, and coral... The ring pictured here features a sapphire set above traditional Hopi inlay - masonite, turquoise, lapis, fossil, coral, and ironwood", "style": "red_italic"}
+  },
+
+  "key_elements": {
+    "loloma_achievements": {
+      "awards": "Seven consecutive first prizes at Scottsdale National Indian Art Exhibition",
+      "year_1962": "Created ironwood bracelet (now in treasure)",
+      "year_1963": "Paris fashion runways",
+      "year_1964": "President LBJ gifted necklace to Queen of Netherlands"
+    },
+    "olgivanna_wright": {
+      "relation": "Wife of Frank Lloyd Wright",
+      "contribution": "Inspired stone inlay technique when she suggested putting stone in mistake hole"
+    },
+    "hotevilla": {
+      "description": "Where Charles Loloma lived",
+      "conditions": "No running water, phones, or electricity",
+      "location": "On the edge of Hopi reservation"
+    },
+    "treasure_items": {
+      "ironwood_bracelet": {"materials": "Ironwood, turquoise, lapis, fossil, coral, gold", "value": "Over $27,000"},
+      "two_silver_rings": {"materials": "Lapis lazuli, turquoise, coral, sapphire, masonite, fossil, ironwood"}
+    },
+    "loloma_meaning": "Loloma means 'beauty'"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Both sidebars confirmed - ironwood bracelet ($27K) and two silver rings. Hotevilla, Loloma='beauty', LBJ gift, Olgivanna Wright all accurate."
+}

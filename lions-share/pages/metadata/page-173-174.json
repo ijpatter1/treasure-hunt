@@ -1,0 +1,58 @@
+{
+  "screenshot": "page-173-174.png",
+  "section": "chapter",
+  "chapter": 20,
+  "chapter_title": "The Six-Figure Birthstone",
+  "chapter_subtitle": "Choosing a New Perspective",
+
+  "left_page": {
+    "page_number": 173,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Elegant pink flowers (possibly poppies or similar) with long stems against pale background, artistic botanical illustration style",
+      "text_in_image": null,
+      "potential_clues": ["Flowers/garden imagery", "Pink color"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 174,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "treasure were obvious immediately. Other pieces required deliberation. Several objects showed up with serendipity. But every item was ultimately selected with a purpose and intent.\n\nIn the beginning, there were two ideas for pieces that fit all the criteria for our treasure that I deliberately left off my wish list. Both ideas were personal. Each made logical additions. But I dismissed them entirely. Why? Well, because I was clinging to some old perspectives as ferociously as if I were a lion atop a mountain of decaying catnip.\n\nIn chapter four, I shared a memory when, as a kid, I dug vigorously in the dirt looking for beautiful crystals. I spent a lot of afternoons in that empty lot. As you already know, small chunks of dark smokey quartz were mostly all I found. But this was my earliest memory of feeling as if I was really searching for physical treasure.\n\nIt made perfect sense, then, for me to set out to acquire a special item for our treasure made from smokey quartz as an homage to that memory. Indeed, it would not have been difficult to do so. I knew that many pieces of fine quality Asian art were carved from smokey quartz. I was well aware that Fabergé used smokey quartz crystal in many of its fine pieces, too. And even Rob Lavinsky had shown me several specimens of smokey quartz worth substantial amounts in his rare signature collections.\n\nBut sometime during those many days spent in that empty lot, a powerful association was formed. Since smokey quartz was all I was finding, this particular type of crystal came to represent disappointment and unrewarded toil. And as the years went by, whenever I encountered smokey quartz, those feelings from long ago rose to the surface, as if no time had passed at all. So, when I initially thought of adding smokey quartz to our treasure, I wasn't interested. I kinda thought the idea sucked.\n\nBut then you and I got lucky. It took some very fortunate timing and a little ignorance for me to develop a new perspective on this topic. One day, as I was browsing through a private collection looking for something completely different, I came across a large gemstone that was truly breathtaking. I had no idea what kind of stone it was, only that it was enormous in size. My initial response was \"Wow, this thing is incredible! What is that?\" By the time I read its description and saw it was a smokey quartz, the brain synapse that normally receives an image from my retina and then scoffs at it had somehow been rent inoperable. The change in my long-held perspective was now fait accompli. I saw beauty in smokey quartz for the very first time.\n\nIn a way, it all felt like a reprieve. The experience of finding a new perspective can be joyous. A fresh realization feels a bit like magic. A shift in perspective requires an opening of one's mind (and often one's heart), and there is a sense of freedom found in that. The angles at which Mark Oros cut this stone allow a tremendous amount of light to reflect into it. Similarly, where there is an intersection of changing perspectives, the light that brings clarity pours in, as well.\n\nMy brand new enthusiasm for smokey quartz kindled a desire in me to discover more shifts in perspective. I began to ponder why I was holding onto this bias in the first place. I realized I had been lying to myself. I'd been",
+      "formatted_sections": [
+        {"type": "body", "text": "In chapter four, I shared a memory when, as a kid, I dug vigorously in the dirt looking for beautiful crystals"},
+        {"type": "body", "text": "Small chunks of dark smokey quartz were mostly all I found"},
+        {"type": "body", "text": "Smokey quartz came to represent disappointment and unrewarded toil"},
+        {"type": "body", "text": "Mark Oros cut this stone - angles allow tremendous amount of light to reflect"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [],
+    "sidebar": {
+      "text": "This fancy smokey quartz is titled \"Breath of Heaven\" by Derek Grasso. Grasso creates an exercise in shifting perception. This piece is not in our treasure.\n\n© Derek Grasso All rights reserved",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "chapter_4_callback": "Reference to childhood memory of digging for crystals in empty lot",
+    "perspective_shift_1": {
+      "item": "Smokey quartz",
+      "old_view": "Represented disappointment and unrewarded toil",
+      "trigger": "Saw Mark Oros cut stone without knowing what it was",
+      "new_view": "Saw beauty for the first time"
+    },
+    "gemstone_artists": {
+      "mark_oros": "Cut the 201 carat Imperial Brilliant smokey quartz",
+      "derek_grasso": "Created 'Breath of Heaven' smokey quartz (NOT in treasure)"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Pink flowers botanical illustration, two ideas left off wish list, 'clinging to some old perspectives as ferociously as if I were a lion atop a mountain of decaying catnip', Chapter 4 callback (digging for crystals, smokey quartz found), negative association ('disappointment and unrewarded toil'), perspective shift (saw beauty in private collection without knowing stone type), 'I saw beauty in smokey quartz for the very first time', Mark Oros cut stone angles allow light reflection, sidebar 'Breath of Heaven' by Derek Grasso NOT in treasure all accurate."
+}

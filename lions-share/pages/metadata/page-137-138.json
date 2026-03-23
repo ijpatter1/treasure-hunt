@@ -1,0 +1,54 @@
+{
+  "screenshot": "page-137-138.png",
+  "section": "chapter",
+  "chapter": 15,
+  "chapter_title": "1960 Rome Olympic Gold Medal",
+  "chapter_subtitle": "Don't Give Up",
+
+  "left_page": {
+    "page_number": 137,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ing to train with him at Tennessee State. They agreed to let her go.\n\nWith memories of her experience at Tuskegee still vivid in her mind, Wilma developed a rigorous training regime under Ed Temple's guidance. \"I acquired this sense of determination, this sense of spirit that I would never, never give up, no matter what else happened.\" She ran for hours a day, weeks, and months on end. Her technique slowly began to catch up to her natural skill. After just one year of training, Wilma was invited to compete against college track stars at the U.S. Olympic trials in Seattle, Washington. She was barely sixteen years old.\n\nIn Seattle, Wilma Rudolph qualified for the 1956 Melbourne Olympics in the 200-meter dash and the 400-meter relay. It was a stunning accomplishment. Wilma had earned her place to represent the United States in Australia. Ed Temple remained at home, as he was not invited to be a part of the U.S. coaching staff. Without Ed, the 1956 Olympics proved almost too large a stage for the young girl from Clarksville, Tennessee.\n\nDespite her talent, Wilma failed to make it past the second round of qualifying in the 200-meters. Wilma fell into despair at her loss. She lay in bed. She could not eat or sleep. Despite what she had already overcome, Wilma believed she had let her country down. She felt like a failure. But eventually she composed herself, returned to the track, and earned a surprise bronze medal with her teammates in the 400-meter relay. Then she forced herself to go to the stadium and watch the final gold medal race in the 200-meter dash. There, Wilma witnessed eighteen-year-old Australian runner Betty Cuthbert win the gold. Wilma realized in that moment that she had an opportunity in four years to do just what she'd seen Cuthbert do. She set her eyes on the 1960 Rome Olympics. When she returned to Tennessee, Wilma and Ed set an entirely new training strategy into motion.\n\nWilma led her basketball team to a state championship her junior year. But during practice sessions heading into her senior year, Wilma began to gain weight and suffer debilitating fatigue. Fearing something was seriously wrong, Wilma went to the doctor. He informed her she was pregnant. Wilma was shocked and scared. Ed Temple had a strict no-mothers policy on his track team, and Wilma feared she would lose everything she had trained for. However, Ed made an exception to his no-mothers rule and, just a few weeks after her daughter Yolanda was born, Wilma Rudolph officially enrolled at Tennessee State College.\n\nEven though she had just given birth, Wilma now ran faster than ever. She traveled the next year to Texas for the national AAU U.S. Track and Field meet in preparation for the Olympic trials. There, Wilma established herself as a favorite for the 1960 Olympics, setting a new world record time in the 200-meter dash. A couple weeks later at the Olympic trials, Wilma officially qualified for the 100-meter, 200-meter, and 400-meter relays. At the age of twenty, only eight years freed from her leg brace, Wilma had earned a place in her second Olympics.\n\nHowever, disaster struck in Rome the day prior to her first scheduled Olympic meet. As temperatures swelled to a hundred degrees, Wilma and a",
+      "formatted_sections": [
+        {"type": "body", "text": "After just one year of training, Wilma was invited to compete against college track stars at the U.S. Olympic trials in Seattle, Washington."},
+        {"type": "body", "text": "She set her eyes on the 1960 Rome Olympics."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 138,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Black and white action photo of Wilma Rudolph running/hurdling at Olympics",
+      "text_in_image": null,
+      "potential_clues": ["Wilma Rudolph Olympic photo"]
+    }]
+  },
+
+  "key_elements": {
+    "wilma_olympics_journey": {
+      "1956_melbourne": {
+        "age": 16,
+        "events": ["200-meter dash", "400-meter relay"],
+        "result": "Bronze medal in relay, didn't advance in 200m"
+      },
+      "preparation_for_1960": {
+        "world_record": "200-meter dash at AAU U.S. Track and Field meet in Texas",
+        "qualified_events": ["100-meter", "200-meter", "400-meter relays"]
+      },
+      "daughter": "Yolanda - born before Wilma enrolled at Tennessee State"
+    },
+    "geographic_references": ["Seattle, Washington", "Melbourne, Australia", "Tennessee State College", "Texas", "Rome"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. 1956 Melbourne (age 16 Seattle trials, 200m/400m relay, bronze), Betty Cuthbert inspiration, pregnancy/daughter Yolanda, Ed Temple exception, Texas AAU world record 200m, 1960 qualifications (100m/200m/400m), age 20 eight years post-brace, Wilma action photo all accurate."
+}

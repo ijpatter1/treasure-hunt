@@ -1,0 +1,60 @@
+{
+  "screenshot": "page-191-192.png",
+  "section": "chapter",
+  "chapter": 22,
+  "chapter_title": "Picasso's Pendant",
+  "chapter_subtitle": "A Love Story",
+
+  "left_page": {
+    "page_number": 191,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "than \"with love.\" Despite his marriage, Picasso had a number of public mistresses. These women became widely known because he painted each woman several times in his works and referred to each as his muse. And while the curvatures of their bodies might have helped inspire his art, his relationships with these mistresses mostly resulted in scandals, heartbreak, outcries, and the end of his first marriage.\n\nAs he displayed through his numerous public affairs, Picasso had an egocentric attitude towards relationships of the heart. Even into his seventies, his fame brought him no shortage of female admirers. Yet, Picasso's desire to create art seemed to continually outpace any desire he might have for building any intimate long-term relationship.\n\nThen, one summer day in Madoura, France, Pablo met Jacqueline.\n\nJacqueline Roque was just twenty-five when Pablo noticed her as a new part-time employee working in his ceramic studio. The weather wasn't particularly beautiful in Madoura that day. No birds were singing. The flowers were well past the peak of their bloom. Yet idyllic conditions were not required for Jacqueline to get Pablo's attention. She was alluring, stoic, and strong. He was smitten the very first moment he laid eyes upon her. And it did not take Picasso long to let Jacqueline know it.\n\nUsing his trademark confident charm, Pablo asked Jacqueline out to dinner. Being bold generally worked for Picasso both with his paintings or other pursuits. It was said by many that Picasso had a famously hungry stare that made the spines of men and women tingle, alike. But this time, after he made his direct offer to Jacqueline and locked eyes with her, she looked back and declined politely. It wasn't so much that Picasso was forty-seven years her elder. Jacqueline had recently divorced and wasn't looking to jump into anything new. Jacqueline was also wise. She knew full well Picasso's reputation in matters of the heart.\n\nPicasso might have taken such a rejection in stride, moved on with his busy life, and forgotten all about Jacqueline's dismissal. But as he lay in bed that night, Pablo could not extract Jacqueline Roque from the contours of his mind. There was a very special something about this woman. In lieu of sleeping, Pablo devised a plan.\n\nPicasso knew Jacqueline was a fan of his artwork. She had applied for a position in his store, no less. So, he found her address, grabbed a bag of chalk, and made his way to Jacqueline's home. Without invitation, Picasso walked up to her house and began drawing. There, he drew a large chalk mural of a dove upon her home. It was a daring stroke but not out of character for Pablo Picasso. His gesture surprised and flattered Jacqueline. She thought the dove was beautiful. But she declined his second invitation to dinner.",
+      "formatted_sections": [
+        {"type": "body", "text": "Then, one summer day in Madoura, France, Pablo met Jacqueline."},
+        {"type": "body", "text": "Jacqueline Roque was just twenty-five"},
+        {"type": "body", "text": "Picasso was forty-seven years her elder"},
+        {"type": "body", "text": "Picasso drew large chalk mural of dove on her home"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 192,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "The next day, Pablo ventured back to her home and knocked on her door. When she opened it, he presented Jacqueline with a single red rose. She smiled and accepted the flower, then closed the door in his face. The following day, Picasso arrived again at Jacqueline's house. Again, he presented her with a rose. Again, she declined any invitation for anything more. This routine continued day after day. Days became weeks. Weeks turned into months.\n\nSeeing Jacqueline at her home had only enhanced the feelings Picasso had begun to have towards her. Jacqueline now fully resided in his nervous system. Picasso came up with a new idea: one more subtle than decorating Jacqueline's home with chalk, but just as brave.",
+      "formatted_sections": [
+        {"type": "body", "text": "He presented Jacqueline with a single red rose"},
+        {"type": "body", "text": "This routine continued day after day. Days became weeks. Weeks turned into months."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Cubist-style painting/mural showing abstract geometric figures and a house",
+      "text_in_image": null,
+      "potential_clues": []
+    }],
+    "sidebar": {
+      "text": "A cubist-style design of a house with a dove mural",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "picasso_jacqueline_story": {
+      "meeting_place": "Madoura, France",
+      "her_age": 25,
+      "age_difference": "47 years older",
+      "her_job": "Part-time employee in Picasso's ceramic studio",
+      "picasso_actions": [
+        "Drew chalk dove mural on her house",
+        "Brought her single red rose every day for months"
+      ]
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Picasso's mistresses and reputation (scandals, heartbreak), 'one summer day in Madoura, France, Pablo met Jacqueline', Jacqueline Roque age 25, part-time employee at ceramic studio, Picasso 47 years older, 'alluring, stoic, and strong', declined dinner invitation, Picasso drew large chalk dove mural on her house, presented single red rose daily, 'Days became weeks. Weeks turned into months.', cubist illustration of house with dove mural all accurate."
+}

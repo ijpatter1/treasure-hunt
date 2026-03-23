@@ -1,0 +1,50 @@
+{
+  "screenshot": "page-026-027.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 26,
+    "content_type": "image",
+    "transcription": {"raw_text": "", "formatted_sections": []},
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [
+      {
+        "description": "Four ancient gold rings with gemstones displayed vertically - ornate antique style with beaded borders and colored center stones",
+        "text_in_image": null,
+        "potential_clues": ["Ancient Southeast Asian rings", "From Tuyet Nguyet collection"]
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 27,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 2\n\nTHE 100 GOLD RINGS OF TUYET NGUYET\n\nDon't Wing It\n\nIt usually takes me more than three weeks to prepare a good impromptu speech.\n—MARK TWAIN\n\nIt's better to look ahead and prepare, than to look back and regret.\n—JACKIE JOYNER-KERSEE\n\nBoy, I took a lot of electives in college. I enjoyed learning about many topics. Too bad there was never a class offered called Life Preparation 101...",
+      "formatted_sections": [
+        {"type": "chapter_number", "text": "CHAPTER 2", "style": "red_circle"},
+        {"type": "chapter_title", "text": "THE 100 GOLD RINGS OF TUYET NGUYET", "style": "large_caps"},
+        {"type": "chapter_subtitle", "text": "Don't Wing It", "style": "handwritten_red"},
+        {"type": "quote", "text": "It usually takes me more than three weeks to prepare a good impromptu speech.", "attribution": "MARK TWAIN"},
+        {"type": "quote", "text": "It's better to look ahead and prepare, than to look back and regret.", "attribution": "JACKIE JOYNER-KERSEE"},
+        {"type": "sidebar", "text": "(Opposite Page) Shown here are four rings in our treasure from Tuyet Nguyet's collection. @ Sotheby's Hong Kong Limited", "style": "red_italic"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Don't Wing It", "style": "handwritten_red"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_items": "Four gold rings from Tuyet Nguyet collection (Sotheby's Hong Kong)",
+    "theme": "Preparation, not winging it",
+    "quotes": [
+      {"text": "It usually takes me more than three weeks to prepare a good impromptu speech.", "author": "Mark Twain"},
+      {"text": "It's better to look ahead and prepare, than to look back and regret.", "author": "Jackie Joyner-Kersee"}
+    ]
+  },
+
+  "verification_notes": "Verified against screenshot. Four rings visible (not one). Both quotes confirmed. Sotheby's Hong Kong sidebar confirmed. Notes file had errors corrected."
+}

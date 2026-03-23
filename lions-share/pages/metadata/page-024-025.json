@@ -1,0 +1,61 @@
+{
+  "screenshot": "page-024-025.png",
+  "section": "chapter",
+  "chapter": 1,
+  "chapter_title": "The 120 Carat Sapphire",
+  "chapter_subtitle": "A Plan That Changed the World",
+
+  "left_page": {
+    "page_number": 24,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "The image in red shows what our sapphire appears like under ultraviolet light.",
+      "formatted_sections": [
+        {"type": "sidebar", "text": "The image in red shows what our sapphire appears like under ultraviolet light.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_sidebar": true,
+      "emphasized_text": []
+    },
+    "images": [
+      {
+        "description": "Three views of the 120-carat sapphire: top view shows blue crystal, middle shows reddish appearance under UV light, bottom shows another angle of the blue crystal",
+        "text_in_image": null,
+        "potential_clues": ["UV light reveals different appearance", "Three different perspectives of same stone"]
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 25,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "out, and organize them. Sometimes it takes a while for an entire plan to come fully into focus. The same holds true with most things we pursue. Without a roadmap, it's easy to aimlessly wander.\n\nBack in my son's room, my thoughts had also begun to drift. I found myself reflecting on my role as a father. My wife Kimberly and I have always agreed that it is important to have a well-thought-out parenting strategy. We want to be intentional about how we raise our kids and the values we want to teach. Kindness, generosity and integrity are at the top of our list.\n\nFor me, the stakes of parenthood can often feel high, and parenting well can at times seem a monumental task. But being a good dad is a treasure I will pursue every day. It's amusing how a child, whilst remaining completely unaware, can effortlessly make his dad contemplate such weighty topics. But I'll take those reminders however they come. I realize with a father and his child, it's essential to have a plan, and I aim with each new moment to continue to refine it.\n\nIf Mike Scott and my son show us that the first step in treasure hunting is to formulate a map, the likely second step is one of readying ourselves as much as possible to put our planning into action. Throughout this book, you will read stories of women and men who developed expert skills and achieved extraordinary accomplishments. Many of them are famous. Most of them crafted or owned at least one item in our treasure. Certainly, each one of these people understood the value of preparation. While most of these people have more recognizable names, none of them prepared themselves more diligently in their field of expertise than the woman in our next chapter.\n\nTuyet Nguyet spent over fifty years of her life cultivating her knowledge of rare art. The culmination of her work led her to collect many valuable and unique assets. Happily for us, over a dozen of the objects she acquired now reside in our treasure.",
+      "formatted_sections": [
+        {"type": "body", "text": "Without a roadmap, it's easy to aimlessly wander."},
+        {"type": "body", "text": "My wife Kimberly and I have always agreed that it is important to have a well-thought-out parenting strategy."},
+        {"type": "body", "text": "Kindness, generosity and integrity are at the top of our list."},
+        {"type": "body", "text": "If Mike Scott and my son show us that the first step in treasure hunting is to formulate a map, the likely second step is one of readying ourselves as much as possible to put our planning into action."},
+        {"type": "transition", "text": "Tuyet Nguyet spent over fifty years of her life cultivating her knowledge of rare art. The culmination of her work led her to collect many valuable and unique assets. Happily for us, over a dozen of the objects she acquired now reside in our treasure."}
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "emphasized_text": []
+    },
+    "images": []
+  },
+
+  "key_elements": {
+    "theme": "Planning, preparation, parenting values",
+    "author_personal": ["Wife Kimberly", "Values: kindness, generosity, integrity"],
+    "chapter_lesson": "First step in treasure hunting is to formulate a map, second step is readying ourselves",
+    "transition_to_chapter_2": "Tuyet Nguyet - over 50 years cultivating rare art knowledge, over a dozen objects in treasure"
+  },
+
+  "verification_notes": "Verified against screenshot. Three sapphire views (blue, red UV, blue angle) confirmed. Sidebar about UV light accurate. Parenting values and Tuyet Nguyet transition text verified."
+}

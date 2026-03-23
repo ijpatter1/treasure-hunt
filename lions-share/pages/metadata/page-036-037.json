@@ -1,0 +1,54 @@
+{
+  "screenshot": "page-036-037.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 36,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "This intricately carved gold ring in our treasure is from Champa around the 14th century. In its center is a glowing blue sapphire.",
+      "formatted_sections": [{"type": "sidebar", "text": "This intricately carved gold ring in our treasure is from Champa around the 14th century. In its center is a glowing blue sapphire.", "style": "red_italic"}]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "has_sidebar": true, "emphasized_text": []},
+    "images": [{"description": "Large ornate gold ring with blue sapphire, intricately carved, from Champa 14th century", "text_in_image": null, "potential_clues": ["Champa origin", "14th century", "Blue sapphire"]}]
+  },
+
+  "right_page": {
+    "page_number": 37,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Whether it was the Champa's careful study of attack and defense, the Hindu preparation for the afterlife or the Khmer's intricate building of Angkor, one thing is for sure. None of these cultures were winging it. I reflected on this fact as I held these rings in my hands one last time before placing them in our treasure boxes.\n\nAs I looked down at our rings, I also thought of Tuyet Nguyet. I was filled with gratitude. Nguyet put a tremendous amount of dedication into her career and creating her collection of 100 gold rings. It was as if her care and preparation had somehow conspired to make these alluring rings even more beautiful.\n\nFrom where she began as a journalist to becoming an influential procurer of art, Tuyet Nguyet's trajectory exceeded expectations. Certainly, her career was a far cry from the story about my first job after college graduation. While Nguyet curated beautiful and timeless collections, I amassed recurring nightmares. But hard lessons are sometimes the ones best learned, and I did discover a valuable treasure that night of my wayward presentation. I located a realization that had been completely hidden from me—if I really wanted something of worth, I needed to respect myself enough to properly plan and prepare in order to achieve it.\n\nIf you are reading this book hoping to find the treasures I have hidden, I believe Tuyet Nguyet might suggest not to wing this. She'd probably advise to not rush through these pages. She might encourage you to get to know these stories, to consider their content, and to not dismiss any details. She might even say this is a good strategy when looking for anything we seek. I agree. This principle holds true with most any treasure we pursue. The more you and I focus on a thing we desire, the more we understand ourselves in relation to it, and the easier it becomes to chart a course to where we need to go. Of course, such focus takes a bit of effort, and it requires being attentive to details.\n\nFor me, this last fact is particularly hard. I find dealing with details to be one of my greatest challenges in life. I have always preferred a 30,000-foot view. Creating this treasure hunt and writing this book, more than anything I have ever done, has forced me to face this weakness of mine head on.\n\nAlthough I've yet to tell him this directly, one of the men in our next chapter helped me by inspiring me through his own work. His meticulous attention to his craft provided an example I could follow. He is a true master of details. He was the one who, with metal and fire, forged each of our five treasure boxes. The precision that went into the creation of each treasure box is truly amazing.\n\nOver the course of eighteen months, Seth Gould showed me firsthand how the act of making something wonderful is rooted in one's willingness to attend to the details that comprise that thing. From the finer points, beauty emerges. I've come to understand that there's a quiet, and elevated, joy in that.",
+      "formatted_sections": [
+        {"type": "body", "text": "None of these cultures were winging it."},
+        {"type": "body", "text": "If you are reading this book hoping to find the treasures I have hidden, I believe Tuyet Nguyet might suggest not to wing this."},
+        {"type": "body", "text": "She might encourage you to get to know these stories, to consider their content, and to not dismiss any details."},
+        {"type": "body", "text": "He was the one who, with metal and fire, forged each of our five treasure boxes."},
+        {"type": "body", "text": "Over the course of eighteen months, Seth Gould showed me firsthand..."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "chapter_lesson": "Don't wing it - plan and prepare, attend to details",
+    "treasure_box_maker": {
+      "name": "Seth Gould",
+      "role": "Forged each of the five treasure boxes with metal and fire",
+      "timeframe": "18 months",
+      "description": "True master of details"
+    },
+    "advice_for_hunters": [
+      "Don't rush through pages",
+      "Get to know the stories",
+      "Consider their content",
+      "Don't dismiss any details"
+    ],
+    "transition_to_chapter_3": "Seth Gould - next chapter subject"
+  },
+
+  "verification_notes": "Verified against screenshot. Champa ring (14th c, blue sapphire) confirmed. Seth Gould details verified: 18 months, metal and fire, forged all 5 boxes. Advice to hunters accurate."
+}

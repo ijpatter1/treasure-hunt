@@ -1,0 +1,56 @@
+{
+  "screenshot": "cover.png",
+  "section": "front_matter",
+  "page_type": "cover",
+
+  "content": {
+    "title": "THERE'S TREASURE INSIDE",
+    "subtitle": "A Treasure Hunt by JON COLLINS-BLACK",
+    "tagline": "A literary project unlike anything else. A true and monumental treasure quest.",
+    "badge": "NATIONAL BESTSELLER",
+    "header_text": "The Forrest Fenn Treasure Box"
+  },
+
+  "images": [
+    {
+      "position": "top_left",
+      "description": "Antique compass on orange/gold background"
+    },
+    {
+      "position": "top_center",
+      "description": "Circular collage including old photograph of person, handwritten text, coin, newspaper clipping mentioning 'Ann Sardo's poem Courage'"
+    },
+    {
+      "position": "top_right",
+      "description": "Sketch of figure wearing hat"
+    },
+    {
+      "position": "center",
+      "description": "Large golden ornate treasure box with decorative patterns"
+    },
+    {
+      "position": "bottom_left",
+      "description": "Green emerald crystal/gem"
+    },
+    {
+      "position": "bottom_left_2",
+      "description": "Topographic map section"
+    },
+    {
+      "position": "bottom_center",
+      "description": "Silhouettes of four hikers walking"
+    },
+    {
+      "position": "bottom_right",
+      "description": "Bitcoin coin symbol"
+    }
+  ],
+
+  "formatting": {
+    "title_style": "large white serif font on dark background",
+    "layout": "diagonal geometric sections with images",
+    "color_scheme": "black, gold, orange, green, red triangular sections"
+  },
+
+  "verification_notes": "Cover design by Richard Ljoenes per copyright page"
+}

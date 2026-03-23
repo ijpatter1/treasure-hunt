@@ -1,0 +1,39 @@
+{
+  "screenshot": "chapter-xxvi-page-2.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "body_text",
+
+  "content": {
+    "header": "JON COLLINS-BLACK",
+    "body_paragraphs": [
+      "In Ready Player One, earth has become a dystopia. Poverty and crime run rampant while tech companies reign over most commodities and commerce. To escape the harsh realities of their doldrums, millions of people escape into OASIS, a vast virtual reality game, filled with worlds upon worlds of adventure. Due to its popularity, OASIS has become the most valuable company in the world.",
+      "Then, unexpected and shocking news arrives. James Halliday, the founder of OASIS, has died, and the entire OASIS company is now available for a new owner.",
+      "But there's a twist. Halliday has placed a set of clues within OASIS, available for any player to discover—ones that lead to a digital Easter egg hidden somewhere inside its vast digital realm. The first player to find this egg will inherit OASIS, a company worth trillions of dollars. With his will and testament, Halliday gives birth to the most valuable treasure hunt in human history. Millions of players begin a massive VR hunt for Halliday's hidden egg.",
+      "If you have read the book, you know that Ernest Cline smartly weaves a tapestry of 1980's references into the clues of the OASIS escapade. Both Cline and the fictional Halliday were born in 1972. And while OASIS is the most expansive, immersive, futuristic VR game the world has ever known, the path to Halliday's Easter egg is actually constructed through the simple nostalgia of his 1980's childhood.",
+      "OASIS players must immerse themselves in '80s trivia and video game action in order to uncover every necessary clue. Wade Watts, the unlikely boy who eventually uncovers Halliday's hidden egg, navigates challenges that involve games such as Pacman, Adventure, Zork, and Dungeons and Dragons. Movies such as WarGames and Monty Python and the Holy Grail also play a vital role.",
+      "Because I happen to be a similar age to Halliday and Cline, reading Ready Player One was like experiencing my own childhood again, in the future. It was so entertaining to read a futuristic sci-fi book with clues and plot points shaped from the past memories of a weird and wondrous 1980's youth.",
+      "The way Ernest Cline wove his favorite childhood games and pop culture references into Ready Player One gave me inspiration. When it came to devising a solve for this treasure box's location, I imagined I too could use games from my childhood to create our solve! But alas, dear reader, I am not a genius like Ernest Cline. I am aware of my limitations. And I certainly would not want to overpromise something epic and then underdeliver and disappoint you.",
+      "However, I was able to remember one game from my childhood that I felt capable of bringing to this book. It's not as fun as Pacman. It's not as imaginative as Dungeons and Dragons. But it is a game I am pretty sure you can excel at. Just don't get upset at me if it's too easy. Remember, I already told you that you are not required to be a genius to find any of our treasures!"
+    ]
+  },
+
+  "formatting": {
+    "background": "black",
+    "text_color": "white/cream",
+    "header": "gold text"
+  },
+
+  "key_elements": {
+    "book_reference": "Ready Player One",
+    "author_reference": "Ernest Cline",
+    "character_references": ["James Halliday", "Wade Watts"],
+    "game_references": ["Pacman", "Adventure", "Zork", "Dungeons and Dragons"],
+    "movie_references": ["WarGames", "Monty Python and the Holy Grail"],
+    "era_focus": "1980s",
+    "birth_year": 1972,
+    "childhood_game_hint": "one game from my childhood"
+  },
+
+  "verification_notes": "Ready Player One discussion leading to puzzle introduction"
+}

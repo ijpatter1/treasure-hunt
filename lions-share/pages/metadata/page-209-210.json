@@ -1,0 +1,76 @@
+{
+  "screenshot": "page-209-210.png",
+  "section": "back_matter",
+  "title": "Acknowledgements",
+
+  "left_page": {
+    "page_number": 209,
+    "content_type": "quotes",
+    "quotes": [
+      {
+        "text": "Slow down and enjoy life. It's not only the scenery you miss by going too fast—you also miss the sense of where you are going and why.",
+        "attribution": "Eddie Cantor"
+      },
+      {
+        "text": "Profound joy of the heart is like a magnet that indicates the path of life.",
+        "attribution": "Mother Teresa"
+      },
+      {
+        "text": "We need joy as we need air. We need love as we need water. We need each other as we need the earth we share.",
+        "attribution": "Maya Angelou"
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 210,
+    "content_type": "acknowledgements",
+    "people_thanked": [
+      {
+        "names": "Ileana, Rosemarie, Thaddeus, Valeria, and Zoe",
+        "role": "Herculean efforts researching histories of all objects in treasure",
+        "note": "Sorted through hundreds of online articles, historical documents, and library reference books"
+      },
+      {
+        "name": "Jamie Biver",
+        "role": "Photographer - keen eye, easy personality, photogenic artistry",
+        "note": "Made the beauty of the items in this treasure come alive"
+      },
+      {
+        "names": "Seth, Angie, and Lauren",
+        "role": "Amazing creations"
+      },
+      {
+        "name": "Rob Lavinsky",
+        "role": "Relentless enthusiasm and energy, exceptional eye for rare minerals and gemstones",
+        "note": "Author values friendship tremendously"
+      },
+      {
+        "names": "Allan Anawati and Nicolas Hugo",
+        "role": "Guidance, grace, and patience with a collecting novice"
+      },
+      {
+        "name": "Susan Szecsi",
+        "role": "Encouragement, pushing to think bigger, publisher and friend"
+      },
+      {
+        "names": "Brian and Bryce",
+        "role": "Poignant feedback"
+      },
+      {
+        "name": "Yohanna",
+        "role": "Helping me locate my north star"
+      },
+      {
+        "name": "Don",
+        "role": "Editor - 'You edit with honesty, kindness and detail. Your hand helped steer this ship so that it did not run aground.'"
+      }
+    ]
+  },
+
+  "key_elements": {
+    "notable_names": ["Rob Lavinsky (minerals)", "Allan Anawati (antiquities)", "Nicolas Hugo (antiquities/Picasso pendant)", "Yohanna (north star)", "Don (editor)"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Page 209: Three quotes in red italic - Eddie Cantor ('Slow down and enjoy life'), Mother Teresa ('Profound joy of the heart is like a magnet'), Maya Angelou ('We need joy as we need air'). Page 210: ACKNOWLEDGEMENTS header, thanks to Ileana/Rosemarie/Thaddeus/Valeria/Zoe (research hundreds of articles/documents), Jamie Biver (photographer 'made beauty come alive'), Seth/Angie/Lauren (amazing creations), Rob Lavinsky (rare minerals enthusiasm, friendship), Allan Anawati and Nicolas Hugo (guidance with collecting), Susan Szecsi (encouragement, publisher), Brian and Bryce (feedback), Yohanna ('helping me locate my north star'), Don (editor 'honesty, kindness and detail') all accurate."
+}

@@ -1,0 +1,45 @@
+{
+  "screenshot": "page-199-200.png",
+  "section": "back_matter",
+  "title": "Some More of Our Treasure Items",
+
+  "left_page": {
+    "page_number": 199,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "116.7 carat pear cut Tanzanite",
+        "description": "First discovered 1967, became December birthstone in 2002",
+        "location": "Found only in one very small region in the world (Tanzania)",
+        "rarity": "Deposits estimated to be completely mined around 2043",
+        "value": "Can be priced up to $3000 plus per carat",
+        "note": "Shape and size would make particularly dazzling pendant"
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 200,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "9.65 carat diamond in octahedral form",
+        "description": "Almost perfect octahedral form, unaltered natural state, avoided diamond cutter's knife",
+        "rarity": "Author not personally aware of any other similarly formed natural diamond of this size and quality",
+        "consulted": "Rob Lavinsky"
+      },
+      {
+        "name": "Two gold, emerald and ruby rings from 19th century South India",
+        "collection": "Tuyet Nguyet collection",
+        "description": "Arrangement of precious stones make them 'floral' rings, mimic flowers"
+      }
+    ]
+  },
+
+  "key_elements": {
+    "treasure_items": ["Tanzanite 116.7 carat", "Diamond 9.65 carat octahedral", "Two South Indian floral rings"],
+    "geographic_references": ["Tanzania", "South India"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. CORRECTED: Removed Australian gold nugget entry (not on this page - must be elsewhere). Page 199: 'SOME MORE OF OUR TREASURE ITEMS' header, 116.7 carat pear cut tanzanite (discovered 1967, December birthstone 2002, Tanzania only, deposits mined by 2043, $3000+ per carat). Page 200: 9.65 carat diamond in octahedral form (unaltered natural state, Rob Lavinsky consulted), two gold/emerald/ruby 'floral' rings from 19th century South India (Tuyet Nguyet collection) all accurate."
+}

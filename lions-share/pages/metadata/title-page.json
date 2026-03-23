@@ -1,0 +1,120 @@
+{
+  "page_number": "title_page",
+  "section": "front_matter",
+  "screenshot": "title-page.png",
+  "content_type": "mixed",
+
+  "transcription": {
+    "raw_text": "THE MAIN BOOK\nThe Lion's Share Treasure\n\nTHERE'S TREASURE INSIDE\nA Treasure Hunt by\nJON COLLINS-BLACK\n\nA literary project unlike anything else. A true and monumental treasure quest.\n\nNATIONAL BESTSELLER",
+    "formatted_sections": [
+      {
+        "type": "header",
+        "text": "THE MAIN BOOK",
+        "style": "white_on_black"
+      },
+      {
+        "type": "subheader",
+        "text": "The Lion's Share Treasure",
+        "style": "white_on_red"
+      },
+      {
+        "type": "title",
+        "text": "THERE'S TREASURE INSIDE",
+        "style": "black_serif"
+      },
+      {
+        "type": "subtitle",
+        "text": "A Treasure Hunt by",
+        "style": "italic"
+      },
+      {
+        "type": "author",
+        "text": "JON COLLINS-BLACK",
+        "style": "caps_spaced"
+      },
+      {
+        "type": "tagline",
+        "text": "A literary project unlike anything else. A true and monumental treasure quest.",
+        "style": "italic_small"
+      },
+      {
+        "type": "badge",
+        "text": "NATIONAL BESTSELLER",
+        "style": "gold_caps"
+      }
+    ]
+  },
+
+  "formatting": {
+    "has_header": true,
+    "has_quotes": false,
+    "has_handwritten_text": false,
+    "has_sidebar": false,
+    "has_footnotes": false,
+    "emphasized_text": [
+      {"text": "THE MAIN BOOK", "style": "white_caps"},
+      {"text": "The Lion's Share Treasure", "style": "white_on_red"},
+      {"text": "NATIONAL BESTSELLER", "style": "gold"}
+    ],
+    "special_typography": ["collage layout", "multiple color blocks"]
+  },
+
+  "images": [
+    {
+      "description": "Antique brass compass on parchment/map",
+      "location": "top_left",
+      "text_in_image": null,
+      "potential_clues": ["navigation", "direction"]
+    },
+    {
+      "description": "Gold nugget or rough gold piece",
+      "location": "top_left_center",
+      "text_in_image": null,
+      "potential_clues": ["gold rush", "natural gold"]
+    },
+    {
+      "description": "Bitcoin coin",
+      "location": "top_right",
+      "text_in_image": "Bitcoin symbol",
+      "potential_clues": ["modern treasure", "cryptocurrency"]
+    },
+    {
+      "description": "Old photograph or document with portrait on red background",
+      "location": "top_right",
+      "text_in_image": "Partial text visible including 'Courage' and possibly prize/value references",
+      "potential_clues": ["historical figure", "courage theme", "prize reference"]
+    },
+    {
+      "description": "Red treasure hunt logo (pickaxe and shovel)",
+      "location": "right_middle",
+      "text_in_image": null,
+      "potential_clues": []
+    },
+    {
+      "description": "Silhouettes of hikers/explorers in misty setting",
+      "location": "bottom_left",
+      "text_in_image": null,
+      "potential_clues": ["outdoor expedition", "group of people"]
+    },
+    {
+      "description": "Green emerald or mineral specimen",
+      "location": "bottom_left",
+      "text_in_image": null,
+      "potential_clues": ["emerald", "gemstone"]
+    },
+    {
+      "description": "Multiple treasure boxes in different colors/materials",
+      "location": "bottom_right",
+      "text_in_image": null,
+      "potential_clues": ["gold box", "dark wood box", "represents 5 boxes"]
+    },
+    {
+      "description": "Map fragment with topographic lines",
+      "location": "background",
+      "text_in_image": null,
+      "potential_clues": ["terrain", "location"]
+    }
+  ],
+
+  "verification_notes": "Verified against screenshot. Text transcription accurate. Added detail about visible text on red document ('Courage' visible). 'The Lion's Share' and 'Treasure' appear on separate lines in image."
+}

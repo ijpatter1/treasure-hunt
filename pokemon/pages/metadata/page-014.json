@@ -1,0 +1,45 @@
+{
+  "source_file": "page-014.png",
+  "extracted_date": "2026-01-12",
+  "page_type": "narrative_with_images",
+  "header": "THERE'S TREASURE INSIDE",
+  "full_text": "The fact that Pokemon originated from Japan seems quite appropriate, given the treasure box that Seth Gould designed for this treasure. This box is truly a work of art, fashioned to appear exactly like a traditional wooden Japanese puzzle box might look.\n\nThis puzzle box, in my opinion, is perhaps the most impressive piece of artistry Seth Gould has ever created. It is certainly the most expensive of the four smaller sized boxes. Despite being made almost completely of brass, except for its legs, this box expresses the exact form of a traditional Japanese wooden puzzle box. Its inlay is done with silver foil.\n\nThis box has over 250,000 individual chisel cuts as part of the overlay technique, and that's a pretty modest estimation-it's probably quite a bit more. On the lid alone there are 220 individual pieces of fine silver foil.\n-SETH GOULD\n\nJust as with a traditional Japanese puzzle box, a precise combination of panels must slide to open this box. And, of course, I have left instructions with the box explaining how to open it. Though, I really encourage you to experience the joy of figuring it out yourself!\n\nIf you've played the Pokemon video game, you know it's fairly simple. The game is a hunt, and the Pokemon characters are the treasure. A player is asked to find a Pokemon, capture it, and then train the Pokemon to grow and evolve into a stronger and more capable form of itself. Once a Pokemon is caught, it assists its player in capturing even more powerful and elusive Pokemon.",
+  "formatting": {
+    "header": "THERE'S TREASURE INSIDE",
+    "quote": {
+      "text": "This box has over 250,000 individual chisel cuts as part of the overlay technique, and that's a pretty modest estimation-it's probably quite a bit more. On the lid alone there are 220 individual pieces of fine silver foil.",
+      "attribution": "SETH GOULD",
+      "style": "italic gold text"
+    },
+    "sidebar_labels": [
+      "A traditional wooden puzzle box from Japan for comparison",
+      "(Below) This is the commemorative coin made for this treasure box."
+    ]
+  },
+  "images": [
+    {
+      "description": "Traditional wooden Japanese puzzle box with geometric inlay pattern - cream and brown wood",
+      "location": "right side, top"
+    },
+    {
+      "description": "Round gold commemorative coin with geometric quatrefoil/circle pattern matching box design",
+      "location": "right side, bottom"
+    },
+    {
+      "description": "Close-up of geometric pattern detail from the puzzle box",
+      "location": "left side, bottom"
+    }
+  ],
+  "key_elements": [
+    "Seth Gould (box creator)",
+    "Japanese puzzle box style",
+    "Brass construction with silver foil inlay",
+    "250,000+ individual chisel cuts",
+    "220 pieces of silver foil on lid alone",
+    "Most expensive of four smaller boxes",
+    "Sliding panels to open",
+    "Instructions included with box",
+    "Commemorative coin with matching pattern",
+    "Pokemon game mechanics: find, capture, train, evolve"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_spread": "23-24",
+  "source_files": [
+    "unbreakable-thread-page-23.png",
+    "unbreakable-thread-page-24.png"
+  ],
+  "page_23": {
+    "text": {
+      "raw": "Youfellinloveagainandthethreadfollowed youdowntheaisleandcelebrated.",
+      "parsed": "You fell in love again and the thread followed you down the aisle and celebrated.",
+      "position": "top of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Wedding celebration - groom and bride walking as guests celebrate",
+      "main_characters": [
+        {
+          "role": "groom (the son)",
+          "appearance": "Adult man, short hair",
+          "clothing": "Dark navy suit, red tie, white boutonniere",
+          "expression": "Happy, smiling"
+        },
+        {
+          "role": "bride",
+          "appearance": "Woman with long dark hair",
+          "clothing": "Blue formal dress, gold/orange bracelet/jewelry",
+          "expression": "Joyful, waving to guests",
+          "action": "Waving with one hand, holding groom's arm"
+        }
+      ],
+      "background": [
+        "Woman with glasses throwing petals",
+        "Woman in red dress",
+        "Pink flowering bushes/roses",
+        "Brick building",
+        "Pink petals falling"
+      ],
+      "atmosphere": "Joyful, celebratory"
+    }
+  },
+  "page_24": {
+    "text": null,
+    "illustration": {
+      "description": "Wedding scene - couple exiting ceremony as guests throw petals",
+      "main_characters": [
+        {
+          "role": "groom",
+          "clothing": "Navy blue suit, yellow tie",
+          "expression": "Happy, waving",
+          "action": "Holding bride, waving to guests"
+        },
+        {
+          "role": "bride",
+          "appearance": "Black woman, hair styled up with flowers/decoration",
+          "clothing": "White wedding dress with belt/sash, pink bouquet",
+          "expression": "Joyful, laughing"
+        }
+      ],
+      "guests": [
+        "Woman in light blue dress (left, taking photo)",
+        "Man in blue suit behind couple",
+        "Woman with dark hair applauding",
+        "Elderly man in gray",
+        "Child in blue throwing petals (foreground)",
+        "Various guests in formal attire"
+      ],
+      "setting": {
+        "location": "Outdoor wedding venue",
+        "elements": [
+          "Brick building/wall",
+          "Pink flowering bushes",
+          "Stone/concrete pathway",
+          "Pink petals everywhere"
+        ]
+      },
+      "atmosphere": "Celebration, joy, community"
+    }
+  },
+  "narrative_elements": {
+    "life_event": "Son's wedding (found love again after heartbreak)",
+    "thread_behavior": "Thread follows down the aisle and celebrates",
+    "key_phrase": "fell in love again",
+    "significance": [
+      "Recovery from heartbreak",
+      "New chapter of life",
+      "Thread present at major life moments",
+      "Thread celebrates alongside family"
+    ],
+    "note": "Page 24 may show a different couple - possibly representing the universal nature of the thread or next generation"
+  }
+}

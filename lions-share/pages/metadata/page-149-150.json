@@ -1,0 +1,66 @@
+{
+  "screenshot": "page-149-150.png",
+  "section": "chapter",
+  "chapter": 16,
+  "chapter_title": "1996 Atlanta Olympic Gold Medal",
+  "chapter_subtitle": "Defy Expectations",
+
+  "left_page": {
+    "page_number": 149,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "almost every African nation. Suddenly, this Nigerian team was no longer representing just Nigeria. They were now playing for the pride of the entire African continent.\n\nTo say beating Brazil in 1996 was a monumental accomplishment for Nigeria would be putting it very lightly. The game became so famous that it gave rise to an unofficial national song called \"When Nigeria Beat Brazil.\" You can still hear this song being sung by proud Nigerian fans during their national team's games today, almost thirty years later. Yet, despite their history-making performance, there was still one more game for Nigeria to play: the gold medal match. Their opponent for that game was Argentina, a team with a rich and glorified soccer tradition. Much like Brazil, the 1996 Argentine team was comprised of some of the most skilled players in the world.\n\nWhen the Nigerian team arrived at the stadium for the final match, they were greeted by one glaring difference from their previous games. The stadium seats were now filled with the green and white colors of their country's flag. Nigeria had won the hearts of the soccer fans at the Olympics. No matter the outcome that day, the odds they had overcome had already inspired thousands in attendance and millions watching from around the world.\n\nThe referee blew his whistle, and the gold medal game began. Then, as if this entire story were all just Hollywood fiction, Argentina scored a beautiful goal just three minutes into the gold medal match. Once more, the underdogs Nigerians found themselves down early to a seemingly superior opponent. But as they had done time and again, Nigeria ignored the expectations. In the twenty-fourth minute the Nigerians scored to equalize, and the teams went to halftime tied.\n\nAs the second half began, it did not take long for Argentina to show dominance once more. Argentina made the score 2-1. Nigeria fought to equalize. Cleats dug into the ground. Grass flew up around the pitch as bodies battled for position over every inch of turf. No advantage by either side was gained. Then in the 74th minute, a missed kick fell at the feet of Daniel Amokachi who magically flicked the ball with his heel up and over the Argentine keeper and into the net. It was a beautifully creative goal. The score was 2-2.\n\nFor the rest of the match, the two teams fought to a virtual stalemate. Just as in their last game with Brazil, less than a minute remained in the game when something truly incredible happened. Argentina committed a foul twenty yards from its own goal, and Nigeria was awarded a free kick. To defend the kick, Argentina decided they would move their entire defensive line up the field right before the ball was kicked and trap all the Nigerian attackers in an offsides position. It was a strategy they had employed countless times successfully. But on this occasion Argentina did not move forward fast enough.\n\nAs the Argentina defenders moved too late, Nigerian player Emmanuel Amunike found himself all alone in front of the goal. The free kick went directly to Amunike who calmly turned and redirected the ball past a diving Argentinian goalkeeper and into the goal. A whistle soon sounded, signaling the end of the gold medal match. The stadium fans erupted in celebration. Millions of soccer fans from around the world were stunned. They had just",
+      "formatted_sections": [
+        {"type": "body", "text": "The game became so famous that it gave rise to an unofficial national song called 'When Nigeria Beat Brazil.'"},
+        {"type": "body", "text": "Nigeria had won the hearts of the soccer fans at the Olympics."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 150,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "witnessed the greatest underdog story in the history of Olympic soccer. Nigeria had realized Olympic gold.\n\nThe story of this gold medal provides many lessons. It's a tale about dealing with challenges to overcome adversity. It's a chronicle about the value of putting a group before self. And it is a metaphor for why you and I should not so easily give into doubts about our ability to accomplish a thing, no matter how unlikely it might seem.\n\nIf you begin to question whether you can find the treasure I have hidden, I invite you to return to this chapter. It's here to help you. Maybe it can provide you just the direction you need.\n\nWhen I think of all the happenings in my life that have defied expectations, it gives me more than a little hope. As discussed, to be born at all was a miracle, for sure. But to have been raised in a country with basic freedoms and countless opportunities, to have avoided poverty, to have maintained a healthy body, to have met my beautiful, caring partner and have her fall in love with me, to have had two amazing children arrive during my middle years—all these things—at some point appeared unlikely. Even this treasure hunt would have seemed implausible just six or seven years ago. A person might call these occurrences miracles or chance or luck, but I don't much care. I am happy just to live with appreciation of it all. And I'm also curious what odds-defying realities you and I might encounter next.\n\nThese last two chapters told remarkable American Olympic stories. Our next chapter provides a story about the origin of the United States itself. There exists today quite an extensive record of the events that led up to the founding of our country and its independence from England. The reason so much is known about this topic is that many of our country's founding fathers documented their lives through writings.\n\nWhen it came to chronicling every nuance of his adult life, perhaps the most prolific of all of these men was America's most famous founding father—George Washington. His journal and letters, which he meticulously catalogued, offer a staggering wealth of knowledge for future generations. George Washington understood the worth of sharing his story. Likewise, there is value in the stories of each and every one of us living here today.",
+      "formatted_sections": [
+        {"type": "body", "text": "Nigeria had realized Olympic gold."},
+        {"type": "body", "text": "If you begin to question whether you can find the treasure I have hidden, I invite you to return to this chapter."},
+        {"type": "body", "text": "It's here to help you. Maybe it can provide you just the direction you need."},
+        {"type": "body", "text": "I am happy just to live with appreciation of it all."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "gold_medal_match": {
+      "opponent": "Argentina",
+      "score_progression": ["Argentina 1-0 (3 min)", "1-1 (24 min)", "Argentina 2-1", "2-2 (74 min, Amokachi)", "Nigeria 3-2 (final minute, Amunike)"],
+      "winning_goal": "Emmanuel Amunike - free kick in final minute",
+      "result": "Nigeria wins Olympic gold"
+    },
+    "legacy": {
+      "song": "When Nigeria Beat Brazil",
+      "significance": "Greatest underdog story in Olympic soccer history",
+      "first_african_team": "To win Olympic gold in soccer"
+    },
+    "treasure_hunting_encouragement": {
+      "quote1": "If you begin to question whether you can find the treasure I have hidden, I invite you to return to this chapter.",
+      "quote2": "It's here to help you. Maybe it can provide you just the direction you need."
+    },
+    "author_personal": {
+      "wife": "Beautiful, caring partner",
+      "children": "Two amazing children",
+      "treasure_hunt_timeline": "Would have seemed implausible 6-7 years ago"
+    },
+    "transition_to_chapter_17": {
+      "subject": "George Washington",
+      "focus": "Founding father who documented his life through journals and letters"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Gold medal match (Argentina 1-0 3min, 1-1 24min, 2-1, Amokachi 74min 2-2, Amunike winning goal under 1 min), 'When Nigeria Beat Brazil' song, CRITICAL treasure encouragement ('return to this chapter', 'provide direction'), author personal (wife, two children, 6-7 years ago), George Washington preview all accurate."
+}

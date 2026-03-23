@@ -1,0 +1,60 @@
+{
+  "screenshot": "page-095-096.png",
+  "section": "chapter",
+  "chapter": 10,
+  "chapter_title": "Jackie Onassis' Diamond Sapphire Brooch",
+  "chapter_subtitle": "Welcome the Good and the Bad",
+
+  "left_page": {
+    "page_number": 95,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Diamond and sapphire bow-shaped brooch that belonged to Jackie Onassis, featuring carved rock crystal center with diamonds and sapphires",
+      "text_in_image": null,
+      "potential_clues": ["Jackie Onassis treasure item", "Bow/ribbon shape"]
+    }],
+    "sidebar": {"text": "This brooch belonged to Jackie Onassis. It's made with sapphires and diamonds inlaid around rock crystal. Esteemed for its craftsmanship and heritage, it was offered to me for $150,000.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 96,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 10\n\nJACKIE ONASSIS' DIAMOND SAPPHIRE BROOCH\n\nWelcome the Good and the Bad\n\n\"Man never made any material as resilient as the human spirit.\"\n—BERNARD WILLIAMS\n\n\"Indeed, this life is a test. It is a test of many things—of our convictions and priorities, our faith and our faithfulness, our patience and our resilience, and in the end, our ultimate desires.\"\n—SHERI L. DEW\n\nI was a competitive, eager child, who could be very hard on myself. I remember once standing in a parking lot after a football game unable to speak through the convulsions of my sobs and snot and tears. I was convinced I had lost my team the playoff game. My dad knelt down beside me. He put his hand on my shoulder and said, \"Jon, you are hurting now, I know. There are times like this. But this is temporary. Son, it's not about when bad things happen.",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "JACKIE ONASSIS' DIAMOND SAPPHIRE BROOCH"},
+        {"type": "handwritten_subtitle", "text": "Welcome the Good and the Bad", "style": "red_handwritten"},
+        {"type": "quote", "text": "Man never made any material as resilient as the human spirit.", "attribution": "Bernard Williams"},
+        {"type": "quote", "text": "Indeed, this life is a test. It is a test of many things—of our convictions and priorities, our faith and our faithfulness, our patience and our resilience, and in the end, our ultimate desires.", "attribution": "Sheri L. Dew"},
+        {"type": "body", "text": "I was a competitive, eager child, who could be very hard on myself..."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Welcome the Good and the Bad", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "item": "Jackie Onassis diamond and sapphire brooch",
+      "description": "Bow-shaped brooch with sapphires and diamonds inlaid around rock crystal",
+      "value_offered": "$150,000",
+      "origin": "Owned by Jackie Onassis"
+    },
+    "quotes": [
+      {"text": "Man never made any material as resilient as the human spirit.", "author": "Bernard Williams"},
+      {"text": "Indeed, this life is a test...", "author": "Sheri L. Dew"}
+    ],
+    "author_family_details": {
+      "author_name": "Jon",
+      "personality": "Competitive, eager, hard on himself",
+      "father": "Supportive, gave life advice"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Sidebar confirms Jackie Onassis brooch ($150K, sapphires/diamonds/rock crystal). Quotes and author name 'Jon' all accurate."
+}

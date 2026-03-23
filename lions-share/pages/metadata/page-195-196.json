@@ -1,0 +1,57 @@
+{
+  "screenshot": "page-195-196.png",
+  "section": "chapter",
+  "chapter": 23,
+  "chapter_title": "Sing Your Own Special Song",
+  "chapter_subtitle": "Finding Treasures Along the Way",
+
+  "left_page": {
+    "page_number": 195,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Ancient Egyptian faience bead necklace with turquoise/blue and coral/red beads, featuring a central pendant with tassels",
+      "text_in_image": null,
+      "potential_clues": ["Egyptian faience necklace treasure item", "3000+ year old beads"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 196,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "SING YOUR OWN SPECIAL SONG\n\nFinding Treasures Along the Way\n\n\"Joy is found not in finishing an activity but in doing it.\"\n—GREG ANDERSON\n\n\"Every day is a journey, and the journey itself is home.\"\n—BASHO MATSUO\n\nA few years ago, as I was searching for items from antiquity, I crossed paths with a man named Allan Anawati. Allan has been in the antiquities trade for over forty years, continuing a business his father started when Allan was just a boy. I had a lot of questions for Allan, and he was very patient with me. He generously answered all my queries and recommended several resources for me to study.\n\nAfter some more emails and phone calls back and forth, Allan mentioned in passing that he had a collection of loose faience beads from Egypt. The beads were over three thousand years old. Allan suggested that if I were interested, I could construct a necklace from the beads myself, the same as it might have looked over three millennia ago. When I replied that I had no",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "SING YOUR OWN SPECIAL SONG"},
+        {"type": "handwritten_subtitle", "text": "Finding Treasures Along the Way"},
+        {"type": "quote", "text": "Joy is found not in finishing an activity but in doing it.", "attribution": "Greg Anderson"},
+        {"type": "quote", "text": "Every day is a journey, and the journey itself is home.", "attribution": "Basho Matsuo"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "Finding Treasures Along the Way", "style": "handwritten_red"}
+      ]
+    },
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item_intro": {
+      "source": "Allan Anawati (antiquities dealer, 40+ years)",
+      "item": "Collection of loose Egyptian faience beads",
+      "age": "Over 3000 years old",
+      "concept": "Author could construct necklace from ancient beads"
+    },
+    "chapter_theme": "The journey and process matter as much as the destination"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Egyptian faience bead necklace image (turquoise/blue, coral/red, central pendant with tassels), Chapter 23 'SING YOUR OWN SPECIAL SONG', handwritten 'Finding Treasures Along the Way' subtitle, Greg Anderson quote ('Joy is found not in finishing an activity but in doing it'), Basho Matsuo quote ('Every day is a journey, and the journey itself is home'), Allan Anawati (antiquities dealer 40+ years, family business started by father), Egyptian faience beads over 3000 years old, could construct necklace from ancient beads all accurate."
+}

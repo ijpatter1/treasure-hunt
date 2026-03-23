@@ -1,0 +1,52 @@
+{
+  "screenshot": "page-076-077.png",
+  "section": "chapter",
+  "chapter": 8,
+  "chapter_title": "Beauty's Bespoken Treasures",
+  "chapter_subtitle": "Know the Past, See the Future",
+
+  "left_page": {
+    "page_number": 76,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Charles Loloma silver jewelry piece with large turquoise stone, coral accents, and mixed inlay design",
+      "text_in_image": null,
+      "potential_clues": ["Charles Loloma jewelry - treasure item"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 77,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 8\n\nBEAUTY'S BESPOKEN TREASURES\n\nKnow the Past, See the Future\n\n\"Our thoughts and imagination are the only real limits to our possibilities.\"\n—ORISON SWETT MARDEN\n\nI authored a children's picture book titled Our Unbreakable Thread, published by Marble Press. It's a story of love through generations and the bond that connects a parent, child, and grandchild. As fate would have it, Our Unbreakable Thread was published the same year as this book. Because of this timing and for fun, I decided to leave an extra clue or two within my children's book about the location of our treasure.\n\nOur Unbreakable Thread was written as an homage to my children, my wife, and my parents. As much as I love dreaming about the future, I am grateful for all my connections to the past. No doubt this is one of the reasons why I love traditions, which help formulate the ties that bind families together.",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "BEAUTY'S BESPOKEN TREASURES"},
+        {"type": "handwritten_subtitle", "text": "Know the Past, See the Future", "style": "red_handwritten"},
+        {"type": "quote", "text": "Our thoughts and imagination are the only real limits to our possibilities.", "attribution": "Orison Swett Marden"},
+        {"type": "body", "text": "I authored a children's picture book titled Our Unbreakable Thread, published by Marble Press."},
+        {"type": "body", "text": "I decided to leave an extra clue or two within my children's book about the location of our treasure."}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Know the Past, See the Future", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "CRITICAL_CLUE": {
+      "book": "Our Unbreakable Thread",
+      "publisher": "Marble Press",
+      "content": "Children's picture book about generational love",
+      "clue_info": "Author left EXTRA CLUES about treasure location in this children's book"
+    },
+    "quote": {"text": "Our thoughts and imagination are the only real limits to our possibilities.", "author": "Orison Swett Marden"},
+    "theme": "Traditions, family connections, past and future"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. CRITICAL: Author confirms 'Our Unbreakable Thread' (Marble Press) contains EXTRA treasure location clues. High priority research item."
+}

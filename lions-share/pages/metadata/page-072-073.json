@@ -1,0 +1,85 @@
+{
+  "screenshot": "page-072-073.png",
+  "section": "chapter",
+  "chapter": 7,
+  "chapter_title": "Amelia's Autograph",
+  "chapter_subtitle": "Explore More",
+
+  "left_page": {
+    "page_number": 72,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "seven, she rode elephants at the world's fair. At age eight, she built a homemade roller coaster. It actually worked. She rode it until it eventually broke down.\n\nBy age twenty, Amelia was a full-time volunteer nurse during the war. At age twenty-three, she was taking lessons to learn how to fly an airplane. Less than a decade later, Amelia would become the first woman to fly solo across the Atlantic Ocean. Amelia Earhart was boundlessly curious and brazenly so. Basically, she was a badass.\n\nOur picture of Amelia Earhart was taken just after she deplaned in Londonderry, Ireland, after her historic solo flight across the Atlantic. The plane she stands on in this picture is the Lockheed Vega 5B that she flew. The only other copies of this photo that I know exist are at the Purdue and Harvard Libraries. However, I've been told those two photos are not signed.\n\nWhen Earhart is mentioned, it is usually for her accomplishments in the air. She flew higher and faster than any woman before. She was the first woman to travel across the Atlantic in an airplane. She was the first woman to fly solo across the Atlantic, fly solo and non-stop across the U.S., and the first to fly solo from Hawaii to the U.S. mainland. She was also the fastest person to ever fly from Mexico City to Washington, DC, and the first person to fly from Mexico City to New Jersey. She was president of the \"Ninety-Nines,\" an international organization for advancing women pilots, and she was an airplane mechanic, to boot.\n\nHer first experience with planes came on a whim. She decided to go with her dad to her first airshow on December 28, 1920. When she arrived, flights were being offered for people daring to take them. Her dad bought her a ticket. Five days later Amelia signed up for flying lessons. When the lessons didn't quench her thirst, she decided she'd buy a plane of her own. She didn't have the money, so she took a job as a truck driver to save enough cash. When Amelia purchased her first plane, ninety-five percent of all air travelers were men. Women rarely boarded planes at all, much less flew them around.\n\nAmelia's fearless willingness to explore possibilities was evident throughout her life. Amelia had many interests outside of flying, and the mentality that drove her achievements was consistent in all the things she did.\n\nWhen Amelia was a student in college, she traveled to visit her sister in Canada for the Christmas holidays. Upon arriving in the Great White North, Amelia met an injured soldier, who had recently returned from World War I and had lost his leg. Amelia immediately wondered how she could help. She was told there were nurse volunteers at the local VA hospitals, and more were needed. Amelia signed up right away and informed her sister that she would be staying in Canada as long as the war lasted and would not be going back to school. Amelia worked as a nurse until the end of the war.\n\nAmelia threw herself passionately into many interests. She started a clothing line called \"Amelia Fashions.\" It was the first activewear line for women, decades ahead of its time. Amelia became an English teacher for immigrants. She even avidly played the banjo. But outside of flying, being a writer is what captivated Amelia the most.",
+      "formatted_sections": [
+        {"type": "body", "text": "Our picture of Amelia Earhart was taken just after she deplaned in Londonderry, Ireland"},
+        {"type": "body", "text": "The plane she stands on in this picture is the Lockheed Vega 5B"},
+        {"type": "body", "text": "The only other copies of this photo that I know exist are at the Purdue and Harvard Libraries"},
+        {"type": "body", "text": "She was also the fastest person to ever fly from Mexico City to Washington, DC, and the first person to fly from Mexico City to New Jersey"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 73,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "Amelia published three books about her flying career. She also worked as an editor at Cosmopolitan magazine, and she wrote for The New York Times and National Geographic, as well. This is how the public knew her. What most people did not know was that Amelia had always wanted to be a creative writer. In private, she wrote several short stories. She submitted works for publication under fictional names. But Amelia's very first literary love was poetry. Over the course of her life, Amelia penned many poems.",
+      "formatted_sections": [
+        {"type": "body", "text": "Amelia published three books about her flying career."},
+        {"type": "body", "text": "She also worked as an editor at Cosmopolitan magazine, and she wrote for The New York Times and National Geographic"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Artistic illustration of airplane flying over snow-capped mountain range",
+      "text_in_image": null,
+      "potential_clues": ["Mountain imagery", "Flight path visualization"]
+    }]
+  },
+
+  "key_elements": {
+    "amelia_earhart_achievements": [
+      "First woman to fly solo across Atlantic",
+      "First woman to fly solo non-stop across U.S.",
+      "First to fly solo from Hawaii to U.S. mainland",
+      "Fastest person to fly Mexico City to Washington, DC",
+      "First person to fly Mexico City to New Jersey",
+      "President of Ninety-Nines organization",
+      "Airplane mechanic"
+    ],
+    "treasure_photo_details": {
+      "location_taken": "Londonderry, Ireland",
+      "plane": "Lockheed Vega 5B",
+      "other_copies": "Purdue and Harvard Libraries (unsigned)",
+      "unique": "This copy is signed"
+    },
+    "amelia_other_pursuits": [
+      "Volunteer nurse in Canada (WWI)",
+      "Amelia Fashions (activewear clothing line)",
+      "English teacher for immigrants",
+      "Banjo player",
+      "Writer (poetry, short stories)",
+      "Editor at Cosmopolitan",
+      "Wrote for NY Times and National Geographic"
+    ],
+    "dates": {
+      "first_airshow": "December 28, 1920"
+    },
+    "geographic_references": [
+      "Londonderry, Ireland",
+      "Atlantic Ocean",
+      "Hawaii",
+      "U.S. mainland",
+      "Mexico City",
+      "Washington, DC",
+      "New Jersey",
+      "Canada (Great White North)",
+      "Purdue University",
+      "Harvard University"
+    ]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Photo details (Londonderry, Lockheed Vega 5B, Purdue/Harvard), all flight records, Dec 28 1920, and Amelia's writing career all accurate."
+}

@@ -1,0 +1,71 @@
+{
+  "screenshot": "page-181-182.png",
+  "section": "chapter",
+  "chapter": 21,
+  "chapter_title": "Antiquities of Alexander",
+  "chapter_subtitle": "Make It Make Sense",
+
+  "left_page": {
+    "page_number": 181,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "ander assumed control of the crown in 336 BC. King Alexander would rule for thirteen short years until his death at the bright young age of thirty-two. In that brief span, Alexander conquered lands expanding three thousand miles from Macedonia to India. He renamed more than twenty cities Alexandria. He amassed one of the largest empires known to man. Upon his death, his adoring followers bestowed on him his now famous moniker, \"The Great.\"\n\nIf Alexander the Great was born with an immense fighting spirit, he most certainly got it from his mother Olympias. Olympias was unabashed in her battle for power. She argued with some political rivals and murdered others, all to pave a way for her son to take the throne. She prepped Alexander for power, telling him over and again that his birth was a virgin one, consummated by the god Zeus. This lie wasn't a bad way of making herself seem more awesome, too. History suggests her weaving of mythology had a great psychological impact on her son. Alexander boasted about his god-father several times in public displays and certainly behaved like a man who believed he was a god.\n\nThe victories of Alexander had far-reaching effects. While spreading Greek culture far and wide, his conquests also resulted in vast amounts of gold being brought back to Greece. The new abundance of gold led to a rise in goldsmithing. This trade resulted in the creation of many exquisite gold antiquities. I was able to acquire four such items of gold from ancient Greece for our treasure. Each piece was created during the period shortly around and after the death of Alexander.\n\nLike Olympia's myth of her son's birth, each of our pieces is steeped in legends. There was an inescapable link between the jewelry of this era and",
+      "formatted_sections": [
+        {"type": "body", "text": "Alexander assumed control of crown in 336 BC"},
+        {"type": "body", "text": "Ruled for 13 years until death at age 32"},
+        {"type": "body", "text": "Conquered lands spanning 3000 miles from Macedonia to India"},
+        {"type": "body", "text": "Renamed more than 20 cities Alexandria"},
+        {"type": "body", "text": "Mother Olympias told him his birth was virgin one, consummated by god Zeus"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Gold wreath with oak and olive leaves, intricate ancient Greek craftsmanship",
+      "text_in_image": null,
+      "potential_clues": ["Gold wreath treasure item", "Oak and olive leaves"]
+    }],
+    "sidebar": {
+      "text": "This is a Greek gold wreath in our treasure. It is made with solid gold olive and oak leaves, some adorned with gold acorn accents. These leaf wires were created between the 3rd and 4th centuries BC. We had them constructed later to present how this wreath might have originally looked.",
+      "style": "red_italic"
+    }
+  },
+
+  "right_page": {
+    "page_number": 182,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "the mythology of the gods, which the Greeks embraced in an attempt to decipher their world.\n\nWreaths were first worn in Greece as early as the inaugural Olympic Games in 776 BC. These wreaths were made from real olive branches and presented to the champion of each game. As time went on, wreaths were also made from oak, myrtle, and laurel leaves.\n\nThe leaves of the laurel tree symbolized great achievement and, like olive leaves, were fashioned for victors of sporting events. The laurel leaf was believed to have physical and spiritual cleansing powers, too. This association with purification came from a famous legend involving Apollo.\n\nApollo became infatuated with a virgin nymph named Daphne. He simply would not leave her alone. As a god, his constant presence created an untenable situation for Daphne. Pushed to drastic measures to avoid Apollo's advances and maintain her purity, she begged her father to turn her into a laurel tree. Daphne's father, desiring for his daughter to remain unsullied over all else, complied, and transformed her into a laurel tree. Upon seeing that Daphne had become nothing but bark and branches, Apollo was devastated. As the god of poets and writers, Apollo tearfully dedicated his undying love to the laurel tree. This myth is the origin of our modern title of \"Poet Laureate.\"\n\nOlive and oak leaves, like the ones found on our gold wreath, were associated with Zeus, the strongest of all the Greek gods. Zeus was not just the most powerful god, but also the wisest. So, in addition to being placed on the heads of capable champions, olive leafs were also a symbol of wisdom. In wisdom can be found peace. If you have ever \"extended an olive branch\" to someone, then you know well this connotation.\n\nOak leaves were emblems of wisdom, strength, and endurance. But oak leaves also contained a more mystical meaning. Ancient priests believed they received guidance from Zeus when listening to the wind rustling through the branches of oak trees. The concepts of creation, nature, and the gods were not delineated like we think of them today. Oak trees weren't an ancient smartphone between Zeus and these priests. For Greeks, Zeus was bodied all of nature. The rustle of the oak leaves was his voice.\n\nAs gold from Alexander's conquests poured in, wreaths of special importance began to be fabricated from pure gold. Goldsmiths would hammer gold into paper-thin sheets, then cut leaves from these sheets and stamp them with intricate detailing. This is what we see on the wreath in our treasure. Gold wreaths were precious but fragile. They were worn only on special occasions. Gold wreaths were awarded for special achievements or as a mark of honor. Successful politicians would adorn themselves with wreaths at social gatherings. If you owned a gold wreath you might be inclined to wear it to a celebration, as it was thought to help quite a bit with hangovers.\n\nGold wreaths were different than wooden wreaths in one other way. Gold was believed to be indestructible and immortal, and a gold wreath could bestow these qualities to its wearer. For this reason, those that owned gold wreaths often wore them to their graves.",
+      "formatted_sections": [
+        {"type": "body", "text": "Wreaths first worn in Greece at inaugural Olympic Games in 776 BC"},
+        {"type": "body", "text": "Laurel leaf = purification, origin of 'Poet Laureate' from Apollo/Daphne myth"},
+        {"type": "body", "text": "Olive and oak leaves associated with Zeus"},
+        {"type": "body", "text": "Oak leaves = wisdom, strength, endurance; priests received guidance from Zeus through rustling oak branches"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "alexander_the_great": {
+      "reign": "336 BC - death at age 32 (13 years)",
+      "conquests": "3000 miles from Macedonia to India",
+      "cities_renamed": "More than 20 cities named Alexandria",
+      "mother": "Olympias",
+      "myth": "Virgin birth consummated by Zeus"
+    },
+    "treasure_item_1": {
+      "name": "Greek gold wreath",
+      "materials": "Solid gold olive and oak leaves with gold acorn accents",
+      "date": "3rd-4th centuries BC",
+      "note": "Leaves are original, wreath reconstructed to show original appearance"
+    },
+    "symbolism": {
+      "olive_leaves": "Zeus, wisdom, peace ('extend olive branch')",
+      "oak_leaves": "Zeus, wisdom, strength, endurance",
+      "laurel_leaves": "Achievement, purification, Apollo/Daphne myth"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Gold wreath image (oak/olive leaves, intricate Greek craftsmanship), Alexander biography (crown 336 BC, 13 years reign, died at 32, 3000 miles from Macedonia to India, 20+ cities named Alexandria), mother Olympias (virgin birth by Zeus myth), 'four gold items from ancient Greece for treasure', sidebar TREASURE ITEM 'Greek gold wreath' (solid gold olive/oak leaves, gold acorn accents, 3rd-4th centuries BC, reconstructed), wreaths at Olympic Games 776 BC, laurel/olive/oak symbolism (Zeus, wisdom, Poet Laureate origin from Apollo/Daphne), gold wreaths help hangovers, worn to graves all accurate."
+}

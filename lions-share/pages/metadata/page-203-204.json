@@ -1,0 +1,53 @@
+{
+  "screenshot": "page-203-204.png",
+  "section": "back_matter",
+  "title": "Some More of Our Treasure Items (continued)",
+
+  "left_page": {
+    "page_number": 203,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "Jade and gold amulet necklace",
+        "date": "200 to 600 AD",
+        "origin": "Costa Rica",
+        "description": "Interpretive recreation of what it might have looked like",
+        "details": "Jade carvings and gold beads are all original, small emerald beads and gold clasp added later",
+        "civilization": "Nicoya civilization (Spanish explorers arrived 16th century, found culture with diverse cities, governments, agriculture, and arts)",
+        "symbolism": "Jade held important symbolism to the Nicoya, believed to protect wearer and mediate between wearer and spiritual world"
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 204,
+    "content_type": "mixed",
+    "items": [
+      {
+        "name": "One-of-a-kind necklace by Michele della Valle",
+        "designer": "Italian designer Michele della Valle",
+        "description": "Renowned for color and lines, worn by celebrities, associated with Italian opera",
+        "note": "Michele himself trained as operatic tenor",
+        "materials": "Citrine set with diamonds",
+        "quote": "'The stones give birth to design, and not the other way around.' - Michele della Valle"
+      },
+      {
+        "name": "Viking gold ring",
+        "date": "Around 9th century",
+        "description": "Motif consists of dozens of circles stamped into eight serpentine forms",
+        "rarity": "Rings such as this one are not common today",
+        "ownership": "Gold rings were owned by Vikings with only the highest social status, hoarded by wealthy and buried in caches",
+        "note": "Vikings were first people to sail to North America (not Spanish)",
+        "literary_connection": "J.R.R. Tolkien's Lord of the Rings inspired by Viking myth of Andvari's ring"
+      }
+    ]
+  },
+
+  "key_elements": {
+    "treasure_items": ["Costa Rica jade necklace", "Michele della Valle citrine necklace", "Viking gold ring (9th century)"],
+    "geographic_references": ["Costa Rica", "Italy", "Scandinavia/Viking lands", "North America"],
+    "author_favorite_book": "Lord of the Rings (J.R.R. Tolkien)"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Page 203: Jade/gold amulet necklace image (Costa Rica 200-600 AD, original jade/gold beads, emerald/clasp added later, Nicoya civilization 2000 years, jade protected wearer). Page 204: Michele della Valle citrine/diamond necklace (Italian designer, opera tenor, 'stones give birth to design' quote), Viking gold ring image (9th century, dozens of circles in 8 serpentine forms, highest social status, buried in caches), Vikings first to sail to North America, J.R.R. Tolkien's Lord of the Rings inspired by Viking Andvari's ring myth all accurate."
+}

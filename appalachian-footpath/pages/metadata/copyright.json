@@ -1,0 +1,41 @@
+{
+  "source_file": "Screenshot 2026-01-12 at 5.07.14 PM.png",
+  "extracted_date": "2026-01-12",
+  "content_type": "copyright_page",
+  "full_text": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK\n\nCOVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES\n\nAll rights reserved. Reproduction of any form, including digital transmission over the internet, is a theft of the author's intellectual property. If you would like permission to use material from this book other than for review purposes, please contact Treasure Books, Inc at www.treasureinside.com.\n\nLibrary of Congress Control Number: 2024904317\nISBN: 979-8-989813-31-5 (Hardback)\nPrinted in China\n\n09876543\nPUBLISHED BY TREASURE BOOKS, INC.\nDISTRIBUTED BY BAKER & TAYLOR\n\nMost photography was shot by Jamie Biver.\nSome images were donated by The Arkenstone in Dallas, Texas.\n\nArtwork was created by author unless otherwise noted.",
+  "formatting": {
+    "layout": "centered, lower half of page",
+    "font_style": "small caps for headers"
+  },
+  "images": [
+    {
+      "position": "bottom_right",
+      "description": "Small decorative symbol/logo"
+    }
+  ],
+  "key_elements": [
+    "Jon Collins-Black",
+    "2024",
+    "Richard Ljoenes",
+    "Treasure Books, Inc",
+    "www.treasureinside.com",
+    "Library of Congress Control Number: 2024904317",
+    "ISBN: 979-8-989813-31-5",
+    "Baker & Taylor",
+    "Jamie Biver",
+    "The Arkenstone",
+    "Dallas, Texas"
+  ],
+  "publishing_details": {
+    "copyright_year": 2024,
+    "author": "Jon Collins-Black",
+    "designer": "Richard Ljoenes",
+    "publisher": "Treasure Books, Inc",
+    "distributor": "Baker & Taylor",
+    "isbn": "979-8-989813-31-5",
+    "lccn": "2024904317",
+    "print_location": "China",
+    "photographer": "Jamie Biver",
+    "image_donor": "The Arkenstone, Dallas, Texas"
+  }
+}

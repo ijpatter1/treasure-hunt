@@ -1,0 +1,88 @@
+{
+  "page_spread": "13-14",
+  "source_files": [
+    "unbreakable-thread-page-13.png",
+    "unbreakable-thread-page-14.png"
+  ],
+  "page_13": {
+    "text": {
+      "raw": "Asyougrewolder,Iwonderedifyoumightseethethread. Butyouwereverybusy.Thethreadhadneverstretchedsolong.",
+      "parsed": "As you grew older, I wondered if you might see the thread. But you were very busy. The thread had never stretched so long.",
+      "position": "top of page",
+      "typography": "white/light text against dark background"
+    },
+    "illustration": {
+      "description": "Night scene showing brownstone building exterior with lit window revealing family at dinner",
+      "viewpoint": "Outside looking in",
+      "main_scene": {
+        "location": "Inside apartment through window",
+        "activity": "Family eating dinner together",
+        "visible_characters": ["Father", "Mother/Child", "Table setting"],
+        "lighting": "Warm yellow interior light"
+      },
+      "exterior_elements": [
+        "Large tree trunk and branches in foreground",
+        "Red/brown brick brownstone building",
+        "Dark blue starry night sky",
+        "Window frames"
+      ],
+      "atmosphere": "Cozy interior vs vast night outside"
+    }
+  },
+  "page_14": {
+    "text": {
+      "raw": "Eventhoughwedidn'tseeeachotherofthen,thethread wouldtugatmeandletmeknowyouwereokay.",
+      "parsed": "Even though we didn't see each other often, the thread would tug at me and let me know you were okay.",
+      "position": "top of page",
+      "typography": "white/light text against dark background"
+    },
+    "illustration": {
+      "description": "Three boys/teens on rooftop at night stargazing",
+      "characters": [
+        {
+          "role": "child (protagonist, now older)",
+          "position": "Using telescope",
+          "activity": "Looking through telescope at stars"
+        },
+        {
+          "role": "friend 1",
+          "clothing": "Green striped shirt",
+          "position": "Standing, pointing at sky"
+        },
+        {
+          "role": "friend 2",
+          "clothing": "Dark/gray shirt",
+          "position": "Standing between the others"
+        }
+      ],
+      "setting": {
+        "location": "Rooftop of brownstone building",
+        "time": "Night",
+        "sky": "Dark blue with stars, shooting star visible",
+        "building_details": "Three windows visible below roofline"
+      },
+      "props": [
+        "Telescope on tripod"
+      ]
+    }
+  },
+  "narrative_elements": {
+    "developmental_stage": "Pre-teen/teenage years",
+    "thread_properties_revealed": [
+      "Thread stretches further than ever",
+      "Thread 'tugs' to communicate child is okay",
+      "Parent wonders if child perceives the thread"
+    ],
+    "themes": [
+      "Growing independence",
+      "Child's busy social life",
+      "Parent's diminishing visibility into child's life",
+      "Trust and reassurance",
+      "Letting go while staying connected"
+    ],
+    "emotional_context": {
+      "parent_perspective": "Wondering if child still feels the connection",
+      "child_perspective": "Busy with friends, own interests, exploration"
+    }
+  }
+}

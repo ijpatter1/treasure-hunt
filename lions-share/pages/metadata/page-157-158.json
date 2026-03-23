@@ -1,0 +1,53 @@
+{
+  "screenshot": "page-157-158.png",
+  "section": "chapter",
+  "chapter": 17,
+  "chapter_title": "George Washington's Jelly Glass",
+  "chapter_subtitle": "Share Your Story",
+
+  "left_page": {
+    "page_number": 157,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Crystal jelly glass with rose pattern, owned by George Washington",
+      "text_in_image": null,
+      "potential_clues": ["Washington jelly glass treasure item"]
+    }],
+    "sidebar": {"text": "This English rose patterned jelly glass was owned by George Washington.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 158,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ton's writings and those of his contemporaries. The detail with which these original manuscripts give insight into the origin story of the United States is breathtaking and compelling.\n\nBecause of the details Washington was willing to share about himself, instead of whitewashed textbooks, we are left with a real window into Washington's humanity. We get to bear witness to an imperfect man, with all his insecurities, flaws, bravery, and genius. It becomes easier to see ourselves in his reflections. If Washington and his peers had not told their stories themselves, we might have been left with nothing but fairy tales to inform us of how our country came to be. Sharing his life's story became one of George Washington's greatest accomplishments.\n\nBut we don't have to be founding fathers to have our stories resonate. If you and others search for our hidden treasure, I hope you will share your stories with one another. Much can be learned through mutual experiences. And like Washington, I encourage you to document your adventures. Maybe there will be important things you discover about yourself or experiences you will have that you will not want to forget. It may be worthwhile to journal these. Your insights and adventures might also inspire others.\n\nPlus, regardless of whether you want to find our treasure, story sharing brings us closer because it helps us express our mutual humanity. It educates our children and gives them new perspectives. It welcomes strangers. It bonds us with our neighbors. Storytelling weaves a quilt that blankets us all. You and I and everyone we know search for the same basic treasures. And despite what the media, news, or politicians might have us believe in an attempt to grab our attention, these treasures we all seek are not a zero-sum game. The more we share about our lives with each other, the richer we all become.\n\nSpeaking of rich, the treasure item I will show you in our next chapter once belonged to the wealthiest man in world. That's an interesting fact, I suppose. But despite his massive success in the business world, it was this man's innovations in philanthropy that have carried his name through the decades. Like Washington, he left an indelible legacy upon the world. Andrew Carnegie developed a science for social improvement. He created a blueprint for giving that became predominate: one which has lasted for well over a hundred years.",
+      "formatted_sections": [
+        {"type": "body", "text": "If you and others search for our hidden treasure, I hope you will share your stories with one another."},
+        {"type": "body", "text": "And like Washington, I encourage you to document your adventures."},
+        {"type": "body", "text": "Maybe there will be important things you discover about yourself or experiences you will have that you will not want to forget. It may be worthwhile to journal these."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_hunting_advice": {
+      "share_stories": "Share your stories with one another",
+      "document_adventures": "Like Washington, document your adventures",
+      "journal": "It may be worthwhile to journal important discoveries and experiences"
+    },
+    "transition_to_chapter_18": {
+      "subject": "Andrew Carnegie",
+      "description": "Wealthiest man in world, innovations in philanthropy",
+      "legacy": "Blueprint for giving that lasted over 100 years"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Crystal jelly glass image with English rose pattern, sidebar 'This English rose patterned jelly glass was owned by George Washington.', treasure hunting advice ('share your stories with one another', 'encourage you to document your adventures', 'worthwhile to journal'), 'Storytelling weaves a quilt that blankets us all', Andrew Carnegie preview ('wealthiest man in world', 'blueprint for giving') all accurate."
+}

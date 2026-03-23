@@ -1,0 +1,70 @@
+{
+  "screenshot": "page-167-168.png",
+  "section": "chapter",
+  "chapter": 19,
+  "chapter_title": "Moon Rocks & Meteors",
+  "chapter_subtitle": "The Next Frontier",
+
+  "left_page": {
+    "page_number": 167,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "know yet exactly when we will cross these frontiers. But we do know it's coming. When it does, our idea of treasure hunting will expand to include things that today are probably inconceivable. Those explorations may someday change the course of humanity altogether. But no matter what happens, I guarantee we humans will hunt for all the treasures there are to find.\n\nIn the countryside where I grew up, you could look up and see the Milky Way almost every night. Seeing our galaxy is one of the things I still miss most, living near a large city. Taking in the expanse of the Milky Way stretched out like silk across the night sky is humbling, dazzling, and inviting. I would take the tiny telescope I had received for Christmas in my hand, climb up onto the roof of my parent's minivan, set up the tripod, lay down on my stomach, and peer up at planets and the stars. I would dream about possibilities. Often I just wanted to reach up and touch the moon. Forty years later, I figured out a way to do just that.\n\nMoon rock is rare. The amount of it that exists on earth is enough to fill up roughly four gym lockers. Most of this rock was brought back from the Apollo moon missions. But in 2017, one of the largest moon rock meteors to ever be discovered was found in the Western Sahara Desert. It was unceremoneously named NWA 12691. From this larger rock a few moon globes were carved and sold. Something about having a piece of the moon which also visually resembles the moon itself was a clever idea. These pieces were fought over by collectors, resulting in some extravagant prices. Fortunately, I was a more careful buyer. This moon rock in our treasure is very special to me. It reminds me of every night I ever spent under the stars.\n\nWhen Neil Armstrong and Buzz Aldrin made their maiden voyage to the moon in 1969, the entire country watched with anticipation and amazement. The reactions of the millions viewing ranged from fear and doubt to wonder and joy. Witnessing fellow humans cross a threshold that for eons had seemed unattainable was an emotional experience. It reminded people how small we humans are and also how much we rely on each other for survival. The moon landing also gave us hope of what we might accomplish in the future. It was a symbol for how we might shape a better path for humanity.\n\nThe lunar rocks that Armstrong and Aldrin brought back, like the images taken from their spacecraft, were bounty from an incredible voyage. These rocks were evidence that the limits we set for ourselves are mostly just constructs of our minds. These moon rocks were proof that what can be imagined, can be done.\n\nSome people question the need to fund organizations like NASA or suggest we shouldn't travel to Mars when there remain imperfect conditions here on earth. Yet, I believe it is human nature to explore. Exploration is not just something we do in order to find something external, it is a process of cultivating and feeding something inside of us. By finding new things, crossing new divides, we discover something about ourselves. We humans long to search, we ask questions and seek out the unknown to find answers. These qualities are imprinted into our very DNA. It is part of what makes you and me treasure hunters.",
+      "formatted_sections": [
+        {"type": "body", "text": "In the countryside where I grew up, you could look up and see the Milky Way almost every night."},
+        {"type": "body", "text": "I would take the tiny telescope I had received for Christmas in my hand, climb up onto the roof of my parent's minivan"},
+        {"type": "body", "text": "Moon rock is rare. The amount of it that exists on earth is enough to fill up roughly four gym lockers."},
+        {"type": "body", "text": "NWA 12691 - found in Western Sahara Desert in 2017"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 168,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Meanwhile, as we wait for our science fiction future to unfold, space impatiently hurls meteorites down at us every day. And if it weren't for the cottage industry of professional meteor chasers spread out around the globe, a meteor like NWA 12691 might never have been found.\n\nSpace rocks have become more popular than ever. Meteors are now considered space treasure, and a small army of meteorite hunters scour the ground everyday hunting for this bounty. As meteorites become more popular with collectors, the number of meteorite searchers has grown. Whether they are exploring the Sahara on camelback, walking a grid in the Mohave, or arriving by jeep into the jungles of Central America, meteorite hunters go to the ends of the earth looking for gifts from outer space.\n\nThere are many places where one can search for meteorites. Desert flat expanses are still the easiest and most likely place to find a meteor that has landed unnoticed to telescopes. But when our eyes to the sky pick up a sizable meteor falling or reports come in that a significant one has landed, the men and women who chase meteorites head out to the location, in what can become a real time frantic space rock race.\n\nIn 2019, word quickly spread that a particular meteorite had landed onto a doghouse in a small village in Costa Rica. Before long, dozens of meteorite hunters arrived to search in and around the area for pieces of the fall. When this meteorite, named Aguas Zarcas, was determined possibly to be carrying some rare amino acids present with the formation of life billions of years ago, dozens more searchers quickly descended in what became a meteor hunt free-for-all. Some lucky searchers found pieces of Aguas Zarcas in the Costa Rican jungle. One negotiated a deal for the main meteorite plus the doghouse it landed on. Other hunters left with nothing but mosquito bites. Such is the life of a modern-day meteorite chaser.",
+      "formatted_sections": [
+        {"type": "body", "text": "Meteors are now considered space treasure"},
+        {"type": "body", "text": "Desert flat expanses are still the easiest and most likely place to find a meteor"},
+        {"type": "body", "text": "Aguas Zarcas meteorite - landed on doghouse in Costa Rica, 2019"},
+        {"type": "body", "text": "Aguas Zarcas may be carrying rare amino acids present with formation of life billions of years ago"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Dark, irregular-shaped meteorite fragment",
+      "text_in_image": null,
+      "potential_clues": ["Aguas Zarcas meteorite piece"]
+    }],
+    "sidebar": {
+      "text": "This is a piece from the Aguas Zarcas meteorite. It is in our treasure. This meteorite is famous because of its carbonaceous chondrite classification. It contains foundational amino acids with billions of years old that were the precursors of life on our planet.",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "author_childhood": {
+      "location": "Countryside where could see Milky Way",
+      "activity": "Stargazing from roof of parent's minivan with telescope",
+      "telescope": "Received for Christmas"
+    },
+    "treasure_items": {
+      "moon_rock": {
+        "name": "NWA 12691",
+        "found": "Western Sahara Desert, 2017",
+        "form": "Carved into moon globe"
+      },
+      "aguas_zarcas": {
+        "name": "Aguas Zarcas meteorite piece",
+        "landed": "Costa Rica, 2019 (on a doghouse)",
+        "significance": "Carbonaceous chondrite with foundational amino acids billions of years old"
+      }
+    },
+    "meteorite_hunting_locations": ["Sahara", "Mohave", "Central America jungles", "Costa Rica"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Author childhood (countryside could see Milky Way, now lives near large city, telescope received for Christmas, climbed onto roof of parent's minivan, 'forty years later figured out a way'), moon rock rarity (four gym lockers on Earth), NWA 12691 found Western Sahara Desert 2017, Armstrong/Aldrin 1969 reference, 'human nature to explore', meteorite hunting locations (Sahara camelback, Mohave grid, Central America jungles by jeep), Aguas Zarcas 2019 Costa Rica doghouse story, sidebar 'This is a piece from the Aguas Zarcas meteorite. It is in our treasure' with carbonaceous chondrite classification and amino acids all accurate."
+}

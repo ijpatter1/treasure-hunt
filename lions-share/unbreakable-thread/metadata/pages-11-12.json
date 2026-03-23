@@ -1,0 +1,74 @@
+{
+  "page_spread": "11-12",
+  "source_files": [
+    "unbreakable-thread-page-11.png",
+    "unbreakable-thread-page-12.png"
+  ],
+  "page_11": {
+    "text": {
+      "raw": "Dayscamewhenmyworkkeptmefrombeingwithyou. Youhadtofigurethingsoutonyourown.",
+      "parsed": "Days came when my work kept me from being with you. You had to figure things out on your own.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Child performing violin at school recital/performance",
+      "performer": {
+        "role": "child",
+        "clothing": "Blue suit/formal attire",
+        "action": "Playing violin on stage",
+        "props": "Violin, bow, music stand"
+      },
+      "setting": {
+        "location": "School auditorium/theater",
+        "stage": "Lit stage with spotlight effect (yellow lighting)",
+        "curtain": "Red theater curtain on left side",
+        "seating": "Blue theater seats"
+      },
+      "audience": {
+        "description": "Parents and families watching from seats",
+        "composition": "Diverse group of adults and children",
+        "notable": "Parent (narrator) appears NOT to be present - implied by text"
+      }
+    }
+  },
+  "page_12": {
+    "text": {
+      "raw": "Butthethreadwasheretolendaguidinghand.",
+      "parsed": "But the thread was there to lend a guiding hand.",
+      "position": "bottom of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Another performance scene - child playing piano on stage",
+      "performer": {
+        "description": "Figure at piano/keyboard on stage",
+        "clothing": "Pink/dark colored outfit",
+        "hair": "Long dark hair",
+        "action": "Playing piano/organ"
+      },
+      "setting": {
+        "location": "Same or similar auditorium",
+        "stage": "Lit stage, red curtain visible",
+        "seating": "Blue theater seats"
+      },
+      "audience": {
+        "description": "Audience members watching",
+        "composition": "Mix of adults and children",
+        "prominent_figure": "Woman in pink/red in foreground seats"
+      }
+    }
+  },
+  "narrative_elements": {
+    "theme": "Parent can't always be physically present",
+    "thread_function": "Provides guidance even in parent's absence",
+    "key_phrase": "guiding hand",
+    "life_stage": "School-age, extracurricular activities",
+    "emotional_context": [
+      "Child must be independent",
+      "Parent has work obligations",
+      "Thread bridges the physical gap",
+      "Performances/achievements without parent present"
+    ]
+  }
+}

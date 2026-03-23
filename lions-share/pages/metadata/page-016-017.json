@@ -1,0 +1,81 @@
+{
+  "screenshot": "page-016-017.png",
+  "section": "how_to_read",
+
+  "left_page": {
+    "page_number": 16,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "HOW TO READ THIS BOOK\n\nIf you are someone with no interest in finding the physical treasures I have hidden, then reading this book should be a straightforward exercise. Each chapter of Part One is centered by the history and stories of at least one item in the treasure. Sometimes, multiple pieces conspire to share the wisdom of a topic.\n\nFrom time to time, some historical fictional flair is added for storytelling effect, but, for the most part, I prefer to remain true to historical facts as they are known. Every chapter has something of value to take from it, a lesson or message that we may apply to our daily lives. I invite you to reflect on them if you'd like.\n\nOn occasion, to help illustrate a theme, I share a personal anecdote about myself or others who played a part in this project. I hope these stories add color to the larger moral here. My initial instinct was to keep myself out of the way as much as possible, as this book is not meant to be a personal memoir. Still, I realize some readers, especially those who want to find the five treasure boxes, may be interested to learn a little more about me or the events that led to this treasure hunt. Perhaps you are curious, too.\n\nOn the other hand, if you are eagerly waiting for me to shut the hell up and get to the part about how you can source this book for clues that will lead you to the location of the largest treasure box, then let's get to it!\n\nThe first thing I would advise is to read this book once through, thoughtfully, fully. Indulge in it. I have subtly placed many clues within the text of the book. As they are not always overtly obvious, you may or may not pick up on all of them right away. That is okay and to be expected. I'd suggest jotting down anything that makes your Spidey sense tingle. Let your thoughts marinate on the book after you finish. On subsequent reads, it will most likely become easier to distinguish clues more clearly.\n\nAlso, if you find a topic or story captivating or intriguing and your instinct is to go research it further, I invite you to do so. It's not outside the realm of possibility that was my exact intention. Who knows what fun and interesting stuff you may discover?\n\nAs I mentioned before, almost every chapter of the first twenty-three includes at least some morsel of information helpful for finding the location of the largest treasure box. Do not overlook any part of this book. Almost anything could be helpful to your cause. And remember, the four chapters in Part Two contain primarily all you need to discover the location of the other four treasure boxes.",
+      "formatted_sections": [
+        {"type": "header", "text": "HOW TO READ THIS BOOK", "style": "caps_spaced"},
+        {"type": "body", "text": "Each chapter of Part One is centered by the history and stories of at least one item in the treasure."},
+        {"type": "body", "text": "The first thing I would advise is to read this book once through, thoughtfully, fully. Indulge in it."},
+        {"type": "body", "text": "I have subtly placed many clues within the text of the book."},
+        {"type": "body", "text": "I'd suggest jotting down anything that makes your Spidey sense tingle."},
+        {"type": "body", "text": "if you find a topic or story captivating or intriguing and your instinct is to go research it further, I invite you to do so. It's not outside the realm of possibility that was my exact intention."},
+        {"type": "body", "text": "almost every chapter of the first twenty-three includes at least some morsel of information helpful for finding the location of the largest treasure box"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "emphasized_text": []
+    },
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 17,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "On a semifinal note, you don't have to be a genius to solve the location of any treasure box. At least I don't think you do. I'm not a genius, so creating some complex cipher or grand secret code is beyond my scope. The attributes you need to find our treasure are really many of the ones illustrated through the chapters in this book. Learn from these stories, maybe even apply their teachings, and you will be well on your way. Do not put undue pressure on yourself to be perfect. Have fun! You won't need to understand every clue or hint to bring together the full picture.\n\nFinally, know that the pointers I've left for you in this book will only bring you so close to any hidden treasure box. If you want to find these treasure boxes, you will have to travel out your door and go outside and search for them. Some people refer to this as \"boots on the ground.\" Mother Nature beckons you. Don't ignore her. Go say hi. I can think of no better reason to turn off your television, pocket your smart phone, and go breathe some of our planet's fresh air.\n\nTake a friend. Bring a picnic. Find a treasure.\n\nNow what could be better than that?\n\nThe only joy in the world is to begin.\n\n—CESARE PAVESE",
+      "formatted_sections": [
+        {"type": "body", "text": "you don't have to be a genius to solve the location of any treasure box"},
+        {"type": "body", "text": "I'm not a genius, so creating some complex cipher or grand secret code is beyond my scope"},
+        {"type": "body", "text": "The attributes you need to find our treasure are really many of the ones illustrated through the chapters in this book"},
+        {"type": "body", "text": "the pointers I've left for you in this book will only bring you so close to any hidden treasure box"},
+        {"type": "body", "text": "you will have to travel out your door and go outside and search for them"},
+        {"type": "body", "text": "Some people refer to this as 'boots on the ground.'"},
+        {"type": "callout", "text": "Take a friend. Bring a picnic. Find a treasure.", "style": "standalone"},
+        {"type": "quote", "text": "The only joy in the world is to begin.", "attribution": "CESARE PAVESE", "style": "italic_red"}
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": true,
+      "has_handwritten_text": false,
+      "emphasized_text": [
+        {"text": "The only joy in the world is to begin.", "style": "italic_red"},
+        {"text": "CESARE PAVESE", "style": "red_attribution"}
+      ]
+    },
+    "images": []
+  },
+
+  "guidance": {
+    "reading_approach": [
+      "Read once through, thoughtfully, fully",
+      "Clues are subtly placed, not always obvious",
+      "Jot down anything that makes Spidey sense tingle",
+      "Let thoughts marinate after finishing",
+      "Subsequent reads make clues easier to distinguish",
+      "Research captivating topics further - may be intentional"
+    ],
+    "clue_distribution": [
+      "Almost every chapter of first 23 has morsel of info for largest box",
+      "Don't overlook any part of book",
+      "Four chapters in Part Two for four smaller boxes"
+    ],
+    "solving_approach": [
+      "No need to be genius",
+      "No complex cipher or secret code",
+      "Attributes needed are illustrated in chapters",
+      "Don't need to understand every clue",
+      "Boots on the ground required - physical search"
+    ]
+  },
+
+  "verification_notes": "Verified against screenshot. All key phrases confirmed: 'Spidey sense tingle', 'boots on the ground', 'no complex cipher', Cesare Pavese quote. Critical guidance text accurate."
+}

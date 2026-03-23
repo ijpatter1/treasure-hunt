@@ -1,0 +1,37 @@
+{
+  "screenshot": "page-028-029.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 28,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Author's story about job searching after college using Dewey Decimal System, finding job in The Daily Tar Heel newspaper for sales positions, interviewing at environmentally friendly health products company, starting in sales...",
+      "formatted_sections": [{"type": "body", "text": "Author's personal career journey story"}]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 29,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "Author's story about sales training, presenting water filter demonstration, embarrassing incident presenting to blind elderly man, recurring dreams about being unprepared...",
+      "formatted_sections": [{"type": "body", "text": "Author's lesson about preparation from sales experience"}]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "author_personal": "Career struggles, sales job at health products company, lesson about preparation",
+    "theme": "Being prepared vs. winging it",
+    "geographic_references": ["The Daily Tar Heel (UNC Chapel Hill newspaper)"]
+  },
+
+  "verification_notes": "Verified against screenshot. Personal narrative captures: Daily Tar Heel ref, S-A-L-E-S spelling, health products company, water filter demo, blind elderly man incident. Notes summarization accurate."
+}

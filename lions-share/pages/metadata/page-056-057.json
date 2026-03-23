@@ -1,0 +1,51 @@
+{
+  "screenshot": "page-056-057.png",
+  "section": "chapter",
+  "chapter": 5,
+  "chapter_title": "Masterworks by Art Smith",
+  "chapter_subtitle": "An Exercise in Faith",
+
+  "left_page": {
+    "page_number": 56,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Bronze/brass modernist cuff bracelet by Art Smith with curved organic cutout design",
+      "text_in_image": null,
+      "potential_clues": ["Art Smith jewelry - one of 4 pieces in treasure"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 57,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 5\n\nMASTERWORKS BY ART SMITH\n\nAn Exercise in Faith\n\n\"Faith is taking the first step even when you don't see the whole staircase.\" —MARTIN LUTHER KING, JR.\n\n\"Some other faculty than the intellect is necessary for the apprehension of reality.\" —HENRI BERGSON\n\nRecently, I had a conversation with a good friend about the meaning of the word faith. As we talked, we realized we had differing ideas about what faith meant to us. My friend understood the word faith to be referring to hope. As for myself, I've always experienced faith as an undeniable knowing. I use the word faith a lot when I talk about the future, and my friend admitted that she had always marveled at how proficient I was at hoping. I explained my faith was so much more than that. That night, two friends learned something new about each other.\n\nOur chat reminded me of this quote:\n\n\"To one who has faith, no explanation is necessary.\"\n—THOMAS AQUINAS",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "MASTERWORKS BY ART SMITH"},
+        {"type": "handwritten_subtitle", "text": "An Exercise in Faith", "style": "red_handwritten"},
+        {"type": "quote", "text": "Faith is taking the first step even when you don't see the whole staircase.", "attribution": "Martin Luther King, Jr."},
+        {"type": "quote", "text": "Some other faculty than the intellect is necessary for the apprehension of reality.", "attribution": "Henri Bergson"},
+        {"type": "quote", "text": "To one who has faith, no explanation is necessary.", "attribution": "Thomas Aquinas"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "An Exercise in Faith", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "Faith is taking the first step even when you don't see the whole staircase.", "author": "Martin Luther King, Jr."},
+      {"text": "Some other faculty than the intellect is necessary for the apprehension of reality.", "author": "Henri Bergson"},
+      {"text": "To one who has faith, no explanation is necessary.", "author": "Thomas Aquinas"}
+    ],
+    "theme": "Faith as undeniable knowing, not just hope",
+    "treasure_item": "Art Smith bronze/brass cuff bracelet (one of 4 pieces)"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. All three quotes (MLK, Bergson, Aquinas), chapter title, and cuff bracelet image accurate."
+}

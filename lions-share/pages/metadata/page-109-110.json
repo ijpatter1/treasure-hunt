@@ -1,0 +1,54 @@
+{
+  "screenshot": "page-109-110.png",
+  "section": "chapter",
+  "chapter": 12,
+  "chapter_title": "Massive Gold Rush Nugget",
+  "chapter_subtitle": "Make Good Choices",
+
+  "left_page": {
+    "page_number": 109,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Sepia-toned illustration of California Gold Rush era mining town interior with miners, supplies, and busy atmosphere",
+      "text_in_image": null,
+      "potential_clues": ["California Gold Rush setting"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 110,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 12\n\nMASSIVE GOLD RUSH NUGGET\n\nMake Good Choices\n\n\"We think, each of us, that we're much more rational than we are.\"\n—DANIEL KAHNEMAN\n\nBefore tens of millions of people migrated to California, the land that ran along our Pacific shore was quiet and pristine. Parts of California are still arguably some of the most beautiful natural landscapes in the world, but before there were any large cities or industrialization, this area's unaltered beauty must have been astounding.\n\nFor thousands of years, of course, this land belonged to Native Americans. In 1542, the first Spanish explorers began referring to this land as California, naming it after a Spanish novel whose main character was a powerful black queen named Calafia. In the 18th century, the Spanish began claiming the ground as their own. Mexico won this land from Spain in the Mexican War of Independence of 1821.\n\nThen in 1848, Mexico agreed to sell California to the United States for the low, low price of fifteen million dollars. Still, some thought this was too high a rate. One of these people was our eleventh President of the US, James",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "MASSIVE GOLD RUSH NUGGET"},
+        {"type": "handwritten_subtitle", "text": "Make Good Choices", "style": "red_handwritten"},
+        {"type": "quote", "text": "We think, each of us, that we're much more rational than we are.", "attribution": "Daniel Kahneman"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Make Good Choices", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "quotes": [
+      {"text": "We think, each of us, that we're much more rational than we are.", "author": "Daniel Kahneman", "note": "Nobel Prize economist, behavioral psychology"}
+    ],
+    "california_history": {
+      "native_americans": "Original inhabitants for thousands of years",
+      "spanish_naming": "1542, named after Queen Calafia from Spanish novel",
+      "spanish_claim": "18th century",
+      "mexican_independence": "1821",
+      "us_purchase": "1848 for $15 million",
+      "11th_president": "James Polk"
+    },
+    "geographic_references": ["California", "Pacific shore"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Gold Rush illustration, 'Make Good Choices' subtitle, Daniel Kahneman quote, California history (1542 Queen Calafia naming, 1848 US purchase $15M, James Polk) all accurate."
+}

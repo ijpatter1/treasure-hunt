@@ -1,0 +1,29 @@
+{
+  "screenshot": "dedication.png",
+  "section": "front_matter",
+  "page_type": "dedication",
+
+  "content": {
+    "dedication_line_1": "DEDICATED TO KIMBERLY,",
+    "dedication_line_2": "AIDEN & LONDYN",
+    "dedication_line_3": "AND",
+    "dedication_line_4": "TREASURE HUNTERS EVERYWHERE",
+    "epigraph": "Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness.",
+    "epigraph_attribution": "—SAINT AUGUSTINE"
+  },
+
+  "formatting": {
+    "dedication_style": "small caps, centered",
+    "epigraph_style": "italic, centered, red attribution",
+    "separator": "horizontal line between dedication and epigraph",
+    "background": "cream/aged paper texture"
+  },
+
+  "key_elements": {
+    "dedicatees": ["Kimberly", "Aiden", "Londyn"],
+    "quote_author": "Saint Augustine",
+    "relationship": "Family members (wife and children based on other sources)"
+  },
+
+  "verification_notes": "Dedication page with Saint Augustine quote about treasure and heart"
+}

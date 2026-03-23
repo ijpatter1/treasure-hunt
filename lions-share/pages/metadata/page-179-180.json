@@ -1,0 +1,59 @@
+{
+  "screenshot": "page-179-180.png",
+  "section": "chapter",
+  "chapter": 21,
+  "chapter_title": "Antiquities of Alexander",
+  "chapter_subtitle": "Make It Make Sense",
+
+  "left_page": {
+    "page_number": 179,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Classical painting depicting the Apotheosis of Hercules - celestial scene with gods, angels and clouds in Baroque style",
+      "text_in_image": null,
+      "potential_clues": ["Hercules mythology", "Greek gods theme"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 180,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ANTIQUITIES OF ALEXANDER\n\nMake It Make Sense\n\n\"A myth is an image in terms of which we try to make sense of the world.\"\n—ALAN WATTS\n\nMy children are constantly trying to understand the world around them. Why do bees sting? Where will Daddy go when he dies? Why can't I eat the cat food? My kids are walking, talking bundles of curiosity. They want to know how everything works, why everything is, and all of the rules. Adults are similar. We just tend not to say it out loud so much.\n\nThroughout history, cultures have relied on mythology to explain the world around them. When there wasn't a seemingly rational explanation to be had, myths helped fill the gap. The mythology that developed in and around ancient Greece is some of the most famous. And in Greece, like in other cultures, mythology wasn't just about explanations, it was used for politics and power, as well.\n\nWhen speaking of power and politics, its hard to ignore Alexander, one of the most iconic figures in Greek history. He was the first-born son of Philip II, king of Macedonia. When Philip II was murdered by a rival, Alex-",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "ANTIQUITIES OF ALEXANDER"},
+        {"type": "handwritten_subtitle", "text": "Make It Make Sense"},
+        {"type": "quote", "text": "A myth is an image in terms of which we try to make sense of the world.", "attribution": "Alan Watts"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "Make It Make Sense", "style": "handwritten_red"}
+      ]
+    },
+    "images": [],
+    "sidebar": {
+      "text": "(Opposite page) Photograph of the Apotheosis of Hercules",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "chapter_theme": "Mythology as way to make sense of the world",
+    "alexander_intro": {
+      "full_name": "Alexander",
+      "father": "Philip II, king of Macedonia",
+      "became_king": "After Philip II was murdered by rival"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Apotheosis of Hercules classical Baroque painting (celestial scene with gods, angels, clouds), Chapter 21 'ANTIQUITIES OF ALEXANDER', handwritten 'Make It Make Sense' subtitle, Alan Watts quote ('A myth is an image in terms of which we try to make sense of the world'), children's questions (bees sting, where will Daddy go when he dies, can't eat cat food), cultures used mythology to explain world, Greek mythology 'some of the most famous', mythology used for politics and power, Alexander intro (first-born son of Philip II king of Macedonia, Philip II murdered by rival), sidebar 'Photograph of the Apotheosis of Hercules' all accurate."
+}

@@ -1,0 +1,51 @@
+{
+  "page_type": "cover",
+  "source_file": "unbreakable-thread-cover.png",
+  "title": {
+    "text": "Our Unbreakable Thread",
+    "typography": {
+      "font_style": "decorative script/cursive",
+      "color": "pink/magenta gradient",
+      "special_elements": "small heart connected to curling thread line extending from the 'd' in 'Thread'"
+    }
+  },
+  "illustration": {
+    "description": "A happy family of three outdoors in what appears to be a park or garden setting",
+    "characters": [
+      {
+        "role": "mother",
+        "appearance": "Long dark brown hair, Asian features",
+        "clothing": "Yellow/orange floral patterned blouse/top",
+        "expression": "Smiling, looking toward father and child",
+        "position": "Left side of image"
+      },
+      {
+        "role": "father",
+        "appearance": "Short dark hair, Caucasian features",
+        "clothing": "Purple/blue solid colored shirt, blue jeans",
+        "expression": "Laughing/smiling broadly",
+        "position": "Center-right, carrying child on shoulders"
+      },
+      {
+        "role": "child",
+        "appearance": "Young boy, mixed heritage appearance",
+        "clothing": "Blue and white horizontal striped shirt, blue pants, white sneakers",
+        "expression": "Laughing joyfully with eyes closed",
+        "position": "On father's shoulders, arms around father's head"
+      }
+    ],
+    "background": {
+      "sky": "Sunset or sunrise colors - pink, orange, peach gradients",
+      "landscape": "Green trees/foliage on both sides, suggesting park or garden",
+      "mood": "Warm, loving, peaceful outdoor family moment"
+    },
+    "art_style": "Children's book illustration, watercolor-like, warm and inviting"
+  },
+  "notable_elements": [
+    "Mixed-race/multicultural family representation",
+    "Heart symbol connected to title",
+    "Thread imagery in title (title itself references thread)",
+    "Outdoor natural setting",
+    "Physical closeness of family (child on shoulders, parents side by side)"
+  ]
+}

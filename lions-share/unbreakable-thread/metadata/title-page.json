@@ -1,0 +1,66 @@
+{
+  "page_type": "title_page",
+  "source_file": "unbreakable-thread-title-page.png",
+  "text_content": {
+    "credits": {
+      "raw_text": "JonCollins-BlackIllustratedbyNicoleGsell",
+      "parsed": {
+        "author": "Jon Collins-Black",
+        "illustrator": "Nicole Gsell"
+      },
+      "position": "top of page",
+      "typography": "small, spaced out letters, dark text"
+    },
+    "title": {
+      "text": "Our Unbreakable Thread",
+      "typography": {
+        "font_style": "decorative script/cursive",
+        "color": "pink/magenta",
+        "special_elements": "small heart connected to curling thread extending from title"
+      },
+      "position": "upper third of page"
+    }
+  },
+  "illustration": {
+    "description": "Couple sitting together on a wooden park bench in a lush garden, woman is visibly pregnant",
+    "characters": [
+      {
+        "role": "father/husband",
+        "appearance": "Short dark hair, Caucasian features (same man from cover)",
+        "clothing": "Blue cardigan/jacket over dark shirt, dark pants",
+        "expression": "Loving, tender, looking at wife's belly",
+        "position": "Left side of bench",
+        "action": "Hand on wife's pregnant belly"
+      },
+      {
+        "role": "mother/wife",
+        "appearance": "Long brown hair, Asian features (same woman from cover)",
+        "clothing": "Pink top, blue jeans, dark sneakers",
+        "expression": "Content, peaceful, looking down at belly",
+        "position": "Right side of bench",
+        "action": "Both hands cradling pregnant belly"
+      }
+    ],
+    "setting": {
+      "furniture": "Wooden park bench with slatted back",
+      "flora": [
+        "Pink/purple flowering trees (cherry blossoms or similar) in background",
+        "Blue hydrangeas on the left",
+        "Red tulips in foreground",
+        "White flowers on right side",
+        "Green grass throughout"
+      ],
+      "mood": "Spring garden, romantic, peaceful, anticipatory"
+    },
+    "special_element": {
+      "description": "Small icon in upper right corner",
+      "appearance": "Appears to be a small bottle or container with a dark cap"
+    },
+    "art_style": "Children's book watercolor illustration"
+  },
+  "narrative_significance": {
+    "timeline": "This scene appears to take place BEFORE the cover scene - parents expecting their child",
+    "connection_to_cover": "Same couple from cover, but here the mother is pregnant rather than with the born child",
+    "theme": "The 'unbreakable thread' begins before birth"
+  }
+}

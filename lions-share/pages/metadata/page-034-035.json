@@ -1,0 +1,57 @@
+{
+  "screenshot": "page-034-035.png",
+  "section": "chapter",
+  "chapter": 2,
+  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_subtitle": "Don't Wing It",
+
+  "left_page": {
+    "page_number": 34,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "Along with their architecture, the legitimacy of the Khmer royal family was also carefully crafted, although cured in myth. The early Khmer leaders created a legend that explained their royal bloodline, a fabrication that told of an ancient Indian wiseman who married a princess who was the daughter of an immortal Naga-king...\n\nAs the Khmer Empire grew, it exerted control over trade with cultures throughout Asia. Its wealth became enormous. Like with pre-Angkor cultures, not much written word is preserved, outside of some stone inscriptions. But while accounts of pre-Angkor seem lavish, the descriptions from emissaries to Khmer were on a different level.\n\nThose visitors described a tall golden tower at the center of Angkor. Golden lions guarded a golden bridge that stretched across the river to its entrance. The Khmer king wore many pounds of pearls around his neck. His wrists and ankles and fingers were covered in gold bracelets and rings. He brandished a golden sword. The king would leave the court and join a parade where elephants marched with tusks sheathed in gold. The king's many wives",
+      "formatted_sections": [
+        {"type": "body", "text": "Khmer Empire exerted control over trade with cultures throughout Asia"},
+        {"type": "body", "text": "Golden tower at center of Angkor, golden lions guarded golden bridge"},
+        {"type": "body", "text": "Khmer king wore pounds of pearls, gold bracelets, rings, golden sword"},
+        {"type": "sidebar", "text": "Angkor Wat is the largest temple at Angkor.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "has_sidebar": true, "emphasized_text": []},
+    "images": [{"description": "Photo of Angkor Wat temple with jungle overgrowth", "text_in_image": null, "potential_clues": ["Angkor Wat, Cambodia"]}]
+  },
+
+  "right_page": {
+    "page_number": 35,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "...followed, holding gold ornamented umbrellas. Countless servants carried gold vessels. The horses and the carriages they pulled all shimmered in gold. Wearing gold was not reserved just for the king and his court. The Khmer believed that each human body was a shrine. Wearing gold was an act of worship, a way of adorning the temple of a person's spirit. So, people decorated themselves with as much gold as they could afford. Gold rings were worn as pendants, on fingers, and even on toes.\n\nIn preparation for the afterlife, the Khmer were dressed in gold after they died. Yet the spiritual significance of jewelry led to its annihilation. The Khmer wore their jewelry to their cremation pyres, and in that intense heat, most of it was destroyed. For this reason, rings like ours that survive today were discovered mostly in hidden caches, secreted away within temple walls.\n\nThe Khmer reigned from the 8th century until 1431, when Angkor was finally defeated by the Siams. Periods of extreme drought and flooding followed. Angkor's remaining inhabitants were slowly forced to abandon the giant city and migrate elsewhere. The great city of Angkor eventually became quiet. The jungle and its strangler roots steadily grew, working their way up, over and around the abandoned city walls. Over the next three centuries, the once mighty city of Angkor was slowly swallowed up until it was hidden from the outside world.\n\nOn the eastern shore of what today is Vietnam lived a small but persistent maritime culture know as Champa, dating back to the second century AD. You can see a picture of our ring from Champa on the following page. Champa was made up of savvy self-governing and independent regions. These people held tightly to their culture and forged a resilience through mutual cooperation. Together they prioritized their independence and devised ways to dissociate and defend against invaders and outside influences. Because of this, through the ancient ages, and even during most of the reign of the Khmer empire, the Champa culture was able to retain its independence. While the Khmer conquered the other regions around them, the Champa were almost always successful in their defense.\n\nStill, after many failed attacks by the Khmer and others, a part of the Champa region eventually succumbed to Khmer rule in 1145. Yet this victory for Khmer lasted only two short years, before the Khmer found it preferable just to return home. Then, in an unexpected twist, the Champa planned revenge. After a year of quiet preparation, the Champa navy set sail and successfully attacked and defeated the mighty city of Angkor. The Champa maintained control of the massive city for four years, before finally leaving the Khmer capital. The Champa returned to their homes and were never bothered by the Khmer again.",
+      "formatted_sections": [
+        {"type": "body", "text": "rings like ours that survive today were discovered mostly in hidden caches, secreted away within temple walls"},
+        {"type": "body", "text": "The Khmer reigned from the 8th century until 1431, when Angkor was finally defeated by the Siams"},
+        {"type": "body", "text": "On the eastern shore of what today is Vietnam lived a small but persistent maritime culture know as Champa"},
+        {"type": "body", "text": "Champa navy set sail and successfully attacked and defeated the mighty city of Angkor"}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "key_elements": {
+    "khmer_culture": {
+      "gold_worship": "Wearing gold was act of worship, adorning temple of person's spirit",
+      "burial": "Dressed in gold for afterlife, jewelry destroyed in cremation pyres",
+      "surviving_rings": "Discovered in hidden caches, secreted away within temple walls",
+      "reign": "8th century until 1431, defeated by Siams"
+    },
+    "champa": {
+      "location": "Eastern shore of what today is Vietnam",
+      "period": "Dating back to 2nd century AD",
+      "culture": "Maritime, self-governing, independent, resilient",
+      "victory": "Defeated Angkor, controlled it for 4 years"
+    },
+    "geographic_references": ["Vietnam (Champa)", "Angkor", "Cambodia"]
+  },
+
+  "verification_notes": "Verified against screenshot. Key phrase 'hidden caches, secreted away within temple walls' confirmed. Dates (8th c-1431, 2nd c AD Champa, 1145), golden descriptions, Angkor Wat image all accurate."
+}

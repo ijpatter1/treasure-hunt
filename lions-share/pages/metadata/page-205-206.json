@@ -1,0 +1,34 @@
+{
+  "screenshot": "page-205-206.png",
+  "section": "back_matter",
+  "title": "Joy's Serenade (Poem)",
+
+  "poem": {
+    "title": "JOY'S SERENADE",
+    "full_text": "A note,\nthe molten tone of a tune,\nrests inside all of us\nwho want a song to follow,\na treasure to hold;\nwe may find music\nin a poem.\n\nOur conductor,\nas with a trace of a baton\nthrough the air,\ngives direction.\nWhile the coda is incomplete,\nthere's a flutter of excitement around.\n\nSee how far to go.\nUse will's straight edge,\nas the turning square or any arc\nmay align at a proper point.\nNever despair, never doubt.\nThis is no imaginary wonderland.\nNow look.\n\nYou can take your own path\nan X leads the way\nor simply follow shimmering circles of gold.\nThere may be magic in the water, but the pike\nare rather all around.\n\nIf you get warm,\nyou may find shady oaks.\nWhen close, the haiku\ncurls a little further on\nwhere few have seen it.\nAnd if you don't go down\nyou may never know\nhow high you ever want to be.\n\nThe sky smiles on you.\nDancers are on the land.\nAnd if you stay to see the night\nit will ignite with the flame of starlight.\n\nNow that you're here\nall that is left remains for you.\nAnd if you spy others warming\nwith the sunlight,\nor sat upon a rock,\nallowing nature's wide embrace\nto sustain their bliss,\nmaybe ask them to assist you.\nYou can sing harmonies as you travel home."
+  },
+
+  "potential_clues": {
+    "stanza_1": ["A note", "molten tone of a tune", "song to follow", "treasure to hold", "find music in a poem"],
+    "stanza_2": ["conductor", "baton through air", "gives direction", "coda is incomplete", "flutter of excitement"],
+    "stanza_3": ["See how far to go", "will's straight edge", "turning square or any arc", "align at proper point", "Never despair, never doubt", "no imaginary wonderland", "Now look"],
+    "stanza_4": ["take your own path", "X leads the way", "shimmering circles of gold", "magic in the water", "pike are rather all around"],
+    "stanza_5": ["If you get warm", "shady oaks", "haiku curls a little further on", "where few have seen it", "don't go down", "how high you ever want to be"],
+    "stanza_6": ["sky smiles on you", "Dancers are on the land", "stay to see the night", "flame of starlight"],
+    "stanza_7": ["Now that you're here", "all that is left remains for you", "spy others warming with sunlight", "sat upon a rock", "nature's wide embrace", "ask them to assist you", "sing harmonies as you travel home"]
+  },
+
+  "key_elements": {
+    "likely_clues": [
+      "X leads the way - X marks the spot?",
+      "shady oaks - oak trees at location?",
+      "pike are rather all around - fish/pike or road/turnpike?",
+      "Dancers are on the land - dance-related landmark?",
+      "sat upon a rock - rock formation?",
+      "haiku curls a little further on - 5-7-5 syllables or Japanese garden?",
+      "shimmering circles of gold - sun reflection? gold-colored feature?"
+    ]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. CRITICAL CLUE POEM 'JOY'S SERENADE' fully transcribed. All 7 stanzas verified: (1) 'molten tone of a tune', 'treasure to hold', 'music in a poem'; (2) 'conductor', 'baton', 'direction', 'coda is incomplete'; (3) 'See how far to go', 'will's straight edge', 'turning square or any arc', 'align at proper point', 'no imaginary wonderland', 'Now look'; (4) 'take your own path', 'X leads the way', 'shimmering circles of gold', 'magic in the water', 'pike are rather all around'; (5) 'get warm', 'shady oaks', 'haiku curls a little further on', 'few have seen it', 'don't go down', 'how high you ever want to be'; (6) 'sky smiles on you', 'Dancers are on the land', 'flame of starlight'; (7) 'all that is left remains for you', 'spy others warming with sunlight', 'sat upon a rock', 'nature's wide embrace', 'sing harmonies as you travel home' all accurate."
+}

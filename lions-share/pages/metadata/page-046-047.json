@@ -1,0 +1,51 @@
+{
+  "screenshot": "page-046-047.png",
+  "section": "chapter",
+  "chapter": 4,
+  "chapter_title": "The 96 Carat Chivor Emerald",
+  "chapter_subtitle": "Blaze the Path",
+
+  "left_page": {
+    "page_number": 46,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Stunning 96-carat Chivor emerald - deep green crystal formation with multiple terminations",
+      "text_in_image": null,
+      "potential_clues": ["Chivor emerald from Colombia", "One of treasure items"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 47,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 4\n\nTHE 96 CARAT CHIVOR EMERALD\n\nBlaze the Path\n\n\"Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.\"\n—ROBERT FROST, \"The Road Not Taken\"\n\nOne of my earliest treasure hunting memories took place the summer I was seven. As the sun baked hot from its high arc above, I knelt with stick in hand, dirt clumped under my fingernails, digging and scratching away at a red dirt embankment. I had walked down the sloped street in front of my parents' small three-bedroom suburban home to the cul-de-sac below. From there, I'd taken a sharp left, crossed the gravelly pavement and stepped onto a barely worn path, mostly used by the dogs that barked, as they ran in packs around our neighborhood. The trail followed a metal chain-link fence for a ways. Once past the fence, the path continued a little longer, before ending abruptly at an empty lot. This lot was my excavation site.\n\nHere, I dug and dug and dug. The pile of finger-sized rocks I had amassed was sorely unimpressive. Yet, my enthusiasm did not wane. Dislodging a rock,",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "THE 96 CARAT CHIVOR EMERALD"},
+        {"type": "handwritten_subtitle", "text": "Blaze the Path", "style": "red_handwritten"},
+        {"type": "quote", "text": "Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.", "attribution": "Robert Frost, \"The Road Not Taken\""},
+        {"type": "body", "text": "Author's childhood treasure hunting memory at age 7, digging in red dirt embankment"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Blaze the Path", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "quote": {"text": "Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.", "author": "Robert Frost", "poem": "The Road Not Taken"},
+    "author_childhood": {
+      "age": 7,
+      "activity": "Digging for rocks in red dirt embankment",
+      "location": "Empty lot near cul-de-sac, walked from parents' suburban home",
+      "details": "Chain-link fence, gravelly pavement, dog path"
+    },
+    "treasure_item": "96-carat Chivor emerald"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Chapter title, Robert Frost quote, Blaze the Path subtitle, and childhood treasure hunting memory all accurate."
+}

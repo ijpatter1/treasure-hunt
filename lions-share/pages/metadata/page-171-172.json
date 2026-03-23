@@ -1,0 +1,64 @@
+{
+  "screenshot": "page-171-172.png",
+  "section": "chapter",
+  "chapter": 20,
+  "chapter_title": "The Six-Figure Birthstone",
+  "chapter_subtitle": "Choosing a New Perspective",
+
+  "left_page": {
+    "page_number": 171,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Large brilliantly cut gemstone (appears golden/amber colored) shown from above, displaying intricate faceting pattern",
+      "text_in_image": null,
+      "potential_clues": ["Six-figure birthstone treasure item"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 172,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "THE SIX-FIGURE BIRTHSTONE\n\nChoosing a New Perspective\n\n\"Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.\"\n—LSCRAE\n\n\"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\"\n—STEVE DE SHAZER\n\nFrom the very moment I sat down to blueprint this treasure hunt, I wanted to endow a piece of myself into every part of it. This project is intensely personal, the fabric of which is lined with a wanting I have to connect with you. This includes sharing things about myself generally reserved for those most intimate and dear. For this reason, it was very important that each item in the treasure had some attribute of personal significance to me. Our treasure would then reflect parts of me to you. It's as if pieces of my soul are now nested inside our five boxes.\n\nI considered thousands of items for our treasure. I made lists and revised them. Then I reworked those lists some more. Some items chosen for our",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "THE SIX-FIGURE BIRTHSTONE"},
+        {"type": "handwritten_subtitle", "text": "Choosing a New Perspective"},
+        {"type": "quote", "text": "Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.", "attribution": "Lscrae"},
+        {"type": "quote", "text": "Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.", "attribution": "Steve de Shazer"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "Choosing a New Perspective", "style": "handwritten_red"}
+      ]
+    },
+    "images": [],
+    "sidebar": {
+      "text": "(Opposite page) This gemstone is a 201 carat smokey quartz cut in a custom design called \"Imperial Brilliant\" by Mark Oros. This stone is from the state of Rio de, so it's arguably the most velvet tone in our treasure.",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "name": "201 carat smokey quartz",
+      "cut": "Imperial Brilliant (custom design)",
+      "designer": "Mark Oros",
+      "origin": "State of Rio (Brazil)"
+    },
+    "author_philosophy": {
+      "personal_connection": "Each item has personal significance",
+      "treasure_as_self": "Pieces of my soul are now nested inside our five boxes"
+    }
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Brilliantly cut gemstone image (golden/amber color), Chapter 20 'THE SIX-FIGURE BIRTHSTONE', handwritten 'Choosing a New Perspective' subtitle, Lscrae quote ('rose bush is full of thorns, be grateful the thorn bush has roses'), Steve de Shazer quote ('Where you stand determines what you see'), author philosophy ('intensely personal', 'pieces of my soul are now nested inside our five boxes', considered thousands of items), sidebar TREASURE ITEM: 201 carat smokey quartz, Imperial Brilliant cut by Mark Oros, 'state of Rio de' (appears truncated, likely Rio de Janeiro Brazil) all accurate."
+}

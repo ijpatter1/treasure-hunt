@@ -1,0 +1,60 @@
+{
+  "screenshot": "page-135-136.png",
+  "section": "chapter",
+  "chapter": 15,
+  "chapter_title": "1960 Rome Olympic Gold Medal",
+  "chapter_subtitle": "Don't Give Up",
+
+  "left_page": {
+    "page_number": 135,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ture three gold medals in a single Olympics. Rudolph was seeded with a steadfast determination that bloomed suddenly into the extraordinary. As she ran on the oval track at the 1960 Olympics, her achievements in Rome became a testament to what can be possible when a person never gives up.\n\nWilma was born to Blanche Rudolph in 1940, in the small town of Clarksville, Tennessee. Blanche suffered a fall that induced early labor. Wilma was two months premature and weighed a mere four and a half pounds. She was frail and thin and seemed as if she might not live long at all. While she eventually survived, Wilma couldn't avoid a weakened immune system. She was riddled with illness. In her first few years of life, Wilma had pneumonia twice and caught the measles, mumps, whooping cough, and scarlet fever. The only doctor the family could afford was Dr. Coleman. He was the lone Black doctor in Clarksville and made it his priority to do house calls to poor families in their community.\n\nAt age five, Wilma began to have numbness in her left leg. After a brief examination, Dr. Coleman gave Wilma's parents some devastating news. Wilma's lack of feeling in her leg was a paralysis caused by the polio virus. As the infection became worse, Wilma lost the use of her limb. The virus began to slowly bend and twist Wilma's leg. She was fitted with a brace in an attempt to blunt the deformation. The brace was made of hard steel, with metal fastened around Wilma's leg above the knee line that connected all the way down to her shoe. Medical professionals spoke to her parents and told them there was a good possibility Wilma would never walk again.\n\nTwice a week for the next four years, Wilma boarded a bus to take an hour ride, fifty miles to Nashville. There she rehabilitated at Meharry Medical School, founded by two Black doctors to help those that could not afford normal medical care. Wilma participated in traction, massage, and pool therapy for four hours each session. When she was done, Wilma would board the bus again and return home. In her room each night, Wilma closely examined her leg to see if she could see any positive changes. For years there were none. She knew all too well that many victims of polio were forced to spend their lives in a wheelchair. Although this thought terrified her, Wilma continued her rehab relentlessly. She was determined not to give up.\n\nWilma was unable to attend school for two years after her diagnosis. She looked on as other children in her neighborhood went off to class, ran around the playgrounds, and played on the basketball courts. She was an easy target for bullying. Children called her a cripple. They teased her and joked that she was adopted. But what hurt her most of all was the loneliness she felt. Although she was the twentieth born of twenty-two children, she found herself often alone, while all her siblings were out living normal lives. When her brothers and sisters were at home with her, Wilma snarkily referred to herself as the \"gimpy-legged cheerleader.\" She couldn't do; she could only watch.\n\nWilma desperately wanted to be a regular kid. Through sheer will, Wilma taught herself to walk without a limp, despite wearing her brace. This did nothing to speed up her recovery, but it succeeded in making Wilma",
+      "formatted_sections": [
+        {"type": "body", "text": "Wilma was born to Blanche Rudolph in 1940, in the small town of Clarksville, Tennessee."},
+        {"type": "body", "text": "She was determined not to give up."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 136,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "feel empowered. Then one Sunday, at the age of nine, Wilma decided to take off her brace and walk right into church without it. For Wilma it was a seminal moment, a defiance. On that day, Wilma felt almost normal. Three years later, Wilma would remove her brace permanently. She had fully recovered from polio.\n\nFreed from her brace, the first thing Wilma did was head to the basketball courts where she played with her peers. In seventh grade, she signed up for the basketball team. The same drive that had willed her to recover now focused on the hard court. She wanted to be a starting player right away. Her coach, Clinton Grey, had other ideas. Wilma spent the next three years on the bench. But she was not deterred. She pestered Coach Grey to let her take extra practice sessions in the gym. Wilma began training more.\n\nTo keep his players in shape during the offseason, Coach Grey formed an informal track team. During these races, Wilma discovered what winning felt like for the first time. Over the next two years, she won every race she ran against both her classmates and runners from other local schools. No official times were ever clocked, and no standings or rankings were ever kept. But Wilma's speed was obvious.\n\nWhen Wilma began cutting class regularly to sneak down to the local college track and run, Coach Grey decided to take Wilma to a large track event in Tuskegee, Alabama. Track athletes from across the south had come to compete. It was Wilma's first time running against trained competition. Wilma lost every race she entered. She was devastated. Wearing a brace had left Wilma emotionally fragile. Losing for the first time shook her confidence to her core. But in the face of defeat, Wilma responded with a heightened sense of determination.\n\nBy tenth grade, Wilma, now almost six feet tall, became the starting guard on the basketball team. One of the local basketball referees was a man named Ed Temple, who also coached track at nearby Tennessee State College. Ed refereed to earn extra money, while he scouted out potential talent for his AAU developmental track program that was a feeder for his college team. Ed sat down with Wilma's parents and discussed their daughter com-",
+      "formatted_sections": [
+        {"type": "body", "text": "Then one Sunday, at the age of nine, Wilma decided to take off her brace and walk right into church without it."},
+        {"type": "body", "text": "But in the face of defeat, Wilma responded with a heightened sense of determination."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Olympic rings symbol in color (blue, yellow, black, green, red)",
+      "text_in_image": null,
+      "potential_clues": []
+    }]
+  },
+
+  "key_elements": {
+    "wilma_rudolph_biography": {
+      "birthplace": "Clarksville, Tennessee",
+      "birth_year": 1940,
+      "mother": "Blanche Rudolph",
+      "siblings": "20th of 22 children",
+      "childhood_illness": "Polio - paralysis in left leg, wore steel brace",
+      "rehabilitation": "Meharry Medical School in Nashville (50 miles away)",
+      "brace_removed": "Age 12 (permanently)",
+      "first_sport": "Basketball",
+      "basketball_coach": "Clinton Grey",
+      "track_coach": "Ed Temple (Tennessee State College)"
+    },
+    "key_locations": {
+      "tuskegee_alabama": "First competitive track meet"
+    },
+    "geographic_references": ["Clarksville, Tennessee", "Nashville", "Tuskegee, Alabama", "Tennessee State College"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Wilma Rudolph bio (1940 Clarksville TN, Blanche Rudolph, 20th of 22, 4.5 lbs, polio age 5, Dr. Coleman, Meharry Medical School Nashville 50 mi), recovery (age 9 church, age 12 permanent), Coach Clinton Grey, Tuskegee AL loss, Ed Temple TN State College, Olympic rings all accurate."
+}

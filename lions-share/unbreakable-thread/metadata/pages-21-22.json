@@ -1,0 +1,87 @@
+{
+  "page_spread": "21-22",
+  "source_files": [
+    "unbreakable-thread-page-21.png",
+    "unbreakable-thread-page-22.png"
+  ],
+  "page_21": {
+    "text": null,
+    "illustration": {
+      "description": "Funeral procession at cemetery - mourners with umbrellas walking up path",
+      "scene": "People walking toward gravesite in the rain",
+      "figures": [
+        "Multiple mourners with dark umbrellas",
+        "Adults and children in procession",
+        "Dark/somber clothing"
+      ],
+      "setting": {
+        "location": "Cemetery",
+        "weather": "Rainy, gray sky",
+        "season": "Autumn (orange and yellow trees, falling leaves)",
+        "elements": [
+          "Gravestones on hillside",
+          "Wrought iron fence",
+          "Winding path",
+          "American flag on one grave (veteran)",
+          "Flowers on graves"
+        ]
+      },
+      "atmosphere": "Somber, grief, loss"
+    }
+  },
+  "page_22": {
+    "text": {
+      "raw": "Atmyfather'sfuneralashelayfinallystill, yourecognizedthethreadaroundhisfingertoo.",
+      "parsed": "At my father's funeral as he lay finally still, you recognized the thread around his finger too.",
+      "position": "top of page",
+      "typography": "dark serif font"
+    },
+    "illustration": {
+      "description": "Graveside funeral service - casket with family mourning",
+      "main_scene": {
+        "focus": "Wooden casket with red roses/flowers on top",
+        "mourners_at_grave": {
+          "description": "Three figures under one umbrella at graveside",
+          "figures": [
+            "Mother/grandmother (elderly, gray hair)",
+            "Adult son",
+            "Possibly daughter-in-law or family member"
+          ]
+        }
+      },
+      "setting": {
+        "location": "Cemetery graveside",
+        "weather": "Rainy, gray overcast sky",
+        "season": "Autumn (falling orange leaves)",
+        "elements": [
+          "White/gray gravestones",
+          "Wrought iron fence",
+          "Green grass",
+          "Mourners with umbrellas in foreground"
+        ]
+      },
+      "casket_details": {
+        "material": "Wood (brown/tan)",
+        "flowers": "Red roses arranged on top",
+        "covering": "Yellow/golden fabric drape"
+      },
+      "atmosphere": "Grief, loss, but also revelation"
+    }
+  },
+  "narrative_elements": {
+    "major_event": "Death of grandfather (narrator's father)",
+    "key_revelation": "Thread existed between narrator and THEIR parent too",
+    "generational_insight": "The thread is multigenerational - passed down",
+    "who_died": {
+      "relationship_to_narrator": "Father",
+      "relationship_to_child": "Grandfather"
+    },
+    "thread_discovery": "Child sees that grandfather also had a thread around his finger",
+    "implications": [
+      "The thread connection exists across all parent-child relationships",
+      "The narrator was once in the child's position",
+      "Death doesn't break the thread - it reveals it",
+      "The cycle continues generation to generation"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "screenshot": "front-01-02.png",
+  "section": "front_matter",
+
+  "left_page": {
+    "page_number": 1,
+    "page_label": "copyright",
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK\n\nCOVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES\n\nALL RIGHTS RESERVED. REPRODUCTION OF ANY FORM, INCLUDING DIGITAL TRANSMISSION OVER THE INTERNET, IS A THEFT OF THE AUTHOR'S INTELLECTUAL PROPERTY. IF YOU WOULD LIKE PERMISSION TO USE MATERIAL FROM THIS BOOK OTHER THAN FOR REVIEW PURPOSES, PLEASE CONTACT TREASURE BOOKS, INC AT WWW.TREASUREINSIDE.COM\n\nLIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-9899831-3-5 (HARDBACK)\nPRINTED IN CHINA\n\n0 9 8 7 6 5 4 3\nPUBLISHED BY TREASURE BOOKS, INC.\nDISTRIBUTED BY BAKER & TAYLOR\n\nMOST PHOTOGRAPHY WAS SHOT BY JAMIE RIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS.\n\nARTWORK WAS CREATED BY AUTHOR UNLESS OTHERWISE NOTED.",
+      "formatted_sections": [
+        {
+          "type": "copyright",
+          "text": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK"
+        },
+        {
+          "type": "credits",
+          "text": "COVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES"
+        },
+        {
+          "type": "legal",
+          "text": "ALL RIGHTS RESERVED. REPRODUCTION OF ANY FORM, INCLUDING DIGITAL TRANSMISSION OVER THE INTERNET, IS A THEFT OF THE AUTHOR'S INTELLECTUAL PROPERTY. IF YOU WOULD LIKE PERMISSION TO USE MATERIAL FROM THIS BOOK OTHER THAN FOR REVIEW PURPOSES, PLEASE CONTACT TREASURE BOOKS, INC AT WWW.TREASUREINSIDE.COM"
+        },
+        {
+          "type": "publishing_info",
+          "text": "LIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-9899831-3-5 (HARDBACK)\nPRINTED IN CHINA"
+        },
+        {
+          "type": "print_number",
+          "text": "0 9 8 7 6 5 4 3"
+        },
+        {
+          "type": "publisher",
+          "text": "PUBLISHED BY TREASURE BOOKS, INC.\nDISTRIBUTED BY BAKER & TAYLOR"
+        },
+        {
+          "type": "photo_credits",
+          "text": "MOST PHOTOGRAPHY WAS SHOT BY JAMIE RIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS."
+        },
+        {
+          "type": "artwork_credit",
+          "text": "ARTWORK WAS CREATED BY AUTHOR UNLESS OTHERWISE NOTED."
+        }
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "has_handwritten_text": false,
+      "emphasized_text": []
+    },
+    "images": [
+      {
+        "description": "Small decorative symbol/printer's mark at bottom right of page",
+        "location": "bottom_right",
+        "text_in_image": null,
+        "potential_clues": ["Publisher's device or printer's mark - possibly significant"]
+      }
+    ],
+    "metadata": {
+      "copyright_year": 2024,
+      "author": "Jon Collins-Black",
+      "designer": "Richard Ljoenes",
+      "photographer": "Jamie River",
+      "image_source": "The Arkenstone, Dallas, Texas",
+      "publisher": "Treasure Books, Inc.",
+      "distributor": "Baker & Taylor",
+      "isbn": "979-8-9899831-3-5",
+      "lccn": "2024904217",
+      "print_location": "China",
+      "website": "www.treasureinside.com"
+    }
+  },
+
+  "right_page": {
+    "page_number": 2,
+    "page_label": "dedication",
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "DEDICATED TO KIMBERLY,\nAIDEN & LONDYN\nAND\nTREASURE HUNTERS EVERYWHERE\n\nWhere your pleasure is, there is your treasure:\nwhere your treasure, there your heart;\nwhere your heart, there your happiness.\n\n—SAINT AUGUSTINE",
+      "formatted_sections": [
+        {
+          "type": "dedication",
+          "text": "DEDICATED TO KIMBERLY, AIDEN & LONDYN AND TREASURE HUNTERS EVERYWHERE",
+          "style": "caps_serif"
+        },
+        {
+          "type": "quote",
+          "text": "Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness.",
+          "attribution": "SAINT AUGUSTINE",
+          "style": "italic_red"
+        }
+      ]
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": true,
+      "has_handwritten_text": false,
+      "emphasized_text": [
+        {"text": "AND", "style": "red_italic"},
+        {"text": "Saint Augustine quote", "style": "red_italic"}
+      ]
+    },
+    "images": []
+  },
+
+  "verification_notes": "Verified against screenshot. All transcriptions accurate."
+}

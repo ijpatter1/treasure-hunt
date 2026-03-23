@@ -1,0 +1,55 @@
+{
+  "screenshot": "page-133-134.png",
+  "section": "chapter",
+  "chapter": 15,
+  "chapter_title": "1960 Rome Olympic Gold Medal",
+  "chapter_subtitle": "Don't Give Up",
+  "part": "Two",
+
+  "left_page": {
+    "page_number": 133,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "1960 Rome Olympic gold medal in presentation case, showing 'GIOCHI DELLA XVII OLIMPIADE ROMA MCMLX' and 'GINNASTICA' with classical figure design",
+      "text_in_image": "GIOCHI DELLA XVII OLIMPIADE ROMA MCMLX, GINNASTICA",
+      "potential_clues": ["1960 Rome Olympics gold medal treasure item"]
+    }],
+    "sidebar": {"text": "This is a gold medal from the Rome 1960 Olympic Games that is now in our treasure. Wilma Rudolph and Cassius Clay both won gold medals in Rome.", "style": "red_italic"}
+  },
+
+  "right_page": {
+    "page_number": 134,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 15\n\n1960 ROME OLYMPIC GOLD MEDAL\n\nDon't Give Up\n\n\"Never give up, for that is just the place and time that the tide will turn.\"\n—HARRIET BEECHER STOWE\n\n\"I ran and ran and ran every day, and I acquired this sense of determination, this sense of spirit that I would never, never give up, no matter what else happened.\"\n—WILMA RUDOLPH\n\nThe five interconnected rings of the Olympic logo represent the union of the five inhabited continents of earth. Every four years since the very first modern Olympics in Athens in 1896, the greatest athletes from around the world come together to compete. The Olympics symbolize perseverance, dedication, and excellence. Olympians push themselves to the edge of their physical and emotional abilities in a quest to redefine what is humanly possible. World records are broken. Underdogs step to the top of gold medal podiums and sing their national anthems. And every four years, inspiring stories of athletes overcoming incredible odds get broadcast to millions of people watching around the world.\n\nBut there are a few biographies that transcend even the Olympics. Some champions have stories so remarkable that they simply make us marvel. Such is the life of Wilma Rudolph, the first female American athlete to capture",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "1960 ROME OLYMPIC GOLD MEDAL"},
+        {"type": "handwritten_subtitle", "text": "Don't Give Up", "style": "red_handwritten"},
+        {"type": "quote", "text": "Never give up, for that is just the place and time that the tide will turn.", "attribution": "Harriet Beecher Stowe"},
+        {"type": "quote", "text": "I ran and ran and ran every day, and I acquired this sense of determination, this sense of spirit that I would never, never give up, no matter what else happened.", "attribution": "Wilma Rudolph"}
+      ]
+    },
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Don't Give Up", "style": "red_handwritten"}]},
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "item": "1960 Rome Olympic gold medal",
+      "event": "XVII Olympiad",
+      "connection": "Wilma Rudolph and Cassius Clay both won gold in Rome"
+    },
+    "quotes": [
+      {"text": "Never give up, for that is just the place and time that the tide will turn.", "author": "Harriet Beecher Stowe"},
+      {"text": "I ran and ran and ran every day...", "author": "Wilma Rudolph"}
+    ],
+    "subject": "Wilma Rudolph - first female American athlete to capture three gold medals in single Olympics"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Sidebar accurate (1960 Rome gold medal, Wilma Rudolph and Cassius Clay). Medal text (GIOCHI DELLA XVII OLIMPIADE ROMA MCMLX, GINNASTICA), 'Don't Give Up' subtitle, both quotes (Harriet Beecher Stowe, Wilma Rudolph), Athens 1896 all accurate."
+}

@@ -1,0 +1,55 @@
+{
+  "screenshot": "chapter-xxvi-coins.png",
+  "section": "chapter_xxvi",
+  "chapter": 26,
+  "page_type": "image_page",
+
+  "content": {
+    "header": "JON COLLINS-BLACK"
+  },
+
+  "images": [
+    {
+      "position": "top_left",
+      "description": "Silver/gray coin with minimalist design - single vertical line through center, small circle at top",
+      "type": "commemorative_coin"
+    },
+    {
+      "position": "top_right",
+      "description": "Textured circular object resembling lunar/moon surface",
+      "type": "unknown_coin_or_object"
+    },
+    {
+      "position": "bottom_left",
+      "description": "Physical Bitcoin in protective ANACS case. Label shows '4833202'. Coin shows 'FINE SILVER', 'VIRES IN NUMERIS', '1 BITCOIN'. Black and gold design with Bitcoin 'B' symbol.",
+      "type": "casascius_bitcoin",
+      "case_label": "AUTHENTICATED",
+      "serial": "4833202"
+    },
+    {
+      "position": "bottom_right",
+      "description": "Physical Bitcoin in ANACS grading case. Label shows '2013 TOKEN MS 68', 'CASASCIUS 1 BITCOIN', 'GILT SILVER 1Ag4wgzV'. Gold colored coin showing circuit board pattern design.",
+      "type": "casascius_bitcoin",
+      "grade": "MS 68",
+      "year": "2013",
+      "variant": "GILT SILVER",
+      "code": "1Ag4wgzV"
+    }
+  ],
+
+  "formatting": {
+    "layout": "2x2 grid of coin images",
+    "background": "white (top), torn paper edge divider, black (bottom)",
+    "header": "gold text top"
+  },
+
+  "key_elements": {
+    "casascius_coins": true,
+    "grading_service": "ANACS",
+    "bitcoin_grade": "MS 68",
+    "bitcoin_year": 2013,
+    "latin_phrase": "VIRES IN NUMERIS"
+  },
+
+  "verification_notes": "Page showing physical Casascius Bitcoin coins and commemorative coins"
+}

@@ -1,0 +1,38 @@
+{
+  "screenshot": "copyright.png",
+  "section": "front_matter",
+  "page_type": "copyright",
+
+  "content": {
+    "copyright_notice": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK",
+    "design_credit": "COVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES",
+    "rights_statement": "ALL RIGHTS RESERVED. REPRODUCTION OF ANY FORM, INCLUDING DIGITAL TRANSMISSION OVER THE INTERNET, IS A THEFT OF THE AUTHOR'S INTELLECTUAL PROPERTY. IF YOU WOULD LIKE PERMISSION TO USE MATERIAL FROM THIS BOOK OTHER THAN FOR REVIEW PURPOSES, PLEASE CONTACT TREASURE BOOKS, INC AT WWW.TREASUREINSIDE.COM.",
+    "library_of_congress": "Library of Congress Control Number: 2024904317",
+    "isbn": "ISBN: 979-8-989813-31-5 (HARDBACK)",
+    "printing_location": "PRINTED IN CHINA",
+    "print_run": "09876543",
+    "publisher": "PUBLISHED BY TREASURE BOOKS, INC.",
+    "distributor": "DISTRIBUTED BY BAKER & TAYLOR",
+    "photography_credit": "MOST PHOTOGRAPHY WAS SHOT BY JAMIE BIVER.",
+    "image_donation": "SOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS.",
+    "artwork_credit": "ARTWORK WAS CREATED BY AUTHOR UNLESS OTHERWISE NOTED."
+  },
+
+  "formatting": {
+    "text_style": "small caps, centered",
+    "layout": "standard copyright page format",
+    "background": "cream/aged paper texture"
+  },
+
+  "key_elements": {
+    "year": 2024,
+    "author": "Jon Collins-Black",
+    "designer": "Richard Ljoenes",
+    "photographer": "Jamie Biver",
+    "gem_source": "The Arkenstone, Dallas, Texas",
+    "publisher": "Treasure Books, Inc.",
+    "website": "www.treasureinside.com"
+  },
+
+  "verification_notes": "Standard copyright page with full publication details"
+}

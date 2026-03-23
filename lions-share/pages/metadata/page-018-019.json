@@ -1,0 +1,66 @@
+{
+  "screenshot": "page-018-019.png",
+  "section": "chapter",
+  "chapter": 1,
+  "chapter_title": "The 120 Carat Sapphire",
+  "chapter_subtitle": "A Plan That Changed the World",
+
+  "left_page": {
+    "page_number": 18,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "SAPPHIRE\nRatnapura\nSabaragamuwa Prov.\nSri Lanka",
+      "formatted_sections": []
+    },
+    "formatting": {
+      "has_header": false,
+      "has_quotes": false,
+      "emphasized_text": []
+    },
+    "images": [
+      {
+        "description": "120-carat raw sapphire crystal on clear acrylic display stand, elongated blue crystal with natural rough texture",
+        "text_in_image": "SAPPHIRE\nRatnapura\nSabaragamuwa Prov.\nSri Lanka",
+        "potential_clues": ["Ratnapura, Sri Lanka - origin location", "Sabaragamuwa Province"]
+      }
+    ]
+  },
+
+  "right_page": {
+    "page_number": 19,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "CHAPTER 1\n\nTHE 120-CARAT SAPPHIRE\n\nA Plan That Changed the World\n\nIt takes as much energy to wish as it does to plan.\n—ELEANOR ROOSEVELT\n\nTell me, what is it you plan to do with your one wild and precious life?\n—MARY OLIVER\n\nJust the other day, my three and a half year-old son asked me if we could play together. His bright-blue eyes beamed at me like lasers. How could I say no? He led me hand-in-hand downstairs to his room. There, spread out across his floor, was a street map of Los Angeles. He inspected it, grabbed a pink highlighter and some blank paper and started marking. \"I'm working on a project,\" he said. \"I'm making a map.\" \"What kind of map?\" I asked. His marker moved with a quick flourish. \"A treasure map!\" he replied.\n\nI've never once talked with my son about the treasures I've hidden. He has no idea about them. My son's interest in discovering treasure is undeniably his own, an infatuation seemingly inscribed into his DNA. By eighteen months old, he was burying plastic gold coins in his sand box to dig right",
+      "formatted_sections": [
+        {"type": "chapter_number", "text": "CHAPTER 1", "style": "red_circle"},
+        {"type": "chapter_title", "text": "THE 120-CARAT SAPPHIRE", "style": "large_caps"},
+        {"type": "chapter_subtitle", "text": "A Plan That Changed the World", "style": "handwritten_red"},
+        {"type": "quote", "text": "It takes as much energy to wish as it does to plan.", "attribution": "ELEANOR ROOSEVELT"},
+        {"type": "quote", "text": "Tell me, what is it you plan to do with your one wild and precious life?", "attribution": "MARY OLIVER"},
+        {"type": "body", "text": "Just the other day, my three and a half year-old son asked me if we could play together..."},
+        {"type": "sidebar", "text": "This 120-carat raw sapphire is a part of our treasure.", "style": "red_italic"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "A Plan That Changed the World", "style": "handwritten_red"}
+      ]
+    },
+    "images": []
+  },
+
+  "key_elements": {
+    "treasure_item": "120-carat raw sapphire from Sri Lanka",
+    "theme": "Planning, having a roadmap",
+    "quotes": [
+      {"text": "It takes as much energy to wish as it does to plan.", "author": "Eleanor Roosevelt"},
+      {"text": "Tell me, what is it you plan to do with your one wild and precious life?", "author": "Mary Oliver"}
+    ],
+    "geographic_references": ["Los Angeles", "Ratnapura, Sri Lanka", "Sabaragamuwa Province"]
+  },
+
+  "verification_notes": "Verified against screenshot. All text transcriptions accurate. Sapphire display label verified: Ratnapura, Sabaragamuwa Prov., Sri Lanka. Both quotes and attributions confirmed."
+}

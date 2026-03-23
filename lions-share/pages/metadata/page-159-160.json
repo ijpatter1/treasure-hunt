@@ -1,0 +1,61 @@
+{
+  "screenshot": "page-159-160.png",
+  "section": "chapter",
+  "chapter": 18,
+  "chapter_title": "Andrew Carnegie's Emerald",
+  "chapter_subtitle": "The Science of Giving",
+
+  "left_page": {
+    "page_number": 159,
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "EMERALD\nMuzo Mine\nBoyacá Dept., Colombia",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Large green Colombian emerald crystal embedded in dark matrix rock, displayed on black pedestal",
+      "text_in_image": "EMERALD\nMuzo Mine\nBoyacá Dept., Colombia",
+      "potential_clues": ["Muzo Mine origin", "Colombia", "Boyacá Department"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 160,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "ANDREW CARNEGIE'S EMERALD\n\nThe Science of Giving\n\n\"Always give without remembering and always receive without forgetting.\" —BRIAN TRACY\n\n\"We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.\" —STEVE GOODIER\n\nI have a good editor. He is excellent at what he does. He's been a part of a #1 best seller, and I respect his opinion. So, when he sent me his first round of notes for this book, I was excited to read them. Immediately, one of his comments jumped out at me:\n\n(These treasure) items seem so extravagant that I wonder if readers will ask if you're putting them on...you're giving away extraordinarily rare and expensive prizes. There's no punchline to this? Only because it goes so strongly against human nature.\n\nHis question felt important, and I pondered it for a while. Was there a punchline to this treasure hunt? It's not a word I would have used to describe any dénouement around here. But I think I understood what he was",
+      "formatted_sections": [
+        {"type": "chapter_header", "text": "ANDREW CARNEGIE'S EMERALD"},
+        {"type": "handwritten_subtitle", "text": "The Science of Giving"},
+        {"type": "quote", "text": "Always give without remembering and always receive without forgetting.", "attribution": "Brian Tracy"},
+        {"type": "quote", "text": "We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.", "attribution": "Steve Goodier"}
+      ]
+    },
+    "formatting": {
+      "has_header": true,
+      "has_quotes": true,
+      "has_handwritten_text": true,
+      "emphasized_text": [
+        {"text": "The Science of Giving", "style": "handwritten_red"}
+      ]
+    },
+    "images": [],
+    "sidebar": {
+      "text": "This green Colombian emerald in matrix was a part of Andrew Carnegie's rare mineral collection. After his death, it passed through a few owners before I acquired it.",
+      "style": "red_italic"
+    }
+  },
+
+  "key_elements": {
+    "treasure_item": {
+      "name": "Andrew Carnegie's Emerald",
+      "description": "Green Colombian emerald in matrix from Carnegie's mineral collection",
+      "origin": "Muzo Mine, Boyacá Dept., Colombia",
+      "provenance": "Carnegie's collection → few owners → author"
+    },
+    "editor_question": "Is there a punchline to giving away such extravagant treasure?"
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Emerald image with label 'EMERALD / Muzo Mine / Boyacá Dept., Colombia', Chapter 18 'ANDREW CARNEGIE'S EMERALD', handwritten 'The Science of Giving' subtitle, Brian Tracy quote ('give without remembering'), Steve Goodier quote ('none of us can ever run out of something worthwhile to give'), sidebar 'This green Colombian emerald in matrix was a part of Andrew Carnegie's rare mineral collection. After his death, it passed through a few owners before I acquired it.', editor question about extravagant items going 'strongly against human nature' all accurate."
+}

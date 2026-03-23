@@ -1,0 +1,58 @@
+{
+  "screenshot": "page-097-098.png",
+  "section": "chapter",
+  "chapter": 10,
+  "chapter_title": "Jackie Onassis' Diamond Sapphire Brooch",
+  "chapter_subtitle": "Welcome the Good and the Bad",
+
+  "left_page": {
+    "page_number": 97,
+    "content_type": "text",
+    "transcription": {
+      "raw_text": "It's about how you respond. Next season, you'll have a chance for a different experience. Its going to be alright. You're going to be okay. I promise you.\" In that moment, my dad was teaching me about resilience. I was only eleven years old, but his speech could have been a week ago. It remains that vivid.\n\nToday, I have one tattoo. It runs down my left forearm. It is written in Sanskrit. The letters roughly translate as, \"I welcome the good with the bad, as they both come from the one true source.\" Each of us know there is both sweet and sour in the human experience. All of us meet with fortune and disappointment as we pursue the things we desire. We all feel the joy of ecstasy and experience the pain of tragedy. It's part of our shared, inevitable condition.\n\nI am grateful to my father for his speech to me. I haven't always applied his words successfully, for sure, but they have helped me manage some good times and bad. It seems somewhat fitting, then, that out of all the objects in our treasure, the one in this chapter is my father's favorite. It's the only item in our treasure that when my dad saw it, he turned to me and asked if I might not rather keep it for myself. When the time comes that you get to hold it in your hands, I think you will understand my father's opinion.\n\nThis item's previous owner knew more about resilience than I hope I ever need to learn. She was a woman who understood the lesson taught to me by my father, and she embodied it with incredible grace and humility. Jackie Onassis stood unwavering, through every challenge life threw at her, and she did it with class.\n\nAs I did research on Jackie Onassis, it didn't take me long to realize that a legacy such as hers can easily be accompanied by misconceptions. Iconic individuals like Jackie often get observed through the filters of cameras, photos, and news reports and not by the clear lens of reality. What struck me most about Jackie was how, despite the immense tragedy that befell her, she always stood resolute, with clarity about what she wanted to do next. There were many twists and turns during her life, some grand, others bitter. Yet Jackie seemed to travel along each one with her eyes open to the road ahead. She did not stray the course away from the things that brought her joy.\n\nJackie was known for her keen eye for fashion and design. Jackie had an artful instinct and a style that inspired people. The magnetism of her appearance drew to it a much wider influence than any first lady ever, before or after. She came to wield a major influence on fashion trend-setting around the world. This sapphire brooch, for example, has a refined playfulness when seen in person. It could be worn both as fun and at a sophisticated gathering. Though I must admit, focusing on such superficial aspects of Jackie's reputation seems shallow to me. The way she curated her life, not her outfits, is much more interesting.\n\nJackie was talented, picky, and precise. Becoming first lady was no accident. At a young age, Jackie relentlessly studied culture, learning French and art history. She became a talented writer. From a contest essay she penned at the age of twenty-one, she was selected from 1,279 candidates for an internship at Vogue magazine. When Jackie arrived her first day, she looked",
+      "formatted_sections": [
+        {"type": "body", "text": "Today, I have one tattoo. It runs down my left forearm. It is written in Sanskrit."},
+        {"type": "body", "text": "The letters roughly translate as, 'I welcome the good with the bad, as they both come from the one true source.'"},
+        {"type": "body", "text": "It's the only item in our treasure that when my dad saw it, he turned to me and asked if I might not rather keep it for myself."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": []
+  },
+
+  "right_page": {
+    "page_number": 98,
+    "content_type": "mixed",
+    "transcription": {
+      "raw_text": "around and sized up the office, decided that there weren't enough prominent men who worked at the magazine, and promptly quit. She had a vision for her life, and that internship did not fit it.\n\nA short time later she acquired a job at The Washington-Times with her own column called \"Inquiring Camera Girl.\" Jackie walked the streets taking pictures and interviewing people about issues of the day. Her job gave Jackie direct access to a network of media and political influencers. Less than a year and a half later, she met Jack Kennedy. Jack was an up-and-coming congressman, and Jackie smit him with star-crossed desire. But Jack couldn't date her when they met because she had already accepted another man's engagement proposal. Ultimately, Jackie was not going to let that decision stand in her way. She knew what she wanted. She returned the first man's ring and accepted Mr. Kennedy.\n\nTheir marriage began a period of Jackie's life in which she experienced terrible loss. As is well documented, Jackie rode in the open air alongside her husband on November 22, 1963, when he was shot and killed in Dallas. A few years on, Jackie would grieve again when one of her best friends and brother-in-law, Robert Kennedy, was also assassinated. Before Jack Kennedy's death, the couple experienced one miscarriage, one stillborn birth, and the death of a third child, who lived only a few days after being born. The latter child, Patrick, passed away only three short months before Jack Kennedy was murdered. The trauma and grief Jackie must have endured during this time in her life is hard for me to imagine.",
+      "formatted_sections": [
+        {"type": "body", "text": "She had a vision for her life, and that internship did not fit it."},
+        {"type": "body", "text": "She knew what she wanted. She returned the first man's ring and accepted Mr. Kennedy."}
+      ]
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Black and white photograph of Jackie Kennedy with her daughter Caroline",
+      "text_in_image": "Jackie with her daughter Caroline",
+      "potential_clues": ["Jackie Kennedy historical photo"]
+    }]
+  },
+
+  "key_elements": {
+    "author_personal_details": {
+      "tattoo": "Sanskrit on left forearm",
+      "tattoo_meaning": "I welcome the good with the bad, as they both come from the one true source",
+      "fathers_favorite_item": "Jackie Onassis brooch"
+    },
+    "jackie_biography": {
+      "skills": ["French", "Art history", "Writing"],
+      "vogue_internship": "Selected from 1,279 candidates at age 21, quit first day",
+      "washington_times_job": "Inquiring Camera Girl column",
+      "met_jack_kennedy": "Less than 1.5 years after Washington job",
+      "tragedies": ["JFK assassination Nov 22, 1963 in Dallas", "RFK assassination", "One miscarriage", "One stillborn", "Patrick died days after birth (3 months before JFK)"]
+    },
+    "geographic_references": ["Dallas (JFK assassination)"]
+  },
+
+  "verification_notes": "VERIFIED against screenshot. Sanskrit tattoo translation, father's favorite item, Jackie's Vogue internship (1,279 candidates), Washington-Times 'Inquiring Camera Girl', JFK assassination Nov 22 1963 Dallas, photo caption all accurate."
+}
