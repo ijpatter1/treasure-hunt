@@ -158,7 +158,7 @@ Additional findings from park website and hiker reports:
 | # | Clue | Rocky Face | Colorado Springs |
 |---|------|-----------|-----------------|
 | 1 | "shady oaks" | 8/10 — chestnut oak dominant | 8/10 — Gambel oak |
-| 2 | "magic in the water" | 5/10 — gem-bearing streams nearby; springs gone | 10/10 — Manitou Springs |
+| 2 | "magic in the water" | 7/10 — book's central metaphor is finding treasure in water (p.13 "panning for gold...waded into a stream"); faience made with water = "something magical happens" (p.197); author's origin = finding gems in Hiddenite's streams; mica-gold pools on granite dome | 10/10 — Manitou Springs |
 | 3 | "pike are rather all around" | 7/10 — peaks visible all directions from summit | 10/10 — Pikes Peak everywhere |
 | 4 | "sat upon a rock" | 9/10 — granite dome, named Rocky Face | 8/10 — Picnic Rock, GoG formations |
 | 5 | "Dancers on the land" | 6/10 — Coral Hairstreak documented on-site | 7/10 — CO Hairstreak state insect |
