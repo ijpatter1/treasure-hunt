@@ -25,13 +25,21 @@ sat.addTo(map);
 L.control.layers({"Satellite":sat,"Topo":topo}).addTo(map);
 
 var nk=document.getElementById("neckImg");
-var ns={x:window.innerWidth/2-100,y:window.innerHeight/2-150,scale:0.4,rotation:180,opacity:0.55,flipH:false,flipV:false,visible:true,dragging:false,sx:0,sy:0,ex:0,ey:0};
+var ns={x:0,y:0,scale:0.4,rotation:180,opacity:0.55,flipH:false,flipV:false,visible:true,dragging:false,sx:0,sy:0,ex:0,ey:0};
+function centerNeck(){
+    var pt=map.latLngToContainerPoint([35.9712824139155,-81.10973949661587]);
+    ns.x=pt.x-nk.naturalWidth*ns.scale/2;
+    ns.y=pt.y-nk.naturalHeight*ns.scale/2;
+    uNk();
+}
 function uNk(){
     nk.style.left=ns.x+"px";nk.style.top=ns.y+"px";
     var scX=ns.flipH?-ns.scale:ns.scale;var scY=ns.flipV?-ns.scale:ns.scale;
     nk.style.transform="rotate("+ns.rotation+"deg) scale("+scX+","+scY+")";
     nk.style.opacity=ns.opacity;nk.style.display=ns.visible?"block":"none";
 }
+nk.onload=function(){centerNeck()};
+if(nk.complete){centerNeck()}
 nk.addEventListener("mousedown",function(e){ns.dragging=true;ns.sx=e.clientX;ns.sy=e.clientY;ns.ex=ns.x;ns.ey=ns.y;e.preventDefault();e.stopPropagation()});
 document.addEventListener("mousemove",function(e){if(!ns.dragging)return;ns.x=ns.ex+(e.clientX-ns.sx);ns.y=ns.ey+(e.clientY-ns.sy);uNk()});
 document.addEventListener("mouseup",function(){ns.dragging=false});
@@ -50,6 +58,7 @@ oc.onAdd=function(){
     d.innerHTML+='<label>Rotate <input type="range" min="0" max="360" value="180" oninput="ns.rotation=this.value;uNk()"></label>';
     d.innerHTML+='<label><input type="checkbox" onchange="ns.flipH=this.checked;uNk()"> Flip H</label>';
     d.innerHTML+='<label><input type="checkbox" onchange="ns.flipV=this.checked;uNk()"> Flip V</label>';
+    d.innerHTML+='<button onclick="centerNeck()" style="margin-top:4px;padding:3px 8px;font-size:10px;cursor:pointer">Center on 318</button>';
     d.innerHTML+='<div style="margin-top:4px;font-size:9px;color:#666">Drag image to move</div>';
     L.DomEvent.disableClickPropagation(d);L.DomEvent.disableScrollPropagation(d);
     return d;
