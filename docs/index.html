@@ -15,6 +15,11 @@ body{margin:0;padding:0}
 .oc label{display:block;margin:3px 0}
 .oc input[type=range]{width:120px;vertical-align:middle}
 #neckImg{position:absolute;pointer-events:auto;cursor:move;transform-origin:center center;z-index:650}
+#coordDisplay{position:fixed;bottom:10px;left:50%;transform:translateX(-50%);background:rgba(0,0,0,.8);color:#fff;padding:6px 14px;border-radius:20px;font:12px/1.4 monospace;z-index:1000;display:none;white-space:nowrap}
+#coordDisplay button{background:none;border:none;color:#4fc3f7;cursor:pointer;margin-left:8px;font:12px monospace;padding:0}
+.loc-btn{position:absolute;top:80px;left:10px;z-index:1000;width:34px;height:34px;background:#fff;border:2px solid rgba(0,0,0,.2);border-radius:4px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:18px;line-height:1;box-shadow:0 1px 5px rgba(0,0,0,.3)}
+.loc-btn:hover{background:#f4f4f4}
+.loc-btn.active{background:#e0f0ff}
 </style></head><body><div id="map"></div>
 <img id="neckImg" src="necklace.jpg"/>
 <script>
@@ -111,4 +116,41 @@ d.innerHTML+="<br><div><span class=lc style=background:#FFD700;border:2px\ solid
 d.innerHTML+="<div><span class=lc style=background:#ff0000;opacity:.5></span> HIGH gap</div>";
 d.innerHTML+="<div><span class=lc style=background:#ff8800;opacity:.5></span> MED gap</div>";
 return d;};lg.addTo(map);
+
+// --- Click to get coordinates ---
+var coordEl=document.createElement("div");coordEl.id="coordDisplay";document.body.appendChild(coordEl);
+var clickMarker=null;
+map.on("click",function(e){
+    var lat=e.latlng.lat.toFixed(8),lng=e.latlng.lng.toFixed(8);
+    var txt=lat+", "+lng;
+    coordEl.innerHTML=txt+'<button onclick="navigator.clipboard.writeText(\''+txt+'\')">copy</button>';
+    coordEl.style.display="block";
+    if(clickMarker)map.removeLayer(clickMarker);
+    clickMarker=L.circleMarker(e.latlng,{radius:5,color:"#fff",fillColor:"#2196F3",fillOpacity:1,weight:2}).addTo(map);
+    clickMarker.bindPopup("<b>"+txt+"</b>").openPopup();
+});
+
+// --- Live device location ---
+var locBtn=document.createElement("div");locBtn.className="loc-btn";locBtn.title="Show my location";locBtn.innerHTML="&#9737;";
+document.querySelector("#map").appendChild(locBtn);
+var locMarker=null,locCircle=null,watchId=null;
+locBtn.addEventListener("click",function(){
+    if(watchId!==null){
+        navigator.geolocation.clearWatch(watchId);watchId=null;
+        if(locMarker)map.removeLayer(locMarker);if(locCircle)map.removeLayer(locCircle);
+        locMarker=null;locCircle=null;locBtn.classList.remove("active");
+        return;
+    }
+    if(!navigator.geolocation){alert("Geolocation not supported");return;}
+    locBtn.classList.add("active");
+    watchId=navigator.geolocation.watchPosition(function(pos){
+        var ll=[pos.coords.latitude,pos.coords.longitude],acc=pos.coords.accuracy;
+        if(!locMarker){
+            locMarker=L.circleMarker(ll,{radius:7,color:"#fff",fillColor:"#4285F4",fillOpacity:1,weight:2}).addTo(map);
+            locCircle=L.circle(ll,{radius:acc,color:"#4285F4",fillColor:"#4285F4",fillOpacity:0.1,weight:1}).addTo(map);
+            map.setView(ll,17);
+        }else{locMarker.setLatLng(ll);locCircle.setLatLng(ll);locCircle.setRadius(acc);}
+        locMarker.bindPopup("<b>My Location</b><br>"+pos.coords.latitude.toFixed(8)+", "+pos.coords.longitude.toFixed(8)+"<br>Accuracy: "+Math.round(acc)+"m");
+    },function(err){alert("Location error: "+err.message);locBtn.classList.remove("active");watchId=null;},{enableHighAccuracy:true,maximumAge:5000});
+});
 </script></body></html>
