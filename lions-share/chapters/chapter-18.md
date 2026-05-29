@@ -19,9 +19,9 @@
 
 The editor questioned why the author would give away such extravagant treasure items - it "goes against human nature." The author explains through his childhood and Carnegie's philosophy.
 
-The author's parents met in seminary and started a church in **Huntersville, NC** focused on service. They assisted the homeless shelter, soup kitchen, battered women's shelter, and Habitat for Humanity. Father served on the board of the local Food Bank and Red Cross. The author was required to volunteer from a young age.
+The author's parents met in seminary and started a church in **Statesville, NC** focused on service. They assisted the homeless shelter, soup kitchen, battered women's shelter, and Habitat for Humanity. Father served on the board of the local Food Bank and Red Cross. The author was required to volunteer from a young age.
 
-Andrew Carnegie emigrated from Scotland to Pittsburgh at age 13 in 1848, starting as a bobbin boy (16 hours/day, 6 days/week). He rose through Western Union, Pennsylvania Railroad, and eventually sold his steel companies to J.P. Morgan for $480 million in 1901, becoming the world's wealthiest man ($310 billion equivalent today).
+Andrew Carnegie emigrated from Scotland to Pittsburgh at age 13 in 1848, starting as a bobbin boy (twelve hours a day, 6 days/week). He learned to memorize the sounds of the telegraph so he wouldn't have to write them down, and once on a substantial salary of $35/week he began investing in companies he understood and believed in. He rose through Western Union, Pennsylvania Railroad, and eventually sold his steel companies to J.P. Morgan for $480 million in 1901, becoming the world's wealthiest man ($310 billion equivalent today).
 
 Carnegie pioneered the charitable endowment, funded almost 1,700 libraries (800+ still operating), and gave away $350 million. His endowments funded the discovery of insulin, Sesame Street, and Pell Grants.
 
@@ -40,7 +40,7 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 | Detail | Information |
 |--------|-------------|
 | Parents | Met in seminary |
-| Parents' church | **Huntersville, NC** |
+| Parents' church | **Statesville, NC** |
 | Church focus | Service (homeless shelter, soup kitchen, etc.) |
 | Father's boards | Local Food Bank and Red Cross |
 | Childhood | Required to volunteer |
@@ -52,7 +52,7 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 
 | Location | Context | Relevance |
 |----------|---------|-----------|
-| **Huntersville, NC** | Author's parents' church | HIGH (NC connection) |
+| **Statesville, NC** | Author's parents' church | HIGH (NC connection) |
 | **Los Angeles area** | Author's current home | HIGH |
 | **Mount Wilson Observatory** | Northeast of author's home | HIGH |
 | Pittsburgh, PA | Carnegie's American home | Low |
@@ -88,7 +88,7 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 | Phrase | Context | Analysis |
 |--------|---------|----------|
 | **"Mount Wilson...not far from my home"** | Author location | Lives in LA area |
-| **"Huntersville, NC"** | Author's childhood | NC connection continues |
+| **"Statesville, NC"** | Author's childhood | NC connection continues |
 | "Share their joy with others" | What finders should do | Author's wish |
 | "The future is alive with a thousand adventures" | Closing line | Optimism |
 
@@ -96,7 +96,7 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 
 ## Cross-Chapter Patterns
 
-- [ ] **Author NC connection** - Huntersville (new), Hiddenite (Ch 4), Bakersville (Ch 3)
+- [ ] **Author NC connection** - Statesville (new), Hiddenite (Ch 4), Bakersville (Ch 3)
 - [ ] **Author lives in California** - confirmed (Ch 12) and now LA area (Ch 18)
 - [ ] **Giving philosophy** - raised by pastor parents (Ch 6, 9)
 - [ ] **Grew up modest** - family didn't save much money
@@ -105,7 +105,7 @@ Mount Wilson is in the San Gabriel Mountains, northeast of Los Angeles. **This c
 
 ## Research Questions
 
-1. How does Huntersville, NC relate to Hiddenite/Bakersville?
+1. How does Statesville, NC relate to Hiddenite/Bakersville?
 2. Does author's LA residence affect treasure location theories?
 3. Is there tension between NC childhood and CA residence?
 

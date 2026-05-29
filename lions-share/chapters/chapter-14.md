@@ -9,7 +9,7 @@
 
 | Item | Description | Rarity |
 |------|-------------|--------|
-| Tiffany Glass 'Iris' vase | Made by Louis Comfort Tiffany ~1900, LC/T initials on base, iridescent enamel on copper | Only one other known (at Metropolitan Museum of Art) |
+| Tiffany Glass 'Iris' vase | Made by Louis Comfort Tiffany ~1900, (LCT) initials carved into the base, iridescent enamel on copper | One-of-a-kind; only one other known (at Metropolitan Museum of Art) |
 | Thoreau journal pages | Two original pages from 1851, first time "the art of life" phrase was penned | Historical significance |
 
 ---

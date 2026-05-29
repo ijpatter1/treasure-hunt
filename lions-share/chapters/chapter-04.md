@@ -19,11 +19,13 @@
 
 The author recalls digging for rocks in a "red dirt embankment" at age 7. **Critical revelation:** "Although I knew that only some miles up the road was the **Hiddenite emerald mine**..." This confirms the author grew up near Hiddenite, NC (Alexander County).
 
-Simultaneously, 400 miles northwest in **Columbus, Ohio**, young **Rob Lavinsky** was digging for fossils. Mentor **Carlton Davis** introduced Rob to the Columbus Rock and Mineral Society, launching a career that made him "the largest retail volume dealer of rare minerals in the world."
+Simultaneously, 400 miles northwest in **Columbus, Ohio**, young **Rob Lavinsky** was digging for fossils. Mentor **Carlton Davis** introduced Rob to the Columbus Rock and Mineral Society, launching a career that made him "the largest retail volume dealer of rare minerals in the world." A page 49 image caption (red text) reads: "Here Rob Lavinsky holds a gold specimen called 'The Flame' from the Red Ridge Mine."
 
 The narrative then covers how **Don Francisco Restrepo** rediscovered the lost Chivor mine in the 1880s. His only clue: the mine was near a vista where "the **Plains of the Llanos** could be seen below." After weeks of searching, his team found "a view gaped open between **two jagged grey peaks**."
 
 **Key reassurance:** "Fortunately, there is **no jungle clearing required** to find any of the treasure boxes I've hidden. In that regard, your task is a **much, much easier one**."
+
+**Direct "come find it" parallel (page 55):** "Now, in a way similar to how the Chivor mine awaited Restrepo, our ninety-six carat Chivor emerald waits patiently for you to come find it. If Restrepo were alive right now, I imagine he might find this fact extremely amusing."
 
 ---
 

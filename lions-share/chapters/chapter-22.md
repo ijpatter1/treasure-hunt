@@ -9,7 +9,7 @@
 
 | Item | Description | Rarity |
 |------|-------------|--------|
-| Picasso pendant "Jacqueline au chevalet" | 23-karat gold, "Jacqueline at the Easel" | Only 39 made, 20 to public |
+| Picasso pendant "Jacqueline au chevalet" | 23-karat gold, "Jacqueline at the Easel" | Only 32 made, 20 to public |
 
 **Designer:** Pablo Picasso (1956)
 **Producer:** François Hugo of Hugo Ateliers, France (great-grandson of Victor Hugo)
@@ -21,9 +21,9 @@
 
 Picasso (1882-1973) created 50,000+ works in his lifetime. His first word was "pit" (Spanish: lápiz = pencil). Despite his fame and many mistresses, it was Jacqueline Roque (age 25, 47 years younger) who became his true love. She was a part-time employee at his ceramic studio in Madoura, France.
 
-Picasso's pursuit: He drew a chalk dove on her house, then brought her a single red rose every day for six months until she finally agreed to dinner. They spent his last 20 years inseparable - she was "wife, lover, muse, manager, accountant, caretaker, agent, and best friend." He painted her in 400+ works.
+Picasso's pursuit: He drew a chalk dove on her house, then brought her a single red rose every day for six months until she finally agreed to dinner. They spent his last 20 years inseparable - "Jacqueline was his wife, his lover, his muse, his manager, his accountant, his caretaker, his agent, and his best friend." He painted her in 400+ works.
 
-The author shares his own love story: he met Kimberly in 2003, started a family in 2017, and was "married only a few months ago." The treasure hunt project took "close to five years" and cost "millions of dollars."
+The author shares his own love story: he met Kimberly in 2013, started a family in 2017, and was "married only a few months ago." The treasure hunt project took "close to five years" and cost "millions of dollars."
 
 ---
 
@@ -32,7 +32,7 @@ The author shares his own love story: he met Kimberly in 2003, started a family 
 | Detail | Information |
 |--------|-------------|
 | Wife | **Kimberly** |
-| Met | **2003** |
+| Met | **2013** |
 | Family started | **2017** |
 | Married | **Recently** (few months before writing) |
 | Time to find her | Over 40 years |
@@ -70,8 +70,8 @@ The author shares his own love story: he met Kimberly in 2003, started a family 
 
 | Phrase | Context | Analysis |
 |--------|---------|----------|
-| **"Taking first step out your door might be bravest action"** | Treasure advice | Just start looking |
-| "Persistence and bravery" | Traits needed | Keep trying |
+| **"...taking the first step out your door might be the bravest action required of you here."** | Treasure advice | Just start looking |
+| "Picasso was persistent and brave. These are not bad traits to have when hunting for a treasure." | Traits needed | Keep trying |
 | "Make Your Own Kind of Music" | Kimberly's favorite | Unique path |
 | "Close to five years" | Project duration | Timeline |
 

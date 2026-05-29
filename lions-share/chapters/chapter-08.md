@@ -18,18 +18,18 @@
 
 | Item | Creator | Value | Materials |
 |------|---------|-------|-----------|
-| Ironwood bracelet | Charles Loloma | $27,000+ | Ironwood, turquoise, lapis, fossil, coral, gold |
+| Ironwood bracelet | Charles Loloma | $27,000+ | Ironwood, turquoise, lapis lazuli, coral, gold |
 | Silver ring (large) | Charles Loloma | Not specified | Lapis lazuli, turquoise, coral |
 | Silver ring (sapphire) | Charles Loloma | Not specified | Sapphire, Hopi inlay, masonite, turquoise, lapis, fossil, coral, ironwood |
-| Ring | Sonwai (Verma Nequatewa) | $25,000+ | Turquoise, sapphire, coral, lapis lazuli, gold |
+| Ring | Sonwai (Verma Nequatewa) | $20,000+ | Sugilite, turquoise, coral, lapis lazuli, gold |
 
-**Purchase location:** Wheelwright Museum of the American Indian Art, **Santa Fe**
+**Exhibited at:** Wheelwright Museum of Native American Art, **Santa Fe** (the Sonwai ring and the two Loloma rings were shown at the "Loloma" exhibit; not purchased there)
 
 ---
 
 ## Chapter Summary
 
-**Charles Loloma** (1921-1991) - born into the Badger clan, lived in **Hotevilla** on the Hopi reservation his entire life. Became the most prominent Native American jewelry designer in the world. Won first prize 7 consecutive years at Scottsdale National Indian Art Exhibition.
+**Charles Loloma** (born 1921) - born into the Badger clan, lived in **Hotevilla** on the Hopi reservation his entire life. Became the most prominent Native American jewelry designer in the world. Won first prize 7 consecutive years at Scottsdale National Indian Art Exhibition.
 
 Started as a painter - created murals at **Treasure Island** in San Francisco Bay (Indian Court of Federal Building, seen by 500,000+ visitors) and at MoMA in NYC.
 
@@ -39,7 +39,7 @@ His ironwood bracelet designs (1962) were inspired by NYC cityscapes. His niece 
 
 ## WARNING: Confirmation Bias
 
-> "When people believe there is just one right way of doing a thing, they may begin to see only those things that only confirm what they already believe to be true."
+> "When people believe there is just one right way of doing a thing, they may begin to see those things that only confirm what they already believe to be true."
 > "This conundrum can lead to a condition called **confirmation bias**."
 > "And beware: **Confirmation bias is a treasure hunter's most dreaded foe.**"
 
@@ -54,7 +54,7 @@ His ironwood bracelet designs (1962) were inspired by NYC cityscapes. His niece 
 | **Hopi reservation, Arizona** | Where Loloma lived | Medium |
 | **Hotevilla, Arizona** | Loloma's specific village ("edge of Hopi") | Medium |
 | **Canyon de Chelly** | Flying inspiration | Medium |
-| **Santa Fe, NM** | Wheelwright Museum (purchase location) | Medium |
+| **Santa Fe, NM** | Wheelwright Museum of Native American Art (rings exhibited here) | Medium |
 | Grand Canyon | Tutuveni petroglyphs (5,000 drawings, 150 rocks) | Medium |
 | **Treasure Island, SF Bay** | Where Loloma painted murals | Low |
 | Alcatraz, SF Bay | <3 miles from Treasure Island; Hopi chief imprisoned there | Low |
@@ -102,7 +102,8 @@ His ironwood bracelet designs (1962) were inspired by NYC cityscapes. His niece 
 | Age | Oldest North American tribe (~2,500 years) |
 | Origin | Migrated from Mexico ~500 BC |
 | Settlement | Oraibi = oldest occupied Native American settlement |
-| Calendar | Katsina Season / Non-Katsina Season, divided by solstices |
+| Calendar | Full circular calendar wheel (p.85) split into Katsina Season (upper) and Non-Katsina Season (lower) by the June (21st Summer Solstice) and December (21st Winter Solstice) solstices |
+| Calendar months/ceremonies | Powamuya (Feb – Bean Dance); Osomuya (Mar – Plaza/Night Dances, Angk'wa); Kwiyamuya (Apr – Plaza Dances, Footraces); Hakitonmuya (May – Plaza Dances, Footraces); Wuko'uyis (Jun – Plaza Dances); Talangva (Jul – Niman Home Dance); Tala'paamuya (Aug – Snake-Antelope or Flute Ceremonies); Nasanmuya (Sep – Women's Society, Basket Dance); Toho'osmuy (Oct – Women's Society Ceremonies); Kelmuya (Nov – Men's Society, Wuwutsim Tribal Initiation); Kyaamuya (Dec – Soystangwu Ceremony); Paamuya (Jan – Winter Social Dances) |
 | Loloma's role | Snake Priest, Bean Dance ceremony leader |
 
 ---

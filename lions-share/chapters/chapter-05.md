@@ -5,14 +5,15 @@
 
 ---
 
-## Treasure Items (4 Confirmed)
+## Treasure Items (4 Confirmed by p.58 sidebar; 3 pictured/captioned across pp.56-63)
+
+The p.58 sidebar states the treasure contains four Art Smith pieces, but only three are actually pictured/captioned across these spreads (the fourth is not pictured here).
 
 | Item | Description | Material |
 |------|-------------|----------|
-| Cuff bracelet | Modernist curved organic cutout design | Bronze/brass |
-| Brooch (round) | Modernist style | Brass |
-| Brooch | Dual-metal design | Copper and brass |
-| Ring | Free-form, "artistic edge contours around neighboring finger" | Sterling silver |
+| Cuff bracelet (p.56) | Modernist style bracelet | Brass |
+| Brooch (p.58, "above") | Dual-metal design | Copper and brass |
+| Ring (p.62) | Free-form, "outside edge contours around the neighboring finger" | Sterling silver |
 
 **All 4 are by Art Smith** - America's first prominent African-American jewelry designer. His pieces are "very rare...do not often change hands."
 
@@ -79,7 +80,7 @@ Art Smith's signature style: **asymmetrical forms of copper, silver, and brass**
 |-------|-------------|--------------|
 | "Faith is taking the first step even when you don't see the whole staircase." | Martin Luther King, Jr. | Chapter theme |
 | "To one who has faith, no explanation is necessary." | Thomas Aquinas | Faith defined |
-| "A piece of jewelry is...not complete until you relate it to the body." | Art Smith | His design philosophy |
+| "A piece of jewelry is in a sense an object that is not complete . . . until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form." | Art Smith | His design philosophy |
 
 ---
 

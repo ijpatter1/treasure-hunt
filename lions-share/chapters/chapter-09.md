@@ -9,7 +9,7 @@
 
 | Item | Description | Provenance |
 |------|-------------|------------|
-| Gold Chavin chalice | Ancient drinking vessel with decorative hammered patterns | Chavin culture, Peru, 400-1000 BC |
+| Gold Chavin chalice | Ancient drinking vessel with decorative hammered patterns | Chavin culture, Peru, 600-1000 BC |
 
 **Possible original uses:** Ceremonies outside temple, offering to Chavin de Huantar, or held psychedelics for temple visitors.
 
@@ -66,7 +66,8 @@ The chapter transitions to a personal story: at age 4, the author (Jon) disrupte
 | Name | Jon |
 | Age in story | 4 years old |
 | Personality | "Spirited, energetic child" |
-| Father | Pastor |
+| Father | Referred to only as "my father" / "my dad"; delivers the sermon and leads the prayer for "his congregation" (minister/pastor is inferred, not stated) |
+| Denomination | Baptist (p.92: "dry somber Baptist hymnals") |
 | Congregation size | 200 people |
 | Mother | "Sweetest, kindest, most caring woman" |
 | Family tradition | Christmas Eve candlelight vigil service |

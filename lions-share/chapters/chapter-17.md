@@ -17,9 +17,9 @@
 
 ## Chapter Summary
 
-The chapter debunks the cherry tree myth (invented by Mason Locke Weems in 1799 to sell books) and presents the real George Washington through his own extensive writings.
+The chapter debunks the cherry tree myth (invented by Mason Locke Weems to sell books - he wrote his first Washington biography a year after Washington died, and the cherry tree tale didn't appear until his book's fifth edition) and presents the real George Washington through his own extensive writings.
 
-Washington was never formally trained as a soldier but became a legendary commander. During the Revolutionary War, his army was "ragtag mercenaries, sons of farmers" who lost early battles badly. The famous Delaware River crossing occurred on Christmas night when 2 of 3 groups couldn't cross due to ice - only Washington's boat made it. Germans dismissed spy warnings as "sheer madness," leading to an improbable American victory.
+Washington was never formally trained as a soldier but became a legendary commander. During the Revolutionary War, his army was "ragtag mercenaries, sons of farmers" who lost early battles badly. The famous Delaware River crossing occurred "in the dead of night" when 2 of 3 groups couldn't cross due to ice - only Washington's boat made it. Germans dismissed spy warnings as "sheer madness," leading to an improbable American victory.
 
 For 8 years of war, Washington was never hit by bullets despite standing in the line of fire. At the Battle of Monmouth (June 1778), he rallied retreating troops on his white steed. He became America's "closest thing to a living superhero" and unanimous choice for first President.
 

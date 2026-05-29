@@ -9,10 +9,9 @@
 
 | Item | Description | Value |
 |------|-------------|-------|
-| 201 carat smokey quartz | "Imperial Brilliant" cut by Mark Oros | Unspecified |
+| 200 carat smokey quartz | "Beyond Brilliant" cut by Mark Oros | Unspecified |
 | 12 carat tsavorite garnet | Dark green gemstone | Six figures (similar stones at auction) |
 
-**Smokey quartz origin:** State of Rio (Brazil)
 **Tsavorite garnet:** 1000x rarer than emeralds, only found in Tanzania
 
 ---
@@ -44,9 +43,8 @@ The author walked through a "massive rose garden" (several acres) at a local par
 
 | Location | Context | Relevance |
 |----------|---------|-----------|
-| Rio de Janeiro state, Brazil | Smokey quartz origin | Low |
 | Tanzania | Only place tsavorite found | Low |
-| LA area local park | Rose garden visit | Medium |
+| A local park (location unnamed) | Rose garden visit | Medium |
 
 ---
 
@@ -54,7 +52,7 @@ The author walked through a "massive rose garden" (several acres) at a local par
 
 | Person | Role |
 |--------|------|
-| Mark Oros | Cut the smokey quartz "Imperial Brilliant" |
+| Mark Oros | Cut the smokey quartz "Beyond Brilliant" |
 | Campbell Bridges | Discovered tsavorite garnet in Tanzania |
 | Tiffany & Co. | First brand to introduce tsavorite |
 | Lscrae | Opening quote |
@@ -66,9 +64,9 @@ The author walked through a "massive rose garden" (several acres) at a local par
 
 | Phrase | Context | Analysis |
 |--------|---------|----------|
-| **"A change in where you stand changes everything"** | Opening quote | Perspective advice |
+| **"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything."** | Closing line of the Steve de Shazer epigraph | Perspective advice |
 | **"Five boxes"** | "Pieces of my soul are now nested inside our five boxes" | Confirms 5 boxes |
-| "Local park with massive rose garden" | Author's walk | LA area landmark? |
+| "Local park with massive rose garden" | Author's walk | Local landmark? (location unnamed in text) |
 | **January birthstone** | Author's birth month | Personal identifier |
 
 ---
@@ -79,13 +77,13 @@ The author walked through a "massive rose garden" (several acres) at a local par
 - [ ] **Chapter 4 callback** - childhood crystal digging
 - [ ] **Wife Kimberly** - confirmed again
 - [ ] **Five boxes** - reconfirmed
-- [ ] **Rose garden** - massive, several acres in LA area
+- [ ] **Rose garden** - massive, several acres (location unnamed in text)
 
 ---
 
 ## Research Questions
 
-1. What massive rose gardens exist in the LA area?
+1. What massive rose gardens (several acres) could the unnamed "local park" refer to?
 2. Does January birth month help identify the author?
 3. Could "where you stand changes everything" suggest specific vantage points?
 

@@ -13,7 +13,7 @@
 | Aguas Zarcas meteorite piece | Carbonaceous chondrite with amino acids | Costa Rica, 2019 (landed on doghouse) |
 
 **Moon rock rarity:** Total moon rock on Earth could fill "roughly four gym lockers."
-**Aguas Zarcas significance:** Contains "foundational amino acids with billions of years old that were the precursors of life on our planet."
+**Aguas Zarcas significance:** Contains "foundational amino acids billions of years old that were the precursors of life on our planet."
 
 ---
 
@@ -67,7 +67,7 @@ The chapter discusses the Overview Effect - the emotional and perspective shift 
 | Neil Armstrong | 1969 moon landing |
 | Buzz Aldrin | 1969 moon landing |
 | Captain Jean-Luc Picard | Author's TV hero |
-| Arthur C. Clarke | Opening quote |
+| Arthur C. Clarke (book prints "CLARK") | Opening quote |
 
 ---
 

@@ -43,7 +43,7 @@ The author explicitly states this treasure hunt is designed for joy, not sufferi
 | Personality | Competitive, eager, hard on himself |
 | Tattoo | Sanskrit on left forearm |
 | Tattoo meaning | "I welcome the good with the bad, as they both come from the one true source" |
-| Father | Supportive pastor, taught resilience |
+| Father | Supportive father, taught resilience |
 | Father's favorite item | Jackie Onassis brooch |
 
 ---

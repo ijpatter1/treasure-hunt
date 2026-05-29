@@ -30,11 +30,9 @@ Chapter concludes with explicit advice for treasure hunters and introduces **Set
 
 ## Direct Instructions to Hunters
 
-From page 37 (HIGH PRIORITY):
-- "Don't rush through these pages"
-- "Get to know these stories"
-- "Consider their content"
-- "Don't dismiss any details"
+From page 37 (HIGH PRIORITY) — framed as reported/conditional advice attributed to Tuyet Nguyet, not standalone imperatives:
+- "She'd probably advise to not rush through these pages."
+- "She might encourage you to get to know these stories, to consider their content, and to not dismiss any details."
 
 ---
 
@@ -67,7 +65,7 @@ From page 37 (HIGH PRIORITY):
 |--------|---------|----------|
 | "Blue lotus...where secrets are revealed" | Buddhist symbolism | Deliberate language? |
 | "hidden caches, secreted away within temple walls" | How rings survived | Possible metaphor for treasure location |
-| "Golden lions guarded golden bridge" | Khmer imagery | **Lion's Share** connection? |
+| "Golden lions guarded a golden bridge" | Khmer imagery (p.34) | **Lion's Share** connection? |
 | "30,000-foot view" | Author's preferred perspective | High altitude reference |
 | "Don't Wing It" | Chapter subtitle | "Wing" could be directional hint |
 

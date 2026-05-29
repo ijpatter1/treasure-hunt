@@ -9,7 +9,7 @@
 
 | Item | Description | Rarity |
 |------|-------------|--------|
-| Signed photograph of Amelia Earhart | Photo taken in Londonderry, Ireland after May 20, 1932 solo Atlantic flight | **"Only other copies...at Purdue and Harvard Libraries...those are not signed"** |
+| Signed photograph of Amelia Earhart | Photo taken in Londonderry, Ireland after May 20, 1932 solo Atlantic flight | **"The only other copies of this photo that I know exist are at the Purdue and Harvard Libraries. However, I've been told those two photos are not signed."** |
 
 **Plane in photo:** Lockheed Vega 5B
 **Flight duration:** 15 harrowing hours
@@ -22,7 +22,7 @@
 
 Amelia Earhart embodied the "Explore More" theme - boundlessly curious from childhood (elephants at world's fair age 7, homemade roller coaster age 8). She became the first woman to fly solo across the Atlantic on **May 20, 1932**.
 
-Amelia also wrote poetry and secretly published short stories under fictional names. Her final flight with **Fred Noonan** on **May 21, 1937** (attempting to circumnavigate the globe - "five years and one day" after solo Atlantic flight) ended in mystery - the aircraft was never discovered.
+Amelia also wrote poetry and secretly published short stories under fictional names. Her final flight with **Fred Noonan** (attempting to circumnavigate the globe - the book says "Five years and one day later," which works out to **May 21, 1937**, though the book never prints that date) ended in mystery - the aircraft was never discovered.
 
 ---
 
@@ -40,7 +40,7 @@ These describe specific physical landscape features to explore.
 
 | Poem | Notable Imagery |
 |------|-----------------|
-| "From an Airplane" | "**Purple hills that hold the lake**," "round, yellow eyes of the hamlet" |
+| "From an Airplane" | "**Even the watchful purple hills / That hold the lake**," "round, yellow eyes of the hamlet" |
 | "Courage" | "How can life grant us boon of living... Unless we dare" |
 | "Only Baggage" | "**Atalante of the Air**" (Greek mythology reference) |
 
@@ -57,6 +57,7 @@ These describe specific physical landscape features to explore.
 | Newfoundland, Canada | Solo flight departure | Low |
 | Londonderry, Ireland | Solo flight arrival, photo taken | Low (not US) |
 | Hopi reservation, Arizona | Ch 8 transition (Charles Loloma) | Medium |
+| Snow-capped mountain range (p.73 illustration) | Full-page illustration: twin-engine airplane flying over a jagged, snow-capped mountain range with clouds | Medium (repo notes flag mountains as a potential clue) |
 
 ---
 
@@ -66,8 +67,8 @@ These describe specific physical landscape features to explore.
 |--------|------|
 | **Amelia Earhart** | Aviation pioneer, signed photo in treasure |
 | Fred Noonan | Navigator on Amelia's final flight |
-| Wilmer Stultz | Pilot of 1928 Atlantic flight |
-| Louis Gordon | Co-pilot of 1928 Atlantic flight |
+| Wilmer Stultz | Piloted the 1928 Atlantic flight (book credits Stultz and Gordon equally with piloting; no pilot/co-pilot distinction) |
+| Louis Gordon | Piloted the 1928 Atlantic flight (book credits Stultz and Gordon equally with piloting; no pilot/co-pilot distinction) |
 | Frank Borman | Opening quote (Apollo 8 commander) |
 | Erno Rubik | Opening quote (Rubik's Cube inventor) |
 | **Charles Loloma** | Ch 8 preview - Native American jeweler |
@@ -89,7 +90,7 @@ These describe specific physical landscape features to explore.
 |------|-------|
 | December 28, 1920 | First airshow with father |
 | May 20, 1932 | Solo Atlantic flight |
-| May 21, 1937 | Final flight (5 years + 1 day later) |
+| May 21, 1937 (inferred; book says "Five years and one day later," date not printed) | Final flight |
 
 ---
 

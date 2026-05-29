@@ -77,7 +77,6 @@ Muhammad Ali (then Cassius Clay, age 18) also won gold at the 1960 Rome Olympics
 | 1949 | Walked into church without brace (age 9) |
 | 1952 | Removed brace permanently (age 12) |
 | 1956 | Melbourne Olympics - bronze in relay (age 16) |
-| ~1958 | Daughter Yolanda born |
 | 1960 | Rome Olympics - 3 gold medals, world records |
 | Post-Olympics | Fought for racial equality, led to Clarksville integration |
 

@@ -24,6 +24,8 @@ The author acquired four gold items from this era. Each connects to Greek mythol
 
 The chapter concludes with a plea against modern divisive myths - that race, religion, culture, or politics make people fundamentally different. "We and our enemies, if we have them, are mostly the same."
 
+The chapter closes (p.188) with a large aerial/overhead photograph of a crowd arranged to form a heart shape, and the chapter-closing line: "Our next chapter is a love story." (foreshadowing Ch. 22, Picasso's Pendant - "A Love Story").
+
 ---
 
 ## CRITICAL: Treasure Hunting Hint
@@ -77,7 +79,7 @@ The chapter concludes with a plea against modern divisive myths - that race, rel
 |--------|---------|----------|
 | **"Make It Make Sense"** | Chapter title = treasure clue | CRITICAL hint |
 | **"Look beyond myths"** | Direct advice | Apply logic, not assumptions |
-| "We are mostly the same" | Unity theme | Common humanity |
+| "We and our enemies, if we have them, are mostly the same" | Unity theme | Common humanity |
 | Wife: Kimberly | Mentioned re: snake bracelet | Personal detail |
 
 ---
@@ -86,7 +88,7 @@ The chapter concludes with a plea against modern divisive myths - that race, rel
 
 - [ ] **"Make It Make Sense"** - explicitly linked to finding treasure
 - [ ] **Wife Kimberly** - confirmed again (Getty Museum comment)
-- [ ] **Four antiquities** - most impressive items per author
+- [ ] **Four antiquities** - four gold items acquired from ancient Greece (p.181)
 - [ ] **Perspective/understanding** - running theme from Ch 19-21
 
 ---

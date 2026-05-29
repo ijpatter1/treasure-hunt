@@ -22,9 +22,9 @@
 
 The author met Allan Anawati, an antiquities dealer who offered loose Egyptian faience beads over 3,000 years old. The author and Kimberly assembled them during one of their weekly "creative nights" - evenings where they write songs, draw paintings, act out movie scenes, play escape-room games, and create puzzles.
 
-The faience process (sand + salt + water → shape → fire) serves as a metaphor for human growth: "The intensity of life's experiences forges us."
+The faience process (sand → salt + water added to make it malleable and give it a form → shaped → a color glaze added, dull at first → placed into a fire, where the glaze saturates and the bead emerges bright and lustrous) serves as a metaphor for human growth: "The intensity of life's experiences forges us."
 
-The chapter introduces "The Five Gifts of Hathor" - an ancient Egyptian gratitude practice where people count five blessings on their fingers daily. The author argues gratitude is "the most powerful ability a treasure hunter can possess."
+The chapter introduces "The Five Gifts of Hathor" - an ancient Egyptian gratitude practice where people count five blessings on their fingers daily. The author argues that to have gratitude for each day of our experience is "perhaps the most powerful ability a treasure hunter can possess."
 
 **Final message:** "To value each step of the journey, more than the final destination, is what truly matters."
 
@@ -46,7 +46,7 @@ The chapter introduces "The Five Gifts of Hathor" - an ancient Egyptian gratitud
 | Weekly activity | "Creative nights" with Kimberly |
 | Activities | Songs, paintings, poems, movie scenes, escape rooms, puzzles |
 | Necklace construction | Together during creative night |
-| Philosophy | "Make your own special music" |
+| Philosophy | "Make our own special music" (Kimberly and the author) |
 
 ---
 
@@ -72,10 +72,10 @@ The chapter introduces "The Five Gifts of Hathor" - an ancient Egyptian gratitud
 
 | Phrase | Context | Analysis |
 |--------|---------|----------|
-| **"Gratitude is most powerful ability"** | Hunter's best trait | Mindset over intellect |
+| **Gratitude "perhaps the most powerful ability"** | Hunter's best trait | Mindset over intellect |
 | **"Treasure is all around"** | Final philosophy | Look everywhere |
 | **"Journey > destination"** | Core message | Process matters |
-| "Make your own special music" | Kimberly's song | Unique path |
+| "Make our own special music" | Kimberly and the author's shared phrase (family sings along) | Unique path |
 
 ---
 

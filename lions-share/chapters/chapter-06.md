@@ -10,7 +10,7 @@
 | Item | Designer/Origin | Value |
 |------|-----------------|-------|
 | Ruby pendant necklace | Lauren Harwell Godfrey ("Cleopatra's Vault") | $45,000+ |
-| Wing-shaped ruby earrings | Angie Marei | $26,000+ |
+| Wing-shaped ruby earrings | Angie Marei | $20,000+ |
 | 16th century Thailand ruby ring | Tuyet Nguyet collection (author's favorite) | Not specified |
 
 **Ruby pendant:** 3-carat ruby surrounded by moonstones and diamonds

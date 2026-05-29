@@ -11,7 +11,7 @@
 |------|-------------|-------|
 | 1986 Fleer Michael Jordan Rookie Card #57 | PSA 9 MINT with "Superior" certification, serial 26670045 | $20,000-$75,000 |
 
-**Source:** PWCC (largest sports card broker), owner Brent Huigens called it "arguably the finest PSA 9 we've brokered...shows better than most PSA 10s."
+**Source:** PWCC (the largest sports card broker in the world), owner Brent Huigens said: *"Here is arguably the finest PSA 9 Fleer Michael Jordan rookie card we've brokered in our long tenure; and that's saying something considering we've seen thousands of these. In truth, this card shows better than most PSA 10s we've seen, which is why we've awarded it our 'Superior' certification."* (PSA 9 MINT, "Superior" certification, better than most PSA 10s.)
 
 ---
 
@@ -19,7 +19,7 @@
 
 Michael Jordan is "the greatest basketball player to ever play the game" - 6 NBA championships, 5 MVPs, 22 trophies (most ever), led league in scoring 10 of 13 seasons. Even President Obama noted that "Michael Jordan is the Michael Jordan of greatness."
 
-The author reveals he grew up in North Carolina as a passionate UNC Tar Heels fan. He was 6 years old when Jordan was a freshman at UNC, and witnessed Jordan's famous 1982 championship-winning shot. When Jordan came to the author's local high school for a pick-up game and autograph signing, the author was first in the gym, arriving hours early.
+The author reveals he grew up in North Carolina as a passionate UNC Tar Heels fan. He watched his first games with his mom and dad around the age of six, and was 9 years old when Jordan was a freshman at UNC; he witnessed Jordan's famous 1982 championship-winning shot. When Jordan came to the author's local high school for a pick-up game and autograph signing, the author was first in the gym, arriving hours early.
 
 The author shares his "most embarrassing moment" - at age 13, he finally made his junior-high basketball team as the last pick (#12 of 12). After sitting on the bench for 2/3 of the season, he finally got into a game with 2:34 left and a 28-point lead. He grabbed a rebound, dribbled confidently down the court, scored a layup - for the other team. He had run in the wrong direction.
 
@@ -30,7 +30,7 @@ The author shares his "most embarrassing moment" - at age 13, he finally made hi
 | Detail | Information |
 |--------|-------------|
 | Childhood home | **North Carolina** |
-| Birth year estimate | ~1975-1976 (was 6 when Jordan was UNC freshman) |
+| Birth year estimate | ~1972-1973 (was 9 when Jordan was UNC freshman, 1981) |
 | Childhood fandom | University of North Carolina Tar Heels |
 | Met Jordan | At local high school autograph signing |
 | Father's gift | Basketball hoop in driveway when author was 8 |
@@ -78,7 +78,7 @@ The author shares his "most embarrassing moment" - at age 13, he finally made hi
 - Relegated to junior varsity
 - Worked harder than anyone else
 - Next year: made varsity, became top recruit nationally
-- UNC freshman: Author was 6 years old
+- UNC freshman: Author was 9 years old
 - 1982: Hit championship-winning shot
 - Won every championship he ever played in
 

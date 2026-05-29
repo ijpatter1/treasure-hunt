@@ -15,11 +15,15 @@
 **Rarity:** Fewer than a dozen exist in the world
 **Previous Display:** Bowers Museum near Los Angeles
 
+**In-treasure confirmation:** p.19 sidebar states, *"This 120-carat raw sapphire is a part of our treasure."* p.23 states, *"The sapphire pictured on the next page is the same as the one featured at the beginning of this chapter. Once owned by Mike Scott, it now is in our treasure."*
+
 ---
 
 ## Chapter Summary
 
 The author's 3.5-year-old son makes a treasure map using a Los Angeles street map, illustrating the chapter's theme: **have a roadmap**. The narrative then shifts to Apple's founding story, focusing on Mike Scott ("Scotty")—Apple's first CEO who created the company's business blueprint while Jobs and Wozniak provided vision but lacked direction.
+
+Under Scott (who captained Apple 1977-1981), the book notes that *"For the next four years, Apple's size doubled every three months."* During that time Apple released the Apple II and the Apple III, as well as the first 5 1/2" floppy disk; the Apple II went on to sell over six million units, Apple became the third largest manufacturer of home computers, and in 1980 Apple went public.
 
 After leaving Apple in 1981, Scott built one of the world's most valuable rare gem collections (2,600 specimens), including the 120-carat sapphire now in the treasure.
 

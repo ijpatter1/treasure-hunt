@@ -9,17 +9,17 @@
 
 | Item | Description | Rarity |
 |------|-------------|--------|
-| California Gold Rush nugget | Over 4 ounces, found near same farm where gold discovery verified 1849 Gold Rush | Very rare - California gold nuggets most difficult to source |
+| California Gold Rush nugget | Over twenty-one ounces, found near the American River, the same river where the discovery of gold set in motion the 1849 California Gold Rush | Very rare - California gold nuggets most difficult to source |
 
 ---
 
 ## Chapter Summary
 
-The California Gold Rush (1848-1852) was "the most transformative treasure hunt in our country's history." James Marshall discovered gold on January 24, 1848, at Sutter's Mill, 40 miles east of Sacramento along the American River - just nine days before Mexico sold California to the US for $15 million. President Polk's December 1848 State of the Union address sparked mass migration: 90,000 people in 1849, another 90,000 in 1850, and by 1852, over 1% of the US population had relocated to California.
+The California Gold Rush was "the most transformative treasure hunt in our country's history." James Marshall discovered gold in January 1848 at Sutter's Mill, 40 miles east of Sacramento along the American River - just nine days prior to the signing of the California purchase agreement, by which Mexico sold California to the US for $15 million. President Polk's December 1848 State of the Union address sparked mass migration: 90,000 people in 1849, another 90,000 in 1850, and by 1852, over 1% of the US population had relocated to California.
 
 Sam Brannan became California's first millionaire not by mining, but by selling supplies to miners at high markups and promoting the rush through his newspaper "The California Star." Over 750,000 pounds of gold were eventually found, financing US industrialization, the transcontinental railroad, and the Northern Army in the Civil War.
 
-The author reveals he has lived in California for over 20 years and experienced financially lean years in his past when he had to eat free samples at grocery stores.
+The author reveals he has lived in California for over 20 years and experienced financially lean years in his past when he would "grab a muffin or two in a grocery store to eat while I milled about pretending to be a customer."
 
 ---
 
@@ -28,7 +28,7 @@ The author reveals he has lived in California for over 20 years and experienced 
 | Detail | Information |
 |--------|-------------|
 | Current home | **California for over 20 years** |
-| Past hardship | Financially lean years, had to eat free samples at grocery stores |
+| Past hardship | Financially lean years; would "grab a muffin or two in a grocery store to eat while I milled about pretending to be a customer" |
 | Philosophy | "Material possessions without joy are just clutter" |
 | Michael Jordan | Met him in his earlier years before he became superstar |
 
@@ -38,8 +38,8 @@ The author reveals he has lived in California for over 20 years and experienced 
 
 > "Its very possible that **at least one of our treasure boxes rests not too far from you**."
 > "You might even discover one during a **leisurely afternoon outing** in which you enjoy a **picnic with a loved one** by your side."
-> "No sleeping outside on the dusty ground"
-> "No survival kits needed"
+> "Our adventure does not require you to sleep outside on the dusty ground, although a camping trip is always a fun idea."
+> "You won't need to schedule rations or stock up on survival kits at the army supply store."
 
 ---
 

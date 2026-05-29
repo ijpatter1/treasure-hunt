@@ -17,9 +17,9 @@
 
 The Nigerian soccer team's victory at the 1996 Atlanta Olympics is a Hollywood-level underdog story. Nigeria didn't form a national team until 1949 (86 years after England), and in 47 years had never won an Olympic game, being outscored 22-7.
 
-Before the 1996 Olympics, the team was in chaos: tribal conflicts, coach Jo Bonfrere not being paid by the corrupt Nigerian Football Association (NFA), and lodging at a "cockroach-filled" two-star motel in Tallahassee, Florida. But adversity forged unity.
+Before the 1996 Olympics, the team was in chaos: tribal conflicts, coach Jo Bonfrere not being paid by the corrupt Nigerian Football Association (NFA), and lodging at a "cheap two-star motel in Tallahassee, Florida" with "no money left for transport." But adversity forged unity.
 
-They beat Hungary 1-0 (first Olympic win ever), Japan 2-0, then lost to Brazil. Against Mexico, they won 2-0 despite the NFA not booking accommodations expecting them to lose. In the semifinal against Brazil (world #1), Nigeria was down 3-1 at halftime. When Ronaldo was subbed out with 15 minutes left, his substitute made a turnover leading to a Nigerian goal. Kanu Nwankwo tied it with under 60 seconds left, then scored the winner in overtime (4-3).
+They beat Hungary 1-0 (first Olympic win ever), then beat Japan (the game was scoreless until Nigeria scored two goals in the final eight minutes), then lost to Brazil. Against Mexico, they won 2-0 despite the NFA not booking accommodations expecting them to lose; afterward the team "finally located a rundown motel over seventy-five miles away" and "for the next three nights, the Nigerians slept in cockroach-filled rooms." In the semifinal against Brazil (world #1), Nigeria was down 3-1 at halftime. When Ronaldo was subbed out with 15 minutes left, his substitute made a turnover leading to a Nigerian goal. Kanu Nwankwo tied it with under 60 seconds left, then scored the winner in overtime (4-3).
 
 In the gold medal match, they trailed Argentina 2-1 until Daniel Amokachi equalized (74th min). Emmanuel Amunike scored the winner with under a minute left. Nigeria became the first African team to win Olympic soccer gold.
 
@@ -51,7 +51,7 @@ In the gold medal match, they trailed Argentina 2-1 until Daniel Amokachi equali
 | Location | Context | Relevance |
 |----------|---------|-----------|
 | Atlanta, Georgia | 1996 Olympics | Low (Olympics location) |
-| Tallahassee, Florida | Nigerian team's motel (2-star, cockroach-filled) | Low |
+| Tallahassee, Florida | Nigerian team's pre-games motel (cheap two-star) | Low |
 | Cairo, Egypt | Olympic qualifying match | Low |
 
 ---
@@ -76,7 +76,7 @@ In the gold medal match, they trailed Argentina 2-1 until Daniel Amokachi equali
 | Match | Result | Key Moment |
 |-------|--------|------------|
 | vs Hungary | Won 1-0 | First Olympic win in 47 years |
-| vs Japan | Won 2-0 | 2 goals in final 8 minutes |
+| vs Japan | Won | Scoreless until 2 goals in final 8 minutes (no final score stated in book) |
 | vs Brazil (pool) | Lost | Ronaldo scored |
 | vs Mexico | Won 2-0 | Upset |
 | vs Brazil (semi) | Won 4-3 OT | Down 3-1 at half, Kanu scored twice |

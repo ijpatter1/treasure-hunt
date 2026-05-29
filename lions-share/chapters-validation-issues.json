@@ -1,0 +1,1252 @@
+{
+  "generated": "chapter-validation workflow",
+  "totals": {
+    "composites": 25,
+    "confirmedInaccuracies": 79,
+    "confirmedOmissions": 13
+  },
+  "chapters": [
+    {
+      "num": 0,
+      "title": "Front Matter",
+      "target": "chapters/front-matter.md",
+      "accuracyNote": "The composite is mostly faithful to the sources on the big confirmed facts (US location, six historical names, no cipher, item-histories-as-clues, the back-cover haiku, and the two attributed quotes), but it contains one clear factual error (smaller boxes have a dedicated CHAPTER, not a separate \"book\"), several details that conflate Lion's Share rules with confirmed-public-land/3-mile facts that do NOT appear in these front-matter pages, and it omits the book's explicit Part One vs. Part Two structure (four chapters in Part Two = the four smaller boxes).",
+      "visionSummary": "Image-verified against ground-truth page scans (cropped with PIL for legibility). The composite (chapters/front-matter.md) contains one clear factual error: it says each of the four smaller boxes has \"ONE dedicated book separate from The Lion's Share book,\" but page 10 plainly states the author \"wrote four chapters... in Part Two of this book\" — chapters, not books. The composite also drops the load-bearing scoping phrase \"of the first twenty-three\" from the page-16 sentence and omits the book's explicit Part One/Part Two structure (page 10 + page 16), which defines where Lion's Share vs. smaller-box clues live. The four \"Treasure Location Confirmed\" rules (public land, within 3 miles of a road, not buried/no digging, not dangerous) appear NOWHERE in the front matter (pages 1-17, verified by reading + keyword search of all front-matter sources); they originate in the Postscript/later author rules, so attributing them to the front matter is unsupported. Verbatim items check out: the six historical names (page 9, exact order), the back-cover haiku (cover.png), and the \"millions of dollars / United States\" headline. Pavese is attributed only as \"—CESARE PAVESE\" with no biographical detail (page 17); the \"Italian poet (1908-1950)\" descriptor is externally-added context. The actual Table of Contents (front-03-04) has NO \"Part One/Part Two\" labels — chapters are listed 1-23 sequentially, with the Final Poem at p.205 in the back matter — so the repo note labeling \"Part Two = chapters 15-23 (nine chapters)\" contradicts the book text, which says Part Two = four chapters.",
+      "counts": {
+        "total": 23,
+        "supported": 15,
+        "contradicted": 2,
+        "unsupported": 5,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Four smaller boxes: Each worth \"comfortably in the six figures\", each has ONE dedicated book separate from The Lion's Share Treasure book",
+          "correctText": "Page 10 reads: \"Four of these treasure boxes were forged in a similar size. The dollar value of each of these four boxes, including contents, is comfortably in the six figures. To help you locate these boxes, I wrote four chapters. Each of these four chapters is dedicated to one box and contains the clues and information you will need to find it. I chose to create these four chapters as a way to avoid confusion as to what clues led to which box. You will find these chapters in Part Two of this book.\" The boxes each have a dedicated CHAPTER in Part Two of THIS book — NOT a separate book. The 'six figures' value is correct.",
+          "page": 10,
+          "screenshot": "screenshots/page-010-011.png",
+          "note": "Verified via PIL crop of left page (page 10) lower text column; wording is unambiguous. Composite's 'dedicated book separate from' is the single clearest factual error in the front matter."
+        },
+        {
+          "issue": "Clues in ALL 23 chapters - \"almost every chapter includes at least some morsel\"",
+          "correctText": "Page 16 reads: \"As I mentioned before, almost every chapter OF THE FIRST TWENTY-THREE includes at least some morsel of information helpful for finding the location of the largest treasure box. Do not overlook any part of this book. Almost anything could be helpful to your cause. And remember, the four chapters in Part Two [contain primarily what you need for the other four boxes].\" The composite drops the scoping phrase 'of the first twenty-three,' and ignores that page 10 frames it as 'almost every chapter in Part One.'",
+          "page": 16,
+          "screenshot": "screenshots/page-016-017.png",
+          "note": "Verified the partial sentence on the page-16 image crop ('almost every chapter of the first twenty-three includes at least some morsel...'), continuation confirmed via metadata transcription. The 'first twenty-three' qualifier is real and load-bearing."
+        },
+        {
+          "issue": "Treasure Location Confirmed: On public land (not private property)",
+          "correctText": "Nothing on pages 1-17 states 'public land' or 'not private property.' Verified by reading pages 8-9, 10-11, 16-17, TOC and cover, plus keyword search of all front-matter source metadata (no hits for 'public land' / 'private prop'). This fact comes from the Postscript / author's later confirmations, not the front matter.",
+          "page": 9,
+          "screenshot": "screenshots/page-008-009.png",
+          "note": "Flagged as a sourcing error: true fact, wrong attribution to front matter. Page 16 only says go 'outside and search,' 'boots on the ground' — no public/private land statement."
+        },
+        {
+          "issue": "Treasure Location Confirmed: Within 3 miles of a road",
+          "correctText": "The '3 miles of a road' detail appears nowhere in pages 1-17. Keyword search for 'miles'/'road' across all front-matter source metadata returned no hits. Originates from the Postscript / author's stated rules.",
+          "page": 9,
+          "screenshot": "screenshots/page-008-009.png",
+          "note": "Misattributed to front matter. Not in any of the read images."
+        },
+        {
+          "issue": "Treasure Location Confirmed: Not buried (no digging)",
+          "correctText": "Page 10 and the rest of the front matter contain no 'not buried' or 'no digging' statement. The only 'dig' substring in front-matter sources is the word 'DIGITAL.' This rule is from the Postscript region, not these pages.",
+          "page": 10,
+          "screenshot": "screenshots/page-010-011.png",
+          "note": "Verified by reading page 10 fully and by regex over front-matter metadata (only 'DIGITAL' matched). Misattributed to front matter."
+        },
+        {
+          "issue": "Treasure Location Confirmed: Not dangerous to access",
+          "correctText": "Not stated anywhere in pages 1-17. Keyword search for 'danger'/'dangerous' across front-matter sources returned no hits. This is from the Postscript / later author rules.",
+          "page": 16,
+          "screenshot": "screenshots/page-016-017.png",
+          "note": "Misattributed to front matter; page 16-17 discuss 'boots on the ground' and Mother Nature but never 'not dangerous.'"
+        },
+        {
+          "issue": "Cesare Pavese is an \"Italian poet (1908-1950)\"",
+          "correctText": "Page 17 prints the quote \"The only joy in the world is to begin.\" attributed only as \"—CESARE PAVESE\". No biographical descriptor ('Italian poet', dates 1908-1950) appears in the book. The descriptor is externally-added context (externally accurate, but not from the book).",
+          "page": 17,
+          "screenshot": "screenshots/page-016-017.png",
+          "note": "Verified the attribution line on the page-17 image crop: name only, no bio. Composite should mark this as added context, not book text."
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "OMISSION: book has explicit Part One vs Part Two structure (four Part Two chapters for the four smaller boxes; 'almost every chapter in Part One' offers Lion's Share details) — composite never states this division.",
+          "correctText": "Page 10 explicitly states the four smaller-box chapters are 'in Part Two of this book' and that 'almost every chapter in Part One of this book offers at least one important detail to help guide you to the location of the largest box.' Page 16 reinforces 'the four chapters in Part Two.' The composite omits this Part One/Part Two division entirely, which is central to where Lion's Share clues live.",
+          "page": 10,
+          "screenshot": "screenshots/page-010-011.png"
+        },
+        {
+          "issue": "OMISSION/CONFLICT: book text (p.16) says 'the FOUR chapters in Part Two,' but repo TOC note labels Part Two as chapters 15-23 (NINE chapters); composite reproduces neither.",
+          "correctText": "The actual printed Table of Contents (front-03-04) contains NO 'Part One'/'Part Two' section headers at all — it lists Introduction (9), How To Read This Book (16), Chapters 1-23 sequentially, then Additional Treasure Items (199), Final Poem (205), Postscript (207), Acknowledgments (210). The book text (p.10, p.16) defines Part Two as FOUR chapters (the four smaller-box chapters). The repo note's 'Part Two = chapters 15-23 (nine chapters)' is an interpretation that contradicts the book text; per verified structure Part Two = the four smaller-box chapters. The composite reproduces neither the four-chapter fact nor the discrepancy.",
+          "page": 3,
+          "screenshot": "screenshots/front-03-04.png"
+        }
+      ],
+      "spotFailures": [
+        {
+          "claim": "Each smaller box has ONE dedicated BOOK (composite) vs ONE dedicated CHAPTER in Part Two (source p.10); confirm page-10 wording 'I wrote four chapters... in Part Two of this book.'",
+          "correctText": "Page 10: \"To help you locate these boxes, I wrote four chapters. Each of these four chapters is dedicated to one box and contains the clues and information you will need to find it... You will find these chapters in Part Two of this book.\" CONFIRMS the composite's 'book' wording is wrong — it is chapters in Part Two.",
+          "page": 10,
+          "screenshot": "screenshots/page-010-011.png"
+        }
+      ],
+      "textContradictions": [
+        {
+          "issue": "Four smaller boxes: Each worth \"comfortably in the six figures\", each has ONE dedicated book separate from The Lion's Share Treasure book",
+          "correction": "Each of the four smaller boxes has a dedicated CHAPTER (in Part Two of this same book), NOT a separate book. Source p.10: \"To help you locate these boxes, I wrote four chapters. Each of these four chapters is dedicated to one box... You will find these chapters in Part Two of this book.\" There is no mention of separate per-box books.",
+          "evidence": "p.10: \"To help you locate these boxes, I wrote four chapters. Each of these four chapters is dedicated to one box and contains the clues and information you will need to find it... You will find these chapters in Part Two of this book.\"",
+          "pages": [10]
+        },
+        {
+          "issue": "Clues in ALL 23 chapters - \"almost every chapter includes at least some morsel\"",
+          "correction": "The full source phrase is \"almost every chapter OF THE FIRST TWENTY-THREE includes at least some morsel of information helpful for finding the location of the largest treasure box.\" The composite drops \"of the first twenty-three,\" which is the load-bearing scoping detail. Also note the book separately states the FOUR Part Two chapters are primarily for the four smaller boxes, so framing all 23 as Lion's Share chapters slightly overstates it.",
+          "evidence": "p.16: \"almost every chapter of the first twenty-three includes at least some morsel of information helpful for finding the location of the largest treasure box\"; p.16: \"the four chapters in Part Two contain primarily all you need to discover the location of the other four treasure boxes.\"",
+          "pages": [16]
+        }
+      ],
+      "dismissed": 1
+    },
+    {
+      "num": 1,
+      "title": "The 120 Carat Sapphire",
+      "target": "chapters/chapter-01.md",
+      "accuracyNote": "The composite is highly faithful: every checkable fact, number, place, and verbatim quote it includes is supported by the source transcriptions, with no contradictions found. Its main weaknesses are lost details (Bill Fernandez, National Semiconductor, the #1/#0 badges, the explicit in-treasure confirmation sentence, the IPO numbers, the Kimberly/parenting content, and the Tuyet Nguyet transition) and one analyst-added 'James Bond reference' interpretation that the book does not support (the book frames 007/'Scotty' as a Star Trek nod).",
+      "visionSummary": "Chapter-01.md is image-verified accurate on all of its factual claims; the discrepancies are omissions of detail rather than inaccuracies. The page images (page-018-019.png, page-022-023.png) confirm: the p.19 sidebar \"This 120-carat raw sapphire is a part of our treasure.\"; the p.23 confirmation \"The sapphire pictured on the next page is the same as the one featured at the beginning of this chapter. Once owned by Mike Scott, it now is in our treasure.\"; Bowers Museum near Los Angeles; badge story (Woz #1, Jobs #0, \"Scotty gave himself badge number 007.\"); 2,600 mineral specimens; origin Ratnapura/Sri Lanka; Eleanor Roosevelt and Mary Oliver epigraphs. Two real OMISSIONS exist: (1) the composite states the gist of in-treasure status but never quotes the two explicit treasure-confirmation statements; (2) the composite omits the Apple growth metrics on p.22 (doubled every three months for four years; Apple II + Apple III; first 5 1/2\" floppy disk; over six million Apple II units; third-largest home-computer maker). NOTE: the book itself literally prints \"5 1/2\" floppy disk\" — so the metadata transcription is faithful and the flag's \"typo for 5 1/4-inch\" theory is a book error, not a transcription error. The \"James Bond reference\" note is the composite's own analytical speculation (flagged as a question), not a book claim; the underlying badge fact (007) matches the image. Minor metadata transcription glitches found but not in the composite: metadata says \"workstation badges\" (image: \"workplace badges\") and \"Scotty himself badge number 007\" (image: \"Scotty gave himself badge number 007\").",
+      "counts": {
+        "total": 25,
+        "supported": 21,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [],
+      "confirmedOmissions": [
+        {
+          "issue": "The treasure-confirmation sentence (p.23 'Once owned by Mike Scott, it now is in our treasure.') and the p.19 sidebar ('This 120-carat raw sapphire is a part of our treasure.') — composite implies provenance but does not quote the explicit in-treasure confirmation.",
+          "correctText": "p.19 sidebar (verbatim): 'This 120-carat raw sapphire is a part of our treasure.' p.23 (verbatim): 'The sapphire pictured on the next page is the same as the one featured at the beginning of this chapter. Once owned by Mike Scott, it now is in our treasure.'",
+          "page": 19,
+          "screenshot": "screenshots/page-018-019.png"
+        },
+        {
+          "issue": "Apple's stated growth metrics under Scott: size doubled every three months for four years; Apple II + Apple III released; first 5 1/2-inch floppy disk; Apple II sold over six million units; third-largest home-computer maker. Composite omits these.",
+          "correctText": "p.22 (image-verified): 'For the next four years, Apple's size doubled every three months.' and 'Mike Scott captained Apple from 1977-1981. During that time, Apple released the Apple II and the Apple III, as well as the first 5 1/2\" floppy disk. The Apple II went on to sell over six million units, and Apple became the third largest manufacturer of home computers. In 1980, Apple went public.'",
+          "page": 22,
+          "screenshot": "screenshots/page-022-023.png"
+        }
+      ],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 1
+    },
+    {
+      "num": 2,
+      "title": "The 100 Rings of Tuyet Nguyet",
+      "target": "chapters/chapter-02.md",
+      "accuracyNote": "The composite is substantively faithful on names, dates, item attributes, and major clue phrases, but it presents page-37 reported-speech advice as four standalone direct quotes (two clear misquotes) and drops the article 'a' in the 'golden bridge' quote; it also omits several concrete narrative and date details.",
+      "visionSummary": "Image verification of chapter-02.md is largely consistent on facts but reveals a systematic quoting problem on the page-37 \"Direct Instructions to Hunters.\" The book presents this guidance as conditional/reported speech attributed to Tuyet Nguyet (\"She'd probably advise to not rush through these pages. She might encourage you to get to know these stories, to consider their content, and to not dismiss any details.\"), NOT as four standalone imperative quotes. The composite reformats them into quotation-marked imperatives, two of which (\"Don't rush through these pages\", \"Don't dismiss any details\") invert the book's \"to not rush\"/\"to not dismiss\" construction into fabricated \"Don't...\" imperatives — confirmed inaccuracies. The other two (\"Get to know these stories\", \"Consider their content\") match in substance but are misframed as standalone direct quotes. Separately, the Khmer imagery quote drops an article: the book reads \"Golden lions guarded a golden bridge,\" not \"guarded golden bridge.\" Spot-checks all verify against the images: the \"hidden caches, secreted away within temple walls\" phrase (page 35), \"with metal and fire, forged each of our five treasure boxes\" + \"Over the course of eighteen months, Seth Gould...\" (page 37), and \"Angkor's land mass was the size of Los Angeles\" (page 33) are all accurate. Core facts (dates, figures, provenance, LA comparison, Seth Gould) are reliable; the quotation fidelity on page 37 is the chapter's main weakness.",
+      "counts": {
+        "total": 29,
+        "supported": 22,
+        "contradicted": 3,
+        "unsupported": 0,
+        "ambiguous": 2,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Direct Instructions from page 37: 'Don't rush through these pages'",
+          "correctText": "The book (p.37) reads: 'She'd probably advise to not rush through these pages.' This is reported/conditional speech, not a direct imperative. The composite's quotation-marked imperative 'Don't rush through these pages' inverts the source's 'to not rush' construction and fabricates an imperative the book never uses.",
+          "page": 37,
+          "screenshot": "page-036-037.png",
+          "note": "Verified in both the high-res crop (/tmp/p37_mid.png) and metadata raw_text. Subtle misquote: presenting paraphrased reported speech as a verbatim instruction."
+        },
+        {
+          "issue": "Direct Instructions from page 37: 'Get to know these stories'",
+          "correctText": "The book reads: 'She might encourage you to get to know these stories...' — lowercase, embedded in reported speech. The substance ('get to know these stories') matches, but the composite capitalizes it and frames it as a standalone direct quote, which it is not.",
+          "page": 37,
+          "screenshot": "page-036-037.png",
+          "note": "Fragment is substantively correct but the framing as a verbatim standalone imperative is inaccurate; flagged as inaccuracy on quoting/framing grounds, consistent with the alleged correction."
+        },
+        {
+          "issue": "Direct Instructions from page 37: 'Consider their content'",
+          "correctText": "The book reads: '...to consider their content...' — embedded mid-sentence in the reported-speech list, not a standalone imperative quote. Substance matches; the composite's standalone-quote framing does not.",
+          "page": 37,
+          "screenshot": "page-036-037.png",
+          "note": "Same systematic framing issue as the other three instruction items."
+        },
+        {
+          "issue": "Direct Instructions from page 37: 'Don't dismiss any details'",
+          "correctText": "The book reads: '...and to not dismiss any details.' (reported speech). The composite's 'Don't dismiss any details' fabricates an imperative; the source uses 'to not dismiss any details', not a 'Don't...' command.",
+          "page": 37,
+          "screenshot": "page-036-037.png",
+          "note": "Clear inversion of the book's 'to not dismiss' into a fabricated imperative quote."
+        },
+        {
+          "issue": "Quote: 'Golden lions guarded golden bridge' (Khmer imagery)",
+          "correctText": "The book (p.34) reads: 'Golden lions guarded a golden bridge that stretched across the river to its entrance.' The composite drops the article 'a', rendering 'guarded golden bridge'. Correct quote: 'Golden lions guarded a golden bridge'.",
+          "page": 34,
+          "screenshot": "page-034-035.png",
+          "note": "Verified in crop /tmp/p34_lower.png (left page = p.34). Minor but real misquote."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 0
+    },
+    {
+      "num": 3,
+      "title": "A Puzzle Box, a Magnifying Glass, & the Mysterious Egg",
+      "target": "chapters/chapter-03.md",
+      "accuracyNote": "The composite is largely faithful for names, places, quotes, and the 7-actions/materials box facts (verbatim quotes check out), but it asserts the Third Imperial Faberge Egg is 'NOT in treasure' while the page-44-45 metadata sidebar transcription ('just in our Treasure', in_treasure=true) flatly contradicts that — an unresolved high-severity conflict only the page image can settle — and it drops several salient details (the explicit Part Two design cross-reference, Vacheron Constantin, Coffer's 3-year/2-foot specifics, and Rob Lavinsky).",
+      "visionSummary": "Image verification surfaced a systematic transcription defect in the page metadata that the composite partially inherited. The metadata mis-read the red-italic photo captions on BOTH p38 and p44/45 as \"(just in our Treasure)\" with in_treasure=true, when the actual page images clearly read \"(not in our treasure)\". The composite caught this for the Faberge egg (correctly listed NOT in treasure) but propagated the error for the Japanese puzzle box, wrongly listing it as a treasure item — it is in fact NOT in the treasure (the chapter's only actual treasure item is the gold & jade magnifying glass, plus the Lion's Share box itself). Separately, the composite's magnifying-glass date and value are wrong: the p42 sidebar reads \"made around 1890 valued at over $23,000,\" not \"~1900, valued $25,000+.\" All other load-bearing facts verify against the images: Bakersville is \"about 6,000 nautical miles east of Japan and forty miles northeast of Asheville, NC\" (p40, exact); the Lion's Share box has \"seven actions required to open it,\" \"yellow brass...sides, ...steel...top edge...textured iron...center locking panel,\" and \"I left instructions with the box\" (p42, exact); magnifying-glass material is \"gold and jade by Michael Perkhin\" (p43 body, confirming the metadata sidebar's \"1-karat\" is itself an error). Net: 2 confirmed inaccuracies (puzzle box treasure-status; magnifier date/value), 1 dismissed (egg claim correct; metadata was the wrong source).",
+      "counts": {
+        "total": 26,
+        "supported": 22,
+        "contradicted": 0,
+        "unsupported": 0,
+        "ambiguous": 1,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Japanese puzzle box (Himitsu-Bako, wood-inlay) from Hakone, Japan is a treasure item",
+          "correctText": "The photo caption on p38 reads: \"(Opposite Page) A traditional Japanese puzzle box (not in our treasure).\" The photographed Hakone/Himitsu-Bako puzzle box is explicitly NOT in the treasure; it is an illustrative example (the body text uses it as the inspiration for Seth Gould's metal Coffer). The composite's 'Treasure Items' table is wrong to list the Japanese puzzle box as a treasure item. The page metadata mis-transcribed the caption as '(just in our Treasure)' / in_treasure=true / treasure_items=['Traditional Japanese puzzle box'], and the composite inherited that error. The chapter's only actual treasure item is the gold & jade magnifying glass (the Lion's Share box being the container).",
+          "page": 38,
+          "screenshot": "page-038-039.png",
+          "note": "Same '(just in our Treasure)' mis-read appears in page-038-039.json line 38/46 — a transcription defect, but the composite is wrong because it propagated it as a treasure item."
+        },
+        {
+          "issue": "Gold & jade magnifying glass, ~1900, valued $25,000+, by Michael Perkhin (Faberge)",
+          "correctText": "The p42 sidebar caption reads exactly: \"A gold and jade Faberge magnifying glass made around 1890 valued at over $23,000.\" Material (gold and jade), maker (Michael Perkhin, head workmaster at Faberge — p43 body: 'made from gold and jade by Michael Perkhin himself'), and Faberge association are all CORRECT. But the date is 'around 1890' (not ~1900) and the value is 'over $23,000' (not $25,000+). The composite's ~1900 / $25,000+ figures are inaccurate — they match the erroneous page metadata sidebar, not the image.",
+          "page": 42,
+          "screenshot": "page-042-043.png",
+          "note": "Metadata sidebar (line 25) wrongly reads 'A gold and 1-karat magnifying glass made around 1900 valued at over $25,000' — wrong material descriptor AND wrong date/value. Image is authoritative: 'gold and jade...around 1890...over $23,000.'"
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Magnifying glass 'made from gold and jade by Michael Perkhin' (p43 body) vs p42 sidebar 'gold and 1-karat' — verify the material descriptor.",
+          "correctText": "The IMAGE supports 'gold and jade': p42 sidebar reads 'A gold and jade Faberge magnifying glass...' and p43 body reads '...made from gold and jade by Michael Perkhin himself.' The metadata's 'gold and 1-karat' is a transcription error; 'gold and jade' is correct in both image locations. (Image also gives 1890 / over $23,000, vs metadata's 1900 / $25,000.)",
+          "page": 42,
+          "screenshot": "page-042-043.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 1
+    },
+    {
+      "num": 4,
+      "title": "The 96 Carat Chivor Emerald",
+      "target": "chapters/chapter-04.md",
+      "accuracyNote": "The composite is highly faithful: every direct quote checks out verbatim against the source raw_text and the page-51 sidebar treasure confirmation is correctly cited; the only soft spots are interpretive geographic localization (Hiddenite/Alexander County/western NC and imported Ch.3 Bakersville material presented in a 'pattern' frame, none of which is stated in pages 46-55) and a handful of minor omitted details (Restrepo as 'Colombian mining engineer', Rob's PhD/website innovations, the 'come find it' parallel line, and the 'The Flame'/Red Ridge image caption).",
+      "visionSummary": "Chapter 4 (\"The 96 Carat Chivor Emerald\", pp.46-55) is highly accurate against the page images. All five SUPPORTED quote claims verify verbatim against ground truth: the page-51 sidebar treasure confirmation (\"It is now in our treasure.\"), the page-48 Hiddenite emerald mine clue, the page-53 \"Plains of the Llanos could be seen below\" vista, the \"two jagged grey peaks\" landmark (book spells it \"gapped\"; it lives in the page-54 image caption rather than the p.53 body, a minor source-attribution slip), and the page-55 \"no jungle clearing required\" accessibility reassurance. Two genuine omissions confirmed: (1) the page-55 direct-address line \"our ninety-six carat Chivor emerald waits patiently for you to come find it\" — a load-bearing treasure-hunt parallel — is not quoted; (2) the page-49 image caption \"Here Rob Lavinsky holds a gold specimen called 'The Flame' from the Red Ridge Mine\" is omitted entirely (and note the specimen is 'gold', not 'giant' as the flag supposed; the mine is the Red Ridge Mine, confirming earlier 'Picasso'/'Santa Mina' transcriptions were errors). The Bakersville/Seth Gould material is correctly flagged as absent from page 46; the composite presents it only as a labeled cross-reference to Chapter 3, so no false page-46 attribution. No CONFIRMED-INACCURACY found; the composite's substantive content matches the book.",
+      "counts": {
+        "total": 28,
+        "supported": 23,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 4
+      },
+      "confirmedInaccuracies": [],
+      "confirmedOmissions": [
+        {
+          "issue": "Explicit treasure-hunt parallel quote: 'our ninety-six carat Chivor emerald waits patiently for you to come find it' (p.55) — a load-bearing 'come find it' line not quoted in the composite summary.",
+          "correctText": "Page 55: \"Now, in a way similar to how the Chivor mine awaited Restrepo, our ninety-six carat Chivor emerald waits patiently for you to come find it. If Restrepo were alive right now, I imagine he might find this fact extremely amusing.\" The composite never quotes this line; it is a direct author-to-reader 'come find it' treasure-hunt parallel and is salient.",
+          "page": 55,
+          "screenshot": "screenshots/page-054-055.png"
+        },
+        {
+          "issue": "Sidebar caption on p.49: 'Rob Lavinsky holds a giant specimen called \"The Flame\" from the Red Ridge Mine' — note files flagged this was previously mis-transcribed as 'The Picasso'/'Santa Mina Mine'; composite omits the image caption entirely.",
+          "correctText": "Page 49 image caption (red text) actually reads: \"Here Rob Lavinsky holds a gold specimen called \\\"The Flame\\\" from the Red Ridge Mine.\" NOTE: the specimen is described as a 'gold' specimen, NOT 'giant'; and the mine is 'Red Ridge Mine' (confirming the prior 'The Picasso'/'Santa Mina Mine' transcriptions were wrong). The composite omits this caption entirely.",
+          "page": 49,
+          "screenshot": "screenshots/page-048-049.png"
+        }
+      ],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 6
+    },
+    {
+      "num": 5,
+      "title": "Masterworks by Art Smith",
+      "target": "chapters/chapter-05.md",
+      "accuracyNote": "The composite is largely faithful and well-sourced: names, dates, places, and the load-bearing author-advice quote on p.63 are verbatim-accurate; the main blemishes are one genuinely altered 'direct' quote (Art Smith's jewelry-philosophy line drops 'in a sense an object that' and the trailing sentences), two quotes that begin mid-sentence with silently altered capitalization/word-dropping, and several lost narrative details (Bergson's quote text, the inspiration-as-origin-of-the-hunt line, and the Chapter 6 ruby/bespoke-artists transition).",
+      "visionSummary": "Chapter 5 (pp.56-63) verified against ground-truth page images. The chapter's text quotes are largely accurate, with one notable exception. (1) The Art Smith design-philosophy quote is materially condensed/altered in the composite: the book (p.60) reads \"A piece of jewelry is in a sense an object that is not complete . . . until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form.\" The composite renders it as \"A piece of jewelry is...not complete until you relate it to the body.\" — dropping \"in a sense an object that\" and the final two sentences, presenting a paraphrase as a direct quote. CONFIRMED-INACCURACY. (2) The \"dash of inspiration,\" \"ethereal treasure map,\" \"guiding lighthouse amidst a tempest,\" and the core advice (\"value your own. Trust in what you know. Have faith.\") all match the image (p.63), with the composite using fair shorthand for the phrase-table entries. (3) The date 1934 is genuinely on p.59 in the immediate context of Art proclaiming (as an eighth-grader) he would become a professional artist — the composite's pairing is accurate. SEPARATE FINDING (not a flagged issue but surfaced via spot-check): the p.58 sidebar explicitly states the treasure contains FOUR Art Smith pieces and identifies the first (p.56) as a \"modernist style brass bracelet\" and the second (p.58 \"above\") as \"a brooch crafted from copper and brass.\" Page 58 shows only ONE brooch, not two. The composite's treasure table wrongly splits this into two separate brooches (\"round brass\" + \"copper and brass\") to reach four; only three pieces (bracelet p56, single copper/brass brooch p58, sterling silver ring p62) are actually pictured/captioned across these spreads.",
+      "counts": {
+        "total": 33,
+        "supported": 27,
+        "contradicted": 1,
+        "unsupported": 0,
+        "ambiguous": 3,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Quote: \"A piece of jewelry is...not complete until you relate it to the body.\" — Art Smith",
+          "correctText": "Page 60 (italic block quote): \"A piece of jewelry is in a sense an object that is not complete . . . until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form.\" —ART SMITH",
+          "page": 60,
+          "screenshot": "page-060-061.png",
+          "note": "Image confirms the alleged correction exactly. The composite drops \"in a sense an object that,\" relocates the ellipsis, and omits the final two sentences, presenting a condensed/altered paraphrase as a verbatim direct quote."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Art Smith design-philosophy quote condensed in composite vs. full wording",
+          "correctText": "Page 60: \"A piece of jewelry is in a sense an object that is not complete . . . until you relate it to the body. Like line, form and color, the body is a material to work with. It is one of the basic inspirations in creating form.\" —ART SMITH. The composite's condensed version differs from the image.",
+          "page": 60,
+          "screenshot": "page-060-061.png"
+        },
+        {
+          "claim": "Sidebars confirm exactly 4 Art Smith pieces (round brass brooch + copper/brass brooch on p.58; sterling silver ring on p.62; cuff bracelet on p.56).",
+          "correctText": "Page 58 sidebar: \"[The]se are two of the [fou]r jewelry pieces in our [tre]asure by Art Smith. The [firs]t piece (previous spread) [is a] modernist style brass [bra]celet. The second (above) [is a] brooch crafted from [cop]per and brass.\" The sidebar confirms FOUR pieces total, but p.58 pictures only ONE brooch (copper and brass), not two. Across these spreads only three pieces are actually pictured/captioned: brass cuff bracelet (p.56), single copper/brass brooch (p.58), free-form sterling silver ring (p.62, caption: \"This piece in our treasure is [a] free form sterling silver ring. The ring's outside edge contours around the neighboring finger\"). The composite's treasure table wrongly splits the single p.58 brooch into two separate brooches to reach four, and lists the cuff as \"Bronze/brass\" whereas the book says \"brass.\"",
+          "page": 58,
+          "screenshot": "page-058-059.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 3
+    },
+    {
+      "num": 6,
+      "title": "Rubies to Wear",
+      "target": "chapters/chapter-06.md",
+      "accuracyNote": "The composite is highly faithful to the sources: the load-bearing \"peering behind a rock\" hint and both wall-quotes are transcribed verbatim, treasure items/designers/values are accurate, and no fabricated claims were found; the only soft spots are a couple of parenthetical labels (Sukhothai/Myanmar) the composite adds and minor framing.",
+      "visionSummary": "Chapter 6 composite is highly accurate on its two flagged narrative quotes, both verified verbatim against the page images. The CRITICAL physical hint on page 69 (\"Just like peering behind a rock to find a treasure box, inspiration can appear almost anywhere\") is reproduced exactly, including 'peering behind a rock' (not 'under'/'beneath'). The Emerson wall quote on page 68 is verbatim and correctly attributed to Ralph Waldo Emerson. The Lombardi quote and the ruby-ring sidebar (16th century Sukhothai, Thailand; from Tuyet Nguyet's 100 gold ring collection; author's favorite; large round ruby center) also match the images. The one material error surfaced by the spot-checks is in the treasure-item value table: the wing earrings are listed at '$26,000+' / 'above $26,000', but the page 67 sidebar plainly reads 'above $20,000'. The ruby pendant value ('over $45,000') is correct. The cross-chapter note that the author's children's book is 'Our Unbreakable Thread' is not in chapter 6's pages (page 69 mentions only 'writing children's books' with no title); it is a forward reference to Ch 8 and unverifiable from these pages.",
+      "counts": {
+        "total": 26,
+        "supported": 24,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Treasure item values: ruby pendant 'over $45,000' and wing earrings 'above $26,000'.",
+          "correctText": "Pendant CORRECT: page 65 sidebar reads 'It's estimated value is over $45,000.' Wing earrings WRONG: page 67 sidebar reads 'Their estimated value is above $20,000' — NOT $26,000. Composite's '$26,000+ / above $26,000' is a confirmed inaccuracy; correct figure is $20,000+.",
+          "page": 67,
+          "screenshot": "page-066-067.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 2
+    },
+    {
+      "num": 7,
+      "title": "Amelia's Autograph",
+      "target": "chapters/chapter-07.md",
+      "accuracyNote": "The composite is highly faithful to the sources on names, places, dates, and the treasure confirmation; the main issues are quote-marks wrapped around compressed/paraphrased poem and provenance text, a computed \"May 21, 1937\" date the book never states explicitly, and a Stultz/Gordon pilot-vs-co-pilot distinction the source does not make.",
+      "visionSummary": "Image verification of chapter-07.md (pp.70-75) is high quality on the substantive facts (Londonderry/Lockheed Vega 5B photo, solo flight May 20 1932, Purdue/Harvard, Dec 28 1920 airshow, writing career) but reveals several quotation/presentation problems. The three CRITICAL physical hints on p.75 are all verbatim-accurate (\"Go where others have not.\", the \"next tree line / next rise / next corner\" line, and the \"I would advise you to go out and explore more\" line), and the p.71 sidebar treasure-confirmation is exact (\"This is a signed photograph of Amelia Earhart now in our treasure\"). However: (a) the photo-provenance line is shown in quotation marks but is a compressed paraphrase, not the book's actual wording; (b) \"May 21, 1937\" is presented in the Key Dates table as if stated, but the book only says \"Five years and one day later\" — the date is an unstated arithmetic inference; (c) the \"From an Airplane\" excerpt drops \"Even the watchful\" and reshapes the line; (d) Stultz/Gordon are labeled Pilot/Co-pilot but the book gives no role distinction (both \"had piloted that plane\"); and (e) the p.73 snow-capped-mountain illustration (potential clue per repo notes) is omitted from the composite's tables. Note also a minor uncaught typo: composite \"Atalante of the Air\" vs book \"Atalanta of the Air!\" (not separately flagged).",
+      "counts": {
+        "total": 25,
+        "supported": 19,
+        "contradicted": 3,
+        "unsupported": 0,
+        "ambiguous": 1,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "\"Only other copies...at Purdue and Harvard Libraries...those are not signed\" (presented in quotation marks)",
+          "correctText": "Book p.72 verbatim: \"The only other copies of this photo that I know exist are at the Purdue and Harvard Libraries. However, I've been told those two photos are not signed.\" The composite compresses two sentences into one quotation-marked string with ellipses, dropping \"of this photo that I know exist\" and \"However, I've been told those two photos,\" and misrenders the lead-in as \"Only other copies\" (book: \"The only other copies\").",
+          "page": 72,
+          "screenshot": "page-072-073.png",
+          "note": "Image left-page line-ends partly cut at gutter but readable text (\"...now exist are at the Purdue and Harvard ... those two photos are not signed\") matches the metadata transcription exactly. Misquotation presented as a verbatim quote."
+        },
+        {
+          "issue": "Final flight with Fred Noonan on May 21, 1937 (\"five years and one day\" after solo Atlantic flight), aircraft never discovered",
+          "correctText": "Book p.75 verbatim: \"Five years and one day later, Amelia Earhart and Fred Noonan lifted off on an attempt to be the first people to fly around the world. This would be her last adventure. They flew twenty-two days out of a planned thirty-day flight trip. And although her aircraft was never discovered, we know that Amelia departed this world...\" The book NEVER prints \"May 21, 1937.\" That date is a correct arithmetic inference from May 20, 1932, but the composite's Key Dates table presents it as if stated in the book.",
+          "page": 75,
+          "screenshot": "page-074-075.png",
+          "note": "Five-years-and-one-day phrasing, Fred Noonan, and 'aircraft never discovered' all verified verbatim; the specific date is not in the text. Inaccuracy is the table presenting an inferred date as book-stated."
+        },
+        {
+          "issue": "\"From an Airplane\" imagery: \"Purple hills that hold the lake,\" \"round, yellow eyes of the hamlet\"",
+          "correctText": "Book p.74 verbatim: \"Even the watchful purple hills / That hold the lake / Could not see so well as I / The stain of evening / Creeping from its heart / Nor the round, yellow eyes of the hamlet / Growing filmy with mists.\" The composite drops \"Even the watchful\" and collapses two lines into \"Purple hills that hold the lake.\" The \"round, yellow eyes of the hamlet\" fragment is accurate.",
+          "page": 74,
+          "screenshot": "page-074-075.png",
+          "note": "Poem read in enlarged crop of p.74; matches metadata. Partial inaccuracy: first fragment misquoted, second fragment fine."
+        },
+        {
+          "issue": "Wilmer Stultz = Pilot of 1928 Atlantic flight; Louis Gordon = Co-pilot of 1928 Atlantic flight",
+          "correctText": "Book p.74 verbatim: \"But the truth was, Wilmer Stultz and Louis Gordon had piloted that plane, and Amelia had only sat in the back of the plane, doing nothing.\" Both men are credited equally with piloting; the book assigns NO pilot vs. co-pilot roles. The composite's Historical Figures table invents the Pilot/Co-pilot distinction.",
+          "page": 74,
+          "screenshot": "page-074-075.png",
+          "note": "Sentence legible in enlarged mid-page crop and confirmed against metadata transcription."
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "Right page 73 illustration is an airplane flying over a snow-capped MOUNTAIN range; the composite's Geographic/clue tables omit the mountain imagery (notes flag mountains as a potential clue).",
+          "correctText": "Page 73 is a full-page artistic illustration of a twin-engine (Lockheed-style) airplane flying over a jagged, snow-capped mountain range with clouds. Metadata image description: \"Artistic illustration of airplane flying over snow-capped mountain range.\" The composite's Geographic References, Poetry-imagery, and Cross-Chapter Patterns tables make no mention of this mountain imagery, despite repo notes flagging mountains as a potential Lion's Share clue.",
+          "page": 73,
+          "screenshot": "page-072-073.png"
+        }
+      ],
+      "spotFailures": [],
+      "textContradictions": [
+        {
+          "issue": "Wilmer Stultz = Pilot of 1928 Atlantic flight; Louis Gordon = Co-pilot of 1928 Atlantic flight",
+          "correction": "The source does not assign pilot vs. co-pilot roles. It says: \"Wilmer Stultz and Louis Gordon had piloted that plane\" — both credited equally with no co-pilot designation.",
+          "evidence": "p.74: \"the truth was, Wilmer Stultz and Louis Gordon had piloted that plane, and Amelia had only sat in the back of the plane, doing nothing.\"",
+          "pages": [74]
+        }
+      ],
+      "dismissed": 4
+    },
+    {
+      "num": 8,
+      "title": "Beauty's Bespoken Treasures",
+      "target": "chapters/chapter-08.md",
+      "accuracyNote": "The composite is highly faithful: every quote and named place checks out verbatim against the transcriptions and the core treasure facts (items, values, Wheelwright/Santa Fe purchase, children's-book clue, Alcatraz/Treasure Island <3 mi) are accurate; the only real defect is the unsupported death year \"1991\" for Loloma (not in sources), with the rest being acceptable compression plus several low-severity lost details (Gallup rejection, Loloma/Sonwai artist quotes, Hopi 1600s-1800s history).",
+      "visionSummary": "Image-verified accuracy of chapter-08.md is mostly good for narrative/quotes but the Treasure Items table contains two genuine inaccuracies on the Sonwai ring (value and a key material), plus an \"exhibited vs purchased\" error in the purchase-location line. The author's children's-book clue confirmation (p.77), the Sonwai bird's-eye-view quote (p.83), the Alcatraz/Treasure Island <3-mile fact (p.83), the Tutuveni figures and the confirmation-bias passage (p.84) all check out against the page images. Specific corrections from ground truth: (a) Sonwai ring sidebar (p.82) reads \"estimated value is over $20,000\" and stones \"sugilite, turquoise, coral, lapis lazuli, and gold\" — the composite's \"$25,000+\" and \"sapphire\" are both wrong (sapphire should be sugilite). (b) Those rings were EXHIBITED at the Wheelwright Museum of Native American Art, Santa Fe, not \"purchased\" there, and the museum name is \"Native American Art,\" not \"American Indian Art.\" (c) Ironwood bracelet (p.80) is \"over $27,000,\" stones \"ironwood, turquoise, lapis lazuli, coral, and gold\" — no \"fossil\" (fossilized ivory belongs to the Loloma rings on p.81). (d) Birth year 1921 is confirmed (p.78) but death year 1991 does not appear anywhere on pp.76-85. (e) The confirmation-bias quote on p.84 reads \"...may begin to see those things that only confirm...\"; the composite inserts an extra \"only\" (\"see only those things\"). The full 12-month Hopi calendar wheel (Katsina/Non-Katsina seasons, all ceremony names) is on p.85 and is condensed in the composite.",
+      "counts": {
+        "total": 38,
+        "supported": 34,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 1,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Charles Loloma (1921-1991)",
+          "correctText": "Page 78: \"In 1921, a baby boy was born into the Badger clan. His name was Charles Loloma.\" The birth year 1921 is confirmed. The death year 1991 does NOT appear anywhere on pp.76-85; the chapter never states when Loloma died. The \"(1921-1991)\" parenthetical adds an external fact not present in the book sources for this chapter.",
+          "page": 78,
+          "screenshot": "page-078-079.png",
+          "note": "Birth 1921 supported; death 1991 is an added/external fact absent from the page images. Flagging the 1991 portion as a sourced-from-outside-the-book addition rather than a transcription error."
+        },
+        {
+          "issue": "Confirmation bias quote: \"When people believe there is just one right way of doing a thing, they may begin to see only those things that only confirm what they already believe to be true.\"",
+          "correctText": "Page 84: \"...when people believe there is just one right way of doing a thing, they may begin to see those things that only confirm what they already believe to be true.\" The composite inserts an extra word \"only\" — it renders \"may begin to see ONLY those things that only confirm,\" whereas the book reads \"may begin to see those things that only confirm\" (single \"only\"). Minor wording error in an otherwise-correct quote.",
+          "page": 84,
+          "screenshot": "page-084-085.png",
+          "note": "Substance is identical; the duplicated \"only\" is a small quote inaccuracy. Surrounding lines (\"confirmation bias\" / \"treasure hunter's most dreaded foil\") match."
+        },
+        {
+          "issue": "Ironwood bracelet by Charles Loloma, value $27,000+, materials: ironwood, turquoise, lapis, fossil, coral, gold",
+          "correctText": "Page 80 sidebar: \"This bracelet in our treasure is an example of Charles Loloma's ironwood design. This bracelet is made of ironwood, turquoise, lapis lazuli, coral, and gold. Its estimated value is over $27,000.\" Value ($27,000+) is correct, but the materials list does NOT include \"fossil.\" The bracelet's stones are ironwood, turquoise, lapis lazuli, coral, and gold. (Fossilized ivory appears in the separate p.81 sidebar describing the two Loloma RINGS, not the bracelet.)",
+          "page": 80,
+          "screenshot": "page-080-081.png",
+          "note": "Value verified at over $27,000. The erroneous \"fossil\" in the bracelet materials appears to be cross-contaminated from the rings' sidebar on p.81."
+        },
+        {
+          "issue": "Sonwai ring value $25,000+, materials: turquoise, sapphire, coral, lapis lazuli, gold",
+          "correctText": "Page 82 sidebar: \"This ring in our treasure was hand made by Verma Nequatewa, also known as Sonwai. Its stones include sugilite, turquoise, coral, lapis lazuli, and gold. Its estimated value is over $20,000. This purple ring, along with the two Loloma rings in our treasure, was exhibited at the 'Loloma' exhibit at the Wheelwright Museum of Native American Art in Santa Fe.\" TWO errors in the composite: (1) value is \"over $20,000,\" NOT $25,000+; (2) the material is \"sugilite,\" NOT \"sapphire.\" Also: the ring was EXHIBITED at the Wheelwright Museum, not purchased there, and the museum is the \"Wheelwright Museum of Native American Art,\" not \"American Indian Art.\"",
+          "page": 82,
+          "screenshot": "page-082-083.png",
+          "note": "Value line zoomed and re-read: definitively \"$20,000.\" The purple ring is sugilite-based (consistent with its purple color), not sapphire. Composite line 26's \"Purchase location\" framing is also wrong — sidebar says exhibited."
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "The full Hopi calendar ceremony list (Soyal, Paamuya, Powamya/Bean Dance, Osomya, Kwyamuya, Hakitonmuya, Wuku'uyis, Niman/Home Dance, Talangya, Tala'paamuya/Snake-Flute, Nasanmuya/Basket Dance, Toho'osmuy, Kelmuya/Tribal Initiation, Kyamuya) appears in the page-085 image/notes but is condensed away in the composite.",
+          "correctText": "Page 85 is a full circular Hopi calendar wheel. Inner divisions: \"Katsina Season\" (upper) and \"Non-Katsina Season\" (lower), split by the 21st Summer Solstice (June) and 21st Winter Solstice (December). Months/ceremonies clockwise: Powamuya (Feb — Powamuya Ceremony, Bean Dance); Osomuya (Mar — Plaza Dances, Night Dances, Angk'wa); Kwiyamuya (Apr — Plaza Dances, Footraces); Hakitonmuya (May — Plaza Dances, Footraces); Wuko'uyis (Jun — Plaza Dances); Talangva (Jul — Niman Home Dance); Tala'paamuya (Aug — Snake Antelope or Flute Ceremonies); Nasanmuya (Sep — Women's Society Ceremonies, Basket Dance); Toho'osmuy (Oct — Women's Society Ceremonies); Kelmuya (Nov — Men's Society Ceremonies, Wuwutsim Tribal Initiation); Kyaamuya (Dec — Soystangwu Ceremony); Paamuya (Jan — Winter Social Dances). The composite reduces this entire diagram to one row: \"Katsina Season / Non-Katsina Season, divided by solstices.\"",
+          "page": 85,
+          "screenshot": "page-084-085.png"
+        }
+      ],
+      "spotFailures": [
+        {
+          "claim": "Treasure item values: ironwood bracelet 'over $27,000' (p.80 sidebar) and Sonwai ring 'over $25,000' purchased at the Wheelwright Museum, Santa Fe (p.82 sidebar).",
+          "correctText": "Ironwood bracelet (p.80 sidebar): \"estimated value is over $27,000\" — CORRECT. Sonwai ring (p.82 sidebar): \"estimated value is over $20,000\" — NOT $25,000; the spot-check figure is wrong. The ring was \"exhibited at the 'Loloma' exhibit at the Wheelwright Museum of Native American Art in Santa Fe\" — EXHIBITED, not purchased; museum name is \"Native American Art,\" not just \"Wheelwright Museum\" purchase venue. Ring stones are \"sugilite, turquoise, coral, lapis lazuli, and gold\" (no sapphire).",
+          "page": 82,
+          "screenshot": "page-082-083.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 5
+    },
+    {
+      "num": 9,
+      "title": "The Golden Chalice",
+      "target": "chapters/chapter-09.md",
+      "accuracyNote": "High fidelity overall: every direct quote (both epigraphs, all five treasure-hunting advice lines, the puzzle-box and two-rivers phrases) matches the source raw_text verbatim, and the historical/biographical facts are accurate; the only real weaknesses are (a) \"Father | Pastor\" stated as fact when the source pages only say \"my father\" prayed (the \"pastor/Baptist\" label is an inference carried in the notes, not in the transcription), (b) \"psychedelics\" and \"200-person congregation\" framing that lightly paraphrases, and (c) several cross-chapter pattern claims that are interpretation, not verifiable from these pages.",
+      "visionSummary": "Chapter-09.md is highly accurate against the page images. All five flagged treasure-hunting quotes are confirmed verbatim on the actual pages. The load-bearing treasure-confirmation sidebar on p.87 reads exactly 'This chalice is in our treasure.' (CONFIRMED). The one genuine problem is the 'Author Personal Details' table stating Father = 'Pastor' as a flat fact: the pages (92-93) only ever say 'my father'/'my dad,' though they show him delivering the sermon, leading the prayer, and having 'his congregation' — so 'pastor/minister' is a strongly-supported inference but NOT a quoted fact on these pages. Separately, two transcription/composite errors surfaced during verification that were not in the flag list: (1) the chalice date is '600 and 1000 BC' in the p.87 sidebar, but the composite treasure-item table and the metadata JSON both say '400-1000 BC' — minor inaccuracy; (2) the denomination is explicitly stated as 'Baptist' on p.92 ('dry somber Baptist hymnals'), which the composite treats as merely 'implied.' Both pages also reveal the name 'Kimberly' (p.94) which the composite omits. None of these undercut the chapter's core content; the five treasure-hunting quotes — the chapter's most important Lion's-Share clue material — are all perfectly accurate.",
+      "counts": {
+        "total": 33,
+        "supported": 29,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Father | Pastor (stated as a fact in Author Personal Details table)",
+          "correctText": "On pp.92-93 the author refers to him only as 'my father' / 'my dad.' The text shows him as the church's minister by function — p.92: 'The Christmas Eve worship service began each year with some dry somber Baptist hymnals followed by a short sermon from my father'; p.93: 'My father looked out at his congregation and with a nod invited the people to pray... As my father stood front and center and asked everyone to contemplate their candle flame, he began his words of prayer.' But the word 'pastor' is never used on these pages. Stating 'Father | Pastor' as a flat fact overstates what the book says; it is an inference. Note the book DOES explicitly state the denomination is Baptist (p.92), which the composite omits.",
+          "page": 92,
+          "screenshot": "page-091-092.png",
+          "note": "'Pastor' is an inference (he delivers the sermon, leads prayer, has 'his congregation'), not a quoted title. The denomination 'Baptist' IS explicitly stated on p.92 and should be captured instead of/alongside the inferred title."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 4
+    },
+    {
+      "num": 10,
+      "title": "Jackie Onassis' Diamond Sapphire Brooch",
+      "target": "chapters/chapter-10.md",
+      "accuracyNote": "The composite is highly faithful to the sources: all four treasure-hunt-advice quotes are verbatim-accurate, the treasure item, value, author biographical details, and Jackie's history all check out; the only notable issues are a paraphrased \"favorite item\" detail that drops the word \"not,\" a couple of low-severity geographic/career-timeline embellishments, and some interpretive clue-ratings presented in tables.",
+      "visionSummary": "Chapter 10 (pp.95-100) is highly accurate against the page images. I image-verified the brooch sidebar (p.95), all four treasure-hunt-advice quotes (p.99), the Sanskrit tattoo translation and the Vogue internship facts (p.97), and the \"Inquiring Camera Girl\" passage (p.98). The composite's quotations are verbatim and its biographical facts match the book. Two soft issues: (1) the geographic table lists \"Washington DC\" as a book location for Jackie's Inquiring Camera Girl career, but the book actually names only the newspaper \"The Washington-Times\" and never states the city \"Washington DC\" — this is an inference, not a quoted fact, so the AMBIGUOUS verdict is appropriate (kept STILL-UNCERTAIN as a judgment call since the inference is historically reasonable but not in the text). (2) The author-details table calls the father a \"Supportive pastor\" — within chapter 10's pages the father is shown as supportive and teaching resilience, but is NEVER described as a pastor; \"pastor\" is imported from other chapters, so that descriptor is unsupported for this chapter. All other flagged claims are confirmed correct.",
+      "counts": {
+        "total": 26,
+        "supported": 22,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 1,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Father described as 'Supportive pastor, taught resilience'",
+          "correctText": "Within chapter 10 (pp.95-96), the father is described only as supportive and teaching resilience: 'My dad knelt down beside me. He put his hand on my shoulder and said, \"Jon, you are hurting now...\"' and 'my dad was teaching me about resilience.' The pages NEVER call him a pastor. 'Supportive' and 'taught resilience' are accurate; 'pastor' is not stated anywhere in this chapter (it is carried over from other chapters).",
+          "page": 96,
+          "screenshot": "page-095-096.png",
+          "note": "The descriptor 'pastor' is unsupported by chapter 10's source pages. Correct to 'Supportive father, taught resilience' for this chapter."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 6
+    },
+    {
+      "num": 11,
+      "title": "Treasures From a Famous Shipwreck",
+      "target": "chapters/chapter-11.md",
+      "accuracyNote": "The composite is largely faithful to the source transcriptions for the narrative and treasure facts, but contains two notable value/attribution errors (the ~$25,000 figure is misattributed to the treasure's MS 63 coin when the book applies it to a different MS 64 coin) and several unsupported geographic embellishments (Santiago \"Chile\", Buenos Aires \"3 years\") plus a Cross-Chapter \"no hardship\" quote not in these pages.",
+      "visionSummary": "Image-verified accuracy of chapter-11.md is MIXED. The narrative facts (La Luz / Nuestra Senora de la Luz, July 2 1752, Montevideo / Rio de la Plata, Captain Felicio de Fonseca, King Ferdinand VII 50/50 split, 12,500 gold coins, hidden 200,000 pesos + bars/disks in powder hold, rediscovered 1993 by senor Ruben Corella ~50 miles from Montevideo, three items now in the treasure, 245 commemorative boxed sets ~$10,000) all check out against the page images. The two strong author quotes ('I placed all our boxes in safe locations.' p.106; 'You can find these details in the postscript of this book. It's a must read.' p.108) are verbatim accurate. However, the TREASURE ITEMS TABLE contains multiple confirmed inaccuracies, all centered on page 105's gold-bar caption: the bar weight is 'exceeds twenty-three troy ounces' (composite says 22+), its estimated value is 'over $90,000' (composite says $50,000+), and the bar carries NO 'XXVI' marking at all — the bars are stamped '1759', 'XX' (20) and 'XXXVI' (36). The eight-escudo coin row is also mis-stated: the >$25,000 auction figure in the book belongs to a DIFFERENT, non-shipwreck MS 64 coin, not the treasure's MS 63 coin, and the book gives no dollar value for the treasure coin; the composite also drops 'from 1750' from the 'fifteen coins officially rated' detail. Geographic table adds 'Chile' to 'Santiago' (book says only 'Santiago'). The gold disk row (.975 / 23.4 carats / XIV / 22+ troy oz / purest from La Luz) is fully correct per pages 106-107. Page 108's NGC slab carries real provenance (Fernandina Collection, 1750L R PERU 8E, MS 63, 27.00g, La Luz, cert# 5965184-003, Shipwreck Certification) that the composite omits.",
+      "counts": {
+        "total": 35,
+        "supported": 29,
+        "contradicted": 1,
+        "unsupported": 2,
+        "ambiguous": 0,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "La Luz gold bar: 22+ ounces, XXVI marking, considered most beautiful of recovered bars, $50,000+",
+          "correctText": "Page 105 gold-bar caption (ground truth): 'This is a gold bar recovered from La Luz in our treasure. Its weight EXCEEDS TWENTY-THREE troy ounces. The round knob you see on the bar's face was created when additional gold was added to increase its mass. Its estimated value is OVER $90,000.' Page 106 text: 'Of all the bars of gold recovered from La Luz, our gold bar pictured here was considered by many to be the most beautiful.' The bar markings visible on p.105 are '1759' and 'XX' (top bar) and 'XXXVI' (=36, bottom bar). There is NO 'XXVI' (26) marking anywhere on the gold bar. So the composite is wrong on three points: weight is 23+ (not 22+) troy ounces; value is over $90,000 (not $50,000+); and 'XXVI' is not on the bar (the bar shows XX and XXXVI). The 'most beautiful' detail is correct.",
+          "page": 105,
+          "screenshot": "page-105-106.png",
+          "note": "Three distinct errors on this one row. The $50,000 figure in the composite appears to be a confusion with the $10,000 commemorative boxed-set price on p.106; the actual bar value is over $90,000. Caption confirmed by enlarged crop /tmp/crops/p105_caption.png; markings confirmed by /tmp/crops/p105_topbar_marks.png and /tmp/crops/p105_botbar_marks2.png (clearly XXXVI, not XXVI)."
+        },
+        {
+          "issue": "Eight escudo gold coin: 1750, Lima mint, MS 63 rating, only 15 such coins ever officially rated, value ~$25,000+",
+          "correctText": "Page 106 text (ground truth): 'The eight escudos coin seen on page 108 was hand pressed at the Lima mint. The Spanish coat of arms is depicted on its surface. The value of a coin like this one is determined by both condition and rarity. Only fifteen such coins FROM 1750 have ever been officially rated. This coin was given an MS 63 rating. The only other coin with a higher rating (MS 64) recently sold at auction for more than $25,000. Yet that MS 64 coin was not from a shipwreck. In fact, almost all shipwrecked coins are too damaged to rate. Our coin is the rare exception.' The >$25,000 price belongs to a DIFFERENT, non-shipwreck MS 64 coin, NOT the treasure's MS 63 coin; the book assigns NO dollar value to the treasure coin. Composite's '~$25,000+' value for the treasure coin is an inaccuracy. Composite also drops 'from 1750' from the rated-coins detail.",
+          "page": 106,
+          "screenshot": "page-105-106.png",
+          "note": "The alleged correction is exactly right. 1750, Lima mint, MS 63 are all correct; the dollar value attribution is wrong; 'from 1750' qualifier dropped. Confirmed in /tmp/crops/p106_full.png."
+        },
+        {
+          "issue": "Santiago, Chile — Machine minted escudos source",
+          "correctText": "Page 103: '...coordinated the arrival and onboarding of the 12,500 gold coins (and the hidden loot), transported from Lima and Santiago. Pedro was so fond of the new machine minted escudos from Santiago. But Fonseca still preferred the traditional hand pressed coinage from Lima.' The book says only 'Santiago' — the word 'Chile' does not appear on page 103 or 104. The country attribution 'Chile' is a composite inference not stated in the source.",
+          "page": 103,
+          "screenshot": "page-103-104.png",
+          "note": "Confirmed 'Chile' absent from both pages 103 and 104 (/tmp/crops/p103_text.png, /tmp/crops/p104_text.png). The alleged correction is right."
+        },
+        {
+          "issue": "Roman numerals XXVI (26) and XIV (14) on gold bar and disk - possible number significance",
+          "correctText": "The gold disk on page 107 is correctly marked 'XIV' (=14). But the gold bar on page 105 is NOT marked 'XXVI' (26). The two bar faces shown are stamped '1759' and 'XX' (=20) on the top bar, and 'XXXVI' (=36) on the bottom bar. The composite's factual premise ('XXVI on gold bar') is wrong; the number on the bar is XXXVI (36), not XXVI (26). The interpretive note about 'number significance' rests on a misread marking.",
+          "page": 105,
+          "screenshot": "page-105-106.png",
+          "note": "Bar markings confirmed: /tmp/crops/p105_topbar_marks.png shows '1759' + 'XX'; /tmp/crops/p105_botbar_marks2.png shows 'XXXVI' unambiguously (five strokes + VI). XIV on disk confirmed on p.107. The error propagates from the items table; flagging the marking itself as inaccurate."
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "Eight escudo coin image text includes 'Reaudulfia Collection' and NGC certification numbers (1750 8 PCS 63, 427368.011, 1750 8E 1/751) - provenance details omitted from composite.",
+          "correctText": "The NGC slab label on page 108 (ground truth) reads: '1750L R PERU 8E' / 'MS 63' / 'Femandina Collection' (printed 'Femandina', i.e. Fernandina Collection) / '(27.00g) La Luz' / '5965184-003' (barcode below) / 'SHIPWRECK CERTIFICATION' with NGC logo. These provenance/certification details (collection name, mint 1750L/Peru/8E, weight 27.00g, La Luz attribution, NGC cert number, Shipwreck Certification) are omitted from the composite. NOTE: the prior metadata transcription ('Reaudulfia Collection', '427368.011', '1750 8 PCS 63', '1750 8E 1/751') was itself WRONG — those strings do not appear on the slab. The omission is real, but the correct slab text differs substantially from what the flag quoted.",
+          "page": 108,
+          "screenshot": "page-107-108.png"
+        }
+      ],
+      "spotFailures": [
+        {
+          "claim": "Eight escudo coin value '~$25,000+' - book attributes >$25,000 to a DIFFERENT MS 64 (non-shipwreck) coin, not the treasure's MS 63 coin; book gives no value for the treasure coin.",
+          "correctText": "Page 106: 'This coin was given an MS 63 rating. The only other coin with a higher rating (MS 64) recently sold at auction for more than $25,000. Yet that MS 64 coin was not from a shipwreck.' The >$25,000 figure is explicitly for the MS 64 non-shipwreck coin; the treasure's MS 63 coin has no stated value. Composite's '~$25,000+' value attribution to the treasure coin is incorrect.",
+          "page": 106,
+          "screenshot": "page-105-106.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 4
+    },
+    {
+      "num": 12,
+      "title": "Massive Gold Rush Nugget",
+      "target": "chapters/chapter-12.md",
+      "accuracyNote": "The composite is largely faithful on core facts but contains a few misquotes/paraphrase-as-quote issues and an imported non-book date.",
+      "visionSummary": "Image-verified accuracy of chapter-12.md is MIXED-to-POOR on factual specifics. The narrative gist (Gold Rush history, James Marshall at Sutter's Mill, $15M purchase, Sam Brannan as first millionaire, 750,000 lbs gold, author's 20+ years in California, transition to Michael Jordan) matches the book pages. However, several details were altered or fabricated in the composite: (1) the \"(1848-1852)\" date bracket is composite-introduced, not in the book; (2) \"January 24, 1848\" is wrong — the book says only \"January\" with no day; (3) \"nine days before Mexico sold California\" is a paraphrase — the book says \"nine days prior to the signing of this California purchase agreement\"; (4) \"eat free samples at grocery stores\" is wrong — the book says \"grab a muffin or two in a grocery store... pretending to be a customer\"; (5) the treasure-hunt lines are rendered as fabricated direct quotes (\"No sleeping outside on the dusty ground\" / \"No survival kits needed\") when the book's actual wording is different. MOST IMPORTANT: the red-italic treasure sidebar on p.111 was mis-transcribed in BOTH the composite and the page metadata. The image clearly reads the nugget \"weighs over twenty-one ounces\" (NOT \"over four ounces\") and was \"found near the American River, the same river where the discovery of gold set in motion the 1849 California Gold Rush\" (NOT \"near the same farm\"). This is a substantive error propagated from the metadata into the composite.",
+      "counts": {
+        "total": 24,
+        "supported": 17,
+        "contradicted": 4,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Date range for the Gold Rush given as (1848-1852).",
+          "correctText": "The book never brackets the Gold Rush as a '1848-1852' span. p110 states 'Then in 1848, Mexico agreed to sell California...'; p111 says Marshall spoke 'into the crisp cold air of January'; p112 gives 'In 1849, nearly ninety thousand young men... In 1850, ninety thousand more... By 1852, over one percent of the entire US population had relocated to California'; p113 'By 1852, San Francisco's population exceeded 30,000.' The '(1848-1852)' parenthetical is a composite-introduced framing, not source text.",
+          "page": 111,
+          "screenshot": "page-111-112.png",
+          "note": "Confirmed across p110/111/112 images. Author never delimits the Rush as 1848-1852; he cites a Jan 1848 discovery and multiple 'by 1852' milestones."
+        },
+        {
+          "issue": "James Marshall discovered gold on January 24, 1848, at Sutter's Mill, 40 miles east of Sacramento along the American River.",
+          "correctText": "p111: 'James Marshall spoke his famous words into the crisp cold air of January.' Earlier on p111: gold 'discovered around forty miles east of Sacramento near Sutter's Mill along the American River.' The book gives only the month 'January' — there is NO 'January 24' and no specific day. (The year 1848 is inferable from p110's 'Then in 1848,' but the precise '24th' is fabricated.) The location detail (forty miles east of Sacramento near Sutter's Mill along the American River) is accurate.",
+          "page": 111,
+          "screenshot": "page-111-112.png",
+          "note": "'January 24' does not appear in the source; the book states only 'January'. Location is correct."
+        },
+        {
+          "issue": "Gold discovery was just nine days before Mexico sold California to the US for $15 million.",
+          "correctText": "p111: 'neither President Polk nor the Mexican government were aware that just nine days prior to the signing of this California purchase agreement, a collection of gold nuggets had been discovered...' The book says 'nine days prior to the signing of this California purchase agreement' — not 'nine days before Mexico sold California.' The $15M figure is correct but comes from a separate sentence on p110: 'Then in 1848, Mexico agreed to sell California to the United States for the low, low price of fifteen million dollars.'",
+          "page": 111,
+          "screenshot": "page-111-112.png",
+          "note": "The '$15M' price is accurate (p110) but is a distinct sentence; the 'nine days' clause specifically references the SIGNING of the purchase agreement (p111)."
+        },
+        {
+          "issue": "Author experienced financially lean years when he had to eat free samples at grocery stores.",
+          "correctText": "p114: 'I've had a few very financially lean years, ones that saw me grab a muffin or two in a grocery store to eat while I milled about pretending to be a customer.' The book says 'grab a muffin or two' while 'pretending to be a customer' — NOT 'eat free samples.'",
+          "page": 114,
+          "screenshot": "page-113-114.png",
+          "note": "Clearly legible. 'free samples' is a paraphrase that changes the specific (and more vivid) wording of the source."
+        },
+        {
+          "issue": "Treasure quote: \"No sleeping outside on the dusty ground\" and \"No survival kits needed.\"",
+          "correctText": "p114 actual text: 'Our adventure does not require you to sleep outside on the dusty ground, although a camping trip is always a fun idea. You won't need to schedule rations or stock up on survival kits at the army supply store.' The composite presents 'No sleeping outside on the dusty ground' and 'No survival kits needed' as direct quotes (quotation marks), but these exact strings do not appear in the book — they are paraphrases.",
+          "page": 114,
+          "screenshot": "page-113-114.png",
+          "note": "Meaning is preserved, but the composite renders paraphrases as verbatim quotations. The actual sentences are the corrected text."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Treasure confirmation: gold nugget 'over four ounces, found near the same farm where the discovery of gold in California verified the 1849 California Gold Rush; a nugget this size is very rare.' (red_italic sidebar p111)",
+          "correctText": "The red-italic sidebar on p111 reads: 'This very large gold nugget in our treasure was found near the American River, the same river where the discovery of gold set in motion the 1849 California Gold Rush. It weighs OVER TWENTY-ONE OUNCES. Today, gold nuggets from California are the most difficult of any region to acquire because of their popularity with gold enthusiasts and collectors. A California nugget this size is very rare.' TWO errors propagated from the metadata into the composite: (1) weight is 'over twenty-one ounces,' NOT 'over four ounces'; (2) it was found 'near the American River, the same river where the discovery of gold set in motion the 1849 Gold Rush,' NOT 'near the same farm.' The verb is 'set in motion,' not 'verified.'",
+          "page": 111,
+          "screenshot": "page-111-112.png"
+        }
+      ],
+      "textContradictions": [
+        {
+          "issue": "Gold discovery was just nine days before Mexico sold California to the US for $15 million.",
+          "correction": "Nine days before the SIGNING of the California purchase agreement (not generically 'Mexico sold California'). Price $15M is correct.",
+          "evidence": "raw_text p111: gold 'had been discovered... just nine days prior to the signing of this California purchase agreement.' Source ties the nine days to the SIGNING of the purchase AGREEMENT, not to 'Mexico sold California.' Minor but the composite conflates signing with the sale event. $15 million is correct (p110).",
+          "pages": [110, 111]
+        },
+        {
+          "issue": "Author experienced financially lean years when he had to eat free samples at grocery stores.",
+          "correction": "He grabbed 'a muffin or two in a grocery store to eat while I milled about pretending to be a customer' — not 'free samples.'",
+          "evidence": "raw_text p114: 'I've had a few very financially lean years, ones that saw me grab a muffin or two in a grocery store to eat while I milled about pretending to be a customer.' The book describes taking MUFFINS while pretending to be a customer, NOT eating 'free samples.' The composite's paraphrase materially changes the anecdote.",
+          "pages": [114]
+        },
+        {
+          "issue": "Treasure quote: \"No sleeping outside on the dusty ground\" and \"No survival kits needed.\"",
+          "correction": "Direct text: 'Our adventure does not require you to sleep outside on the dusty ground...' and 'You won't need to schedule rations or stock up on survival kits at the army supply store.'",
+          "evidence": "Source p114 says: 'Our adventure does not require you to sleep outside on the dusty ground, although a camping trip is always a fun idea. You won't need to schedule rations or stock up on survival kits at the army supply store.' The composite presents condensed paraphrases inside quotation marks as if direct quotes. The exact words differ (e.g., 'sleep outside' not 'No sleeping outside'; 'stock up on survival kits at the army supply store' not 'No survival kits needed').",
+          "pages": [114]
+        }
+      ],
+      "dismissed": 0
+    },
+    {
+      "num": 13,
+      "title": "Best of Its Class Jordan Rookie Card",
+      "target": "chapters/chapter-13.md",
+      "accuracyNote": "The composite is highly faithful overall - names, numbers, places, and the five treasure-hunting advice quotes match the sources verbatim; the only substantive defect is a compressed/misquoted Brent Huigens (PWCC) quotation presented as verbatim, alongside minor omissions (the Jordan epigraph, the author's two kids, and his 'best version of myself' philosophy).",
+      "visionSummary": "Chapter 13 composite is largely accurate to the page images, but the headline Brent Huigens / PWCC quotation on p.118 is a compressed misquote presented inside quotation marks as verbatim. The substance (PWCC = largest sports card broker; owner Brent Huigens; \"Superior\" certification; better than most PSA 10s) is all correct, and the card identifiers on p.115 (1986 Fleer #57, Michael Jordan, MINT, PSA 9, serial 26670045) match exactly. The treasure-hunting advice on p.121 (\"Take a breath. Reframe and relax.\" / \"Remaining calm will better suit your efforts.\") is verbatim. One spot-check anchor on p.117 is wrong as worded: the book says \"When I was NINE, Michael Jordan was a freshman on the North Carolina basketball team\" (the \"around the age of six\" in the book refers to when the author watched his first games, not to Jordan's freshman year).",
+      "counts": {
+        "total": 31,
+        "supported": 27,
+        "contradicted": 1,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Source: PWCC (largest sports card broker), owner Brent Huigens called it \"arguably the finest PSA 9 we've brokered...shows better than most PSA 10s.\"",
+          "correctText": "The page-118 image reads, after the lead-in 'I acquired the card pictured on the previous spread (page 112) for our treasure from PWCC, the largest sports card broker in the world. Brent Huigens, the owner of PWCC, said the following about this card:' — the italicized block quote: \"Here is arguably the finest PSA 9 Fleer Michael Jordan rookie card we've brokered in our long tenure; and that's saying something considering we've seen thousands of these. In truth, this card shows better than most PSA 10s we've seen, which is why we've awarded it our 'Superior' certification. Completely pack fresh with 50-50 alignment, dagger sharp corners and GEM MINT card stock. The surfaces are immaculate with eye-popping color, precise clarity and not one speck of excess print.\" The composite's quotation 'arguably the finest PSA 9 we've brokered' drops 'Fleer Michael Jordan rookie card' and 'in our long tenure'; 'shows better than most PSA 10s' drops 'In truth, this card' and 'we've seen.' Presented inside quotation marks as a verbatim Huigens quote, this is a misquote. The underlying facts (PWCC = largest sports card broker in the world; owner Brent Huigens; 'Superior' certification; better than most PSA 10s) are correct.",
+          "page": 118,
+          "screenshot": "screenshots/page-117-118.png",
+          "note": "The image clearly contradicts the composite's quoted wording, so the misquote is confirmed; substance is accurate."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Brent Huigens / PWCC quote as rendered in the composite ('arguably the finest PSA 9 we've brokered...shows better than most PSA 10s') vs the full p.118 quotation",
+          "correctText": "Full p.118 quote: \"Here is arguably the finest PSA 9 Fleer Michael Jordan rookie card we've brokered in our long tenure; and that's saying something considering we've seen thousands of these. In truth, this card shows better than most PSA 10s we've seen, which is why we've awarded it our 'Superior' certification. Completely pack fresh with 50-50 alignment, dagger sharp corners and GEM MINT card stock. The surfaces are immaculate with eye-popping color, precise clarity and not one speck of excess print.\" Lead-in confirms 'PWCC, the largest sports card broker in the world' and 'Brent Huigens, the owner of PWCC.' The composite compressed the quote, dropping 'Fleer Michael Jordan rookie card,' 'in our long tenure,' 'In truth, this card,' and 'we've seen.'",
+          "page": 118,
+          "screenshot": "screenshots/page-117-118.png"
+        },
+        {
+          "claim": "Author biographical anchor: 'I grew up in North Carolina' and 'When I was six, Michael Jordan was a freshman on the North Carolina basketball team.'",
+          "correctText": "P.117 reads: 'I grew up in North Carolina.' That part matches. However the second part is mis-stated: the book says 'I watched my first games with my mom and dad, around the age of six. When I was NINE, Michael Jordan was a freshman on the North Carolina basketball team.' The 'age of six' refers to when the author watched his first games; Jordan's freshman year is tied to when the author was NINE, not six.",
+          "page": 117,
+          "screenshot": "screenshots/page-117-118.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 0
+    },
+    {
+      "num": 14,
+      "title": "Tiffany's Furnace & Thoreau's Fire",
+      "target": "chapters/chapter-14.md",
+      "accuracyNote": "The composite is highly faithful to its sources: all verbatim quotes, names, dates, and figures verify against the transcriptions and both critical Lion's-Share passages are quoted accurately; main cautions are some lost detail and analyst interpretations (notably the NC-land inference) stated as if factual.",
+      "visionSummary": "All three flagged Chapter 14 issues are image-verified as ACCURATE in the composite (DISMISSED-CHAPTER-CORRECT). The two CRITICAL clue blocks — the page 127 'blue and pink irises / colors of nature that surround each of them / similar flowers along your way' Lion's-Share location hint, and the page 132 'don't have to find them quickly / failure is part of the process / Welcome it as much as you are capable' fail-forward advice — are quoted word-for-word against the ground-truth page images. The age-3 'twenty acres of woodland / log home / almost ten years' biographical detail also matches exactly, and the book correctly gives no state/location (the NC inference lives only in the composite's clearly-labeled speculative sections). One minor discrepancy surfaced via spot-check, in the Treasure Items table rather than the flagged clues: the vase caption renders the initials as '(LCT)' carved into the base, whereas the composite writes 'LC/T initials on base' and adds 'iridescent enamel on copper' (the latter is body-text, not caption text). This is a small transcription/paraphrase nuance, not a clue-bearing error. Overall the chapter's clue-bearing content is highly accurate.",
+      "counts": {
+        "total": 31,
+        "supported": 29,
+        "contradicted": 0,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Tiffany 'Iris' vase ~1900 with LC/T initials on base, only one other known, owned by the Metropolitan Museum of Art.",
+          "correctText": "Page 125 vase caption reads: 'This is a Tiffany Glass \"Iris\" vase now in our treasure. It was made by Louis Comfort Tiffany around 1900. You can see his (LCT) initials carved into the base. This vase is one-of-a-kind. Tiffany vases in this size are exceedingly rare. I am aware of only one other. It is owned by the Metropolitan Museum of Art. I believe ours is far more beautiful.' The initials are rendered '(LCT)' (not 'LC/T'), and they are 'carved into the base' (the caption does not say 'iridescent enamel on copper' — that comes from the main body text). The '~1900', 'only one other', and 'Metropolitan Museum of Art' facts are confirmed.",
+          "page": 125,
+          "screenshot": "page-125-126.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 3
+    },
+    {
+      "num": 15,
+      "title": "1960 Rome Olympic Gold Medal",
+      "target": "chapters/chapter-15.md",
+      "accuracyNote": "The chapter-15 composite is highly faithful: all named people, places, dates, the treasure-confirmation sidebar, and the three load-bearing author quotes match the source raw_text verbatim, with the only real defect being a fabricated/estimated '~1958' birth year for Yolanda (book gives no year) and several minor lost details (Texas dropped from the geo table; Athens/five-rings passage, Robert/Yvonne, the racism vignettes, and the Parkinson's/historians-dispute notes omitted).",
+      "visionSummary": "Chapter 15 composite is highly accurate against the page images. The medal engravings (GIOCHI DELLA XVII OLIMPIADE ROMA MCMLX; GINNASTICA), the tan treasure-confirmation sidebar, the Wilma Rudolph epigraph, the three gold-medal events with world records, and the author's treasure-hunting reflection quotes all match the ground-truth images. The chapter-opener page (133) prints only 'CHAPTER 15' with no literal 'Part Two' header, so the composite's 'Part Two Begins' line is a structural/inferred label rather than printed text. The author's 'favorite story in the book' line is genuine but appears on p.132 (end of Ch.14) referring forward to Wilma Rudolph, so the composite's attribution to Ch.15 is correct. The only confirmed inaccuracy is the timeline entry '~1958 Daughter Yolanda born' — the book gives NO birth year for Yolanda anywhere in the chapter; it only states Wilma became pregnant (p.137) and later cared for daughter Yolanda during 1960 training (p.139). One minor sidebar wording nuance: image reads 'Olympics Games' not 'Olympic Games'.",
+      "counts": {
+        "total": 34,
+        "supported": 30,
+        "contradicted": 0,
+        "unsupported": 1,
+        "ambiguous": 2,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Timeline: ~1958 Daughter Yolanda born",
+          "correctText": "The book gives NO birth year for Yolanda anywhere in the chapter. Page 137 states only: 'Fearing something was seriously wrong, Wilma went to the doctor. He informed her she was pregnant... Even though she had just given birth, Wilma now ran faster than ever.' Page 139 names the daughter: 'While training for the 1960 Olympics, Wilma was forced to let her sister Yvonne help care for Yolanda.' Page 140 references 'Yolanda's father, Robert'. No '~1958' or any birth year is stated.",
+          "page": 137,
+          "screenshot": "screenshots/page-137-138.png",
+          "note": "The '~1958' birth year is an external inference presented as a sourced timeline fact. It should be removed or clearly marked as inferred (the '~' hints at this, but it is listed alongside hard-dated rows in the timeline table, implying book provenance it does not have)."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 3
+    },
+    {
+      "num": 16,
+      "title": "1996 Atlanta Olympic Gold Medal",
+      "target": "chapters/chapter-16.md",
+      "accuracyNote": "The composite is highly faithful to the sources: nearly all names, dates, scores, quotes, and the treasure-hunting encouragement are accurately transcribed, with only one minor unsupported score detail (Japan \"2-0\") and a couple of small omissions.",
+      "visionSummary": "Chapter 16 (pages 141-150, '1996 Atlanta Olympic Gold Medal') is largely accurate against the ground-truth page images, but the composite contains two real overstatements/conflations, both CONFIRMED-INACCURACY: (1) It merges two separate motels into one — the book clearly distinguishes the 'cheap two-star motel in Tallahassee, Florida' (pre-games, p.144, NOT described as cockroach-filled) from the 'rundown motel over seventy-five miles away' from Atlanta (post-Mexico-win, p.146, where the team slept in 'cockroach-filled rooms'). The composite wrongly attaches 'cockroach-filled' to the Tallahassee two-star motel. (2) It presents the Japan result as a definite 'Won 2-0'; the book only states the Japan game was 'scoreless' and that 'Nigeria scored two goals in the final eight minutes' — no 2-0 final is given (the literal '2-0' on these pages refers to the Mexico game). All four spot-checks match the images: the direction-quote ('It's here to help you. Maybe it can provide you just the direction you need.' p.150), the five-treasure-boxes confirmation (p.142), the seventy-five-mile cockroach-motel detail (p.146), and the Japan 'scoreless / two goals in final eight minutes' wording (p.145) are all verified. The metadata transcriptions were accurate; the inaccuracies originate in the composite's paraphrasing/conflation, not in the page transcriptions.",
+      "counts": {
+        "total": 21,
+        "supported": 18,
+        "contradicted": 2,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Coach Jo Bonfrere not being paid by the corrupt Nigerian Football Association (NFA); team lodged at a 'cockroach-filled' two-star motel in Tallahassee, Florida",
+          "correctText": "Page 144 (right page of spread 143-144) reads: 'Accommodations were made at a cheap two-star motel in Tallahassee, Florida. But there was no money left for transport...' This Tallahassee two-star motel is the pre-Olympics lodging and is NOT described as cockroach-filled. The cockroach detail belongs to a DIFFERENT motel described on page 146 (right page of spread 145-146), AFTER the Mexico win: 'They finally located a rundown motel over seventy-five miles away with enough space for the entire team... For the next three nights, the Nigerians slept in cockroach-filled rooms and munched on Chinese food from the only restaurant within walking distance to their motel.' The composite (chapter-16.md line 20) conflates the two motels by attaching 'cockroach-filled' to the Tallahassee two-star motel. The Bonfrere/NFA non-payment portion of the claim IS accurate (p.143: 'the NFA stopped paying his salary').",
+          "page": 144,
+          "screenshot": "page-143-144.png",
+          "note": "CONFIRMED via ground-truth images. Two distinct motels: (1) cheap two-star in Tallahassee, FL = pre-games (p.144), no cockroaches mentioned; (2) rundown motel 'over seventy-five miles away' from Atlanta = post-Mexico-win (p.146), cockroach-filled rooms. Composite merges them into one. The Bonfrere salary/NFA-corruption sub-claim is correct."
+        },
+        {
+          "issue": "They beat Hungary 1-0 (first Olympic win ever), Japan 2-0, then lost to Brazil",
+          "correctText": "Page 145 (left page of spread 145-146) reads: 'Nigeria carried this momentum to an even more surprising victory over Japan a few days later. With the game scoreless, Nigeria scored two goals in the final eight minutes of the match. These two goals would be the first of many late game Olympic heroics performed by the Nigerians.' The book NEVER states a '2-0' final score for the Japan game; it only says the game was scoreless and Nigeria scored two goals in the final eight minutes (which implies 2-0 but is not stated). The Hungary 1-0 result and the Brazil pool loss (Ronaldo scoring) ARE explicitly stated. The composite presents Japan 'Won 2-0' as an explicit score (chapter-16.md line 22 and line 79); the book does not give a Japan final score. (Note: the literal '2-0' that appears on page 146 refers to the Mexico game: 'Nigeria went on to upset Mexico 2-0.')",
+          "page": 145,
+          "screenshot": "page-145-146.png",
+          "note": "CONFIRMED via ground-truth image. The only '2-0' on these pages is the Mexico result on p.146. Japan is described only as 'scoreless' game in which Nigeria 'scored two goals in the final eight minutes' — no stated 2-0 final. Composite overstates by presenting a definite score."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [
+        {
+          "issue": "Coach Jo Bonfrere not being paid by the corrupt Nigerian Football Association (NFA); team lodged at a 'cockroach-filled' two-star motel in Tallahassee, Florida",
+          "correction": "The 'cockroach-filled' motel was NOT in Tallahassee. The Tallahassee location was the 'cheap two-star motel' before the games (p.144). The 'cockroach-filled rooms' motel was the one found 'over seventy-five miles away' from Atlanta after the Mexico win (p.146). The composite conflates two different motels.",
+          "evidence": "p.144: 'Accommodations were made at a cheap two-star motel in Tallahassee, Florida.' p.146: 'They finally located a rundown motel over seventy-five miles away... For the next three nights, the Nigerians slept in cockroach-filled rooms.'",
+          "pages": [144, 146]
+        }
+      ],
+      "dismissed": 0
+    },
+    {
+      "num": 17,
+      "title": "George Washington's Jelly Glass",
+      "target": "chapters/chapter-17.md",
+      "accuracyNote": "The composite is largely faithful: advice quotes and treasure-item attributes check out verbatim, but it inserts an unsupported date ('1799') for the cherry-tree myth and a 'Christmas night' crossing detail not present in the transcribed text.",
+      "visionSummary": "Image verification of chapter-17.md against the ground-truth page scans confirms two composite inaccuracies, both involving fabricated specifics not present in the book. (1) The composite states the cherry-tree myth was \"invented by Mason Locke Weems in 1799\"; the actual page 154 text gives NO year, saying only that Weems \"wrote his first George Washington biography a year after Washington died\" and that he \"didn't even come up with this tall tale till his book's fifth edition of printing\" (he later notes \"One hundred and eighty-three years later\" it appeared in his school textbook). (2) The composite states the Delaware crossing \"occurred on Christmas night\"; the page 155 narrative never uses the word \"Christmas\" — it says the men crossed \"In the dead of night\" and that there was \"absolutely no way Washington had crossed the Delaware that freezing cold night.\" The \"Christmas\" detail exists only in the repo's analysis/key_elements layers (notes + metadata), not in the book's raw text or the image. All four spot-checks of accurate content (treasure confirmation \"It is now in our treasure\" + green wax seal + one of only two + English rose pattern sidebar; Weems no-year; Delaware no-Christmas; treasure-hunting advice quotes) verify correctly against the images. Net: the chapter's substantive history and treasure provenance are accurately captured, but two over-specified historical claims (the \"1799\" date and \"Christmas\" crossing) are inaccuracies introduced by the composite.",
+      "counts": {
+        "total": 24,
+        "supported": 21,
+        "contradicted": 1,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "The cherry tree myth was invented by Mason Locke Weems in 1799 to sell books",
+          "correctText": "Page 154 reads: 'Mason Locke Weems, who wrote his first George Washington biography a year after Washington died, invented the story of the cherry tree to sell more books. In fact, Weems didn't even come up with this tall tale till his book's fifth edition of printing. One hundred and eighty-three years later, Weems' clever marketing idea had become a fact in my American History textbook.' The book gives NO year '1799' — only 'a year after Washington died' and 'fifth edition.' The '1799' figure is a fabrication/external inference not in the book text.",
+          "page": 154,
+          "screenshot": "page-153-154.png",
+          "note": "Verified on enlarged crop of the top-right column of page 154. No instance of '1799' anywhere on the page; grep of transcriptions confirms '1799' appears only in the composite chapter-17.md, nowhere in pages/."
+        },
+        {
+          "issue": "The famous Delaware River crossing occurred on Christmas night",
+          "correctText": "The entire Delaware crossing narrative is on page 155. The book never says 'Christmas.' It says the troops would 'In the dead of night, each set of men would board their boats and sail across,' and later: 'There was absolutely no way Washington had crossed the Delaware that freezing cold night. The idea was sheer madness.' The word 'Christmas' does not appear in the book text — it exists only in the repo's analysis layers (pages/notes/page-155-156.md line 21 'Christmas night' and metadata key_elements 'delaware_crossing'), which are derived historical inferences, not the book's words.",
+          "page": 155,
+          "screenshot": "page-155-156.png",
+          "note": "raw_text of page-155-156.json contains 'dead of night' and 'freezing cold night' but NOT 'christmas' (verified programmatically). The composite imported the analysis-layer inference 'Christmas night' as if it were book fact. Historically the real 1776 crossing was Christmas night, but the book deliberately does not state this, so the composite asserting it as the book's content is an inaccuracy."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [],
+      "dismissed": 0
+    },
+    {
+      "num": 18,
+      "title": "Andrew Carnegie's Emerald",
+      "target": "chapters/chapter-18.md",
+      "accuracyNote": "The composite is highly faithful: all checkable facts, quotes, names, and numbers match the source transcriptions, with no contradicted claims; its only weaknesses are the 'Los Angeles / west-or-southwest' residence inferences (presented somewhat assertively but really interpretation, not book text) and several minor lost details (Hooker telescope/1917, full endowment list, perpetuity mechanism, the 'punchline'/new-frontier framing).",
+      "visionSummary": "Image-verified accuracy of chapter-18.md is mixed. The Carnegie biography and philanthropy numbers are accurate to the book: $480M 1901 sale to J.P. Morgan, $310 billion-equivalent net worth, almost 1,700 libraries / over 800 still operating, over $350 million given away, and the Mount Wilson Observatory 'not far from my home, just to the northeast' quote are all verbatim-correct against the page images. HOWEVER, the composite contains a CONFIRMED-INACCURACY on its single highest-relevance geographic clue: it repeatedly states the author's parents' church is in 'Huntersville, NC' and rates this HIGH, but page 161 clearly reads 'Statesville, NC.' This is the one load-bearing geographic fact in the chapter and it is wrong throughout the composite (lines 22, 43, 55, 91, 99, 108). One additional, unflagged discrepancy was found: the composite says the child-labor mill was '16 hours/day,' but page 162 says 'twelve hours a day.' A low-relevance biographical omission (memorizing telegraph sounds; $35/week salary he began investing) is confirmed present in the source. Net: numeric/quote claims solid; geographic clue materially wrong.",
+      "counts": {
+        "total": 24,
+        "supported": 21,
+        "contradicted": 0,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 3
+      },
+      "confirmedInaccuracies": [],
+      "confirmedOmissions": [
+        {
+          "issue": "Carnegie memorized telegraph sounds and earned a salary of '$35 [a] week' that he began investing — biographical detail in source omitted by composite (low relevance).",
+          "correctText": "Page 162: 'Carnegie was so bright that he learned to memorize the sounds of the telegraph so he wouldn't have to write them down.' and 'Now that Carnegie had a much more substantial salary of $35/week, he took his money and began investing in companies he understood and believed in.' Both details are present in the source and omitted from the composite.",
+          "page": 162,
+          "screenshot": "page-161-162.png"
+        }
+      ],
+      "spotFailures": [
+        {
+          "claim": "Church location 'Huntersville, NC' — the key biographical/geographic fact the composite rates HIGH relevance.",
+          "correctText": "Page 161 reads: 'Soon after [my] graduation, my parents helped start and lead a new church in STATESVILLE, NC, built upon the idea that a ministry wasn't recruitment, it was a giving of service.' The book says STATESVILLE, NC, NOT 'Huntersville, NC.' The composite is wrong on its highest-relevance geographic clue, repeated at lines 22, 43, 55, 91, 99, and 108.",
+          "page": 161,
+          "screenshot": "page-161-162.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 3
+    },
+    {
+      "num": 19,
+      "title": "Moon Rocks & Meteors",
+      "target": "chapters/chapter-19.md",
+      "accuracyNote": "The composite is highly faithful to the sources: all treasure items, dates, places, and direct quotes match the transcribed book text verbatim, with the only flagged discrepancy being the 'Clarke' vs. printed 'Clark' name spelling and several minor omitted details.",
+      "visionSummary": "Image-verified review of chapter-19 (Moon Rocks & Meteors, pp.165-170). The single flagged issue is CONFIRMED: the book's opening-quote attribution on p.166 unambiguously reads \\\"ARTHUR C. CLARK\\\" (no final \\\"e\\\"), while the composite's Historical Figures table writes \\\"Arthur C. Clarke\\\". This is a fidelity-to-source discrepancy; the missing \\\"e\\\" is almost certainly a misprint in the book itself (the real author is Arthur C. Clarke), but the composite does not reproduce the page as printed. Spot-checks: both perspective/treasure quotes on p.169 match the image verbatim (\\\"Embracing new perspectives is often the essential key...\\\" and \\\"...a simple change in perspective can be all that's required to fill that gap between us and something we desire.\\\", the latter prefixed \\\"And\\\" in the book). The Aguas Zarcas margin sidebar on p.168 substantively matches (\\\"It contains foundational amino acids billions of years old that were the precursors of life on our planet\\\"), but the spot-check phrasing erroneously inserts the word \\\"with\\\" — not present in the book. Overall the chapter content is accurate; the only confirmed defect is the Clark/Clarke spelling.",
+      "counts": {
+        "total": 20,
+        "supported": 15,
+        "contradicted": 1,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 4
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Opening quote attributed to Arthur C. Clarke (Historical Figures table spells the name \"Arthur C. Clarke\")",
+          "correctText": "The book prints the attribution as \"—ARTHUR C. CLARK\" (no final \"e\"). Full quote on p.166: \"If an elderly but distinguished scientist says that something is possible he is almost certainly right, but if he says that it is impossible he is very probably wrong. —ARTHUR C. CLARK\". The composite chapter-19.md (line 70) writes \"Arthur C. Clarke\" with a final \"e\". The real author is Arthur C. Clarke, so this is almost certainly a misprint in the book itself; but for fidelity to the source, the composite does not match what the page actually shows.",
+          "page": 166,
+          "screenshot": "screenshots/page-165-166.png",
+          "note": "Verified by zoomed crop of the red opening-quote block on the right page (166). Attribution unambiguously reads CLARK, no terminal 'e'. Composite Historical Figures table grades inaccurate to source. Note: this is a minor fidelity/spelling discrepancy where the book itself contains the likely typo — a reasonable normalization to 'Clarke', but it does diverge from the printed page."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Aguas Zarcas sidebar amino-acids quote: \"foundational amino acids with billions of years old that were the precursors of life on our planet\"",
+          "correctText": "The right-margin sidebar on p.168 reads: \"This is a piece from the Aguas Zarcas meteorite. It is in our treasure. This meteorite is famous because of its carbonaceous chondrite composition. It contains foundational amino acids billions of years old that were the precursors of life on our planet.\" The actual text is \"foundational amino acids billions of years old\" — the spot-check claim erroneously inserts the word \"with\" (\"amino acids with billions of years old\"). Substance matches; the single inserted word \"with\" is not in the book.",
+          "page": 168,
+          "screenshot": "screenshots/page-167-168.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 0
+    },
+    {
+      "num": 20,
+      "title": "The Six-Figure Birthstone",
+      "target": "chapters/chapter-20.md",
+      "accuracyNote": "The composite is largely faithful for treasure-item facts and narrative, but overstates two places (truncated 'state of Rio de' rendered as 'Rio de Janeiro state, Brazil'; the unspecified 'local park' labeled 'LA area'), blurs the attribution of the 'change in where you stand' clause, and omits notable details (Derek Grasso's non-treasure 'Breath of Heaven' piece, the 'lion atop a mountain of decaying catnip' line, Rob Lavinsky, the Chivor-emerald color comparison, and the 7-year discovery delay).",
+      "visionSummary": "Chapter 20 (pp.171-178) image audit. The biggest finding: the page-172 \"Opposite page\" sidebar was mis-transcribed in the metadata AND that error propagated into the composite. The image clearly reads \"This gemstone is a 200 carat smokey quartz cut in a custom design called 'Beyond Brilliant' by Mark Oros. This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.\" So the composite's \"201 carat\", the cut name \"Imperial Brilliant\", and the smokey-quartz origin \"State of Rio (Brazil) / Rio de Janeiro state, Brazil\" are ALL inaccuracies — there is no carat-201, no \"Imperial Brilliant\", and no Rio/Brazil/Janeiro anywhere on the page (the transcribed phrase \"from the state of Rio de... most velvet tone\" does not exist in the book). The page-175 tsavorite sidebar (\"Shown here is a twelve carat tsavorite garnet gemstone in our treasure... prices near, or exceeding, six figures\") fully supports the composite. The five-box quote (\"It's as if pieces of my soul are now nested inside our five boxes\") is accurate. The epigraph is two quotes: a Lscrae quote (rose bush/thorns) and a Steve de Shazer quote ending \"...a change in where you stand changes everything\" — so listing that clause as a standalone \"Opening quote\" is wrong; it is the closing line of the de Shazer epigraph. The page-178 text says only \"a local park\" with \"a massive rose garden... Several acres\" — there is NO \"LA area\" / Los Angeles reference, so the Geographic-References \"LA area local park\" entry and the \"rose gardens in the LA area\" research question are unsupported inferences.",
+      "counts": {
+        "total": 21,
+        "supported": 17,
+        "contradicted": 1,
+        "unsupported": 1,
+        "ambiguous": 1,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "201 carat smokey quartz, \"Imperial Brilliant\" cut by Mark Oros",
+          "correctText": "Page-172 sidebar (image, high-res crop) reads: \"(Opposite page) This gemstone is a 200 carat smokey quartz cut in a custom design called 'Beyond Brilliant' by Mark Oros. This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.\" It is 200 carat (NOT 201) and the cut is 'Beyond Brilliant' (NOT 'Imperial Brilliant'). Mark Oros as the cutter is correct.",
+          "page": 172,
+          "screenshot": "page-171-172.png",
+          "note": "Both the carat count and the cut name are wrong in the composite. The metadata sidebar transcription was also wrong ('201 carat', 'Imperial Brilliant'), and the composite copied those errors."
+        },
+        {
+          "issue": "Smokey quartz origin: State of Rio (Brazil) / Rio de Janeiro state, Brazil",
+          "correctText": "No origin location is printed anywhere on the page. The page-172 sidebar's actual text is \"...This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.\" There is NO 'from the state of Rio de', no 'Rio de Janeiro', no 'Brazil'. The metadata had mis-transcribed this clause as '...is from the state of Rio de, so it's arguably the most velvet tone...', which is a misreading. The composite's 'State of Rio (Brazil)' and the Geographic-References row 'Rio de Janeiro state, Brazil' are fabricated from that bad transcription and should be removed.",
+          "page": 172,
+          "screenshot": "page-171-172.png",
+          "note": "The alleged correction (that 'Janeiro'/'Brazil' are inferences) understates it: even 'from the state of Rio de' is not in the book. The whole origin claim is non-existent in the text."
+        },
+        {
+          "issue": "Quote: \"A change in where you stand changes everything\" listed as 'Opening quote' (Key Phrases table)",
+          "correctText": "This clause is the closing line of the Steve de Shazer epigraph, not a standalone/separate quote and not a Lscrae quote. Full de Shazer quote (image): \"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\" —STEVE DE SHAZER. Presenting the final clause as its own 'Opening quote' line misrepresents the source.",
+          "page": 172,
+          "screenshot": "page-171-172.png",
+          "note": "Agrees with the alleged correction: it is the closing line of the de Shazer epigraph."
+        },
+        {
+          "issue": "Local park is in the LA area (Geographic References table: 'LA area local park', relevance Medium); research question 'What massive rose gardens exist in the LA area?'",
+          "correctText": "Page-178 body (image): \"I was reminded of these truths recently as I walked in a local park with my wife. We came across a massive rose garden. I looked out over it. Several acres of park terrain were painted by spectacular blooming rose petals.\" The text says only 'a local park' / 'a massive rose garden' / 'Several acres' — NO city or region is named. 'LA area' / Los Angeles is nowhere on the page. The Geographic-References row 'LA area local park' and the research question framing it as 'in the LA area' are unsupported inferences and should be corrected to 'a local park (location unnamed)'.",
+          "page": 178,
+          "screenshot": "page-177-178.png",
+          "note": "Confirms the alleged correction. The chapter content for the rose garden actually appears on p.178 (and into p.177/178 spread), not p.172; verdict applies to the location inference."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "201 carat smokey quartz cut in custom 'Imperial Brilliant' design by Mark Oros (treasure item, p.172 sidebar)",
+          "correctText": "200 carat smokey quartz cut in a custom design called 'Beyond Brilliant' by Mark Oros. (NOT 201, NOT 'Imperial Brilliant'.)",
+          "page": 172,
+          "screenshot": "page-171-172.png"
+        },
+        {
+          "claim": "Smokey quartz origin sidebar — exact printed place name (transcription shows truncated 'from the state of Rio de'); confirm whether 'Janeiro'/'Brazil' is actually printed (p.172)",
+          "correctText": "No place name is printed at all. The actual sidebar clause is \"...This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.\" The transcription's 'from the state of Rio de... most velvet tone' is a complete misreading; 'Rio', 'Janeiro', and 'Brazil' do not appear on the page.",
+          "page": 172,
+          "screenshot": "page-171-172.png"
+        }
+      ],
+      "textContradictions": [
+        {
+          "issue": "Quote: \"A change in where you stand changes everything\" listed as 'Opening quote' (Key Phrases table)",
+          "correction": "This clause is the closing line of the Steve de Shazer epigraph, not a standalone or Lscrae quote.",
+          "evidence": "The phrase is a fragment of the Steve de Shazer quote: \"...a change in where you stand changes everything.\" The composite isolates the clause and tabulates it generically as 'Opening quote' without attributing it to de Shazer, blurring which of the two epigraphs it came from. Source full quote: \"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\"",
+          "pages": [172]
+        }
+      ],
+      "dismissed": 3
+    },
+    {
+      "num": 21,
+      "title": "Antiquities of Alexander",
+      "target": "chapters/chapter-21.md",
+      "accuracyNote": "The composite is highly faithful on the four treasure items, Alexander's biography numbers, named figures, and the critical treasure-hunting hint (quoted verbatim); its main weaknesses are omission of the p.188 'love story' transition and heart-shape photo plus most of the mythological/unity material, and a couple of minor editorial overreaches ('most impressive items') and one shortened paraphrase ('We are mostly the same').",
+      "visionSummary": "Chapter 21 (pp.179-188) composite is largely accurate against the ground-truth images. The three CRITICAL treasure-hunting hint quotes on p.186 are verbatim-correct. Alexander biographical facts on p.181 (336 BC, 13 years, died at 32, 3,000 miles Macedonia-to-India, 20+ cities named Alexandria, four gold items acquired) all match the page exactly. The wife/Kimberly snake-bracelet sidebar on p.184 is correctly characterized by the composite (the metadata transcription of it was garbled, but the composite got it right). Two genuine problems: (1) the Key Phrases table paraphrases the book as \"We are mostly the same,\" whereas the book actually reads \"We and our enemies, if we have them, are mostly the same.\" — confirmed misquote; and (2) the composite omits the full-page aerial heart-shape photograph on p.188 and the chapter-closing line \"Our next chapter is a love story.\" The \"four antiquities - most impressive items per author\" cross-chapter note is partly unsupported: the book confirms four gold items but never calls them the author's \"most impressive items.\"",
+      "counts": {
+        "total": 25,
+        "supported": 22,
+        "contradicted": 1,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Key Phrases table renders 'We are mostly the same' as a phrase",
+          "correctText": "The book (p.187) reads: \"We and our enemies, if we have them, are mostly the same. We all bleed dark red, cry salt-filled tears, laugh with heartfelt joy, and have longings we want to fulfill.\" The composite's Key Phrases table entry \"We are mostly the same\" is a paraphrase, not the book's wording. (Note: the composite's own Chapter Summary, line 25, quotes it correctly; only the Key Phrases table is wrong.)",
+          "page": 187,
+          "screenshot": "page-187-188.png",
+          "note": "Confirmed misquote in the Key Phrases table. Correct phrase: 'We and our enemies, if we have them, are mostly the same.'"
+        },
+        {
+          "issue": "Cross-chapter pattern: 'Four antiquities - most impressive items per author'",
+          "correctText": "p.181 states: \"I was able to acquire four such items of gold from ancient Greece for our treasure. Each piece was created during the period shortly around and after the death of Alexander.\" The book confirms FOUR gold antiquities, but contains NO language describing them as the author's 'most impressive items.' The 'most impressive items per author' qualifier is not supported by the page.",
+          "page": 181,
+          "screenshot": "page-181-182.png",
+          "note": "The 'four antiquities' count is accurate; the 'most impressive items per author' characterization is an unsupported embellishment not found in the text."
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "p.188 contains an aerial photograph of people forming a heart shape on a brick/stone surface - a notable image clue entirely omitted from the composite.",
+          "correctText": "p.188 features a large aerial/overhead photograph of a crowd of people standing on a paved plaza arranged to form a large heart shape. The page's text ends with the chapter-closing line: \"Our next chapter is a love story.\" Both the heart-shape image and the closing 'love story' line are absent from the composite. The image and line foreshadow Chapter 22 (Picasso's Pendant, 'A Love Story') and reinforce the chapter's unity/love theme.",
+          "page": 188,
+          "screenshot": "page-187-188.png"
+        }
+      ],
+      "spotFailures": [],
+      "textContradictions": [
+        {
+          "issue": "Key Phrases table renders 'We are mostly the same' as a phrase",
+          "correction": "We and our enemies, if we have them, are mostly the same.",
+          "evidence": "Book wording is 'We and our enemies, if we have them, are mostly the same' (p.187). 'We are mostly the same' is a shortened paraphrase; not verbatim. Low severity because the composite elsewhere (summary) quotes it correctly.",
+          "pages": [187]
+        }
+      ],
+      "dismissed": 4
+    },
+    {
+      "num": 22,
+      "title": "Picasso's Pendant",
+      "target": "chapters/chapter-22.md",
+      "accuracyNote": "The composite is accurate on all core facts but renders three clue phrases as inexact quotes and drops a few notable details (Albert Ellis epigraph, 24 total pendant designs, Jacqueline's death).",
+      "visionSummary": "Image-verified against screenshots/page-189-190.png (sidebar, p.190) and screenshots/page-193-194.png (body, pp.193-194). All three flagged quote issues are CONFIRMED inaccuracies: the composite presents paraphrases inside quotation marks (Jacqueline list, \"first step\" advice) and invents a quoted phrase (\"Persistence and bravery\") that does not appear verbatim. Two additional, more consequential errors were surfaced by the spot-checks. (1) The pendant mintage is WRONG: the p.190 sidebar clearly reads \"Only thirty-two such pendants were ever created, and only twenty were made available to the public. The pendant is made of 23-karat gold.\" The composite says \"Only 39 made\" — the figure 39 appears nowhere on the page (the chapter also separately states 24 different pendant DESIGNS were produced, p.193). The \"20 to public\" and \"23-karat\" parts are correct. (2) The author met Kimberly in 2013, not 2003 — the page image unambiguously reads \"Kimberly and I met in 2013.\" The pages/metadata transcription itself contained the 2003 error and the composite inherited it. The clue phrase, \"over forty years to find her,\" \"close to five years and millions of dollars,\" and the pendant provenance (acquired directly from Nicolas, grandson of François Hugo, great-grandson of Victor Hugo, Hugo Ateliers, France) all match the image.",
+      "counts": {
+        "total": 23,
+        "supported": 19,
+        "contradicted": 3,
+        "unsupported": 0,
+        "ambiguous": 0,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "she was \"wife, lover, muse, manager, accountant, caretaker, agent, and best friend\" (presented as a direct quote)",
+          "correctText": "Book p.193 reads: \"Jacqueline was his wife, his lover, his muse, his manager, his accountant, his caretaker, his agent, and his best friend.\" The list content and order match, but the composite drops the repeated \"his\" before each noun and recasts the subject, while wrapping it in quotation marks. As a verbatim quote it is inexact (it is a paraphrase rendered as a direct quote).",
+          "page": 193,
+          "screenshot": "page-193-194.png",
+          "note": "Confirmed by zoomed crop of the line; the full eight-item list including 'his manager, his accountant' is present in the image."
+        },
+        {
+          "issue": "Key-clue phrase quoted as \"Taking first step out your door might be bravest action\"",
+          "correctText": "Book p.193 reads: \"...taking the first step out your door might be the bravest action required of you here.\" The composite's quoted version omits both definite articles (\"the first step\" -> \"first step\"; \"the bravest action\" -> \"bravest action\") and truncates the sentence. As a direct quote it is inexact.",
+          "page": 193,
+          "screenshot": "page-193-194.png",
+          "note": "Full sentence verified in image band: 'In my opinion, taking the first step out your door might be the bravest action required of you here.'"
+        },
+        {
+          "issue": "\"Persistence and bravery\" listed as a quoted phrase / traits needed",
+          "correctText": "The book does not contain the phrase \"Persistence and bravery.\" Book p.193 reads: \"Picasso was persistent and brave. These are not bad traits to have when hunting for a treasure.\" The composite's quotation-marked phrase is fabricated; the source uses the adjectives 'persistent and brave', not the noun phrase in quotes.",
+          "page": 193,
+          "screenshot": "page-193-194.png",
+          "note": "Verified verbatim in image: 'Picasso was persistent and brave.'"
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [
+        {
+          "claim": "Pendant is 23-karat gold, only 39 minted and 20 made available to the public",
+          "correctText": "p.190 sidebar: \"Only thirty-two such pendants were ever created, and only twenty were made available to the public. The pendant is made of 23-karat gold.\" The mintage is 32, NOT 39 (39 appears nowhere on the page). '20 to public' and '23-karat gold' are correct. Note: a separate figure on p.193 says 'twenty-four different Picasso pendant designs were produced' (24 designs total) — distinct from the 32 of this specific design.",
+          "page": 190,
+          "screenshot": "page-189-190.png"
+        },
+        {
+          "claim": "Author biography numbers: met Kimberly 2003, family 2017, married only a few months ago, over 40 years to find her, close to five years and millions of dollars on the project",
+          "correctText": "p.194: \"Kimberly and I met in 2013. We began our family in 2017. As I write this, we were married only a few months ago.\" The 'met' year is 2013, NOT 2003 (the metadata transcription erroneously says 2003 and the composite inherited it). Earlier p.194: \"it did take me over forty years to find her\" (correct) and \"spending close to five years and millions of dollars on a treasure\" (correct). Favorite song 'Make Your Own Kind of Music' by Cass Elliot, last song at wedding reception — correct.",
+          "page": 194,
+          "screenshot": "page-193-194.png"
+        }
+      ],
+      "textContradictions": [],
+      "dismissed": 0
+    },
+    {
+      "num": 23,
+      "title": "Sing Your Own Special Song",
+      "target": "chapters/chapter-23.md",
+      "accuracyNote": "The composite is largely faithful with verbatim core quotes, but introduces a paraphrase that strips 'perhaps' from the key gratitude quote, mislabels 'make your own special music' as 'Kimberly's song,' omits the faience glaze step, and drops the two opening epigraphs.",
+      "visionSummary": "All three flagged issues are CONFIRMED against the ground-truth page image (screenshots/page-197-198.png). (1) The faience process printed on p.197 explicitly includes a COLOR-GLAZE step the composite's arrow-sequence drops: \"Ordinary salt and water are added to make the sand malleable and to give it a form. Once the sand is shaped, a color glaze is added. At first the color is dull. Then the molded and blandly glazed sand is placed into a fire...\" — the composite \"sand + salt + water -> shape -> fire\" omits both the malleability role of salt+water and the entire color-glaze (dull-at-first) step before firing. (2) On p.198 the book reads \"...is PERHAPS the most powerful ability a treasure hunter can possess\"; the composite's Chapter Summary (line 27) and Key Phrases table (line 75) drop the qualifier \"perhaps\" and flatly assert \"the most powerful ability\" / \"Gratitude is most powerful ability.\" Note the composite's CRITICAL block (line 35) does quote it correctly with \"perhaps,\" so the error is confined to the paraphrases. (3) On p.198 the phrase is \"Living by these principles are how Kimberly and I strive to make our own special music\" — clearly the COUPLE'S shared phrase, not \"Kimberly's song\"; the composite Key Phrases table (line 78) labels it \"Kimberly's song,\" which the page text does not support. Spot-checks: the \"perhaps\"/gratitude wording, the necklace \"most personal / not most expensive\" comparison, and the \"Kimberly and I strive to make our own special music\" wording all match the image. The \"Treasure is all around\" quote is correct but the composite truncates \"...notice\" and drops \"and appreciate it\"; meaning is largely preserved. Overall the chapter composite is reasonably faithful but contains three real accuracy defects, all in the summary/key-phrase paraphrases rather than the verbatim-quote blocks.",
+      "counts": {
+        "total": 22,
+        "supported": 17,
+        "contradicted": 2,
+        "unsupported": 1,
+        "ambiguous": 0,
+        "interpretation": 2
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "The faience process (sand + salt + water -> shape -> fire)",
+          "correctText": "p.197: \"To make faience, you first need sand, a very common substance. Ordinary salt and water are added to make the sand malleable and to give it a form. Once the sand is shaped, a color glaze is added. At first the color is dull. Then the molded and blandly glazed sand is placed into a fire, where it cooks in an intense heat. As the little bead bakes, something magical happens. The sand and salt and water become food. The color of the glaze saturates. When freed from the fire, the tiny faience bead glows bright and lustrous. It has taken its final beauty and form which it may now hold for thousands of years.\" The composite's arrow-sequence omits two steps: salt+water make the sand MALLEABLE/give it form, and a COLOR GLAZE is added after shaping (dull at first) BEFORE firing.",
+          "page": 197,
+          "screenshot": "page-197-198.png",
+          "note": "Verified by reading the left-page text column (cropped/upscaled). The color-glaze step is unmistakably printed; the composite drops it."
+        },
+        {
+          "issue": "Author argues gratitude is \"the most powerful ability a treasure hunter can possess\" (Chapter Summary line 27)",
+          "correctText": "p.198: \"To have gratitude for each day of our experience is perhaps the most powerful ability a treasure hunter can possess.\" The qualifier \"perhaps\" is clearly printed. The composite Chapter Summary (line 27) and Key Phrases table (line 75: 'Gratitude is most powerful ability') drop 'perhaps' and overstate the claim. (The composite's CRITICAL block on line 35 quotes it correctly with 'perhaps'.)",
+          "page": 198,
+          "screenshot": "page-197-198.png",
+          "note": "Image clearly shows 'is perhaps the most powerful ability.' Error is confined to the paraphrases, not the verbatim block."
+        },
+        {
+          "issue": "\"Make your own special music\" labeled as \"Kimberly's song\" (Key Phrases table, line 78)",
+          "correctText": "p.198: \"Living by these principles are how Kimberly and I strive to make our own special music. And we ask our kids and even our friends to sing along. The word special does not mean separate.\" The page presents it as the couple's (and family's) shared phrase, NOT as 'Kimberly's song.' No 'Cass Elliot / Kimberly's favorite song' framing appears in the printed page text.",
+          "page": 198,
+          "screenshot": "page-197-198.png",
+          "note": "The 'Kimberly's song' attribution is not supported by the page; it appears to originate in derived notes, not the source text."
+        }
+      ],
+      "confirmedOmissions": [],
+      "spotFailures": [],
+      "textContradictions": [
+        {
+          "issue": "The faience process (sand + salt + water -> shape -> fire)",
+          "correction": "The book sequence includes a color-glaze step the composite omits: sand, then salt + water added to make it malleable/give form, then shaped, then a COLOR GLAZE added (dull at first), then placed in fire. Composite's arrow-sequence drops the glaze step.",
+          "evidence": "p.197 raw_text: 'you first need sand... Ordinary salt and water are added... Once the sand is shaped, a color glaze is added. At first the color is dull. Then the molded and blandly glazed sand is placed into a fire...'",
+          "pages": [197]
+        },
+        {
+          "issue": "Author argues gratitude is \"the most powerful ability a treasure hunter can possess\" (Chapter Summary line 27)",
+          "correction": "The book says 'perhaps the most powerful ability,' not flatly 'the most powerful ability.' Full text: 'To have gratitude for each day of our experience is perhaps the most powerful ability a treasure hunter can possess.' The summary/key-phrase paraphrases drop the qualifier 'perhaps' and reframe 'gratitude for each day of our experience' as just 'gratitude.'",
+          "evidence": "p.198 raw_text: 'To have gratitude for each day of our experience is perhaps the most powerful ability a treasure hunter can possess.'",
+          "pages": [198]
+        }
+      ],
+      "dismissed": 0
+    },
+    {
+      "num": 24,
+      "title": "Back Matter",
+      "target": "chapters/back-matter.md",
+      "accuracyNote": "The composite is broadly faithful on the postscript safety rules, the acknowledgement names, and the back-cover logo, but it contains several real errors: it mislabels its own source-page mapping (calls 203-204 \"postscript\" and 207-208 \"author bio\" when 207-208 is the postscript and there is no author-bio page in 199-211), it adds unsupported biographical claims (\"Dad - Pastor,\" the \"Our Unbreakable Thread\"/\"Marble Press\" children's book), and it presents one acknowledgement quote (\"Thank you for seeing me...\") and a misattributed Aiden/Londyn line, while paraphrasing the Ch.11 \"must read\" quote.",
+      "visionSummary": "Image-verified the back matter (199-211). The composite has several CONFIRMED inaccuracies: (1) it under-scopes the 'Some More of Our Treasure Items' section to pages 199-202 / 8 items when the section clearly spans 199-204 with ~11-13 items (203-204 show the Costa Rica jade amulet necklace, Michele della Valle citrine necklace, and Viking gold ring); (2) it mislabels its own source mapping (203-204 are treasure-items continuation, NOT the postscript; 207-208 are the POSTSCRIPT, NOT an author bio - there is no author bio anywhere in 199-211); (3) it splits a single joint Aiden-AND-Londyn acknowledgement into separate per-child quotes; (4) it states 'Dad is a Pastor' (unsupported - page 211 only thanks 'Mom and Dad' generally); (5) it claims a children's book 'Our Unbreakable Thread' (Marble Press) which appears nowhere in 199-211; and (6) it describes the back-cover logo as 'crossed hammer and pickaxe' when the image clearly shows a crossed PICKAXE and SHOVEL/SPADE on a red distressed-circle stamp. The big WIN: the postscript (207-208) is fully legible and confirms all the load-bearing search rules - five treasure boxes, none under water / no raft-canoe-vessel needed / not near swift current or dangerous ledges / no cliff scaling, not buried under public land, strict no-private-property rule, and 'no treasure hidden more than three miles from any road' - AND the literal-reading directive ('No subterfuge... No double meanings. No misdirection. No innuendos... No clues. No code. You should take what I say here as literally as you possibly can'), which the composite's Safety Guidelines section omits. The LeElaine/Kimberly D. 'how much ground one searcher can cover in a single day' quote is verbatim correct.",
+      "counts": {
+        "total": 19,
+        "supported": 10,
+        "contradicted": 5,
+        "unsupported": 2,
+        "ambiguous": 1,
+        "interpretation": 1
+      },
+      "confirmedInaccuracies": [
+        {
+          "issue": "Some More of Our Treasure Items covers pages 199-202 with 8 additional treasure items not featured in chapters.",
+          "correctText": "The 'Some More of Our Treasure Items' section header is on p.199 and the section continues through p.204. Pages 203-204 are still treasure items (NOT postscript): the Costa Rica Nicoya jade-and-gold amulet necklace (200-600 AD) on p.203, and on p.204 the Michele della Valle citrine-and-diamond necklace plus a 9th-century Viking gold ring. Counting items shown on 199-204 (116.7ct pear tanzanite, 9.65ct octahedral diamond, 19th-c. South India emerald/ruby 'floral' rings, two ornate Bali priest rings, a carved gold box, two gold nuggets incl. a ~392-grain Australian one, a titanium physical Bitcoin coin, a 3000-4000 BC jade bracelet, the jade amulet necklace, the della Valle citrine necklace, and the Viking ring) gives roughly 11-13 items, not 8, and the span is 199-204 not 199-202.",
+          "page": 199,
+          "screenshot": "page-199-200.png / page-201-202.png / page-203-204.png",
+          "note": "Section scope and item count both wrong. Task only required 199-200 & 203-204; I also read 201-202 to count accurately."
+        },
+        {
+          "issue": "Aiden (child) quoted: 'Your enthusiasm for life lifts me up on wings.'",
+          "correctText": "Page 211 reads as ONE joint passage addressed to both children: 'Thank you, Aiden and Londyn. I love you so much. Your enthusiasm for life lifts me up on wings. It invigorates me. Your glowing faces lit a path for all this to be possible. I look forward to all the treasures we'll discover together.' The line is not assigned to Aiden individually; the composite incorrectly splits a single joint quote into per-child attributions.",
+          "page": 211,
+          "screenshot": "page-211-back.png",
+          "note": ""
+        },
+        {
+          "issue": "Londyn (child) quoted: 'Your glowing faces lit a path for all this to be possible.'",
+          "correctText": "Same single passage as above, addressed to 'Aiden and Londyn' jointly. 'Your glowing faces lit a path for all this to be possible' is part of the joint acknowledgement, not a line specific to Londyn. The composite's split is unsupported by the image.",
+          "page": 211,
+          "screenshot": "page-211-back.png",
+          "note": ""
+        },
+        {
+          "issue": "Dad is described as a Pastor.",
+          "correctText": "Page 211 says only: 'Thank you, Mom and Dad for all your love and support throughout my entire life. You are incredible people whom I love dearly. I hope I one day become half of the parent you both are to me. And thanks, Mom, for your relentless proofreading.' There is no statement that the father is a pastor anywhere in the back matter (199-211).",
+          "page": 211,
+          "screenshot": "page-211-back.png",
+          "note": "Treating an unsupported fabricated detail in the composite as a CONFIRMED-INACCURACY."
+        },
+        {
+          "issue": "Also author of children's book 'Our Unbreakable Thread' (Marble Press).",
+          "correctText": "No back-matter page (199-211) mentions a children's book 'Our Unbreakable Thread' or a publisher 'Marble Press.' Pages 209-210-211 contain epigraph quotes and the acknowledgements only; there is no author-bio content anywhere in this range. The claim is not supported by any source for this composite.",
+          "page": null,
+          "screenshot": "page-209-210.png / page-211-back.png",
+          "note": "Verified absent from 209, 210, and 211 (page given as 0 = no specific back-matter page contains it)."
+        },
+        {
+          "issue": "Back cover shows a red circle with crossed hammer and pickaxe on black background (mining/treasure hunting tools logo).",
+          "correctText": "The right page of 211 (back cover) shows a red distressed/stamp-style circular border on a black background containing two crossed tools: a PICKAXE (pointed double-ended pick head, upper-right) crossed with a SHOVEL/SPADE (D-handle grip upper-left, rounded spade blade lower-right). The second tool is a shovel, NOT a hammer. Correct description: red circle stamp with crossed pickaxe and shovel on black background.",
+          "page": 211,
+          "screenshot": "page-211-back.png",
+          "note": "Zoomed in tightly to disambiguate; the shovel blade and D-handle are unmistakable."
+        },
+        {
+          "issue": "Source mapping: page-203-204.json + page-203-204.md is the 'postscript'.",
+          "correctText": "Pages 203-204 are 'Some More of Our Treasure Items' (continued): p.203 Costa Rica Nicoya jade-and-gold amulet necklace; p.204 Michele della Valle citrine-and-diamond necklace and a 9th-century Viking gold ring. They are NOT the postscript. The postscript is on pages 207-208.",
+          "page": 203,
+          "screenshot": "page-203-204.png",
+          "note": ""
+        },
+        {
+          "issue": "Source mapping: page-207-208.json + page-207-208.md is the 'author bio'.",
+          "correctText": "Pages 207-208 are the POSTSCRIPT (titled 'POSTSCRIPT' on p.207), containing the literal-reading directive and all the search/safety rules. They are NOT an author bio; there is no author-bio page anywhere in 199-211. The composite's own 'Postscript: Safety Guidelines' content derives from 207-208, making the 'author bio' label internally inconsistent.",
+          "page": 207,
+          "screenshot": "page-207-208.png",
+          "note": ""
+        }
+      ],
+      "confirmedOmissions": [
+        {
+          "issue": "The postscript opens with the explicit interpretation instruction: 'There is no subterfuge... no double meanings, no misdirection, no innuendo, no subtext, no clues, no code - take what I say here as literally as you possibly can.' The composite's 'Safety Guidelines' section omits this crucial literal-reading directive entirely.",
+          "correctText": "Page 207, opening of the postscript (verified verbatim): 'There is no subterfuge in what I am going to say to you now. No double meanings. No misdirection. No innuendos. There is no subtext. No clues. No code. You should take what I say here as literally as you possibly can.' The composite's Safety Guidelines section omits this directive, which is the explicit instruction governing how to read the postscript's rules.",
+          "page": 207,
+          "screenshot": "page-207-208.png"
+        },
+        {
+          "issue": "The postscript confirms FIVE treasure boxes total and that NO box is hidden under water (no raft/canoe needed, not near swift current). The composite's safety section omits the explicit five-box count and the water/no-vessel rule.",
+          "correctText": "Page 207 (verified): 'I have hidden none of our five treasure boxes in a dangerous place... No box is hidden under any body of water. You do not need to get into a raft, or canoe, or a water vessel of any kind to come to or find any of our treasure boxes. No box is precariously close to a swift current or a high or dangerous ledge. And you will not need to scale a cliff or rock face to find a box.' Page 208 also restates 'five treasure boxes.' The composite's safety bullet list omits the explicit FIVE-box count and the water / no-vessel / no-swift-current / no-ledge / no-cliff rules.",
+          "page": 207,
+          "screenshot": "page-207-208.png"
+        }
+      ],
+      "spotFailures": [
+        {
+          "claim": "Back cover = red circle with crossed hammer and pickaxe on black background.",
+          "correctText": "Right page of 211 shows a red distressed circular stamp on black with a crossed PICKAXE and SHOVEL/SPADE - the lower-left tool has a clear D-handle grip and a rounded spade blade (a shovel), not a hammer. Correct: 'red circle stamp with crossed pickaxe and shovel on black background.'",
+          "page": 211,
+          "screenshot": "page-211-back.png"
+        }
+      ],
+      "textContradictions": [
+        {
+          "issue": "Source mapping: page-203-204.json + page-203-204.md is the 'postscript'.",
+          "correction": "Pages 203-204 are NOT the postscript; they are 'Some More of Our Treasure Items (continued)' (Costa Rica jade necklace, della Valle necklace, Viking gold ring). The postscript is on pages 207-208.",
+          "evidence": "page-203-204.json title: 'Some More of Our Treasure Items (continued)'. page-207-208.json title: 'Postscript'.",
+          "pages": [203, 204, 207, 208]
+        },
+        {
+          "issue": "Source mapping: page-207-208.json + page-207-208.md is the 'author bio'.",
+          "correction": "Pages 207-208 are the POSTSCRIPT (safety rules), not an author bio. There is no author-bio page within 199-211; the composite's own 'Postscript: Safety Guidelines' content actually derives from 207-208, so the mapping label is internally inconsistent.",
+          "evidence": "page-207-208.json title 'Postscript' with safety_rules, hunting_safety, people_interactions, final_message; no biography.",
+          "pages": [207, 208]
+        }
+      ],
+      "dismissed": 1
+    }
+  ]
+}

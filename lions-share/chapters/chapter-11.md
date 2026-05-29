@@ -9,9 +9,9 @@
 
 | Item | Description | Value |
 |------|-------------|-------|
-| La Luz gold bar | 22+ ounces, XXVI marking, considered most beautiful of recovered bars | $50,000+ |
+| La Luz gold bar | 23+ troy ounces, stamped "1759"/"XX" (20) and "XXXVI" (36), round knob added to increase mass, considered most beautiful of recovered bars | Over $90,000 |
 | La Luz gold disk | 22+ troy ounces, .975 purity (23.4 carats), XIV marking, purest from La Luz | Not specified |
-| Eight escudo gold coin | 1750, Lima mint, MS 63 rating, only 15 such coins ever officially rated | ~$25,000+ |
+| Eight escudo gold coin | 1750, Lima mint, MS 63 rating, only 15 such coins from 1750 ever officially rated (a higher MS 64 non-shipwreck coin recently sold for over $25,000) | Not specified |
 
 **Three items from La Luz shipwreck confirmed in treasure.**
 
@@ -45,7 +45,7 @@ The moral: greed sank the La Luz - the captain's avarice led to an overloaded sh
 | Rio de la Plata | One of deadliest shipwreck graveyards | Low (South America) |
 | Buenos Aires | Fonseca ported 3 years | Low (South America) |
 | Lima, Peru | Eight escudo coin mint | Low (South America) |
-| Santiago, Chile | Machine minted escudos source | Low (South America) |
+| Santiago | Machine minted escudos source | Low (South America) |
 | Portugal | La Luz origin | Low (Europe) |
 | Spain | La Luz destination | Low (Europe) |
 
@@ -75,6 +75,7 @@ The moral: greed sank the La Luz - the captain's avarice led to an overloaded sh
 | Cargo recovered | Over 90% by Fonseca |
 | Rediscovery | 1993 by Ruben Corella |
 | Commemorative sets | 245 limited edition boxed sets (~$10,000 today) |
+| Eight escudo NGC slab (p.108) | "1750L R PERU 8E" / "MS 63" / Fernandina Collection / "(27.00g) La Luz" / cert "5965184-003" / "SHIPWRECK CERTIFICATION" |
 
 ---
 
@@ -86,7 +87,7 @@ The moral: greed sank the La Luz - the captain's avarice led to an overloaded sh
 | **"Postscript is a must read"** | Contains hunting best practices | READ THE POSTSCRIPT |
 | "Lady of the Light" | Ship name | Light/illumination theme |
 | "Greed is a seductress" | Chapter moral | Warning for hunters |
-| Roman numerals XXVI (26), XIV (14) | On gold bar and disk | Possible number significance |
+| Roman numerals XXXVI (36)/XX (20)/1759 on gold bar, XIV (14) on gold disk | Stamped on bar and disk | Possible number significance |
 
 ---
 
@@ -103,7 +104,7 @@ The moral: greed sank the La Luz - the captain's avarice led to an overloaded sh
 ## Research Questions
 
 1. What specific safety guidelines are in the postscript?
-2. Do Roman numerals XXVI and XIV have significance?
+2. Do Roman numerals XXXVI (bar) and XIV (disk) have significance?
 3. Does "Lady of the Light" connect to other light/illumination references?
 4. Does July 2 date have any relevance?
 

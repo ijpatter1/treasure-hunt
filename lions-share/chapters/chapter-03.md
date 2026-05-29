@@ -9,10 +9,9 @@
 
 | Item | Description | Provenance |
 |------|-------------|------------|
-| Japanese puzzle box | Traditional Himitsu-Bako, wood-inlay | Hakone, Japan |
-| Gold & jade magnifying glass | ~1900, valued $25,000+ | Michael Perkhin (Faberge) |
+| Gold & jade magnifying glass | ~1890, valued $23,000+ | Michael Perkhin (Faberge) |
 
-**NOT in treasure:** Third Imperial Faberge Egg (story illustrates importance of details)
+**NOT in treasure:** Japanese puzzle box (Traditional Himitsu-Bako, wood-inlay, Hakone, Japan) — p.38 caption reads "(not in our treasure)"; illustrative example only. Also NOT in treasure: Third Imperial Faberge Egg (story illustrates importance of details).
 
 ---
 
