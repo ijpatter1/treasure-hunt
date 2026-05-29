@@ -1,0 +1,43 @@
+## front-intro — signals
+
+| source | signal (verbatim) | literal reading | type | region implied | ambiguous | strength |
+|--------|-------------------|-----------------|------|-----------------|-----------|----------|
+| Copyright p.1 | PRINTED IN CHINA | The physical book was printed in China. | item-provenance | none-yet | no | weak |
+| Copyright p.1 | SOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS. | Photo image source is The Arkenstone, a mineral dealer in Dallas, Texas. | item-provenance | Dallas, Texas | no | weak |
+| Copyright p.1 | DISTRIBUTED BY BAKER & TAYLOR | Distributor is Baker & Taylor (business reference, not a hide locale). | other | none-yet | no | weak |
+| Dedication p.2 | DEDICATED TO KIMBERLY, AIDEN & LONDYN | Family names; biographical, not a location directive. | biography | none-yet | no | weak |
+| Dedication p.2 | Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness. (Saint Augustine) | Epigraph equating pleasure/treasure/heart/happiness; thematic, no place. | other | none-yet | no | weak |
+| TOC p.3 | CHAPTER 4: The 96 Carat Chivor Emerald | Item named for the Chivor emerald mine (Colombia) — item provenance reference. | item-provenance | none-yet (Colombia, foreign) | no | weak |
+| TOC p.3 | CHAPTER 7: Amelia's Autograph | Amelia (Earhart) item; biographical-geography placeholder. | biography | none-yet | no | weak |
+| TOC p.3 | CHAPTER 12: Massive Gold Rush Nugget | Gold-rush nugget item; implies a gold-rush region provenance to research. | item-provenance | none-yet (US gold-rush region) | no | weak |
+| TOC p.4 | CHAPTER 15: 1960 Rome Olympic Gold Medal | Olympic medal item tied to Rome 1960 (Part Two/smaller-box context; down-weight). | item-provenance | none-yet (Rome, foreign) | no | weak |
+| TOC p.4 | CHAPTER 16: 1996 Atlanta Olympic Gold Medal | Olympic medal item tied to Atlanta 1996. | item-provenance | Atlanta, Georgia | no | weak |
+| TOC p.4 | CHAPTER 21: Antiquities of Alexander | Items tied to Alexander the Great; biographical/provenance, foreign origin. | item-provenance | none-yet (Mediterranean/Asia, foreign) | no | weak |
+| Intro p.9 | I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS. | The treasure is hidden somewhere within the United States. | placename | United States | no | strong |
+| Intro p.9 | Picasso, Carnegie, Washington, Tiffany, Thoreau, and Onassis are some of the names of those who have either created or owned items in our treasure. | Six named persons whose item-histories carry clues; provenance research targets. | item-provenance | none-yet | no | moderate |
+| Intro p.9 image (p.8) | Custom treasure box (closed) - rectangular chest with light tan/beige metal panels (brass or aged metal) set in a dark gunmetal/iron frame, dark reinforced corner brackets... dark metal feet/legs at the bottom | The hide object is a forged metal box with feet; describes the physical container, a hide-pattern cue. | hide-pattern | none-yet | no | weak |
+| Intro p.10 | I secreted away these boxes in five different locations within the United States. | Five separate hide locations, all within the US. | placename | United States | no | moderate |
+| Intro p.10 | I spread out their final resting spots in hopes that at least one of our boxes would lie in close proximity to you. | Boxes geographically spread across the US so one is near most people; distribution cue. | descriptive-geography | United States | no | weak |
+| Intro p.10 | Four of these treasure boxes were forged in a similar size. | Boxes were forged (metalwork) at similar size; provenance/hide-pattern cue (forging locale to research). | hide-pattern | none-yet | no | weak |
+| Intro p.10 | The fifth and final box is substantially larger than the other four boxes | The Lion's Share container is notably larger; affects size/concealment of the hide. | hide-pattern | none-yet | no | moderate |
+| Intro p.10 | the clues and hints that will lead you to its hiding place may be found anywhere inside this book... there may be helpful information found here in this introduction. | Lion's-Share clues distributed across the whole book including this intro; capture-broadly directive. | other | none-yet | no | moderate |
+| Intro p.10 | almost every chapter in Part One of this book offers at least one important detail to help guide you to the location of the larger box. | Each Part One chapter holds at least one locating detail for the Lion's Share. | other | none-yet | no | moderate |
+| Intro p.11 | like the proverbial moth to the fiery flame, I am drawn to joy. | Fire/flame imagery (thematic only); no place. | other | none-yet | no | weak |
+| Intro p.11 | wear as easily as a warm, cozy mitten on a cold winter's day | Cold-winter imagery (simile, thematic); could hint a cold/snowy setting but very weak/literary. | terrain-vista | none-yet | no | weak |
+| Intro p.11 | Joy existed somewhere on the other side of a dense wall... I could hear joy beckon to me from time to time but always distant and muffled. | Metaphorical "dense wall"; thematic, no literal terrain. | other | none-yet | no | weak |
+| Intro p.11 | This entire project has taken me the better part of the last five years | Five-year project timeline; biographical, no location. | biography | none-yet | no | weak |
+| Intro p.11 | an idea riding like a wild cowboy upon a lightning bolt of inspiration | Cowboy/lightning imagery (simile, thematic); no literal place. | other | none-yet | no | weak |
+| Intro p.11 | As our blue and green planet revolves around its molten sun, life on earth sketches out... one huge treasure map across its surface. | Earth-as-treasure-map metaphor; thematic, no literal place. | other | none-yet | no | weak |
+| Intro p.12 | The conquests of Alexander the Great shaped culture in parts of Europe and Asia for over a thousand years. | Alexander reference (Ch21 item context); foreign geography, biographical. | biography | none-yet (Europe/Asia, foreign) | no | weak |
+| Intro p.12 | the Spanish quest for riches created a great transformation in the Americas | Spanish-conquest-of-the-Americas reference; thematic historical, broad. | descriptive-geography | none-yet (the Americas) | no | weak |
+| Intro p.12 | From the American Revolution to the women's suffrage movement to the civil rights movement | US historical movements named; thematic, no specific locale. | other | United States | no | weak |
+| Intro p.12 | I was a full-time dad taking care of two toddlers at home during Covid while writing children's book manuscripts. | Author biography (at home during Covid); not a location directive. | biography | none-yet | no | weak |
+| Intro p.13 | Studying the history surrounding each piece was like panning for gold. My researchers and I... waded out into a stream of time. Time, like water, turned over tens of thousands of pages... left us with beautiful nuggets of wisdom. | Gold-panning / stream / water metaphor; thematic, but flags water+gold motif worth tracking. | terrain-vista | none-yet | no | weak |
+| Intro p.13 | some of the clues to finding the largest treasure box are found within the histories of treasure items themselves | Item-histories explicitly contain Lion's-Share locating clues; research-provenance directive. | item-provenance | none-yet | no | moderate |
+| Intro p.13 | I enlisted the aid of five researchers. | Five researchers; biographical, no location. | biography | none-yet | no | weak |
+| Intro p.14 | Yours in the hunt, JON COLLINS-BLACK | Author signature; biographical. | biography | none-yet | no | weak |
+| Intro p.14 sidebar | This is a picture of some of our treasure. | Caption stating the facing photo shows SOME (not all) treasure; inventory cue. | item-provenance | none-yet | no | weak |
+| Intro p.15 image | green Olympic ribbon/badge embroidered 'Atlanta 1996' | Visible Atlanta 1996 Olympic item in treasure photo (Ch16 provenance). | item-provenance | Atlanta, Georgia | no | weak |
+| Intro p.15 image | a meteorite labeled 'ROCK - NWA 12691' | Meteorite item labeled NWA 12691 (Northwest Africa classification); item provenance (Ch19), foreign origin. | item-provenance | none-yet (Northwest Africa, foreign) | no | weak |
+| Intro p.15 image | large gold nugget | Large gold nugget visible in treasure photo (Ch12 provenance); gold-rush origin to research. | item-provenance | none-yet (US gold-rush region) | no | weak |
+| Intro p.15 image | Gold treasure chest/box (main container) | The larger gold-toned chest shown is the Lion's-Share-style container; hide-pattern/size cue. | hide-pattern | none-yet | no | weak |
