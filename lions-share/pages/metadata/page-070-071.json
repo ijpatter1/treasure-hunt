@@ -14,9 +14,9 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Black and white photograph of Amelia Earhart standing next to/on her airplane, wearing flight jacket",
+      "description": "Black and white photograph of Amelia Earhart perched/sitting on the fuselage of an airplane, wearing a flight suit/coveralls, looking back over her shoulder toward the camera",
       "text_in_image": null,
-      "potential_clues": ["Signed photograph of Amelia Earhart - treasure item"]
+      "potential_clues": ["Signed photograph of Amelia Earhart - treasure item (the actual signed treasure photo is referenced by the opposite-page caption; no visible signature in this reproduction)"]
     }]
   },
 
@@ -24,18 +24,18 @@
     "page_number": 71,
     "content_type": "text",
     "transcription": {
-      "raw_text": "CHAPTER 7\n\nAMELIA'S AUTOGRAPH\n\nExplore More\n\n\"Exploration is really the essence of the human spirit.\" —FRANK BORMAN\n\n\"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.\" —ERNO RUBIK\n\nBeing a dad of two young children means I'm constantly learning and ever surprised. One of the things I admire most about my two kids is their unadulterated, uninhibited, unbridled enthusiasm for everything, everywhere, all the time. Every ladybug, every flower, every ball, every new book or learning activity, each one is all that is required to elicit squeals of passion and joy. Of course, their exuberance sometimes makes the experience of trying to get my kids to focus on a specific task the equivalent of herding a hundred hamsters. My parents are smiling right now. I was a similar child.\n\nThere are some adults, perhaps you are one of them, that have never lost their sense of curiosity or desire to seek out new horizons. These people tend to be a lot of fun to be around. They are engaged. They light up a room. They have stories to share and dreams to pursue.\n\nAmelia Earhart was one of these people. In the annals of emprise and exploration, Amelia Earhart stands above most. She was the consummate treasure hunter. She constantly sought out her next purpose, her next exploit, her next challenge.\n\nEarhart's thirst for adventure started young. As a child, she prowled outdoors, climbing trees, sliding in sleds, saddling horses, and hunting. At age",
+      "raw_text": "CHAPTER 7\n\nAMELIA'S AUTOGRAPH\n\nExplore More\n\n\"Exploration is really the essence of the human spirit.\" —FRANK BORMAN\n\n\"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.\" —ERNO RUBIK\n\nBeing a dad of two young children means I'm constantly learning and ever surprised. One of the things I admire most about my two kids is their unadulterated, unabashed, unabated enthusiasm for everything, everywhere, all the time. Every ladybug, every flower, every ball, every new book or learning activity, each one is all that is required to elicit squeals of passion and joy. Of course, their exuberance sometimes makes the experience of trying to get my kids to focus on a specific task the equivalent of herding a hundred hamsters. My parents are smiling right now. I was a similar child.\n\nThere are some adults, perhaps you are one of them, that have never lost their sense of curiosity or desire to seek out new horizons. These people tend to be a lot of fun to be around. They are engaged. They light up a room. They have stories to share and dreams to pursue.\n\nAmelia Earhart was one of these people. In the annals of emprise and exploration, Amelia Earhart stands above most. She was the consummate treasure hunter. She constantly sought out her next purpose, her next exploit, her next challenge.\n\nEarhart's thirst for adventure started young. As a child, she prowled outdoors, climbing trees, sliding in sleds, saddling horses, and hunting. At age",
       "formatted_sections": [
         {"type": "chapter_header", "text": "AMELIA'S AUTOGRAPH"},
-        {"type": "handwritten_subtitle", "text": "Explore More", "style": "red_handwritten"},
+        {"type": "handwritten_subtitle", "text": "Explore More", "style": "gray_black_handwritten"},
         {"type": "quote", "text": "Exploration is really the essence of the human spirit.", "attribution": "Frank Borman"},
         {"type": "quote", "text": "If you are curious, you'll find the puzzles around you. If you are determined, you will solve them.", "attribution": "Erno Rubik"},
         {"type": "body", "text": "Amelia Earhart was one of these people...She was the consummate treasure hunter."}
       ]
     },
-    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Explore More", "style": "red_handwritten"}]},
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Explore More", "style": "gray_black_handwritten"}]},
     "images": [],
-    "sidebar": {"text": "This is a signed photograph of Amelia Earhart now in our treasure", "style": "red_italic"}
+    "sidebar": {"text": "(Opposite page) This is a signed photograph of Amelia Earhart now in our treasure.", "style": "brown_sepia_bold, 'Opposite page' in italics"}
   },
 
   "key_elements": {
@@ -48,5 +48,5 @@
     "author_family": "Two young children"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Chapter title, quotes (Borman, Rubik), and sidebar confirming signed Amelia Earhart photograph all accurate."
+  "verification_notes": "VERIFIED against high-res screenshot crops. Chapter header 'CHAPTER 7 / AMELIA'S AUTOGRAPH', handwritten subtitle 'Explore More', and both quotes (Frank Borman; Erno Rubik) confirmed verbatim. Body text on right page (p71) confirmed verbatim. Sidebar caption corrected: full printed text is '(Opposite page) This is a signed photograph of Amelia Earhart now in our treasure.' (caption reads 'now in our treasure'; previously the '(Opposite page)' prefix and trailing period were missing). Sidebar style is brown/sepia bold with '(Opposite page)' in italics (not red italic). Left-page photo description corrected: Earhart is perched/sitting on the airplane fuselage in coveralls, looking back over her shoulder (not standing in a flight jacket); no signature is visible in this reproduction."
 }

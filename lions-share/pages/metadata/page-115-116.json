@@ -18,22 +18,22 @@
       "text_in_image": "1986 FLEER #57\nMICHAEL JORDAN\nMINT\nPSA 9 26670045",
       "potential_clues": ["Michael Jordan rookie card treasure item"]
     }],
-    "sidebar": {"text": "Michael Jordan 1986 Fleer Rookie Card PSA 9 with a MINT 9 Designated Grade", "style": "red_italic"}
+    "sidebar": {"text": "Michael Jordan 1986 Fleer Rookie Card PSA 9 with a PWCC-S (Superior) Grade", "style": "brown_gold_serif"}
   },
 
   "right_page": {
     "page_number": 116,
     "content_type": "text",
     "transcription": {
-      "raw_text": "CHAPTER 13\n\nTHE BEST OF ITS CLASS JORDAN ROOKIE CARD\n\nBe Like Mike\n\n\"He who keeps his cool best wins.\"\n—NORMAN COUSINS\n\n\"Just play. Have fun. Enjoy the game.\"\n—MICHAEL JORDAN\n\nWhether or not you are familiar with the expression \"Be Like Mike\" probably has to do with what age you are. If you were alive to watch television commercials in the early 1990s, there's a good chance the catch phrase \"Be Like Mike\" exists somewhere in your brain, between \"Got Milk?\" and \"Once You Pop You Can't Stop.\" If you're still wondering what the heck I'm even talking about, \"Be Like Mike\" was the slogan of a series of Gatorade commercials in the early 1990s, featuring Michael Jordan, the greatest basketball player to ever play the game.\n\nAt the time these commercials aired, Michael Jordan was nearing the pinnacle of his historic basketball career. He was already the most famous basketball player in the world and well on his way to becoming the greatest player ever. He was the basketball 007—never stirred, never shaken. Jordan was at his best under the brightest lights. He won every championship he ever played in.",
+      "raw_text": "CHAPTER 13\n\nTHE BEST OF ITS CLASS JORDAN ROOKIE CARD\n\nBe Like Mike\n\n\"He who keeps his cool best wins.\"\n—NORMAN COUSINS\n\n\"Just play. Have fun. Enjoy the game.\"\n—MICHAEL JORDAN\n\nWhether or not you are familiar with the expression \"Be Like Mike\" probably has to do with what age you are. If you were alive to watch television commercials in the early 1990's, there's a good chance the catch phrase \"Be Like Mike\" exists somewhere in your brain, between \"Got Milk?\" and \"Once You Pop You Can't Stop.\" If you're still wondering what the heck I'm even talking about, \"Be Like Mike\" was the slogan of a series of Gatorade commercials in the early 1990s, featuring Michael Jordan, the greatest basketball player to ever play the game.\n\nAt the time these commercials aired, Michael Jordan was nearing the pinnacle of his historic basketball career. He was already the most famous basketball player in the world and well on his way to becoming the greatest player ever. He was the basketball 007—never stirred, never shaken. Jordan was at his best under the brightest lights. He won every championship he ever played in.",
       "formatted_sections": [
         {"type": "chapter_header", "text": "THE BEST OF ITS CLASS JORDAN ROOKIE CARD"},
-        {"type": "handwritten_subtitle", "text": "Be Like Mike", "style": "red_handwritten"},
+        {"type": "handwritten_subtitle", "text": "Be Like Mike", "style": "black_handwritten"},
         {"type": "quote", "text": "He who keeps his cool best wins.", "attribution": "Norman Cousins"},
         {"type": "quote", "text": "Just play. Have fun. Enjoy the game.", "attribution": "Michael Jordan"}
       ]
     },
-    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Be Like Mike", "style": "red_handwritten"}]},
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Be Like Mike", "style": "black_handwritten"}]},
     "images": []
   },
 
@@ -42,7 +42,8 @@
       "item": "1986 Fleer Michael Jordan Rookie Card",
       "grade": "PSA 9 MINT",
       "card_number": "#57",
-      "serial": "26670045"
+      "serial": "26670045",
+      "sidebar_grade_note": "PWCC-S (Superior) Grade"
     },
     "quotes": [
       {"text": "He who keeps his cool best wins.", "author": "Norman Cousins"},
@@ -54,5 +55,5 @@
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. CORRECTED sidebar from 'Upgraded Grades' to 'Designated Grade'. Card details (1986 Fleer #57, PSA 9 MINT, serial 26670045), both quotes (Norman Cousins, Michael Jordan), 'Be Like Mike' subtitle all accurate."
+  "verification_notes": "VERIFIED against screenshot page-115-116.png. Sidebar caption verbatim 'Michael Jordan 1986 Fleer Rookie Card PSA 9 with a PWCC-S (Superior) Grade'. Body text: first occurrence is printed 'early 1990's' (with apostrophe) and the second is 'early 1990s' (no apostrophe) — this inconsistency in the printed book is preserved verbatim. Card label reads '1986 FLEER #57 / MICHAEL JORDAN / MINT 9 / PSA 26670045' (the '9' grade is on its own line under 'MINT'; serial 26670045 is to the right of the 'PSA' logo box). COLOR/STYLE CORRECTIONS: the right-edge sidebar caption is brown/gold upright serif (sampled RGB ~138,116,84), NOT red italic as previously labeled; the handwritten 'Be Like Mike' subtitle is black/dark gray (sampled RGB ~82,82,82), NOT red — only the decorative dotted divider lines around the quotes are red (RGB ~194,109,101). CORRECTED prior false claim: there is NO thumbnail of the Jordan card at bottom-right; the bottom-right corner shows a partial tablet/e-reader displaying the opening page of the next chapter (Ch. 14, gold-rush text), with the page number '116' printed at lower-left. Both quotes (Norman Cousins; Michael Jordan, with 'Enjoy the game.' bolded in print) and 'basketball 007' description are accurate."
 }

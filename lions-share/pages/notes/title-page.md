@@ -16,8 +16,8 @@ The title page features a collage of treasure-related imagery:
 ### Treasure Items Shown
 - Gold nugget/rough gold
 - Green emerald/mineral
-- Bitcoin coin (modern element)
-- Multiple treasure boxes (gold, dark wood, etc.)
+- Physical silver Bitcoin coin, "999 FINE SILVER" / "2013" (modern element)
+- A single ornate engraved gold treasure box (bottom-right)
 
 ### People/Action
 - Silhouettes of hikers/explorers in misty/mountainous setting
@@ -34,7 +34,7 @@ The title page features a collage of treasure-related imagery:
 |---------|-------------|--------------|
 | Compass | Prominent placement | Navigation/direction important |
 | Hiker silhouettes | Misty outdoor setting | Treasure requires hiking |
-| Multiple boxes | Different materials shown | 5 boxes confirmed |
+| Treasure box | Single ornate gold box shown | Treasure imagery |
 | Map fragments | Topographic lines | Terrain-based location |
 
 ## Visual Style
@@ -49,4 +49,4 @@ The title page features a collage of treasure-related imagery:
 - "Courage" text on document - track if this word appears significantly elsewhere
 
 ---
-**Verification Status**: VERIFIED against screenshot. Added detail about "Courage" text visible on red document.
+**Verification Status**: VERIFIED against screenshot. Red-document text confirmed as Amelia Earhart's poem "Courage" (faint italic; mostly illegible). Bottom-right is a single ornate gold box (not multiple boxes / not "5 boxes"). Top-center coin is a physical silver Bitcoin coin ("999 FINE SILVER", "2013").

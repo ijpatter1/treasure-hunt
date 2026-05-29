@@ -45,12 +45,12 @@
 ## Back Cover
 
 ### Logo
-- **Red circle** containing **crossed hammer and pickaxe**
+- **Red distressed/stamp-style circle** containing a **crossed shovel and pickaxe**
 - Mining/treasure hunting tools symbolism
 - Black background
 
 ### Potential Significance
-- Hammer and pickaxe = traditional prospecting/mining tools
+- Shovel and pickaxe = traditional prospecting/mining/digging tools
 - Crossed tools = treasure hunt branding
 - Same logo likely appears elsewhere in book/branding
 
@@ -62,7 +62,7 @@
 |--------|----------|------------|
 | "how much ground one searcher can cover in a single day" | Treasure locations may be searchable in a day trip | MEDIUM |
 | "glowing faces lit a path" | Poetic - could reference actual paths/trails | LOW |
-| Hammer and pickaxe logo | Mining/prospecting theme | LOW |
+| Shovel and pickaxe logo | Mining/prospecting theme | LOW |
 
 ---
 
@@ -74,4 +74,4 @@
 
 ---
 
-**Verification Status**: VERIFIED against screenshot. Page 211: All acknowledgements transcribed accurately - Richard (designer), Baker & Taylor team (Jeff, Mark, Matt), Mom and Dad (proofreading), Zach, LeElaine and Kimberly D. (ground coverage), Aiden and Londyn (children), Kimberly (wife, final heartfelt thanks). Back cover: Red circle with crossed hammer and pickaxe logo on black background. All accurate.
+**Verification Status**: VERIFIED against screenshot. Page 211: All acknowledgements transcribed accurately - Richard (designer), Baker & Taylor team (Jeff, Mark, Matt), Mom and Dad (proofreading), Zach, LeElaine and Kimberly D. (ground coverage), Aiden and Londyn (children), Kimberly (wife, final heartfelt thanks). Back cover: Red distressed/stamp-style circle with a crossed shovel and pickaxe logo on black background. (Tool on left is a shovel, not a hammer.) All text accurate.

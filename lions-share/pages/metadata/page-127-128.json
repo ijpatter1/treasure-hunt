@@ -22,16 +22,16 @@
 
   "right_page": {
     "page_number": 128,
-    "content_type": "mixed",
+    "content_type": "image",
     "transcription": {
-      "raw_text": "(continues Thoreau fire story and transition to journal pages)",
+      "raw_text": "",
       "formatted_sections": []
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Atmospheric illustration of forest fire with dark trees and smoke",
+      "description": "Full-page atmospheric ink-wash illustration of a forest of dark, barren/burned trees with smoke and ash rising upward against a pale background; bare branches and a faint receding tree line behind. Evokes the aftermath of Thoreau's forest fire.",
       "text_in_image": null,
-      "potential_clues": ["Thoreau's Concord fire"]
+      "potential_clues": ["Thoreau's Concord forest fire"]
     }]
   },
 
@@ -56,5 +56,5 @@
     "geographic_references": ["Concord, Massachusetts", "Walden Pond", "Fairhaven Bay"]
   },
 
-  "verification_notes": "VERIFIED against screenshot. CRITICAL nature clue ('colors of nature surround each box', 'similar flowers along your way'), author childhood (20 acres at age 3, father's log home), Emerson/Thoreau favorites, April 30 1844 Fairhaven Bay fire, forest fire illustration all accurate."
+  "verification_notes": "VERIFIED against screenshot. Left page (127) raw_text is verbatim, including the book's own grammar 'an influential part my life' (printed without 'of'; transcribed as printed). CRITICAL nature clue ('colors of nature surround each box', 'similar flowers along your way'), author childhood (20 acres at age 3, father's log home over ~10 years), Emerson/Thoreau favorites, April 30 1844 Fairhaven Bay fire all accurate. CORRECTION: right page (128) is a FULL-PAGE illustration with NO body text (previously mislabeled content_type 'mixed' with placeholder raw_text '(continues Thoreau fire story and transition to journal pages)'); set content_type 'image' and raw_text empty. Page numbers 127 and 128 confirmed."
 }

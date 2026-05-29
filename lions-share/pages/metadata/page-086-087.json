@@ -14,7 +14,7 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Gold Chavin drinking vessel/chalice with decorative hammered patterns, from 400-1000 BC Peru",
+      "description": "Gold Chavin drinking vessel/chalice with decorative hammered patterns, from 600-1000 BC Peru",
       "text_in_image": null,
       "potential_clues": ["Golden Chavin chalice - treasure item"]
     }]
@@ -35,7 +35,7 @@
     },
     "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Confirmation Bias", "style": "red_handwritten"}]},
     "images": [],
-    "sidebar": {"text": "Here is a gold vessel from the Chavin culture made between 400 and 1000 BC. This chalice is in our treasure.", "style": "red_italic"}
+    "sidebar": {"text": "(Opposite page)\nHere is a gold vessel from the Chavin culture made between 600 and 1000 BC. This chalice is in our treasure.", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -46,7 +46,7 @@
     "treasure_item": {
       "item": "Gold Chavin drinking vessel/chalice",
       "origin": "Chavin culture, Peru",
-      "date_range": "400-1000 BC"
+      "date_range": "600-1000 BC"
     },
     "confirmation_bias_warning": "Should be avoided at any cost for treasure seekers",
     "geographic_references": [
@@ -55,5 +55,5 @@
     ]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Sidebar confirms Chavin chalice (400-1000 BC) in treasure. Quotes (Broca, Ockham), confirmation bias warning all accurate."
+  "verification_notes": "VERIFIED against screenshot. Sidebar reads '(Opposite page) Here is a gold vessel from the Chavin culture made between 600 and 1000 BC. This chalice is in our treasure.' Earlier transcription erroneously said '400 and 1000 BC' and omitted the '(Opposite page)' label; both corrected. Quotes (Broca, Ockham), confirmation bias warning, and Chavin de Huantar (16th century, 10,000+ ft) all accurate."
 }

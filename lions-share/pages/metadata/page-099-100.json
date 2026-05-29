@@ -58,5 +58,5 @@
     "geographic_references": ["New York City", "Grand Central Station"]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Jackie's later life (Aristotle, Viking Press, Doubleday 16 years, Grand Central Station fight, White House Historical Association), treasure hunt advice (joy not suffering, outdoor nature), Captain Fonseca preview all accurate."
+  "verification_notes": "VERIFIED verbatim against the page image. Jackie's later life (Aristotle, Viking Press, Doubleday sixteen years, Grand Central Station fight, White House Historical Association), treasure hunt advice (joy not suffering, outdoor nature), and the Captain Fonseca/greed preview all match the printed text exactly. BOOK ERROR (transcribed as printed): the book prints 'Grand Central Station'; the actual landmark Jackie helped save is named 'Grand Central Terminal'. Running heads on the page ('JON COLLINS-BLACK' on p.99, 'THERE'S TREASURE INSIDE' on p.100) are excluded from raw_text per this layer's convention."
 }

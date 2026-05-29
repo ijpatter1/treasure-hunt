@@ -7,7 +7,22 @@
 
   "left_page": {
     "page_number": 147,
-    "content_type": "mixed",
+    "content_type": "image",
+    "transcription": {
+      "raw_text": "",
+      "formatted_sections": []
+    },
+    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "images": [{
+      "description": "Photograph of the 1996 Atlanta Olympic memorabilia: a gold medal hanging from a dark green ribbon, laid over a color team photo of the Nigerian men's soccer team in green-and-white kits posing on the medal podium with bouquets. The green ribbon is embroidered in gold with 'Atlanta 1996' and an Olympic torch/flame logo. The gold medal face is engraved with 'XXVI OLYMPIAD' and 'ATLANTA 1996' around a winged Victory figure. A framed display case (with the medal's mounting / glass) is visible below the photo at the bottom of the page.",
+      "text_in_image": "Atlanta 1996; XXVI OLYMPIAD ATLANTA 1996 (engraved on medal)",
+      "potential_clues": ["Nigerian team won 1996 Atlanta Olympic soccer gold", "first African team to win Olympic soccer gold"]
+    }]
+  },
+
+  "right_page": {
+    "page_number": 148,
+    "content_type": "text",
     "transcription": {
       "raw_text": "stuck it into the back of the net. Ten minutes later, Brazil scored a third goal. As the halftime whistle blew, Nigeria found themselves down 3-1 to the best team in the world.\n\nYet there was no cowering or sulking in the Nigerian locker room during the break. No fist was slammed. No bench was kicked. No head was hung in defeat. Instead, the Nigerian teammates displayed genuine gratitude for each other. They talked about their journey together. They reminded each other of all the obstacles they had overcome just to be sitting in that room that day. They recalled the solutions they had managed to find and echoed a belief that a chance might still exist to win this game. Then they said a short prayer and walked back onto the field.\n\nThe Nigerians began the second half with aplomb. But despite their great effort, the Brazilian team was just too talented. Brazil matched Nigeria's best efforts, stride for stride. Thirty more minutes came and went without another score. Then, with only fifteen minutes remaining, an odd thing occurred. Perhaps feeling confident that the match was all but won and wanting to get some rest before the final gold medal game, Ronaldo requested to leave the match. A substitute was brought in to replace him. A minute later, Ronaldo's substitute turned the ball over in the midfield. Nigeria took the ball and, with two swift passes and a brilliant strike, broke the stalemate with their second goal. The score was suddenly 3-2. A stunned crowd now realized that Nigeria still had a slight miracle of a chance.\n\nThe play on the field became a blur. Nigerian players raced around the field attacking Brazil's defense. Brazil defended magnificently. Minute by minute, the game time ticked away. Then with less than sixty seconds left to play, Brazil kicked the ball out of bounds deep on their side of the field. Nigeria threw the ball in towards the center of the goal. A Nigerian player found the ball and passed it to Kanu Nwankwo, Nigeria's best goal scorer, who stood right in front of the Brazilian goalkeeper. Blocking the keeper from the ball, in a single motion, Kanu lifted the ball gently in the air, then whipped his leg around to drive the ball into the net. As game time expired, Nigeria had achieved a task that had seemed impossible, scoring two goals in the final fifteen minutes to tie Brazil.\n\nAs overtime began, a hum of anticipation filled the stadium. Momentum was squarely on the side of Nigeria. Just four minutes into overtime, Nigeria sailed a long kick deep into Brazil's side of the field. This time, the ball serendipitously bounced off the back of a Nigerian player and fell onto the ground at the feet of Kanu. Kanu took two dribbles and shot the ball into the back of the net, past a diving goalkeeper. With that kick, Nigeria had accomplished the unimaginable. They had defeated Brazil.\n\nOnly days before, disagreements had broken out between Nigerian players. Their head coach had tried to quit. Their national team had felt divided. But now, the Nigerians were on the precipice of the gold medal match. An African soccer team had never won an Olympic gold medal. The evening after defeating Brazil, a funny thing happened. The Nigerian team began receiving messages of encouragement and support from the heads of state of",
       "formatted_sections": [
@@ -17,21 +32,6 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": []
-  },
-
-  "right_page": {
-    "page_number": 148,
-    "content_type": "mixed",
-    "transcription": {
-      "raw_text": "",
-      "formatted_sections": []
-    },
-    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
-    "images": [{
-      "description": "Nigerian soccer team photo with 1996 Atlanta Olympic gold medal and green ribbon",
-      "text_in_image": "Atlanta 1996",
-      "potential_clues": ["Nigerian team Olympic gold"]
-    }]
   },
 
   "key_elements": {
@@ -46,5 +46,5 @@
     "historical_significance": "No African soccer team had ever won Olympic gold"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Brazil semifinal (halftime 3-1, locker room gratitude/prayer, Ronaldo subbed 15 min left, substitute turnover, Kanu Nwankwo tied 3-3 under 60 sec, overtime 4 min Kanu winner), no African team had won Olympic gold, heads of state messages, team photo with medal/ribbon all accurate."
+  "verification_notes": "Re-verified against page image. CORRECTION: the prior version had the pages swapped. Per the printed page numbers, page 147 is the LEFT page and contains ONLY the photograph (Nigerian team photo + Atlanta 1996 gold medal on green ribbon + framed display case), while page 148 is the RIGHT page and contains the body text. Page-assignment fixed: image moved to left_page (147), body text moved to right_page (148). Body text transcription matches the page verbatim (Brazil semifinal: halftime 3-1, locker room gratitude/prayer, Ronaldo subbed with 15 min left, substitute turnover -> 3-2, Kanu Nwankwo tied 3-3 under 60 sec, overtime 4 min Kanu winner -> 4-3, no African team had won Olympic gold, messages from heads of state). Medal engraving reads 'XXVI OLYMPIAD' / 'ATLANTA 1996'; ribbon embroidered 'Atlanta 1996' with Olympic torch logo. No 'in our treasure' / 'not in our treasure' caption appears on this spread."
 }

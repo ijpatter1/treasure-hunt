@@ -36,9 +36,9 @@
     "images": [{
       "description": "The 3rd Faberge Imperial Egg - ornate golden egg with jewels and a watch inside",
       "text_in_image": null,
-      "potential_clues": ["Third Imperial Faberge Egg is in the treasure"]
+      "potential_clues": ["Third Imperial Faberge Egg is NOT in the treasure (sidebar caption reads 'not in our treasure'); story illustrates the importance of noticing details"]
     }],
-    "sidebar": {"text": "The 3rd Faberge Imperial Egg (just in our Treasure)", "style": "red_italic"}
+    "sidebar": {"text": "The 3rd Faberge Imperial Egg (not in our treasure)", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -50,7 +50,7 @@
       "rediscovered": "2004 at antiques show in Midwest United States",
       "hidden_detail": "Vacheron Constantin engraving on watch inside",
       "value": "Approximately $33 million",
-      "in_treasure": true
+      "in_treasure": false
     },
     "transition_to_chapter_4": {
       "subject": "Rob Lavinsky",
@@ -64,5 +64,5 @@
     "theme": "Noticing details leads to treasure/rewards"
   },
 
-  "verification_notes": "Verified against screenshot. Third Imperial Egg story confirmed: 1886, 1917, 2004 Midwest, Vacheron Constantin, $33M value. Rob Lavinsky/96-carat emerald intro verified. Sidebar confirms egg in treasure."
+  "verification_notes": "Verified against screenshot. Third Imperial Egg story confirmed: 1886, 1917, 2004 Midwest, Vacheron Constantin, $33M value. Right page confirms 'between 1917 and 2012' and 'Ninety-five years'. Rob Lavinsky/96-carat emerald intro verified. Sidebar caption reads 'The 3rd Faberge Imperial Egg (not in our treasure)' — the egg is NOT in the treasure; the story illustrates the chapter theme of noticing details. Previously this was mis-transcribed as 'just in our Treasure' with in_treasure=true; corrected."
 }

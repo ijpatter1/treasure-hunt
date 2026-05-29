@@ -37,7 +37,7 @@
       "text_in_image": null,
       "potential_clues": ["Chivor emerald in treasure"]
     }],
-    "sidebar": {"text": "Chivor, in Colombia, is the most famous emerald mine in the world. The largest most flawless emeralds ever discovered come from there. It is now in our Treasure", "style": "red_italic"}
+    "sidebar": {"text": "Chivor, in Colombia, is the most famous emerald mine in the world. This 96-carat emerald was discovered there. It is now in our treasure.", "style": "brown_bold"}
   },
 
   "key_elements": {
@@ -52,10 +52,10 @@
       "item": "96-carat Chivor emerald",
       "source": "Chivor mine, Colombia",
       "procured_by": "Rob Lavinsky",
-      "description": "Most famous emerald mine in world, largest most flawless emeralds"
+      "description": "Most famous emerald mine in the world; this 96-carat emerald was discovered there"
     },
     "geographic_references": ["Illinois (fluorite)", "Brazil", "China", "Colombia (Chivor)"]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Sidebar confirms Chivor emerald IS in treasure. Rob Lavinsky career details and Heritage Auctions partnership all accurate."
+  "verification_notes": "VERIFIED against screenshot image. Right-page sidebar (brown bold italic in right margin) reads exactly: 'Chivor, in Colombia, is the most famous emerald mine in the world. This 96-carat emerald was discovered there. It is now in our treasure.' (Previously mis-transcribed with a fabricated middle sentence 'The largest most flawless emeralds ever discovered come from there' and capitalized 'Treasure'; corrected.) Right page has ONE image (the green emerald crystal on black background) plus the sidebar; left page is all body text, no image. Rob Lavinsky career details, $1,000 fluorite from Illinois, PhD in molecular biology, Brazil/China sourcing, and Heritage Auctions partnership all match the printed text."
 }

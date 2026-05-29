@@ -2,7 +2,7 @@
   "screenshot": "page-030-031.png",
   "section": "chapter",
   "chapter": 2,
-  "chapter_title": "The 100 Gold Rings of Tuyet Nguyet",
+  "chapter_title": "The 100 Rings of Tuyet Nguyet",
   "chapter_subtitle": "Don't Wing It",
 
   "left_page": {
@@ -29,11 +29,11 @@
         {"type": "body", "text": "Among her most cherished and prized collections was a selection of 100 ancient gold rings from Southeast Asia, which Nguyet amassed over the span of forty years."},
         {"type": "body", "text": "Twelve of these gold rings, plus an additional gold box acquired by Nguyet, now reside in our treasure."},
         {"type": "body", "text": "Our ring shown here originates from a period known as pre-Angkor, between the 1st and 8th centuries AD. The area of origin for this ring was located in what is today Vietnam."},
-        {"type": "sidebar", "text": "Pictured here is a gold box once used to store betel nut in our treasure.", "style": "red_italic"}
+        {"type": "sidebar", "text": "Pictured here is a gold double lotus ring with blue inset glass now in our treasure.", "style": "red_italic"}
       ]
     },
     "formatting": {"has_header": false, "has_quotes": false, "has_sidebar": true, "emphasized_text": []},
-    "images": [{"description": "Gold box (betel nut container) from treasure", "text_in_image": null, "potential_clues": ["Gold box from Tuyet Nguyet collection"]}]
+    "images": [{"description": "Photograph of a gold double lotus ring with a blue inset glass stone, set against a black background. This is the 'ring shown here' described in the text (pre-Angkor period). The red italic sidebar caption identifies it as 'a gold double lotus ring with blue inset glass now in our treasure.'", "text_in_image": null, "potential_clues": ["Gold double lotus ring with blue inset glass from Tuyet Nguyet collection, now in the treasure", "Pre-Angkor period, area of origin in present-day Vietnam"]}]
   },
 
   "key_elements": {
@@ -48,5 +48,5 @@
     "dates": ["1970 (Arts of Asia founded)", "July 2017 (special edition on 100 rings)", "200-300 BC (gold jewelry history)", "250 AD (India migration)"]
   },
 
-  "verification_notes": "Verified against screenshot. Key facts confirmed: Tuyet Nguyet, Stephen Markbreiter, Arts of Asia 1970, 100 rings over 40 years, July 2017 edition, 12 rings + gold box in treasure, pre-Angkor period."
+  "verification_notes": "Re-verified against page image. Body-text facts confirmed: Tuyet Nguyet, Stephen Markbreiter, Arts of Asia founded 1970 (age thirty-six), 100 ancient gold rings from Southeast Asia amassed over forty years, July 2017 special edition, twelve gold rings plus an additional gold box now in the treasure, pre-Angkor period (1st-8th centuries AD), present-day Vietnam, ring weighs almost a full ounce. CORRECTIONS: (1) The red italic sidebar caption actually reads 'Pictured here is a gold double lotus ring with blue inset glass now in our treasure.' It had been mis-transcribed as 'a gold box once used to store betel nut in our treasure' (the word 'betel nut' does not appear anywhere on this spread). (2) The photographed item is a gold ring with a blue inset stone, NOT a gold box; image description corrected accordingly. (3) chapter_title aligned to the book's actual title 'The 100 Rings of Tuyet Nguyet' (no chapter title is printed on this mid-chapter spread; left header reads 'JON COLLINS-BLACK', right header 'THERE'S TREASURE INSIDE')."
 }

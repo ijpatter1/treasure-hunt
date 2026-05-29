@@ -14,7 +14,7 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Large brilliantly cut gemstone (appears golden/amber colored) shown from above, displaying intricate faceting pattern",
+      "description": "Large brilliantly cut gemstone (appears golden/amber/brown colored, consistent with smokey quartz) shown from above, displaying intricate radial faceting pattern",
       "text_in_image": null,
       "potential_clues": ["Six-figure birthstone treasure item"]
     }]
@@ -24,11 +24,11 @@
     "page_number": 172,
     "content_type": "text",
     "transcription": {
-      "raw_text": "THE SIX-FIGURE BIRTHSTONE\n\nChoosing a New Perspective\n\n\"Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.\"\n—LSCRAE\n\n\"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\"\n—STEVE DE SHAZER\n\nFrom the very moment I sat down to blueprint this treasure hunt, I wanted to endow a piece of myself into every part of it. This project is intensely personal, the fabric of which is lined with a wanting I have to connect with you. This includes sharing things about myself generally reserved for those most intimate and dear. For this reason, it was very important that each item in the treasure had some attribute of personal significance to me. Our treasure would then reflect parts of me to you. It's as if pieces of my soul are now nested inside our five boxes.\n\nI considered thousands of items for our treasure. I made lists and revised them. Then I reworked those lists some more. Some items chosen for our",
+      "raw_text": "THE SIX-FIGURE BIRTHSTONE\n\nChoosing a New Perspective\n\n\"Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.\"\n—LECRAE\n\n\"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\"\n—STEVE DE SHAZER\n\nFrom the very moment I sat down to blueprint this treasure hunt, I wanted to endow a piece of myself into every part of it. This project is intensely personal, the fabric of which is lined with a wanting I have to connect with you. This includes sharing things about myself generally reserved for those most intimate and dear. For this reason, it was very important that each item in the treasure had some attribute of personal significance to me. Our treasure would then reflect parts of me to you. It's as if pieces of my soul are now nested inside our five boxes.\n\nI considered thousands of items for our treasure. I made lists and revised them. Then I reworked those lists some more. Some items chosen for our",
       "formatted_sections": [
         {"type": "chapter_header", "text": "THE SIX-FIGURE BIRTHSTONE"},
         {"type": "handwritten_subtitle", "text": "Choosing a New Perspective"},
-        {"type": "quote", "text": "Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.", "attribution": "Lscrae"},
+        {"type": "quote", "text": "Instead of complaining that the rose bush is full of thorns, be grateful the thorn bush has roses. Perspective.", "attribution": "Lecrae"},
         {"type": "quote", "text": "Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.", "attribution": "Steve de Shazer"}
       ]
     },
@@ -42,17 +42,16 @@
     },
     "images": [],
     "sidebar": {
-      "text": "(Opposite page) This gemstone is a 201 carat smokey quartz cut in a custom design called \"Imperial Brilliant\" by Mark Oros. This stone is from the state of Rio de, so it's arguably the most velvet tone in our treasure.",
+      "text": "(Opposite page) This gemstone is a 200 carat smokey quartz cut in a custom design called \"Beyond Brilliant\" by Mark Oros. This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.",
       "style": "red_italic"
     }
   },
 
   "key_elements": {
     "treasure_item": {
-      "name": "201 carat smokey quartz",
-      "cut": "Imperial Brilliant (custom design)",
-      "designer": "Mark Oros",
-      "origin": "State of Rio (Brazil)"
+      "name": "200 carat smokey quartz",
+      "cut": "Beyond Brilliant (custom design)",
+      "designer": "Mark Oros"
     },
     "author_philosophy": {
       "personal_connection": "Each item has personal significance",
@@ -60,5 +59,5 @@
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. Brilliantly cut gemstone image (golden/amber color), Chapter 20 'THE SIX-FIGURE BIRTHSTONE', handwritten 'Choosing a New Perspective' subtitle, Lscrae quote ('rose bush is full of thorns, be grateful the thorn bush has roses'), Steve de Shazer quote ('Where you stand determines what you see'), author philosophy ('intensely personal', 'pieces of my soul are now nested inside our five boxes', considered thousands of items), sidebar TREASURE ITEM: 201 carat smokey quartz, Imperial Brilliant cut by Mark Oros, 'state of Rio de' (appears truncated, likely Rio de Janeiro Brazil) all accurate."
+  "verification_notes": "RE-VERIFIED against high-res crops of screenshot. Brilliantly cut gemstone image (golden/amber/brown smokey-quartz color), Chapter 20 'THE SIX-FIGURE BIRTHSTONE', handwritten 'Choosing a New Perspective' subtitle, Lecrae quote ('rose bush is full of thorns, be grateful the thorn bush has roses'), Steve de Shazer quote ('Where you stand determines what you see'), author philosophy ('intensely personal', 'pieces of my soul are now nested inside our five boxes', considered thousands of items). CORRECTIONS APPLIED: sidebar previously had wrong carat (201 -> 200), wrong cut name ('Imperial Brilliant' -> 'Beyond Brilliant'), and a fabricated origin/descriptor ('from the state of Rio de... most velvet tone'). The actual printed sidebar reads: '(Opposite page) This gemstone is a 200 carat smokey quartz cut in a custom design called \"Beyond Brilliant\" by Mark Oros. This stone is true to the name of its cut, as it's arguably the most radiant item in our treasure.' There is NO Brazil/Rio/origin reference on this page. Attribution prints as small-caps '—LECRAE'."
 }

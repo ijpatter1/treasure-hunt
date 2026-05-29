@@ -1,0 +1,65 @@
+{
+  "totals": {
+    "pages": 106,
+    "correctionsApplied": 513,
+    "pagesChanged": 77,
+    "jsonInvalid": [],
+    "typeTotals": {
+      "image-description": 60,
+      "other": 90,
+      "value": 86,
+      "name": 38,
+      "transcription": 171,
+      "date": 19,
+      "caption": 16,
+      "book-misprint-noted": 22,
+      "key-elements": 5,
+      "in-treasure-flag": 6
+    }
+  },
+  "pages": [
+    {
+      "name": "page-161-162",
+      "legibility": "clear",
+      "appliedCount": 28,
+      "byType": { "transcription": 18, "name": 5, "value": 3, "other": 2 },
+      "corrections": [
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "transcription", "before": "My other wanted to know", "after": "My editor wanted to know", "editApplied": true },
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "transcription", "before": "my motivation to find joy and to share it with others. Those reasons", "after": "my motivation to find joy and to share in it with others. These reasons", "editApplied": true },
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "transcription", "before": "my family did not save much money", "after": "my family did not have much means", "editApplied": true },
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "name", "before": "a new church in Huntersville, NC, built upon the ideal of service", "after": "a new church in Statesville, NC, built upon the idea of service", "editApplied": true },
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "transcription", "before": "The church assisted the local community... of the local Food Bank and Red Cross", "after": "Our church assisted the local community... of the local food bank and Red Cross", "editApplied": true },
+        { "file": "metadata", "field": "left_page.raw_text", "issueType": "transcription", "before": "transcription truncated after 'I was required to volunteer.'", "after": "extended verbatim through end of page ('...many types of giving - time, effort, encouragement,'), adding 5 omitted paragraphs", "editApplied": true },
+        { "file": "metadata", "field": "left_page.formatted_sections", "issueType": "name", "before": "new church in Huntersville, NC, built upon the ideal of service", "after": "new church in Statesville, NC, built upon the idea of service", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "His not only covered the structural ways which many large now non-profits are run today", "after": "He not only invented the structure with which many large non-profits are run today", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "His philanthropic legacy surprisingly captures what in history", "after": "His philanthropic legacy arguably surpasses anyone else in history", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "I was a bit mesmerized once I realized what a wound mineral from Carnegie's own mineral collection became available for me to add", "after": "I was a bit astonished and excited when a beautiful emerald from Carnegie's rare mineral collection unexpectedly became available to add", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "Dunfermline, Scotland, and is best known for his later life affluence. His family first poor. The entire family slept in the corner of their home minus house across the whole...", "after": "Dunfermline, Scotland. Dunfermline is known for its linen factories. His family was poor. The entire family slept in the small upstairs of their stone house because the whole bottom floor was dedicated to his father's loom. But, as his father was a rather unsuccessful weaver, his mother mended shoes to pay for food.", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "bobbin boy in a cotton factory. And there, at thirteen years old, he worked sixteen hours a day", "after": "bobbin boy in a textile mill. At that time, children in the U.S. were allowed to work twelve hours a day", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "value", "before": "an illegal child laborer. It was a life of poverty.", "after": "an illegal child laborer. He made $1.20 per week.", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "messenger boy and Western Union... important and power-ful people. In town, Carnegie", "after": "messenger boy at Western Union... important and prominent people in town. Carnegie", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "who would serve Andrew as his first personal mentor. Just a few years later, when he became Vice-President", "after": "who hired Andrew as his own personal secretary. A few years later, when Scott became Vice-President", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "how he could acquire more and not less money. Now that Carnegie had a much more substantial salary of $35 week, he began investing and began building wealth in companies he knew with he knew well. Later, he would expand his investments into numerous start-ups by other entrepreneurs, much like a venture capitalist today, due to the wealth.", "after": "how he could work smarter and not harder. Now that Carnegie had a much more substantial salary of $35/week, he took his money and began investing in companies he understood and believed in. Later, he would expand his investments into numerous start-ups. By age thirty-seven, Andrew Carnegie effectively retired, due to the wealth from these investments.", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "Carnegie got a book titled (Gospel of Wealth)... the first American great wealth to argue that... a plan he would put to motion that would establish a brand new way to engage with philanthropy", "after": "Carnegie released a book titled Gospel of Wealth... the first person of great wealth to argue publicly that... a plan he would soon set in motion that would orchestrate a brand new way to organize philanthropy", "editApplied": true },
+        { "file": "metadata", "field": "right_page.raw_text", "issueType": "transcription", "before": "pivoting into the small business right when America's railroads began to replace iron with steel", "after": "pivoting into the steel business right when America's railroads began to replace iron with steel", "editApplied": true },
+        { "file": "metadata", "field": "right_page.formatted_sections", "issueType": "value", "before": "First job as bobbin boy in cotton factory - 16 hours/day, 6 days/week", "after": "First job as bobbin boy in textile mill - 12 hours/day, 6 days/week, $1.20 per week", "editApplied": true },
+        { "file": "metadata", "field": "key_elements.author_biography.church_location", "issueType": "name", "before": "Huntersville, NC", "after": "Statesville, NC", "editApplied": true },
+        { "file": "metadata", "field": "key_elements.author_biography.church_focus", "issueType": "transcription", "before": "Ideal of service", "after": "Idea of service", "editApplied": true },
+        { "file": "metadata", "field": "key_elements.author_biography.father_volunteer", "issueType": "transcription", "before": "local Food Bank and Red Cross", "after": "local food bank and Red Cross", "editApplied": true },
+        { "file": "metadata", "field": "key_elements.carnegie_biography.first_job", "issueType": "transcription", "before": "Bobbin boy in cotton factory", "after": "Bobbin boy in textile mill", "editApplied": true },
+        { "file": "metadata", "field": "verification_notes", "issueType": "other", "before": "Old note claiming all biography 'all accurate' and citing Huntersville/cotton factory/16hrs", "after": "Rewritten to document the actual corrections (Statesville, textile mill, 12 hours, $1.20/week, Scott secretary, etc.)", "editApplied": true },
+        { "file": "notes", "field": "Left Page church location", "issueType": "name", "before": "Church location: Huntersville, NC; built upon the ideal of service", "after": "Church location: Statesville, NC; built upon the idea of service", "editApplied": true },
+        { "file": "notes", "field": "Geographic References / Potential Clues / Key Observations", "issueType": "name", "before": "Huntersville, NC / Huntersville, North Carolina", "after": "Statesville, NC / Statesville, North Carolina", "editApplied": true },
+        { "file": "notes", "field": "Carnegie's Life Story", "issueType": "value", "before": "bobbin boy in cotton factory; 16 hours/day; slept in corner of house; Scott became Carnegie's first mentor", "after": "bobbin boy in textile mill; 12 hours/day; $1.20/week; slept in small upstairs of stone house (father's loom on bottom floor); Scott hired him as his own personal secretary", "editApplied": true },
+        { "file": "notes", "field": "Verification Status", "issueType": "other", "before": "Old status citing Huntersville and 'all accurate'", "after": "Rewritten to list actual corrections", "editApplied": true }
+      ],
+      "notApplied": [],
+      "uncertainties": [],
+      "jsonValid": true,
+      "verifyVerdict": "faithful",
+      "remaining": [],
+      "flagged": false,
+      "summary": "Both pages are pure body text (Chapter 18, Andrew Carnegie's Emerald; no images, sidebars, or captions). The page was clear once upscaled. The metadata had MANY transcription errors, the most consequential being the author's childhood church location: the page reads \"Statesville, NC\" but both files said \"Huntersville, NC\" — a load-bearing geographic clue. The left-page raw_text was also truncated mid-page and is now completed verbatim. The right-page (Carnegie biography) raw_text was heavily garbled (OCR-style) and was rewritten verbatim; key factual fixes: textile mill (not cotton factory), twelve hours/day (not sixteen), \"$1.20 per week\", Scott hired him as personal secretary (not \"first personal mentor\"), steel business (not small business), and \"released a book titled Gospel of Wealth\". Notes .md facts brought into line with the image; analysis/hypothesis content left untouched. JSON re-validated (parses ok). Files: /Users/ipatterson/dev/treasure-hunt/lions-share/pages/metadata/page-161-162.json and /Users/ipatterson/dev/treasure-hunt/lions-share/pages/notes/page-161-162.md."
+    }
+  ]
+}

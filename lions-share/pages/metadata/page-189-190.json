@@ -14,7 +14,7 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Gold medallion/pendant with Picasso design showing abstract figures and shapes in his distinctive cubist style, labeled 'Jacqueline au chevalet'",
+      "description": "Gold medallion/pendant with Picasso design showing abstract figures and shapes in his distinctive cubist style; the sidebar identifies it as 'Jacqueline au chevalet'",
       "text_in_image": null,
       "potential_clues": ["Picasso pendant treasure item", "23-karat gold"]
     }]
@@ -24,12 +24,12 @@
     "page_number": 190,
     "content_type": "text",
     "transcription": {
-      "raw_text": "PICASSO'S PENDANT\n\nA Love Story\n\n\"Fortune favors the brave.\"\n—VIRGIL\n\n\"The art of love is largely the art of persistence.\"\n—ALBERT ELLIS\n\nIn 1882, a small infant, wrapped in a diaper, sat on a wood floor. The boy's name was Pablo, and he had just uttered the sound pit. The young child was referring to lápiz, which in Spanish means pencil. His mother smiled glowingly at him. She was completely smitten, having just heard her son's very first word. She leaned forward and gently placed a marker into his hand. Pablo grabbed it, looked down, and began to draw.\n\nFrom that seminal moment until just hours before he died at age 91, Pablo Picasso made art. He became one of the most prolific artists who ever lived, creating more than 50,000 works. Some of his paintings such as Guernica, The Old Guitarist, and Les Demoiselles d'Avignon, are considered some of the most important art pieces ever made. The combination of his flamboyant personality and artistic genius made Pablo Picasso one of the most acclaimed and talked about artists of all time. Picasso's bold, larger-than-life persona exuded the intense, unyielding effort he put into having every treasure he desired.\n\nFor much of his life, Picasso co-mingled his love for creating art with his \"love\" for women. Though I think it's fair to say, that when it came to how Pablo really treated these women, the phrase \"with lust\" is more accurate",
+      "raw_text": "PICASSO'S PENDANT\n\nA Love Story\n\n\"Fortune favors the brave.\"\n—VIRGIL\n\n\"The art of love is largely the art of persistence.\"\n—ARTHUR ELLIS\n\nIn 1882, a small infant, wrapped in a diaper, sat on a wood floor. The boy's name was Pablo, and he had just uttered the sound piz. The young child was referring to lápiz, which in Spanish means pencil. His mother smiled glowingly at him. She was completely smitten, having just heard her son's very first word. She leaned forward and gently placed a marker into his hand. Pablo grabbed it, looked down, and began to draw.\n\nFrom that seminal moment until just hours before he died at age 91, Pablo Picasso made art. He became one of the most prolific artists who ever lived, creating more than 50,000 works. Some of his paintings such as Guernica, The Old Guitarist, and Les Demoiselles d'Avignon, are considered some of the most important art pieces ever made. The combination of his flamboyant personality and artistic genius made Pablo Picasso one of the most acclaimed and talked about artists of all time. Picasso's bold, larger-than-life persona exuded the intense, unyielding effort he put into having every treasure he desired.\n\nFor much of his life, Picasso co-mingled his love for creating art with his \"love\" for women. Though I think it's fair to say, that when it came to how Pablo really treated these women, the phrase \"with lust\" is more accurate",
       "formatted_sections": [
         {"type": "chapter_header", "text": "PICASSO'S PENDANT"},
         {"type": "handwritten_subtitle", "text": "A Love Story"},
         {"type": "quote", "text": "Fortune favors the brave.", "attribution": "Virgil"},
-        {"type": "quote", "text": "The art of love is largely the art of persistence.", "attribution": "Albert Ellis"}
+        {"type": "quote", "text": "The art of love is largely the art of persistence.", "attribution": "Arthur Ellis"}
       ]
     },
     "formatting": {
@@ -42,7 +42,7 @@
     },
     "images": [],
     "sidebar": {
-      "text": "(Opposite page) This pendant by Pablo Picasso is titled \"Jacqueline au chevalet,\" which translates to \"Jacqueline at the Easel.\" The design depicts Picasso's wife at paints, painting at an easel, engaging in her husband's favorite activity. Only thirty-nine such pendants were ever minted, and only twenty were made available to the public. The pendant is made of 23-karat gold.",
+      "text": "(Opposite page) This pendant by Pablo Picasso is titled \"Jacqueline au chevalet,\" which translates to \"Jacqueline at the Easel.\" The design depicts Picasso's wife Jacqueline, painting at an easel, enjoying her husband's favorite activity. Only thirty-two such pendants were ever created, and only twenty were made available to the public. The pendant is made of 23-karat gold.",
       "style": "red_italic"
     }
   },
@@ -52,18 +52,18 @@
       "name": "Picasso's pendant - 'Jacqueline au chevalet'",
       "translation": "Jacqueline at the Easel",
       "material": "23-karat gold",
-      "quantity_made": 39,
+      "quantity_made": 32,
       "quantity_public": 20,
       "subject": "Depicts Picasso's wife Jacqueline painting at easel"
     },
     "picasso_biography": {
       "birth": 1882,
-      "first_word": "pit (lápiz = pencil in Spanish)",
+      "first_word": "piz (lápiz = pencil in Spanish)",
       "death_age": 91,
       "works_created": "More than 50,000",
       "famous_works": ["Guernica", "The Old Guitarist", "Les Demoiselles d'Avignon"]
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. Gold pendant image with cubist Picasso design, Chapter 22 'PICASSO'S PENDANT', handwritten 'A Love Story' subtitle, Virgil quote ('Fortune favors the brave'), Albert Ellis quote ('art of love is largely the art of persistence'), Picasso biography (1882 birth, 'pit'/lápiz first word, died age 91, 50,000+ works, Guernica/The Old Guitarist/Les Demoiselles d'Avignon), sidebar TREASURE ITEM 'Jacqueline au chevalet' (Jacqueline at the Easel), 23-karat gold, 39 minted, 20 available to public all accurate."
+  "verification_notes": "RE-VERIFIED against screenshot 2026-05-29. Corrections applied: (1) Second epigraph attribution is printed '—ARTHUR ELLIS' in the book, NOT 'Albert Ellis' — transcribed verbatim as 'Arthur Ellis'; BOOK MISPRINT: the quotation 'The art of love is largely the art of persistence' is attributed to psychologist Albert Ellis (REBT founder), so the book's 'Arthur Ellis' appears to be an error, but kept verbatim per transcription rules. (2) Picasso's first word is printed in italics as 'piz' (not 'pit') — fits 'lápiz'; corrected raw_text and key_elements.first_word. (3) Sidebar now reads 'depicts Picasso's wife Jacqueline, painting at an easel, enjoying her husband's favorite activity' (was mis-transcribed 'at paints... engaging in'). (4) Sidebar says 'Only thirty-two such pendants were ever created' (NOT 'thirty-nine ... ever minted'); key_elements.quantity_made corrected 39 -> 32. (5) quantity_public 20 confirmed. (6) Left-page image description softened (sidebar identifies the pendant; it is not labeled on the image itself). Confirmed unchanged: Chapter 22 'PICASSO'S PENDANT', handwritten red 'A Love Story', Virgil quote 'Fortune favors the brave', 23-karat gold, body bio (1882 birth, died age 91, 50,000+ works, Guernica/The Old Guitarist/Les Demoiselles d'Avignon). NOTE: small sidebar/quote text is low-resolution; readings confirmed via upscaled crops."
 }

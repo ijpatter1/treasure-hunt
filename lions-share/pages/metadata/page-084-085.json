@@ -9,11 +9,11 @@
     "page_number": 84,
     "content_type": "text",
     "transcription": {
-      "raw_text": "The Hopi calendar and most of its ceremonies center around prosperity for its people. Because of the size and locations of their reservations, that well-being has to be cultivated in severe desert conditions. Food production continues to be a major focus. On these desert lands the Hopi have perfected techniques for dry farming that allow them to grow corn, melons, beans, and squash in areas where such harvests would normally seem impossible.\n\nHopi petroglyphs are carved throughout their reservation and surrounding lands. These are rich in symbolism and tradition. The Tutuveni petroglyphs in the Grand Canyon, alone, covers over 150 giant rocks with more than 5,000 Hopi drawings that detail a Hopi historical record over a thousand years old.\n\nIf I sound overly pleased about Hopi history, forgive me. I find the tradition and resilience of these people inspirational. Despite having had so much taken from them, the Hopi prove that many of the finest treasures are also the simplest. Their trove is stocked with a wealth of community, tradition and sustainability. Still, even from the most ancient of traditions, new visions of the future can arise. Charles Loloma's and Sonwai's jewelry shows us that.\n\nAs you can probably tell, I am an advocate of getting to know the histories and traditions of as many cultures as we can. It builds bridges. Yet beyond that, learning about the traditions of others gives us perspective on our own. It illustrates the unbreakable threads that not only bind generations together but also interweave us all.\n\nLearning about other cultures is an exercise in keeping our minds free and open. This is an important practice because when people believe there is just one right way of doing a thing, they may begin to see only those things that only confirm what they already believe to be true. This conundrum can lead to a condition called confirmation bias. And beware: Confirmation bias is a treasure hunter's most dreaded foe. For this reason, it deserves a closer look.",
+      "raw_text": "The Hopi calendar and most of its ceremonies center around prosperity for its people. Because of the size and locations of their reservations, that well-being has to be cultivated in severe desert conditions. Food production continues to be a major focus. On these desert lands the Hopi have perfected techniques for dry farming that allow them to grow corn, melons, beans, and squash in areas where such harvests would normally seem impossible.\n\nHopi petroglyphs are carved throughout their reservation and surrounding lands. These are rich in symbolism and tradition. The Tutuveni petroglyph in the Grand Canyon, alone, covers over 150 giant rocks with more than 5,000 Hopi drawings that detail a Hopi historical record over a thousand years old.\n\nIf I sound overly plussed about Hopi history, forgive me. I find the tradition and resilience of these people inspirational. Despite having had so much taken from them, the Hopi prove that many of the finest treasures are also the simplest. Their trove is stocked with a wealth of community, tradition and sustainability. Still, even from the most ancient of traditions, new visions of the future can arise. Charles Loloma's and Sonwai's jewelry shows us that.\n\nAs you can probably tell, I am an advocate of getting to know the histories and traditions of as many cultures as we can. It builds bridges. Yet beyond that, learning about the traditions of others gives us perspective on our own. It illustrates the unbreakable threads that not only bind generations together but also interweave us all.\n\nLearning about other cultures is an exercise in keeping our minds free and open. This is an important practice because when people believe there is just one right way of doing a thing, they may begin to see only those things that only confirm what they already believe to be true. This conundrum can lead to a condition called confirmation bias. And beware. Confirmation bias is a treasure hunter's most dreaded foil. For this reason, it deserves a closer look.",
       "formatted_sections": [
-        {"type": "body", "text": "The Tutuveni petroglyphs in the Grand Canyon, alone, covers over 150 giant rocks with more than 5,000 Hopi drawings"},
+        {"type": "body", "text": "The Tutuveni petroglyph in the Grand Canyon, alone, covers over 150 giant rocks with more than 5,000 Hopi drawings"},
         {"type": "body", "text": "Despite having had so much taken from them, the Hopi prove that many of the finest treasures are also the simplest."},
-        {"type": "body", "text": "Confirmation bias is a treasure hunter's most dreaded foe."}
+        {"type": "body", "text": "Confirmation bias is a treasure hunter's most dreaded foil."}
       ]
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
@@ -30,7 +30,7 @@
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
       "description": "Full circular Hopi Calendar diagram showing Katsina Season and Non-Katsina Season, divided by Winter and Summer solstices, with various ceremonies listed around the wheel",
-      "text_in_image": "MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER, JANUARY, FEBRUARY, Katsina Season, Non-Katsina Season, 21ST WINTER SOLSTICE, 21ST SUMMER SOLSTICE, Osomya, Kwyamuya, Hakitonmuya, Wuku'uyis, Niman, Talangya, Tala'paamuya, Nasanmuya, Toho'osmuy, Kelmuya, Kyamuya, Paamuya, Powamya",
+      "text_in_image": "Months (clockwise from top): MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER, JANUARY, FEBRUARY. Center: Katsina Season / Non-Katsina Season. 21ST WINTER SOLSTICE, 21ST SUMMER SOLSTICE. Ceremonies (clockwise): Osomuya - Plaza Dances, Night Dances, Angk'wa | Kwiyamuya - Plaza Dances, Footraces | Hakitonmuya - Plaza Dances, Footraces | Wuko'uyis - Plaza Dances | Talangva - Niman, Home Dance | Tala'paamuya - Snake Antelope or Flute Ceremonies | Nasanmuya - Women's Society Ceremonies, Basket Dance | Toho'osmuy - Women's Society Ceremonies | Kelmuya - Men's Society Ceremonies, Wuwutsim Tribal Initiation | Kyamuya - Soystangwu Ceremony | Paamuya - Winter Social Dances | Powamuya - Powamuya Ceremony, Bean Dance. Credit (bottom right): Hopi Calendar",
       "potential_clues": ["Hopi calendar ceremonies", "Solstice dates", "Seasonal ceremony schedule"]
     }]
   },
@@ -47,13 +47,13 @@
     },
     "treasure_hunting_warning": {
       "topic": "Confirmation bias",
-      "description": "Treasure hunter's most dreaded foe",
+      "description": "Treasure hunter's most dreaded foil",
       "explanation": "Seeing only things that confirm what you already believe"
     },
     "hopi_calendar": {
       "divisions": ["Katsina Season", "Non-Katsina Season"],
       "key_dates": ["21st Winter Solstice", "21st Summer Solstice"],
-      "ceremonies": ["Bean Dance (Powamya)", "Home Dance (Niman)", "Snake/Flute Ceremonies", "Basket Dance", "Tribal Initiation"]
+      "ceremonies": ["Bean Dance (Powamuya)", "Home Dance / Niman (Talangva)", "Snake Antelope or Flute Ceremonies (Tala'paamuya)", "Basket Dance (Nasanmuya)", "Wuwutsim Tribal Initiation (Kelmuya)"]
     },
     "geographic_references": [
       "Grand Canyon (Tutuveni petroglyphs)",
@@ -62,5 +62,5 @@
     "transition_to_chapter_9": "Confirmation bias - closer look coming"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Petroglyphs, Hopi calendar diagram, 'unbreakable threads' (children's book ref), and confirmation bias warning all accurate."
+  "verification_notes": "VERIFIED against page image (screenshots/page-084-085.png and cropped). Left page (84) is body text with header 'JON COLLINS-BLACK'; right page (85) is a full-page circular Hopi Calendar diagram (credited 'Hopi Calendar' bottom right). Transcription corrections applied to match the printed page verbatim: (1) book prints 'The Tutuveni petroglyph in the Grand Canyon, alone, covers' (singular 'petroglyph', singular verb 'covers') -- previously transcribed as plural 'petroglyphs'; (2) book prints 'If I sound overly plussed about Hopi history' -- the word as printed is 'plussed' (a back-formation from 'nonplussed'), NOT 'pleased'; transcribed verbatim. (3) book prints 'And beware. Confirmation bias is a treasure hunter's most dreaded foil.' -- the printed word is 'foil', NOT 'foe', and the punctuation after 'beware' is a period, not a colon; transcribed verbatim. Calendar ceremony labels corrected to exact diagram spellings: Osomuya (Plaza Dances, Night Dances, Angk'wa), Kwiyamuya (Plaza Dances, Footraces), Hakitonmuya (Plaza Dances, Footraces), Wuko'uyis (Plaza Dances), Talangva (Niman, Home Dance), Tala'paamuya (Snake Antelope or Flute Ceremonies), Nasanmuya (Women's Society Ceremonies, Basket Dance), Toho'osmuy (Women's Society Ceremonies), Kelmuya (Men's Society Ceremonies, Wuwutsim Tribal Initiation), Kyamuya (Soystangwu Ceremony), Paamuya (Winter Social Dances), Powamuya (Powamuya Ceremony, Bean Dance). No 'Soyal' label appears in the diagram (Kyamuya is labeled 'Soystangwu Ceremony')."
 }

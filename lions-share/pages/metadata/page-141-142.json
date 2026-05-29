@@ -18,7 +18,7 @@
       "text_in_image": "Atlanta 1996",
       "potential_clues": ["1996 Atlanta Olympics gold medal treasure item"]
     }],
-    "sidebar": {"text": "This gold medal from the 1996 Atlanta Olympics is now a part of our treasure. It was presented to the Nigerian Soccer Team, after their improbable run to gold.", "style": "red_italic"}
+    "sidebar": {"text": "This gold medal from the 1996 Atlanta Olympic is now a part of our treasure. It was presented to the Nigerian Soccer Team, after their improbable run to gold.", "style": "brown_bold"}
   },
 
   "right_page": {
@@ -28,12 +28,12 @@
       "raw_text": "CHAPTER 16\n\n1996 ATLANTA OLYMPIC GOLD MEDAL\n\nDefy Expectations\n\n\"You never know if you can actually do something against all odds until you actually do it.\"\n—ABBY WAMBACH\n\n\"You can be the one-in-a-million. Don't be discouraged by the odds to succeed.\"\n—DAVID BECKHAM\n\nWhen a person asks me, \"Do you think I can locate the treasure,\" I answer, \"Why not? Someone is going to.\" People have this question because they naturally wonder if it's truly possible or if they are capable. I don't know if you have similar doubts. But if you do, just know, I believe you can find it.\n\nI know what it's like to have doubts. I wondered if I could actually complete this book. I was concerned if I could find appropriate hiding spots to leave five treasure boxes. I have lots of other doubts too. Doubts about if I'm a good person. Doubts about whether I am using my life in the fullest possible ways. Doubts about if I will remember where I put my car keys.\n\nIt's fine to have doubts or even modest expectations, sometimes. Although, I do think it's awesome to have grand ones. Regardless, people defy probabilities all the time. Heck, it's a miracle you and I are alive at all. Out of millions of hopeful sperm, you were the result of that one tiny fortunate cell which passed",
       "formatted_sections": [
         {"type": "chapter_header", "text": "1996 ATLANTA OLYMPIC GOLD MEDAL"},
-        {"type": "handwritten_subtitle", "text": "Defy Expectations", "style": "red_handwritten"},
+        {"type": "handwritten_subtitle", "text": "Defy Expectations", "style": "gray_handwritten"},
         {"type": "quote", "text": "You never know if you can actually do something against all odds until you actually do it.", "attribution": "Abby Wambach"},
         {"type": "quote", "text": "You can be the one-in-a-million. Don't be discouraged by the odds to succeed.", "attribution": "David Beckham"}
       ]
     },
-    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Defy Expectations", "style": "red_handwritten"}]},
+    "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Defy Expectations", "style": "gray_handwritten"}]},
     "images": []
   },
 
@@ -53,5 +53,5 @@
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. Sidebar accurate (1996 Atlanta gold medal, Nigerian Soccer Team improbable run). 'Defy Expectations' subtitle, Abby Wambach and David Beckham quotes, author encouragement ('I believe you can find it'), five treasure boxes confirmed all accurate."
+  "verification_notes": "VERIFIED against page image. Sidebar caption printed verbatim as 'This gold medal from the 1996 Atlanta Olympic is now a part of our treasure...' -- the book prints the SINGULAR 'Olympic' (it should grammatically read 'Olympics'); transcription kept faithful to the printed page. Sidebar caption is set in brown bold sans-serif in the right margin (not red italic). 'Defy Expectations' handwritten subtitle, Abby Wambach quote (against all odds) and David Beckham quote (one-in-a-million; 'one-in-a-million' is bolded on the page), author encouragement ('Why not? Someone is going to.' / 'I believe you can find it'), and five treasure boxes all confirmed accurate. Body text matches verbatim."
 }

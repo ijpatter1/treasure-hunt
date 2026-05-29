@@ -34,7 +34,7 @@
     },
     "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Inspiration Is Welcome", "style": "red_handwritten"}]},
     "images": [],
-    "sidebar": {"text": "This is a ruby pendant necklace by Lauren Harwell Godfrey. It has a three-carat ruby surrounded by moonstones and diamonds. This piece was a raindrop of Lauren's 'Cleopatra's Vault' collection. Its estimated value is over $45,000", "style": "red_italic"}
+    "sidebar": {"text": "(Opposite page) This is a ruby pendant necklace by Lauren Harwell Godfrey. It has a three-carat ruby surrounded by moonstones and diamonds. This piece was a variation of Lauren's \"Cleopatra's Vault\" collection. It's estimated value is over $45,000.", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -56,5 +56,5 @@
     "theme": "Inspiration as guiding force"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Chapter title, quotes (Blake, L'Engle), and sidebar treasure item (Lauren Harwell Godfrey pendant, Cleopatra's Vault, $45K+) all accurate."
+  "verification_notes": "Re-verified against page image at full resolution. Body text and both quotes (Quentin Blake; Madeleine L'Engle) match verbatim. Sidebar corrected: it begins with the parenthetical '(Opposite page)'; the pendant 'was a variation of Lauren's \"Cleopatra's Vault\" collection' (previously mis-transcribed as 'raindrop of'); value sentence ends 'is over $45,000.' BOOK MISPRINT: the page prints 'It's estimated value is over $45,000.' using the contraction 'It's' where the possessive 'Its' is grammatically correct; transcribed verbatim as printed."
 }

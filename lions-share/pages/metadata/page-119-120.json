@@ -15,7 +15,7 @@
         {"type": "body", "text": "I was the last kid he picked for the team he told me."}
       ]
     },
-    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "formatting": {"has_header": true, "has_quotes": false, "emphasized_text": ["was (italicized in 'It was my name on the list.')"]},
     "images": []
   },
 
@@ -28,9 +28,9 @@
         {"type": "body", "text": "This was by far the biggest home crowd we'd had that year."}
       ]
     },
-    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "formatting": {"has_header": true, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Sketch illustration of basketball players in action during a game",
+      "description": "Black-and-white ink/sketch illustration of a single basketball player leaping high to dunk/shoot, one arm extended up holding the ball overhead, with dynamic motion lines and ink splatter",
       "text_in_image": null,
       "potential_clues": []
     }]
@@ -46,5 +46,5 @@
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. Age 13 at tryouts, 50 boys for 12 spots, blue jeans embarrassment, last pick, no playing time 2/3 of season, 5-game streak, pep rally, biggest crowd, led 10/15/21 by quarters all accurate."
+  "verification_notes": "Re-verified against page image. Body text on both pages (119 left, 120 right) is verbatim and accurate: age 13 at tryouts, 50 boys for 12 spots, blue jeans embarrassment, last pick, no playing time 2/3 of season, 5-game streak, pep rally, biggest crowd, led 10/15/21 by quarters. Corrected right-page image description: it depicts a SINGLE basketball player leaping to dunk/shoot (originally mis-described as plural 'players in action during a game'). Running headers present: 'JON COLLINS-BLACK' (left, p.119) and 'THERE'S TREASURE INSIDE' (right, p.120); has_header set true on both. The word 'was' in 'It was my name on the list.' is italicized in the book (recorded under left_page emphasized_text); raw_text left verbatim without markup."
 }

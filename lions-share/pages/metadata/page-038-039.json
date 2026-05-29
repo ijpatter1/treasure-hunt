@@ -24,29 +24,29 @@
     "page_number": 39,
     "content_type": "text",
     "transcription": {
-      "raw_text": "CHAPTER 3\n\nA PUZZLE BOX, A MAGNIFYING GLASS, & THE MYSTERIOUS EGG\n\nJoy Is in the Details\n\n\"In photography, the smallest thing can be a great subject. The little human detail can become a Leitmotiv.\" —HENRI CARTIER-BRESSON\n\n\"With a keen eye for details, one truth prevails!\" —GOSHO AOYAMA\n\nJapan is a culture alive with details. The Japanese take an immense pride in being exacting in their art, engineering, and service. These qualities are so much of what makes Japan special and why once I finally visited, I almost never returned home.\n\nIt was late 2018, and a few months prior, I'd hit a creative wall. After working for several years in the music industry, the grind had worn me down. My joy was gone. I still loved music, but I was exhausted, and I needed a vacation badly. A friend of mine, who happened to be visiting from out of town, suggested I go to Japan. When he said this, I stared blankly at him for a moment. I knew nothing about Japan. I had never considered traveling there. Yet he",
+      "raw_text": "CHAPTER 3\n\nA PUZZLE BOX, A MAGNIFYING GLASS, & THE MYSTERIOUS EGG\n\nJoy Is in the Details\n\n\"In photography, the smallest thing can be a great subject. The little, human detail can become a Leitmotiv.\" —HENRI CARTIER-BRESSON\n\n\"With a keen eye for details, one truth prevails!\" —GOSHO AOYAMA\n\nJapan is a culture alive with details. The Japanese take an immense pride in being exacting in their art, engineering, and service. These qualities are so much of what makes Japan special and why once I finally visited, I almost never returned home.\n\nIt was late 2015, and a few months prior, I'd hit a creative wall. After working for several years in the music industry, the grind had worn me down. My joy was gone. I still loved music, but I was exhausted, and I needed a vacation badly. A friend of mine, who happened to be visiting from out of town, suggested I go to Japan. When he said this, I stared blankly at him for a moment. I knew nothing about Japan. I had never considered traveling there. Yet he",
       "formatted_sections": [
         {"type": "chapter_header", "text": "A PUZZLE BOX, A MAGNIFYING GLASS, & THE MYSTERIOUS EGG"},
         {"type": "handwritten_subtitle", "text": "Joy Is in the Details", "style": "red_handwritten"},
-        {"type": "quote", "text": "In photography, the smallest thing can be a great subject. The little human detail can become a Leitmotiv.", "attribution": "Henri Cartier-Bresson"},
+        {"type": "quote", "text": "In photography, the smallest thing can be a great subject. The little, human detail can become a Leitmotiv.", "attribution": "Henri Cartier-Bresson"},
         {"type": "quote", "text": "With a keen eye for details, one truth prevails!", "attribution": "Gosho Aoyama"},
         {"type": "body", "text": "Japan is a culture alive with details..."}
       ]
     },
     "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Joy Is in the Details", "style": "red_handwritten"}]},
     "images": [],
-    "sidebar": {"text": "(Opposite Page) A traditional Japanese puzzle box (just in our Treasure)", "style": "red_italic"}
+    "sidebar": {"text": "(Opposite Page) A traditional Japanese puzzle box (not in our treasure)", "style": "brown_caption"}
   },
 
   "key_elements": {
     "quotes": [
-      {"text": "In photography, the smallest thing can be a great subject. The little human detail can become a Leitmotiv.", "author": "Henri Cartier-Bresson"},
+      {"text": "In photography, the smallest thing can be a great subject. The little, human detail can become a Leitmotiv.", "author": "Henri Cartier-Bresson"},
       {"text": "With a keen eye for details, one truth prevails!", "author": "Gosho Aoyama"}
     ],
     "treasure_items": ["Traditional Japanese puzzle box"],
-    "geographic_references": ["Japan", "Tokyo"],
+    "geographic_references": ["Japan"],
     "theme": "Attention to details, finding joy in small things"
   },
 
-  "verification_notes": "Verified against screenshot. Chapter title, both quotes (Cartier-Bresson, Gosho Aoyama), late 2018 timeline, puzzle box image all confirmed accurate."
+  "verification_notes": "Verified against page image. Corrections: (1) body text reads 'It was late 2015' (not 2018); (2) Cartier-Bresson quote has a comma after 'little' -> 'The little, human detail can become a Leitmotiv.'; (3) sidebar caption reads 'A traditional Japanese puzzle box (not in our treasure)' in brown caption text -- it is NOT in our treasure (previously mis-transcribed as 'just in our Treasure'); (4) removed 'Tokyo' from geographic_references (not mentioned on this page). Chapter title and both attributions (HENRI CARTIER-BRESSON, GOSHO AOYAMA) confirmed accurate."
 }

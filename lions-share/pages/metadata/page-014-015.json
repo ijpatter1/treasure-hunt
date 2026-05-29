@@ -10,18 +10,20 @@
       "formatted_sections": [
         {"type": "body", "text": "As I stand on the eve of publishing this book, my foremost aspiration is to extend and share my joy with you..."},
         {"type": "signature", "text": "Yours in the hunt,\nJON COLLINS-BLACK", "style": "italic_signature"},
-        {"type": "sidebar", "text": "This is a picture of some of our treasure.", "style": "red_italic"}
+        {"type": "sidebar", "text": "This is a picture of some of our treasure.", "style": "brown_upright"}
       ]
     },
     "formatting": {
-      "has_header": false,
+      "has_header": true,
+      "header_text": "JON COLLINS-BLACK",
       "has_quotes": false,
       "has_handwritten_text": false,
       "has_sidebar": true,
       "emphasized_text": [
+        {"text": "JON COLLINS-BLACK", "style": "brown_caps_running_header"},
         {"text": "Yours in the hunt", "style": "italic"},
         {"text": "JON COLLINS-BLACK", "style": "red_caps"},
-        {"text": "This is a picture of some of our treasure.", "style": "red_italic_sidebar"}
+        {"text": "This is a picture of some of our treasure.", "style": "brown_upright_sidebar"}
       ]
     },
     "images": []
@@ -35,10 +37,13 @@
       "formatted_sections": []
     },
     "formatting": {
-      "has_header": false,
+      "has_header": true,
+      "header_text": "THERE'S TREASURE INSIDE",
       "has_quotes": false,
       "has_handwritten_text": false,
-      "emphasized_text": []
+      "emphasized_text": [
+        {"text": "THERE'S TREASURE INSIDE", "style": "brown_caps_running_header"}
+      ]
     },
     "images": [
       {
@@ -73,5 +78,5 @@
     "visible_treasure_items": ["gold chest", "coins", "ingots", "Atlanta 1996 medallion", "jewelry", "gemstones", "trading cards", "belt buckle", "gold nugget"]
   },
 
-  "verification_notes": "Verified against screenshot. Text transcription accurate. Treasure photo items verified: Atlanta 1996 medallion clearly visible, trading cards (basketball), gold nugget, jewelry, coins/ingots all confirmed."
+  "verification_notes": "Verified against screenshot. Body text transcription accurate. Running headers present and were previously omitted: page 14 (verso) prints 'JON COLLINS-BLACK' in brown/gold small caps at top; page 15 (recto) prints 'THERE'S TREASURE INSIDE' in brown/gold small caps at top. Color correction: the bottom-left sidebar 'This is a picture of some of our treasure.' is brown/gold and upright (sampled ~RGB 149,129,100, matching the running headers), NOT red italic as previously recorded. The 'Yours in the hunt,' line is dark gray/black italic; only the signature 'JON COLLINS-BLACK' beneath it is red (sampled ~RGB 207,80,75). Treasure photo verified: green Olympic ribbon/badge embroidered 'Atlanta 1996' (Ch 16), graded slabs incl. a meteorite labeled 'ROCK - NWA 12691' (Ch 19) and a graded basketball card (Ch 13), large gold nugget (Ch 12), gold chest, coins/ingots, gemstones, jewelry, cloisonne jar, magnifying glass all present."
 }

@@ -8,14 +8,14 @@
 | Copyright | 2024 by Jon Collins-Black |
 | Publisher | Treasure Books, Inc. |
 | Distributor | Baker & Taylor |
-| ISBN | 979-8-9899831-3-5 (hardback) |
+| ISBN | 979-8-989813-31-5 (hardback) |
 | LCCN | 2024904217 |
 | Website | www.treasureinside.com |
 | Print Location | China |
 
 ### Credits
 - **Cover & Interior Design**: Richard Ljoenes
-- **Photography**: Jamie River (most)
+- **Photography**: Jamie Biver (most)
 - **Image Donations**: The Arkenstone, Dallas, Texas
 - **Artwork**: Created by author unless noted
 
@@ -43,7 +43,7 @@
 > TREASURE HUNTERS EVERYWHERE
 
 - Kimberly, Aiden, Londyn = author's family (wife + 2 children)
-- "AND" appears in red italic - emphasized
+- "AND" appears in dark/black small caps (not red); the red elements on the page are the horizontal rule beneath the dedication and the Saint Augustine quote
 
 ### Saint Augustine Quote
 > *Where your pleasure is, there is your treasure:*
@@ -56,7 +56,7 @@
 | Element | Observation | Confidence |
 |---------|-------------|------------|
 | Saint Augustine quote | Philosophical - treasure/heart/happiness connection | Low |
-| "AND" emphasized in red | Stylistic choice or intentional? | Low |
+| "AND" set in small caps | Stylistic typesetting, not color-emphasized | Low |
 
 ---
 

@@ -41,7 +41,7 @@
     },
     "images": [],
     "sidebar": {
-      "text": "This globe is a piece of moon rock from meteorite NWA 12691, and it is in our treasure. Although the buyer originally overpaid, in 2021, a similar round lunar rock about the same size as this one sold at auction for over $100,000.",
+      "text": "This globe is a piece of moon rock from meteorite NWA 12691, and it's in our treasure. Although the buyer arguably overpaid, in 2021, a similar round lunar rock about the same size as this one sold at auction for over $500,000.",
       "style": "red_italic"
     }
   },
@@ -50,7 +50,7 @@
     "treasure_item": {
       "name": "Moon rock globe",
       "description": "Spherical piece of moon rock from meteorite NWA 12691",
-      "value": "Similar piece sold at auction for over $100,000 in 2021"
+      "value": "Similar round lunar rock about the same size sold at auction for over $500,000 in 2021"
     },
     "author_interests": {
       "favorite_show": "Star Trek: The Next Generation (ages 16-22)",
@@ -62,5 +62,5 @@
     }
   },
 
-  "verification_notes": "VERIFIED against screenshot. Moon rock globe image, Chapter 19 'MOON ROCKS & METEORS', handwritten 'The Next Frontier' subtitle, Arthur C. Clark quote ('elderly but distinguished scientist'), author admits 'I'm a bit of a nerd', Star Trek TNG favorite show ages 16-22, Captain Jean-Luc Picard hero, Star Trek opening narration quoted, 2024 space developments (space tourism, moon colony, Mars), sidebar 'This globe is a piece of moon rock from meteorite NWA 12691, and it is in our treasure' with $100,000+ auction value all accurate."
+  "verification_notes": "VERIFIED against screenshot. Moon rock globe image, Chapter 19 'MOON ROCKS & METEORS', handwritten 'The Next Frontier' subtitle, quote attributed '—ARTHUR C. CLARK' (book prints 'CLARK' without the final e; the author is actually Arthur C. Clarke — transcribed verbatim as printed), author admits 'I'm a bit of a nerd', Star Trek TNG favorite show ages 16-22, Captain Jean-Luc Picard hero, Star Trek opening narration quoted, 2024 space developments (space tourism, moon colony, Mars). CORRECTED sidebar to verbatim: 'and it's in our treasure' (was 'and it is'), 'the buyer arguably overpaid' (was 'originally overpaid'), and 'sold at auction for over $500,000' (was incorrectly transcribed as $100,000). It IS in our treasure."
 }

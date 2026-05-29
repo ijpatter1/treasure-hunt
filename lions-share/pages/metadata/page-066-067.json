@@ -22,14 +22,14 @@
       "text_in_image": null,
       "potential_clues": ["Tuyet Nguyet ruby ring - author's favorite from her collection"]
     }],
-    "sidebar": {"text": "Originally part of Tuyet Nguyet's 100 gold ring collection, this ring is from 16th century Thailand. It was my favorite ring of Nguyet's collection that is in our treasure. A large round ruby is shown cased in its center.", "style": "red_italic"}
+    "sidebar": {"text": "Originally part of Tuyet Nguyet's 100 gold ring collection, this ring is from 16th century Sukhothai, Thailand. It's my favorite ring of Nguyet's collection that's in our treasure. A large round ruby is showcased in its center.", "style": "red_italic"}
   },
 
   "right_page": {
     "page_number": 67,
     "content_type": "mixed",
     "transcription": {
-      "raw_text": "When I held our ruby ring in person for the first time, it made me want to find more ruby jewelry pieces to add to our treasure. However, every time I located a potential piece to acquire, it was accompanied by a bidding war. Almost no price seemed too high for any quality vintage rubies that came to the public market. For a while, I fell short of making any more ruby additions to our treasure.\n\nI've learned that when I need help, simply asking for inspiration can often be the best solution. So, I aspired for some inspiration to give me a sign for what to do next. Two days later, while reading online about Art Smith's jewelry, an ad popped up showcasing a few contemporary jewelry artists at a prestigious auction house. I rarely click on ads, but it felt as if a gentle wind were nudging me to take a look. So, I clicked. The jewelry of two particular African American artists immediately caught my attention.\n\nSimilar to Art Smith, the style of each artist was both bold, colorful but refined. There were no rubies in the pieces that I saw. Then it dawned on me, just as with our treasure boxes, I could have original pieces made. I reached out to the two jewelry designers, Angie Marei and Lauren Harwell Godfrey, to tell them about our treasure.\n\nAngie Marei designs jewelry in Brooklyn, New York. Angie is of Egyptian-Dominican heritage, and her edgy art calls back to ancient Egypt in its style and form. When I looked at her website, I smiled when I saw she had a blog dedicated to what inspires her. In it she discusses literature, culture, travel, music, and scented oils. Whether she's walking from a dream or running in the park, Angie Marei always has her sketchbook close by, ready for whenever inspiration makes an appearance.\n\nWhen I reached out to Angie to ask if she'd make an original piece of jewelry featuring rubies for our treasure, she enthusiastically agreed. Angie has an infectious energy. She is the type of person who uplifts simply through the vivaciousness of her voice. We brainstormed some initial ideas together, and within a couple of weeks Angie sent me some striking hand-drawn sketches to consider. The final design she created for these earrings was true art.",
+      "raw_text": "When I held our ruby ring in person for the first time, it made me want to find more ruby jewelry pieces to add to our treasure. However, every time I located a potential piece to acquire, it was accompanied by a bidding war. Almost no price seemed too high for any quality vintage rubies that came to the public market. For a while, I fell short of making any more ruby additions to our treasure.\n\nI've learned that when I need help, simply asking for inspiration can often be the best solution. So, I aspired for some inspiration to give me a sign for what to do next. Two days later, while reading online about Art Smith's jewelry, an ad popped up showcasing a few contemporary jewelry artists at a prestigious auction house. I rarely click on ads, but it felt as if a gentle wind were nudging me to take a look. So, I clicked. The jewelry of two particular African American artists immediately caught my attention.\n\nSimilar to Art Smith, the style of each artist was both bold, colorful but refined. There were no rubies in the pieces that I saw. Then it dawned on me, just as with our treasure boxes, I could have original pieces made. I reached out to the two jewelry designers, Angie Marei and Lauren Harwell Godfrey, to tell them about our treasure.\n\nAngie Marei designs jewelry in Brooklyn, New York. Angie is of Egyptian-Dominican heritage, and her edgy art calls back to ancient Egypt in its style and form. When I looked at her website, I smiled when I saw she had a blog dedicated to what inspires her. In it she discusses literature, culture, travel, music, and scented oils. Whether she's waking from a dream or running in the park, Angie Marei always has her sketchbook close by, ready for whenever inspiration makes an appearance.\n\nWhen I reached out to Angie to ask if she'd make an original piece of jewelry featuring rubies for our treasure, she enthusiastically agreed. Angie has an infectious energy. She is the type of person who uplifts simply through the vivaciousness of her voice. We brainstormed some initial ideas together, and within a couple of weeks Angie sent me some striking hand-drawn sketches to consider. The final design she created for these earrings was true art.",
       "formatted_sections": [
         {"type": "body", "text": "I've learned that when I need help, simply asking for inspiration can often be the best solution."},
         {"type": "body", "text": "I reached out to the two jewelry designers, Angie Marei and Lauren Harwell Godfrey, to tell them about our treasure."},
@@ -40,9 +40,9 @@
     "images": [{
       "description": "Wing-shaped ruby earrings designed by Angie Marei",
       "text_in_image": null,
-      "potential_clues": ["Angie Marei ruby earrings - treasure item valued $26,000+"]
+      "potential_clues": ["Angie Marei ruby earrings - treasure item valued $20,000+"]
     }],
-    "sidebar": {"text": "Here is a pair of ruby earrings shaped as wings designed by Angie Marei. Their estimated value is above $26,000", "style": "red_italic"}
+    "sidebar": {"text": "Here is a pair of ruby earrings shaped as wings designed by Angie Marei. Their estimated value is above $20,000.", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -58,7 +58,7 @@
         "location": "Brooklyn, New York",
         "heritage": "Egyptian-Dominican",
         "description": "Wing-shaped ruby earrings",
-        "value": "Above $26,000"
+        "value": "Above $20,000"
       }
     },
     "ruby_knowledge": {
@@ -77,5 +77,5 @@
     ]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Both sidebars confirmed - Tuyet Nguyet Thailand ring (16th c, pigeon's blood) and Angie Marei wing earrings ($26K+). All geographic/cultural details accurate."
+  "verification_notes": "VERIFIED against screenshot. Both sidebars confirmed - Tuyet Nguyet ring (16th century Sukhothai, Thailand; pigeon's blood) and Angie Marei wing earrings (above $20,000). Corrections applied: left sidebar reads '16th century Sukhothai, Thailand' (Sukhothai was previously omitted) and uses contractions \"It's\"/\"that's\"; right sidebar value is $20,000 (was mis-transcribed as $26,000) and ends with a period; right-page body reads 'Whether she's waking from a dream' (was mis-transcribed as 'walking'). Note: 'Noppakao' is italicized in the printed text. All geographic/cultural details accurate."
 }

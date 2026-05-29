@@ -30,7 +30,7 @@
         {"type": "chapter_subtitle", "text": "Don't Wing It", "style": "handwritten_red"},
         {"type": "quote", "text": "It usually takes me more than three weeks to prepare a good impromptu speech.", "attribution": "MARK TWAIN"},
         {"type": "quote", "text": "It's better to look ahead and prepare, than to look back and regret.", "attribution": "JACKIE JOYNER-KERSEE"},
-        {"type": "sidebar", "text": "(Opposite Page) Shown here are four rings in our treasure from Tuyet Nguyet's collection. @ Sotheby's Hong Kong Limited", "style": "red_italic"}
+        {"type": "sidebar", "text": "(Opposite Page) Shown here are four rings in our treasure from Tuyget Nguyet's collection. © Sotheby's Hong Kong Limited", "style": "red_italic"}
       ]
     },
     "formatting": {"has_header": true, "has_quotes": true, "has_handwritten_text": true, "emphasized_text": [{"text": "Don't Wing It", "style": "handwritten_red"}]},
@@ -46,5 +46,5 @@
     ]
   },
 
-  "verification_notes": "Verified against screenshot. Four rings visible (not one). Both quotes confirmed. Sotheby's Hong Kong sidebar confirmed. Notes file had errors corrected."
+  "verification_notes": "Verified against screenshot. Four rings visible (not one). Both quotes confirmed. Sidebar transcribed verbatim: the book prints the collector's name as 'Tuyget Nguyet's' (with a 'g'), a misprint — the chapter title and the actual collector are 'Tuyet Nguyet'; kept faithful to the page. Copyright symbol corrected from '@' to '©' to match the printed '© Sotheby's Hong Kong Limited'. Body raw_text is a partial transcription of the opening paragraph (ends with '...'); included portion matches the page. Notes file had earlier errors corrected."
 }

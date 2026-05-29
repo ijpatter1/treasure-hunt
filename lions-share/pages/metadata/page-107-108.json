@@ -14,7 +14,7 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Gold disk from La Luz shipwreck showing encrustation patterns with 'XIV' marking visible",
+      "description": "Two gold objects from the La Luz shipwreck on a black background. The upper object is a flat gold disk/ingot engraved with the Roman numeral 'XIV', several star/flower-shaped assay stamps, and a small rectangular cartouche/hallmark. The lower object is a thicker rounded gold lump/disk with no clearly legible markings on this page.",
       "text_in_image": "XIV",
       "potential_clues": ["La Luz gold disk treasure item", "Roman numeral XIV (14)"]
     }],
@@ -35,11 +35,11 @@
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "NGC-certified eight escudo gold coin from 1750, showing MS 63 rating",
-      "text_in_image": "1750 8 PCS 63\nReaudulfia Collection\n427368.011\n1750 8E 1/751\nNGC CERTIFICATION",
-      "potential_clues": ["Eight escudo coin treasure item"]
+      "description": "An NGC 'Shipwreck Certification' graded gold coin in a slab holder, with a stormy shipwreck illustration printed on the right side of the label. The coin is an eight escudos graded MS 63 from the La Luz.",
+      "text_in_image": "1750L R PERU 8E\nMS 63\nFernandina Collection\n(27.00g) La Luz\n5965184-003\nSHIPWRECK CERTIFICATION NGC",
+      "potential_clues": ["Eight escudos coin treasure item", "1750L R PERU 8E", "La Luz", "MS 63"]
     }],
-    "sidebar_right": {"text": "Shown here is a very rare eight escudo 1750 gold coin in our treasure.", "style": "red_italic"}
+    "sidebar_right": {"text": "Shown here is a very rare eight escudos 1750 gold coin in our treasure.", "style": "red_italic"}
   },
 
   "key_elements": {
@@ -48,9 +48,9 @@
       "author_goal": "Keep hunters in good spirits, fine health, far from misfortune"
     },
     "treasure_items_confirmed": [
-      "Gold bar from La Luz (over 22 oz, $50,000+)",
-      "Gold disk from La Luz (22+ troy oz, .975 purity)",
-      "Eight escudo coin from 1750 (MS 63 rating)"
+      "Gold disk/ingot from La Luz marked 'XIV' (left page image)",
+      "A second rounded gold object from La Luz (left page image, no legible marking)",
+      "Eight escudos gold coin from La Luz, labeled '1750L R PERU 8E', graded MS 63, 27.00g (right page image)"
     ],
     "transition_to_chapter_12": {
       "subject": "California Gold Rush",
@@ -60,5 +60,5 @@
     "geographic_references": ["Rio de la Plata", "California"]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Gold disk sidebar accurate, 8 escudo coin sidebar accurate, postscript reference ('must read') confirmed, California Gold Rush preview verified."
+  "verification_notes": "RE-VERIFIED against page image. Left-page sidebar ('This is a gold disk from the La Luz now in our treasure.') confirmed verbatim ('La Luz' is italicized). Left page actually shows TWO gold objects (flat XIV-marked disk above, rounded lump below). Right-page sidebar corrected to plural 'escudos' to match the printed caption ('Shown here is a very rare eight escudos 1750 gold coin in our treasure.'). Coin slab label text fully re-transcribed from a magnified crop: '1750L R PERU 8E / MS 63 / Fernandina Collection / (27.00g) La Luz / 5965184-003 / SHIPWRECK CERTIFICATION NGC'; the prior values ('1750 8 PCS 63', 'Reaudulfia Collection', '427368.011', '1750 8E 1/751', 'NGC CERTIFICATION') were inaccurate. NOTE: the collection name renders as 'Femandina' due to an 'rn' ligature but is the Fernandina Collection. Body text on p.108 verified verbatim. Page numbers 107/108 and running heads (JON COLLINS-BLACK / THERE'S TREASURE INSIDE) confirmed. Postscript 'must read' reference and California Gold Rush preview confirmed. The fabricated 'gold bar (over 22 oz, $50,000+)', '.975 purity', 'XXVI marking', and 'Lima mint' details do NOT appear anywhere on this page and were removed from treasure_items_confirmed."
 }

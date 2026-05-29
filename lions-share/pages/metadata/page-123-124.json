@@ -9,14 +9,14 @@
     "page_number": 123,
     "content_type": "image",
     "transcription": {
-      "raw_text": "not sure been in vain. Than I've loved right thought... (handwritten text continues)",
+      "raw_text": "[Historical cursive manuscript page, best-effort partial transcription; several words illegible] ...not have been in vain. How to live - how to get the most of life - as you teach the young hunter how to entrap his game. How to extract its honey from the flower of the world. That's my everyday business. I am as busy as a bee about it. I ramble over all fields on that errand, and I am never so happy as when I feel myself heavy with honey & wax. I am like a bee searching the livelong day for the sweets of nature. Do I not impregnate and intermix the flowers - produce rare and finer varieties by transferring my eyes from one to another? ... I do as naturally & as joyfully, with my own humming music, take honey all the day. With what honeyed thought my experience yields me I take a bee-line to my cell. It is with flowers I would deal. Where is the flower...",
       "formatted_sections": []
     },
     "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
     "images": [{
-      "description": "Handwritten manuscript page, appears to be historical cursive writing",
-      "text_in_image": "Handwritten cursive text - difficult to fully transcribe",
-      "potential_clues": ["Possibly Thoreau's journal page"]
+      "description": "Full-page reproduction of a historical handwritten manuscript in brown-ink cursive (a journal entry or letter). The legible passage is a known Henry David Thoreau journal-style reflection on living 'how to extract its honey from the flower of the world,' being 'as busy as a bee,' rambling 'over all fields,' feeling 'heavy with honey & wax,' and taking 'a bee-line to my cell.' Ties to the chapter's Thoreau theme.",
+      "text_in_image": "Handwritten cursive text - partially legible; full verbatim transcription uncertain in several places",
+      "potential_clues": ["Thoreau journal/manuscript page (bee / honey / flower passage)", "Connects to chapter item: Thoreau-related treasure"]
     }]
   },
 
@@ -24,7 +24,7 @@
     "page_number": 124,
     "content_type": "text",
     "transcription": {
-      "raw_text": "CHAPTER 14\n\nTIFFANY'S FURNACE AND THOREAU'S FIRE\n\nFail Forward\n\n\"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.\"\n—C.S. LEWIS\n\n\"I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.\"\n—ALBERT EINSTEIN\n\nThere is much to admire about the United States of America. The fabric of American culture is stitched with a spirit of independence and exploration. Innovation and discovery are held in high regard and for good reason. Medical breakthroughs, space travel, the internet, and myriad other society-advancing discoveries were and are pioneered right here in America. People travel from across the globe, just as they have for over two hundred and fifty years, some even at the risk of their lives, for an opportunity to take part in the celebrated treasure hunt we call The American Dream.\n\nThe capitalism that fuels The American Dream is based on competition. Its very nature incentivizes ideas to improve the world. But at its extreme, capitalism becomes less about important advances and more about a contest for profits or fame, where winners and losers emerge from a zero-sum game. And let's be honest, Americans love winners. Perhaps more",
+      "raw_text": "CHAPTER 14\n\nTIFFANY'S FURNACE AND THOREAU'S FIRE\n\nFail Forward\n\n\"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.\"\n—C. S. LEWIS\n\n\"I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.\"\n—ALBERT EINSTEIN\n\nThere is much to admire about the United States of America. The fabric of American culture is stitched with a spirit of independence and exploration. Innovation and discovery are held in high regard and for good reason. Medical breakthroughs, space travel, the internet, and myriad other society-advancing discoveries were and are pioneered right here in America. People travel from across the globe, just as they have for over two hundred and fifty years, some even at the risk of their lives, for an opportunity to take part in the celebrated treasure hunt we call The American Dream.\n\nThe capitalism that fuels The American Dream is based on competition. Its very nature incentivizes ideas to improve the world. But at its extreme, capitalism becomes less about important advances and more about a contest for profits or fame, where winners and losers emerge from a zero-sum game. And let's be honest; Americans love winners. Perhaps more",
       "formatted_sections": [
         {"type": "chapter_header", "text": "TIFFANY'S FURNACE AND THOREAU'S FIRE"},
         {"type": "handwritten_subtitle", "text": "Fail Forward", "style": "red_handwritten"},
@@ -44,5 +44,5 @@
     "themes": ["Failure as path to success", "American Dream", "Innovation", "Competition"]
   },
 
-  "verification_notes": "VERIFIED against screenshot. Handwritten manuscript image (possibly Thoreau), 'Fail Forward' subtitle, C.S. Lewis quote ('One fails forward toward success'), Einstein quote (99 times false, 100th right), American Dream as 'celebrated treasure hunt' all accurate."
+  "verification_notes": "Re-verified against page image. Right page (124): chapter 14 title 'TIFFANY'S FURNACE AND THOREAU'S FIRE', red handwritten subtitle 'Fail Forward', C.S. Lewis epigraph ('One fails forward toward success'), Einstein epigraph (99 times false, 100th right), and body text confirmed. CORRECTION: body text printed 'And let's be honest; Americans love winners' with a SEMICOLON (the word 'love' is italicized in print); prior transcription used a comma. Page number 124 confirmed bottom-right. The C.S. Lewis attribution is printed as '—C. S. LEWIS' (space between initials); raw_text corrected to match printed spacing (normalized 'C.S. Lewis' kept in structured attribution fields). Left page (123): full-page historical cursive manuscript (brown ink). Prior raw_text ('not sure been in vain. Than I've loved right thought...') was a hallucinated misreading; replaced with a best-effort partial transcription of the legible Thoreau-style 'busy as a bee / honey from the flower of the world / bee-line to my cell' passage. The cursive is only partially legible and several words remain uncertain - this is a best-effort reading, not a guaranteed-verbatim transcription."
 }

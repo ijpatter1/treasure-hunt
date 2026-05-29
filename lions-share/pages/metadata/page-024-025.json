@@ -22,9 +22,9 @@
     },
     "images": [
       {
-        "description": "Three views of the 120-carat sapphire: top view shows blue crystal, middle shows reddish appearance under UV light, bottom shows another angle of the blue crystal",
+        "description": "Two views of the 120-carat sapphire crystal on a black background: the top image shows the elongated crystal appearing reddish/orange (its appearance under ultraviolet light, per the sidebar), and the bottom image shows the same crystal appearing pale blue under normal light.",
         "text_in_image": null,
-        "potential_clues": ["UV light reveals different appearance", "Three different perspectives of same stone"]
+        "potential_clues": ["UV light reveals a different (red) appearance vs normal (blue)", "Two views of the same stone (red under UV, blue under normal light)"]
       }
     ]
   },
@@ -57,5 +57,5 @@
     "transition_to_chapter_2": "Tuyet Nguyet - over 50 years cultivating rare art knowledge, over a dozen objects in treasure"
   },
 
-  "verification_notes": "Verified against screenshot. Three sapphire views (blue, red UV, blue angle) confirmed. Sidebar about UV light accurate. Parenting values and Tuyet Nguyet transition text verified."
+  "verification_notes": "Verified against page image. Left page shows TWO sapphire views (top = reddish/orange under UV light, bottom = pale blue under normal light) on a black background; an earlier transcription claiming three views was corrected. Left page header reads 'JON COLLINS-BLACK', page number 24. Sidebar (lower-left, red/tan italic) reads exactly: 'The image in red shows what our sapphire appears like under ultraviolet light.' Right page header reads 'THERE'S TREASURE INSIDE', page number 25; full body text and Tuyet Nguyet transition verified verbatim."
 }

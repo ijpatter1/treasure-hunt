@@ -18,7 +18,7 @@
         {"type": "body", "text": "Get to know and understand those with whom we disagree"}
       ]
     },
-    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "formatting": {"has_header": false, "has_quotes": true, "emphasized_text": ["should (italicized in 'Dad, what should we do?')"]},
     "images": []
   },
 
@@ -42,9 +42,7 @@
 
   "key_elements": {
     "modern_myths_debunked": [
-      "We only use 10% of our brains (false - we use most of brain)",
-      "Mice prefer cheese (false)",
-      "Different groups of people are vastly different (false)"
+      "Myth that race, religion, culture, or political affiliation separate people into categories of right and wrong (the only 'myth' actually discussed on this page)"
     ],
     "philosophy": {
       "humanity_theme": "We are all the same underneath differences",
@@ -53,5 +51,5 @@
     "transition_to_chapter_22": "Our next chapter is a love story"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Modern myths about divisions (race, religion, culture, political affiliation separating people), 'We and our enemies, if we have them, are mostly the same', human condition (making sense of things), advice to children (avoid group thinking bias, 'truth of tribes is too often a mirage', get to know those we disagree with), 'Here is where love resides in all of us', 'Our next chapter is a love story', aerial photograph of people forming heart shape on brick/stone surface all accurate."
+  "verification_notes": "VERIFIED against screenshot. Both raw_text blocks transcribed verbatim and confirmed line-by-line (left page 187 ends '...into the hearts of those they might op-'; right page 188 begins 'pose.'). Running heads on page: left 'JON COLLINS-BLACK', right 'THERE'S TREASURE INSIDE' (excluded from raw_text per convention; has_header refers to in-content headers, of which there are none). The word 'should' in the quoted question 'Dad, what should we do?' is printed in italics. CORRECTION: key_elements.modern_myths_debunked previously listed 'We only use 10% of our brains' and 'Mice prefer cheese' -- these myths do NOT appear anywhere on this page and were hallucinated; replaced with the only myth actually discussed (race/religion/culture/political affiliation dividing people). CORRECTION: left_page formatting changed has_quotes false->true (page contains quoted questions: 'How does life exist?...' and 'Dad, what should we do?') and noted italicized 'should'. Image is an aerial photograph of a crowd standing in formation to create a large heart shape on a paved plaza, with other pedestrians walking outside the formation; description accurate."
 }

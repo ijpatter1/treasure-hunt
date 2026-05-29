@@ -73,16 +73,16 @@
       "potential_clues": ["gold rush", "natural gold"]
     },
     {
-      "description": "Bitcoin coin",
-      "location": "top_right",
-      "text_in_image": "Bitcoin symbol",
+      "description": "Physical silver Bitcoin coin (Casascius-style) with embossed Bitcoin 'B' symbol",
+      "location": "top_center",
+      "text_in_image": "999 FINE SILVER; 2013; Bitcoin 'B' symbol",
       "potential_clues": ["modern treasure", "cryptocurrency"]
     },
     {
-      "description": "Old photograph or document with portrait on red background",
+      "description": "Old photograph/portrait on a red-tinted background with faint italic text overlay",
       "location": "top_right",
-      "text_in_image": "Partial text visible including 'Courage' and possibly prize/value references",
-      "potential_clues": ["historical figure", "courage theme", "prize reference"]
+      "text_in_image": "Faint italic text, mostly illegible; legible fragments include 'for the round, yellow eyes of the ham[let]', 'Growing filmy with mists.', and \"And Amelia's poem 'Courage' giv[es us more]...\"",
+      "potential_clues": ["historical figure", "Amelia Earhart poem 'Courage'", "courage theme"]
     },
     {
       "description": "Red treasure hunt logo (pickaxe and shovel)",
@@ -103,10 +103,10 @@
       "potential_clues": ["emerald", "gemstone"]
     },
     {
-      "description": "Multiple treasure boxes in different colors/materials",
+      "description": "Single ornate engraved gold treasure box (decorative relief on lid and sides) resting on a blue-grey surface",
       "location": "bottom_right",
       "text_in_image": null,
-      "potential_clues": ["gold box", "dark wood box", "represents 5 boxes"]
+      "potential_clues": ["gold box", "treasure box"]
     },
     {
       "description": "Map fragment with topographic lines",
@@ -116,5 +116,5 @@
     }
   ],
 
-  "verification_notes": "Verified against screenshot. Text transcription accurate. Added detail about visible text on red document ('Courage' visible). 'The Lion's Share' and 'Treasure' appear on separate lines in image."
+  "verification_notes": "Verified against screenshot. Printed text transcription accurate (THE MAIN BOOK / The Lion's Share Treasure / THERE'S TREASURE INSIDE / A Treasure Hunt by / JON COLLINS-BLACK / 'A literary project unlike anything else. A true and monumental treasure quest.' / NATIONAL BESTSELLER). 'The Lion's Share' and 'Treasure' appear on separate lines in image. Top-center coin is a physical silver Bitcoin coin reading '999 FINE SILVER' and '2013' (previously just 'Bitcoin coin'). Bottom-right image is a SINGLE ornate engraved gold box (previously mis-described as 'multiple treasure boxes... represents 5 boxes' -- corrected to one box). Red diamond (top-right) shows a portrait on red with faint italic text; partially legible fragments include 'for the round, yellow eyes of the ham[let]', 'Growing filmy with mists.', and \"And Amelia's poem 'Courage' giv[es us more]...\" -- this is text related to Amelia Earhart's poem 'Courage' (cf. Ch. 7). Most of the red-document italic text is too faint to transcribe verbatim (see uncertainties)."
 }

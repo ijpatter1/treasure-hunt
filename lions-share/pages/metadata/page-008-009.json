@@ -17,7 +17,7 @@
     },
     "images": [
       {
-        "description": "Custom treasure box - rectangular with gold/brass frame, black leather/velvet interior visible through open top, metal reinforced corners and edges, appears to be high-quality craftsmanship",
+        "description": "Custom treasure box (closed) - rectangular chest with light tan/beige metal panels (brass or aged metal) set in a dark gunmetal/iron frame, dark reinforced corner brackets and edges, two dark metal straps running across the top, a dark metal latch/clasp on the front face, and dark metal feet/legs at the bottom; high-quality craftsmanship. No interior visible (box is closed).",
         "text_in_image": null,
         "potential_clues": ["Box design/style", "Craftsmanship suggests significant value"]
       }
@@ -46,12 +46,12 @@
         {
           "type": "callout",
           "text": "I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.",
-          "style": "caps_centered_boxed"
+          "style": "gold_tan_caps_centered"
         },
         {
           "type": "callout",
           "text": "AND IT'S WAITING FOR YOU TO FIND IT.",
-          "style": "gold_caps_centered"
+          "style": "red_caps_centered"
         },
         {
           "type": "body",
@@ -64,10 +64,10 @@
       "has_quotes": false,
       "has_handwritten_text": false,
       "emphasized_text": [
-        {"text": "I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.", "style": "caps_centered"},
-        {"text": "AND IT'S WAITING FOR YOU TO FIND IT.", "style": "gold_caps"}
+        {"text": "I'VE HIDDEN A TREASURE SOMEWHERE IN THE UNITED STATES THAT'S WORTH MILLIONS OF DOLLARS.", "style": "gold_tan_caps_centered"},
+        {"text": "AND IT'S WAITING FOR YOU TO FIND IT.", "style": "red_caps_centered"}
       ],
-      "special_typography": ["gold border around callout box"]
+      "special_typography": ["red dotted-line rules above and below the callout", "vertical gold/tan double-line borders flanking the callout (left and right), not a full enclosed box"]
     },
     "images": []
   },
@@ -79,5 +79,5 @@
     "connected_names": ["Picasso", "Carnegie", "Washington", "Tiffany", "Thoreau", "Onassis"]
   },
 
-  "verification_notes": "Verified against screenshot. All transcriptions accurate. Callout text verified word-by-word. Names order confirmed: Picasso, Carnegie, Washington, Tiffany, Thoreau, Onassis."
+  "verification_notes": "Verified against screenshot. All right-page body and callout text transcriptions verified verbatim word-by-word. Names order confirmed: Picasso, Carnegie, Washington, Tiffany, Thoreau, Onassis. Corrections made: (1) Callout colors were reversed/mislabeled - the main statement 'I'VE HIDDEN A TREASURE...' is printed in gold/tan (sampled RGB ~131,108,75), and 'AND IT'S WAITING FOR YOU TO FIND IT.' is printed in RED (sampled RGB ~217,114,110); styles corrected accordingly. (2) The callout has red dotted-line rules above/below and vertical gold/tan double-line borders flanking left and right (not a full enclosed box). (3) Left-page box image description corrected: the box is CLOSED (no open top, no visible leather/velvet interior); it has light tan/beige metal panels in a dark gunmetal/iron frame with dark corner brackets, two dark top straps, a front latch, and dark feet."
 }

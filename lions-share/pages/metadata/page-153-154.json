@@ -15,9 +15,9 @@
         {"type": "body", "text": "This George kid was a real standup guy."}
       ]
     },
-    "formatting": {"has_header": false, "has_quotes": false, "emphasized_text": []},
+    "formatting": {"has_header": false, "has_quotes": true, "emphasized_text": ["George Washington could never tell a lie"]},
     "images": [{
-      "description": "Illustration of open book with cherry tree and branches",
+      "description": "Pen-and-ink illustration drawn across an open notebook/sketchbook spread: a leafless tree bearing several small red cherries (one larger cherry hangs prominently at center-left), with sparse bare branches and roots/grass sketched at the base. A real red apple-like object sits on the desk to the left, a pencil rests at top right, and the edge of another book is visible at right.",
       "text_in_image": null,
       "potential_clues": []
     }]

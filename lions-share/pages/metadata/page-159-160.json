@@ -24,7 +24,7 @@
     "page_number": 160,
     "content_type": "text",
     "transcription": {
-      "raw_text": "ANDREW CARNEGIE'S EMERALD\n\nThe Science of Giving\n\n\"Always give without remembering and always receive without forgetting.\" —BRIAN TRACY\n\n\"We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.\" —STEVE GOODIER\n\nI have a good editor. He is excellent at what he does. He's been a part of a #1 best seller, and I respect his opinion. So, when he sent me his first round of notes for this book, I was excited to read them. Immediately, one of his comments jumped out at me:\n\n(These treasure) items seem so extravagant that I wonder if readers will ask if you're putting them on...you're giving away extraordinarily rare and expensive prizes. There's no punchline to this? Only because it goes so strongly against human nature.\n\nHis question felt important, and I pondered it for a while. Was there a punchline to this treasure hunt? It's not a word I would have used to describe any dénouement around here. But I think I understood what he was",
+      "raw_text": "ANDREW CARNEGIE'S EMERALD\n\nThe Science of Giving\n\n\"Always give without remembering and always receive without forgetting.\" —BRIAN TRACY\n\n\"We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.\" —STEVE GOODIER\n\nI have a good editor. He is excellent at what he does. He's been a part of a #1 best seller, and I respect his opinion. So, when he sent me his first round of notes for this book, I was excited to read them. Immediately, one of his comments jumped out at me:\n\n(These treasure) items seem so extravagant that I wonder if readers will ask if you're putting them on...you're giving away extraordinarily rare and expensive prizes. There's no punchline to this? Only because it goes so strongly against human nature.\n\nHis question felt important, and I pondered it for a while.Was there a punchline to this treasure hunt? It's not a word I would have used to describe any dénouement around here. But I think I understood what he was",
       "formatted_sections": [
         {"type": "chapter_header", "text": "ANDREW CARNEGIE'S EMERALD"},
         {"type": "handwritten_subtitle", "text": "The Science of Giving"},
@@ -42,8 +42,8 @@
     },
     "images": [],
     "sidebar": {
-      "text": "This green Colombian emerald in matrix was a part of Andrew Carnegie's rare mineral collection. After his death, it passed through a few owners before I acquired it.",
-      "style": "red_italic"
+      "text": "This green Columbian emerald in matrix was a part of Andrew Carnegie's rare mineral collection. After his death, it passed through a few owners before I acquired it.",
+      "style": "brown_bold_sans"
     }
   },
 
@@ -57,5 +57,5 @@
     "editor_question": "Is there a punchline to giving away such extravagant treasure?"
   },
 
-  "verification_notes": "VERIFIED against screenshot. Emerald image with label 'EMERALD / Muzo Mine / Boyacá Dept., Colombia', Chapter 18 'ANDREW CARNEGIE'S EMERALD', handwritten 'The Science of Giving' subtitle, Brian Tracy quote ('give without remembering'), Steve Goodier quote ('none of us can ever run out of something worthwhile to give'), sidebar 'This green Colombian emerald in matrix was a part of Andrew Carnegie's rare mineral collection. After his death, it passed through a few owners before I acquired it.', editor question about extravagant items going 'strongly against human nature' all accurate."
+  "verification_notes": "VERIFIED against screenshot. Emerald image with label 'EMERALD / Muzo Mine / Boyacá Dept., Colombia' (label uses 'Colombia'), Chapter 18 'ANDREW CARNEGIE'S EMERALD', handwritten 'The Science of Giving' subtitle, Brian Tracy quote ('give without remembering'), Steve Goodier quote ('none of us can ever run out of something worthwhile to give'), editor question about extravagant items going 'strongly against human nature'. BOOK MISPRINTS transcribed verbatim: (1) the right-margin sidebar spells the gem 'Columbian' (correct demonym for Colombia is 'Colombian'); the JSON previously normalized it to 'Colombian' and has been restored to the printed 'Columbian'. (2) Body text prints 'for a while.Was there' with NO space after the period (typo in book); transcribed as printed. NOTE: the right-margin sidebar is set in brown/gold bold sans-serif, NOT red italic as previously recorded; style corrected to 'brown_bold_sans'."
 }

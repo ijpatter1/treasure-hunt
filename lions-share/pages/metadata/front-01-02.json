@@ -7,7 +7,7 @@
     "page_label": "copyright",
     "content_type": "text",
     "transcription": {
-      "raw_text": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK\n\nCOVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES\n\nALL RIGHTS RESERVED. REPRODUCTION OF ANY FORM, INCLUDING DIGITAL TRANSMISSION OVER THE INTERNET, IS A THEFT OF THE AUTHOR'S INTELLECTUAL PROPERTY. IF YOU WOULD LIKE PERMISSION TO USE MATERIAL FROM THIS BOOK OTHER THAN FOR REVIEW PURPOSES, PLEASE CONTACT TREASURE BOOKS, INC AT WWW.TREASUREINSIDE.COM\n\nLIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-9899831-3-5 (HARDBACK)\nPRINTED IN CHINA\n\n0 9 8 7 6 5 4 3\nPUBLISHED BY TREASURE BOOKS, INC.\nDISTRIBUTED BY BAKER & TAYLOR\n\nMOST PHOTOGRAPHY WAS SHOT BY JAMIE RIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS.\n\nARTWORK WAS CREATED BY AUTHOR UNLESS OTHERWISE NOTED.",
+      "raw_text": "TEXT COPYRIGHT © 2024 BY JON COLLINS-BLACK\n\nCOVER AND INTERIOR LAYOUT DESIGN BY RICHARD LJOENES\n\nALL RIGHTS RESERVED. REPRODUCTION OF ANY FORM, INCLUDING DIGITAL TRANSMISSION OVER THE INTERNET, IS A THEFT OF THE AUTHOR'S INTELLECTUAL PROPERTY. IF YOU WOULD LIKE PERMISSION TO USE MATERIAL FROM THIS BOOK OTHER THAN FOR REVIEW PURPOSES, PLEASE CONTACT TREASURE BOOKS, INC AT WWW.TREASUREINSIDE.COM\n\nLIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-989813-31-5 (HARDBACK)\nPRINTED IN CHINA\n\n0 9 8 7 6 5 4 3\nPUBLISHED BY TREASURE BOOKS, INC.\nDISTRIBUTED BY BAKER & TAYLOR\n\nMOST PHOTOGRAPHY WAS SHOT BY JAMIE BIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS.\n\nARTWORK WAS CREATED BY AUTHOR UNLESS OTHERWISE NOTED.",
       "formatted_sections": [
         {
           "type": "copyright",
@@ -23,7 +23,7 @@
         },
         {
           "type": "publishing_info",
-          "text": "LIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-9899831-3-5 (HARDBACK)\nPRINTED IN CHINA"
+          "text": "LIBRARY OF CONGRESS CONTROL NUMBER: 2024904217\nISBN: 979-8-989813-31-5 (HARDBACK)\nPRINTED IN CHINA"
         },
         {
           "type": "print_number",
@@ -35,7 +35,7 @@
         },
         {
           "type": "photo_credits",
-          "text": "MOST PHOTOGRAPHY WAS SHOT BY JAMIE RIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS."
+          "text": "MOST PHOTOGRAPHY WAS SHOT BY JAMIE BIVER.\nSOME IMAGES WERE DONATED BY THE ARKENSTONE IN DALLAS, TEXAS."
         },
         {
           "type": "artwork_credit",
@@ -61,11 +61,11 @@
       "copyright_year": 2024,
       "author": "Jon Collins-Black",
       "designer": "Richard Ljoenes",
-      "photographer": "Jamie River",
+      "photographer": "Jamie Biver",
       "image_source": "The Arkenstone, Dallas, Texas",
       "publisher": "Treasure Books, Inc.",
       "distributor": "Baker & Taylor",
-      "isbn": "979-8-9899831-3-5",
+      "isbn": "979-8-989813-31-5",
       "lccn": "2024904217",
       "print_location": "China",
       "website": "www.treasureinside.com"
@@ -97,12 +97,13 @@
       "has_quotes": true,
       "has_handwritten_text": false,
       "emphasized_text": [
-        {"text": "AND", "style": "red_italic"},
-        {"text": "Saint Augustine quote", "style": "red_italic"}
+        {"text": "AND", "style": "dark_small_caps"},
+        {"text": "horizontal rule below dedication", "style": "red_rule"},
+        {"text": "Saint Augustine quote and attribution", "style": "red_italic"}
       ]
     },
     "images": []
   },
 
-  "verification_notes": "Verified against screenshot. All transcriptions accurate."
+  "verification_notes": "Verified against high-resolution crops of the page image. Corrections: (1) ISBN printed as '979-8-989813-31-5 (HARDBACK)' — prior transcription had wrong digit grouping '979-8-9899831-3-5'. (2) Photographer surname printed as 'JAMIE BIVER' (clear B) — prior transcription read 'Jamie River'; transcribed verbatim as printed. (3) On the dedication page the word 'AND' is set in dark/near-black small caps (sampled RGB ~46,43,43), NOT red italic as previously recorded; the genuinely red elements are the horizontal rule beneath the dedication (sampled RGB ~196,80,71) and the Saint Augustine quote with its attribution. LCCN 2024904217, copyright year 2024, designer 'RICHARD LJOENES', publisher 'TREASURE BOOKS, INC.', distributor 'BAKER & TAYLOR', print number '0 9 8 7 6 5 4 3', and website www.treasureinside.com all confirmed against the image. A small decorative printer's mark (stylized ampersand-like device) sits at the bottom right of the copyright text block."
 }
