@@ -22,13 +22,13 @@ These are the load-bearing facts. Everything downstream must respect them.
 
 **The children's book clue is REAL.** The author confirmed he placed _"an extra clue or two in Our Unbreakable Thread to assist in finding the largest treasure box"_ ([MW Substack](https://mysteriouswritings.substack.com/p/theres-treasure-inside-lions-share)). The illustrator (Nicole Gsell) confirmed three deliberate post-submission edits: a **butterfly added**, the **baby's hairline modified**, a **green blob deleted** ([MW Substack, 7/4/25](https://mysteriouswritings.substack.com/p/weekly-treasure-recap-7425-featured)). These are NOT required, but they are author-endorsed and remain **undecoded into any location by anyone.** _(Caveat: a later direct-inspection vision pass — see FINAL-REPORT.md — judged the butterfly decorative and found the hairline/green-blob edits still uncracked.)_
 
-**The one UNCERTAIN fact that matters most:** the author reportedly said _"I don't think there is any information in the poem or related to part 2 of the book"_ for the Lion's Share. Joy's Serenade is in Part 2. If true, this **invalidates every poem-driven solve — both Rocky Face AND Pikes Peak.** Adversarial verification rated this **UNCERTAIN** (secondhand attribution via Mysterious Writings, not confirmed against primary audio). It conflicts with a separate, vaguer claim that the poem is "pretty important." **Resolve this before any poem-based trip.**
+**CORRECTION (2026-05-29) — the poem is NOT disqualified; an earlier "poem = Part 2" claim here was false.** A prior version of this report asserted _"Joy's Serenade is in Part 2"_ and leaned on a secondhand quote (_"I don't think there is any information in the poem or related to part 2 of the book"_, via Mysterious Writings) to argue the poem holds no Lion's Share clues. **That structural claim is verifiably false.** Per the book's own text, **Part Two is the section of four chapters dedicated to the four _smaller_ boxes** (p.16-17: _"the four chapters in Part Two contain primarily all you need to discover the location of the other four treasure boxes"_; p.10-11 says the same). **Joy's Serenade is the Final Poem in the back matter / Postscript region (pp.205-206) — entirely outside Part Two.** Even the original secondhand quote lists "the poem" and "part 2" as two _separate_ items; collapsing them was the error. A separate attribution calls the poem _"pretty important"_ for the Lion's Share, and the book states the largest box's clues _"may be found anywhere inside this book."_ **→ Treat Joy's Serenade as a primary clue vehicle for the Lion's Share.** (Whether the author ever downplayed the poem _itself_ is a contested secondhand point worth checking against primary interview audio — but it does NOT rest on the false "poem = Part 2" structure and does not gate using the poem.) See `research/book-structure-verified.md`.
 
 ---
 
 ## 2. Ranked location leads
 
-Ranking logic: weight (a) author-confirmed constraints, (b) clues that survive the "no grand cipher / be literal" rule, and (c) physical accessibility — and heavily discount any lead that depends on the poem alone (per the UNCERTAIN "no info in the poem" statement) or on letter/number extraction.
+Ranking logic: weight (a) author-confirmed constraints, (b) clues that survive the "no grand cipher / be literal" rule, and (c) physical accessibility — and discount leads that depend on letter/number extraction (the "no grand cipher" rule argues against those). _Note: an earlier version of this logic also discounted poem-based leads, citing the now-corrected "poem = Part 2" claim (see §1). The poem (Joy's Serenade) is a primary clue vehicle and is **not** discounted; the rankings below were drafted under the old assumption and therefore under-weight poem evidence — re-weight accordingly._
 
 No lead is strong. There is no community consensus and no biographical or author signal that pins the Lion's Share to any state. Treat the entire ranking as "least-bad first," not "likely."
 
@@ -53,7 +53,7 @@ No lead is strong. There is no community consensus and no biographical or author
 ### #4 — Stone Mountain State Park, NC (best literal-poem NC site)
 - **Sub-area:** Stone Mountain Loop Trail to the 600-ft granite dome, ~36.39 N, -81.04 W. Free, single-day, within 3 mi of a road, ~35-40 mi from the author's Hiddenite roots.
 - **Clues it satisfies (poem/haiku, literal):** exposed 600-ft granite dome = haiku _"Be solid, have grit"_ and _"sat upon a rock, allowing nature's wide embrace"_; oak slopes = _"shady oaks"_; 17+ mi of designated trout waters = _"magic in the water, but the pike are rather all around"_; documented butterflies = _"Dancers are on the land"_.
-- **Biggest weakness:** pure poem-imagery match — moot if "no info in the poem" holds; imagery is non-unique; no in-book/author clue names this park.
+- **Biggest weakness:** pure poem-imagery match; the imagery is non-unique (fits many US public lands) and no in-book/author clue names this park. _(The poem itself is valid — see §1 correction — but generic imagery alone doesn't discriminate this site.)_
 - **One BOTG next step:** only worth a day-trip if you've decided to bet on the poem AND want the strongest NC poem-fit. Lower priority than resolving the poem question itself.
 
 ### #5 — Pikes Peak / Manitou Springs / Colorado Springs, CO
@@ -107,7 +107,7 @@ A community "113" (ebook-vs-hardcover page difference) read as longitude 113° W
 
 ## 5. Open questions / verify before traveling
 
-1. **PRIMARY: Did the author really say the poem/Part 2 holds no Lion's Share info?** Rated UNCERTAIN; determines whether ANY poem-based lead is worth pursuing. Verify against primary interview audio.
+1. **RESOLVED (structural): the poem is NOT "Part 2."** Part Two = the four smaller-box chapters; Joy's Serenade is the back-matter/Postscript Final Poem (pp.205-206), separate from Part Two — so the "poem = Part 2 ⇒ poem irrelevant" reasoning is dead (see §1). Treat the poem as a primary clue vehicle. _(Optional, non-gating: whether the author ever downplayed the poem itself is a contested secondhand point — verify against primary audio if curious.)_
 2. **Is the Forrest Fenn box in Colorado specifically (vs. NM/WY/MT)?** If CO, the Pikes Peak read is dead on one-box-per-state.
 3. **Which state, if any, do the children's-book art edits resolve to?**
 4. **Has anyone announced a found box since 2026-05-28?** Re-check treasureinside.com before any trip.
