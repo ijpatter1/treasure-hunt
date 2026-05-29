@@ -41,12 +41,8 @@ lions-share/
 ├── chapters/             # Chapter summaries (bias-free)
 │   └── chapter-XX.md     # Facts from each chapter (no hypothesis lens)
 │
-├── hypotheses/           # Hypothesis-specific content
-│   └── [hypothesis-name]/
-│       ├── README.md     # Theory overview
-│       ├── summary.md    # Living hypothesis summary
-│       ├── chapter-XX.md # Chapter interpretations through this lens
-│       └── *.md          # Supporting analyses
+├── botg/                 # Boots on the ground search
+│   └── *.md/png.         # Documents, scripts and findings from physical searches
 │
 ├── pages/                # Page-level source analysis
 │   ├── metadata/         # Structured JSON per screenshot (full text)
