@@ -23,6 +23,21 @@ var sat=L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_
 var topo=L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",{maxZoom:17,attribution:"OpenTopoMap"});
 sat.addTo(map);
 L.control.layers({"Satellite":sat,"Topo":topo}).addTo(map);
+/* === Triangulation overlay (B->CH x S->H extended) === */
+var TRI={Bakersville:[36.0151,-82.1582],ChapelHill:[35.9132,-79.0558],Statesville:[35.7826,-80.8873],Hiddenite:[35.9168,-81.0989]};
+function _ext(a,b,t){return [a[0]+(b[0]-a[0])*t, a[1]+(b[1]-a[1])*t];}
+function _isect(p1,p2,p3,p4){var x1=p1[1],y1=p1[0],x2=p2[1],y2=p2[0],x3=p3[1],y3=p3[0],x4=p4[1],y4=p4[0];var d=(x1-x2)*(y3-y4)-(y1-y2)*(x3-x4);if(Math.abs(d)<1e-12)return null;var px=((x1*y2-y1*x2)*(x3-x4)-(x1-x2)*(x3*y4-y3*x4))/d;var py=((x1*y2-y1*x2)*(y3-y4)-(y1-y2)*(x3*y4-y3*x4))/d;return [py,px];}
+var L1a=TRI.Bakersville,L1b=TRI.ChapelHill,L2a=TRI.Statesville,L2b=TRI.Hiddenite;
+var ix=_isect(L1a,L1b,L2a,L2b);
+var L2_nw=_ext(L2a,L2b,2.6),L2_se=_ext(L2b,L2a,1.4);
+L.polyline([L1a,L1b],{color:"#1e88e5",weight:3,opacity:0.9}).addTo(map).bindPopup("Bakersville &#8594; Chapel Hill");
+L.polyline([L2_se,L2_nw],{color:"#e53935",weight:3,opacity:0.9,dashArray:"6,6"}).addTo(map).bindPopup("Statesville &#8594; Hiddenite (extended)");
+function _cm(ll,label,color){return L.circleMarker(ll,{radius:6,color:"#222",weight:1,fillColor:color,fillOpacity:1}).addTo(map).bindPopup(label);}
+_cm(TRI.Bakersville,"Bakersville, NC","#1e88e5");_cm(TRI.ChapelHill,"Chapel Hill, NC","#1e88e5");
+_cm(TRI.Statesville,"Statesville, NC","#e53935");_cm(TRI.Hiddenite,"Hiddenite, NC","#e53935");
+if(ix){L.circleMarker(ix,{radius:9,color:"#000",weight:2,fillColor:"#FFD700",fillOpacity:1}).addTo(map).bindPopup("Intersection &#8776; "+ix[0].toFixed(4)+", "+ix[1].toFixed(4)).openPopup();L.circle(ix,{radius:500,color:"#000",weight:2,fill:false}).addTo(map);}
+map.fitBounds(L.latLngBounds([L1a,L1b,L2_nw,L2_se]).pad(0.08));
+/* === end triangulation overlay === */
 var nk=document.getElementById("neckImg");
 var ns={x:0,y:0,scale:0.4,rotation:180,opacity:0.55,flipH:false,flipV:false,visible:false,dragging:false,sx:0,sy:0,ex:0,ey:0};
 function centerNeck(){var pt=map.latLngToContainerPoint([35.9712824139155,-81.10973949661587]);ns.x=pt.x-nk.naturalWidth*ns.scale/2;ns.y=pt.y-nk.naturalHeight*ns.scale/2;uNk()}
