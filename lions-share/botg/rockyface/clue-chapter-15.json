@@ -1,0 +1,119 @@
+{
+  "page": "chapter-15",
+  "constraints": [
+    {
+      "text": "\"Never give up, for that is just the place and time that the tide will turn.\" — Harriet Beecher Stowe",
+      "type": "nearby",
+      "reading": "Imagery of a tide turning evokes a waterline / shore edge where water rises and recedes; a hiding spot at the boundary between water and land, possibly a riverbank or pond edge where the high-water mark is visible.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"...that is just the PLACE and TIME...\"",
+      "type": "other",
+      "reading": "The epigraph foregrounds a specific 'place' that is reached only by persistence — reinforces that the spot is a discrete pinpoint, not obvious, found by exhaustive searching.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"...looked everywhere, leaving no stone unturned.\"",
+      "type": "feature",
+      "reading": "Stones / rocks as the operative cover. The spot is likely a place where one would lift, look under, or behind a stone or rocks; the hide sits beneath or against rock rather than buried.",
+      "confidence": "med"
+    },
+    {
+      "text": "Five interlocking rings = five inhabited continents; classical figure design on the medal; seated Victory with the Colosseum.",
+      "type": "shape",
+      "reading": "Ring / circle and arch motifs (interlocking rings, a wreath bezel, an arena) could echo a rounded or ring-shaped landform, a natural arch, an amphitheater-like bowl, or a circular clearing/overlook.",
+      "confidence": "low"
+    },
+    {
+      "text": "Rome 1960 medal seated in a cast bronze olive-leaf WREATH bezel; the medal is gilt, ~69mm, round.",
+      "type": "shape",
+      "reading": "A round, gold/bronze-colored object encircled by a wreath — a small round disc set in a circular surround; the hide could correspond to a rounded recess or a circular stone/rock formation, gold or bronze in color (lichen, mineral staining).",
+      "confidence": "low"
+    },
+    {
+      "text": "Polio paralyzed her left leg; fitted with a hard steel brace.",
+      "type": "direction",
+      "reading": "Repeated 'left' emphasis (left leg) — a faint directional cue suggesting bearing left / the left-hand side at a decision point on a trail.",
+      "confidence": "low"
+    },
+    {
+      "text": "Dunbar Cave State Park, centered on Dunbar Cave, which contains 30+ Native American pictographs and petroglyphs; regarded as a sacred portal to the Underworld; easy short and long loop hiking trails.",
+      "type": "feature",
+      "reading": "A cave mouth / rock shelter feature with painted or carved markings on rock walls; a dark opening into a hillside reachable by an easy loop trail. The hide would be above-ground near/outside such an opening, against a rock face.",
+      "confidence": "med"
+    },
+    {
+      "text": "Liberty Park (~146 acres) along the Cumberland River, with a 10-acre fishing pond, the Liberty Nature Walk loop (~1.8 to 3 miles), Freedom Point, marina, and Cumberland Riverwalk.",
+      "type": "nearby",
+      "reading": "A riverside / pond-side spot reachable by a nature-walk loop of a few miles; flowing river plus a still pond nearby; a named promontory point ('Freedom Point') overlooking water as a possible vantage marker.",
+      "confidence": "low"
+    },
+    {
+      "text": "Freedom Point / Pat Head Summitt Legacy Plaza at Freedom Point.",
+      "type": "view",
+      "reading": "A 'Point' implies a jutting promontory or overlook with a long view over water — a high or projecting vantage spot as a landmark near the hide.",
+      "confidence": "low"
+    },
+    {
+      "text": "A life-sized bronze statue (finish-line pose, running form) at the entrance to the park.",
+      "type": "name",
+      "reading": "A standing bronze human figure as a fixed man-made marker at a park entrance; spatial relation 'at the entrance' suggests the hide is keyed off a gateway/threshold landmark.",
+      "confidence": "low"
+    },
+    {
+      "text": "Statue depicts running form holding an Olympic torch (TSU Olympic Plaza) / torch lit at 1996 Atlanta Olympics.",
+      "type": "shape",
+      "reading": "Torch / flame imagery — an upright, tapering, pointed marker (a spire, snag, or pillar-shaped rock/tree) could echo a held torch. (Note: an 'eternal flame' tie was explicitly UNVERIFIED, so weight low.)",
+      "confidence": "low"
+    },
+    {
+      "text": "Bicentennial Mall Greenway connects directly to Bicentennial Capitol Mall State Park; greenway corridor near the Cumberland River.",
+      "type": "nearby",
+      "reading": "A linear greenway/trail corridor following near a river — the hide would sit just off a maintained path within easy walking distance of a road.",
+      "confidence": "low"
+    },
+    {
+      "text": "Tuskegee National Forest (~11,000 acres) containing the Bartram National Recreation Trail, the Pleasant Hill Trail, the Bartram Botanical Area, and Choctafaula Creek.",
+      "type": "nearby",
+      "reading": "A wooded trail near a creek; flowing water (Choctafaula Creek) beside a maintained recreation trail; a botanical/clearing area as a distinguishing nearby feature off the path.",
+      "confidence": "low"
+    },
+    {
+      "text": "She landed in a HOLE and sprained her ankle the day before competing.",
+      "type": "feature",
+      "reading": "A literal 'hole' / depression / hollow in the ground is highlighted in the narrative — a recessed cavity, sinkhole, or hollow could be the concealment feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "Ankle swelled and turned BLUE.",
+      "type": "color",
+      "reading": "Color cue 'blue' — possibly a blue-toned feature nearby (blue water, blue blaze trail marker, or bluish rock).",
+      "confidence": "low"
+    },
+    {
+      "text": "Second Street Bridge over the river (Ohio River); medal thrown off the bridge into the water.",
+      "type": "nearby",
+      "reading": "A bridge spanning flowing water; the hide could be keyed to a structure crossing a river, or a spot at the river's edge below/near a bridge. (Disputed story; treat as imagery only.)",
+      "confidence": "low"
+    },
+    {
+      "text": "Cooling off in sprinklers in 100-degree heat / pool therapy four hours per session.",
+      "type": "nearby",
+      "reading": "Repeated water-immersion imagery (sprinklers, pool, traction in water) — light reinforcement that flowing or standing water is near the spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "Dunbar Cave contains pictographs/petroglyphs on rock; a hide would have to be above-ground and outside the cave interior (no digging).",
+      "type": "material",
+      "reading": "Marked rock surfaces — the concealment surface is stone; look for an above-ground rock recess, ledge, or crevice rather than a buried or dug cache.",
+      "confidence": "med"
+    },
+    {
+      "text": "She walked into church without her brace at age nine; removed it at twelve.",
+      "type": "name",
+      "reading": "A church building (Edgefield Missionary Baptist Church / Foster Memorial Garden) as a fixed structural landmark; gravesite/garden setting implies a quiet memorial spot near a built marker.",
+      "confidence": "low"
+    }
+  ]
+}

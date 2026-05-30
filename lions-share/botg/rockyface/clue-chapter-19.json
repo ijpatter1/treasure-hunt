@@ -1,0 +1,77 @@
+{
+  "page": "chapter-19",
+  "constraints": [
+    {
+      "text": "he would climb onto the roof of his parents' minivan, set up a tripod, lie on his stomach, and gaze at planets and stars",
+      "type": "elevation",
+      "reading": "Repeated image of getting UP onto something elevated and flat to look at the sky; the spot may be reached by climbing onto a raised, level surface (a rock platform / flat-topped boulder) where one lies or stands to view upward",
+      "confidence": "med"
+    },
+    {
+      "text": "in the countryside where he grew up, the Milky Way was visible almost every night ... something he now misses living near a large city",
+      "type": "view",
+      "reading": "Spot is in a dark, open, rural setting with an unobstructed sky view (no light dome, no canopy) - an exposed place where you can see the full sky",
+      "confidence": "med"
+    },
+    {
+      "text": "often wishing he could 'reach up and touch the moon'",
+      "type": "direction",
+      "reading": "Spatial gesture is UPWARD / overhead; the cache may be high or require looking/reaching up rather than down",
+      "confidence": "low"
+    },
+    {
+      "text": "the Overview Effect - the powerful emotional and perspective shift astronauts experience seeing Earth from space ... his habit of stargazing for 'a fresh standpoint'",
+      "type": "view",
+      "reading": "Strong emphasis on a high vantage point and looking down/out over the whole landscape; the hiding spot may be an overlook or high standpoint with a commanding view, or the solver should view the area from above (ridgeline/overlook)",
+      "confidence": "med"
+    },
+    {
+      "text": "'a simple change in perspective can be all that's required to fill that gap between us and something we desire'",
+      "type": "view",
+      "reading": "Hint to change vantage/angle/elevation to perceive the spot; possibly something only visible from a particular standpoint or viewing direction",
+      "confidence": "low"
+    },
+    {
+      "text": "polished spherical moon rock photo ... moon globe ... polished sphere",
+      "type": "shape",
+      "reading": "Recurring rounded/spherical/globe form; a rounded dome-shaped stone or boulder could echo this object as a marker",
+      "confidence": "low"
+    },
+    {
+      "text": "moon rock is extremely rare (all of it on Earth would fill 'roughly four gym lockers')",
+      "type": "shape",
+      "reading": "Scale/volume imagery (locker-sized) - possibly a small enclosed niche or container-sized recess; weak",
+      "confidence": "low"
+    },
+    {
+      "text": "flat desert expanses being the easiest places to find fallen meteorites ... walk grids in the Mohave (Mojave) Desert ... exposed dry lake beds (playas) make dark space rocks easy to spot",
+      "type": "feature",
+      "reading": "Imagery of a flat, open, exposed surface where a single dark stone stands out; the spot may be an open flat area where a distinctive dark rock is conspicuous against lighter ground",
+      "confidence": "low"
+    },
+    {
+      "text": "iron meteorite / dark space rocks - heavy, dark stones that stand out",
+      "type": "color",
+      "reading": "A dark stone contrasting with its surroundings could serve as the marker; look for an anomalously dark rock",
+      "confidence": "low"
+    },
+    {
+      "text": "the Aguas Zarcas meteorite ... landed on a doghouse in a small village",
+      "type": "other",
+      "reading": "Imagery of a fallen object resting on/beside a small built structure; weak spatial echo - the cache may rest at or beside a small man-made feature",
+      "confidence": "low"
+    },
+    {
+      "text": "illustration of a person sitting on a hillside looking up at a shooting star and the Milky Way",
+      "type": "feature",
+      "reading": "Closing image places the viewer SEATED ON A HILLSIDE with an open upward sky view - reinforces an open, sloped/elevated outdoor spot with a clear view of the night sky",
+      "confidence": "med"
+    },
+    {
+      "text": "high vantage points and the meeting of earth and sky (Overview Effect / horizon framing)",
+      "type": "elevation",
+      "reading": "Spot may sit where ground meets open sky - a high edge, brow of a slope, or overlook with horizon in view",
+      "confidence": "low"
+    }
+  ]
+}

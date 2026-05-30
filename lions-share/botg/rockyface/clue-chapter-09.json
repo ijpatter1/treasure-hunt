@@ -1,0 +1,89 @@
+{
+  "page": "chapter-09",
+  "constraints": [
+    {
+      "text": "the temple “is positioned upon the meeting of two rivers,” and a sophisticated aqueduct system channeled water from both rivers into the converging tunnels",
+      "type": "nearby",
+      "reading": "Hiding spot sits at or just above a confluence — where two streams/rivers meet (a fork, junction, or convergence of water channels). Look for a point of land overlooking or between two flowing waters.",
+      "confidence": "med"
+    },
+    {
+      "text": "a roaring sound grew louder toward the apex — audible even to people outside",
+      "type": "nearby",
+      "reading": "The spot may be near audible running/rushing water (rapids, falls, a loud confluence) — you would HEAR water, the sound getting stronger as you approach the high point.",
+      "confidence": "low"
+    },
+    {
+      "text": "Look both ways before crossing.",
+      "type": "direction",
+      "reading": "Literal physical read: the access path CROSSES something — a road, bridge, railroad tracks, or stream. The hide is reached by crossing such a feature; check both directions at the crossing.",
+      "confidence": "med"
+    },
+    {
+      "text": "sitting at over 10,000 feet in the Andes ... a high-elevation setting ... built at the apex",
+      "type": "elevation",
+      "reading": "Spatial motif of a HIGH place — the feature/marker is at a height or apex, an elevated point reached by climbing toward a top.",
+      "confidence": "low"
+    },
+    {
+      "text": "Priests performed ceremonies on a roof reached by hidden stairs ... reached by hidden stairs",
+      "type": "feature",
+      "reading": "A high platform/roof/overlook reached by a concealed or stepped route — think a ledge or flat top accessed by steps or a non-obvious climb.",
+      "confidence": "low"
+    },
+    {
+      "text": "a gigantic puzzle box [with] no discernible entrance ... led through a nondescript side entrance",
+      "type": "feature",
+      "reading": "The actual entry/hiding point is non-obvious and off to the SIDE — not the apparent front. Look for a concealed side opening, gap, or crevice rather than the obvious face.",
+      "confidence": "med"
+    },
+    {
+      "text": "forty-five-foot walls (which feature massive carved heads protruding outward)",
+      "type": "feature",
+      "reading": "Imagery of a tall vertical rock face/wall with protruding rounded knobs or boulders ('heads') jutting out — a cliff or outcrop with bulging rock features.",
+      "confidence": "low"
+    },
+    {
+      "text": "windowless narrow tunnels — some branching, some circling back, some dead ends ... single-file passageways",
+      "type": "feature",
+      "reading": "Possible narrow passage/crevice/cave imagery — a tight single-file gap between rocks, with branching dead-end clefts. The right one is one of several similar narrow openings.",
+      "confidence": "low"
+    },
+    {
+      "text": "nails embedded in the walls to create sparkling reflections and mirrors hung as speculums",
+      "type": "shape",
+      "reading": "Imagery of glinting/reflective material on a wall — a spot where light catches sparkling stone (mica/quartz) or a reflective surface.",
+      "confidence": "low"
+    },
+    {
+      "text": "their densely packed inscriptions “forced our visitor to lie on the ground to read them” / Raimondi Stele contour rivalry: reads differently right-side-up vs. upside-down",
+      "type": "direction",
+      "reading": "Perspective hint — get LOW to the ground, or view the feature from an unexpected/inverted angle; the marker may only be readable from below or when seen the other way around.",
+      "confidence": "low"
+    },
+    {
+      "text": "remain “rooted onto the firm ground of reality”",
+      "type": "feature",
+      "reading": "Possible literal nudge toward solid ground / a rooted feature (a tree base, firm rock footing) rather than water or loose terrain.",
+      "confidence": "low"
+    },
+    {
+      "text": "Gold Chavín drinking vessel / chalice — a hammered, decorated gold drinking vessel (a cup/goblet shape)",
+      "type": "shape",
+      "reading": "Object shape: a chalice/cup — a rounded, concave, bowl-on-stem form. A landform echo could be a basin, hollow, bowl-shaped depression, or a cup-like rock cavity.",
+      "confidence": "low"
+    },
+    {
+      "text": "eagles, snakes, and cats ... raptorial birds, and snakes ... feline fangs",
+      "type": "shape",
+      "reading": "Animal-shape imagery (bird/snake/cat) — a rock whose silhouette resembles one of these, or a sinuous snake-like ridge/path. Generic; treat as weak shape echo only.",
+      "confidence": "low"
+    },
+    {
+      "text": "his mother ran across the room and out the front church door",
+      "type": "direction",
+      "reading": "Faint spatial imagery of crossing a space and exiting through a FRONT door/entrance — possibly reinforces the 'crossing' and 'front-facing entrance' motifs.",
+      "confidence": "low"
+    }
+  ]
+}

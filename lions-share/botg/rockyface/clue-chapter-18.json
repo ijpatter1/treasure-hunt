@@ -1,0 +1,101 @@
+{
+  "page": "chapter-18",
+  "constraints": [
+    {
+      "text": "a large green Colombian emerald crystal still embedded in dark matrix rock",
+      "type": "material",
+      "reading": "The hero object is a green crystal set INTO dark host rock. As spatial imagery this suggests the hiding spot may be a small green or crystalline thing tucked into/against a dark rock face or matrix - something embedded in stone rather than free-standing.",
+      "confidence": "med"
+    },
+    {
+      "text": "a large green Colombian emerald crystal still embedded in dark matrix rock",
+      "type": "color",
+      "reading": "Color contrast of bright green against dark stone - a hide could sit where greenery (moss/lichen/vegetation) meets a dark exposed rock surface.",
+      "confidence": "low"
+    },
+    {
+      "text": "emerald in matrix ... still embedded in dark matrix rock",
+      "type": "shape",
+      "reading": "Muzo emeralds form large transparent hexagonal crystals; a six-sided / columnar crystal shape could echo a hexagonal or columnar rock feature (basalt-like column, faceted boulder).",
+      "confidence": "low"
+    },
+    {
+      "text": "Mount Wilson Observatory ... it is located not far from my home, just to the northeast",
+      "type": "direction",
+      "reading": "Explicit directional vector: a named high point lies to the NORTHEAST of a reference point (author's home), meaning the reference point lies to the SOUTHWEST of the high feature. A NE/SW axis is the clearest spatial relationship in the chapter.",
+      "confidence": "high"
+    },
+    {
+      "text": "Mount Wilson ... a ~5,710 ft peak ... the observatory sits ON ... land ... reachable entirely by paved public road",
+      "type": "elevation",
+      "reading": "The associated feature is a high mountain peak/summit (several thousand feet) crowned by structures, reached by a road that climbs to it - implying a high, road-accessible overlook/summit type of position.",
+      "confidence": "med"
+    },
+    {
+      "text": "Mount Wilson Observatory ... 100-inch Hooker telescope ... Hubble used to measure the size of the universe ... detect galaxies beyond the Milky Way",
+      "type": "view",
+      "reading": "Strong imagery of looking outward and far from a height - a hide spot likely commands a long, open, expansive VIEW (a place from which one sees great distance / sky / horizon), echoing the telescope-on-a-summit motif.",
+      "confidence": "med"
+    },
+    {
+      "text": "science, lenses, seeing, and the 'new frontier' / cosmos ... runs through the Mount Wilson / Hooker Telescope / Hubble material",
+      "type": "view",
+      "reading": "Recurrent lens/seeing/observatory theme reinforces a vantage point or lookout - stand somewhere and SEE far; the spot is about sight-line and openness to the sky.",
+      "confidence": "med"
+    },
+    {
+      "text": "Mount Wilson sits inside the Angeles National Forest ... San Gabriel Mountains National Monument land (public land) ... reached entirely by paved public road via the Angeles Crest Highway",
+      "type": "nearby",
+      "reading": "Physical setting is forested mountain terrain on public land immediately adjacent to a paved road/highway - consistent with a spot near (within reach of) a road on a wooded ridge.",
+      "confidence": "med"
+    },
+    {
+      "text": "Statesville sits at the foot of the Brushy Mountains region",
+      "type": "nearby",
+      "reading": "'At the foot of' a mountain range - imagery of a base-of-slope / foothill position where flat land meets rising mountains.",
+      "confidence": "low"
+    },
+    {
+      "text": "Emerald Hollow Mine ... he spent hours sifting creeks/dirt for gems ... in the foothills of the Brushy Mountains",
+      "type": "nearby",
+      "reading": "Childhood gem-hunting in creeks/hollows points to flowing water in a hollow/ravine within foothills - a hide near a creek or low wooded drainage is plausible spatial imagery.",
+      "confidence": "low"
+    },
+    {
+      "text": "Hollow (Emerald Hollow) ... Sleepy Hollow Cemetery ... Carnegie Hill",
+      "type": "feature",
+      "reading": "Repeated landform words: 'Hollow' (a low sheltered dip/ravine) and 'Hill' (a rise). The hiding feature may be a hollow, a hillside, or the meeting of the two.",
+      "confidence": "low"
+    },
+    {
+      "text": "Muzo Mine ... high Andes ... prized for ... large, transparent hexagonal crystals",
+      "type": "feature",
+      "reading": "Mine/cave imagery plus high mountains: a possible crevice, mine-like opening, or pocket in rock at elevation where a crystal-like object could be wedged.",
+      "confidence": "low"
+    },
+    {
+      "text": "Lake Carnegie, Princeton, NJ - a 3.5-mile reservoir ... on the Millstone River; Cumberland Island ... reached by ferry; Johnstown Flood ... South Fork Dam",
+      "type": "nearby",
+      "reading": "Several associated places involve water bodies (lake, river, seashore, dam/flood). Charitably, the spot may be near flowing or standing water, though author rules say no water crossings.",
+      "confidence": "low"
+    },
+    {
+      "text": "Carnegie library ... two-story ... located prominently in town centers (often beside a courthouse or central square) ... next to the Cherokee County Courthouse",
+      "type": "feature",
+      "reading": "Built marker imagery: a prominent stone building / monument beside a square. If a man-made marker is the anchor, look for a notable stone structure or marker stone near a central/visible spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "A Hubble Space Telescope scale model and historical marker stand on the Webster County Courthouse grounds",
+      "type": "name",
+      "reading": "A standing marker/monument on open grounds - reinforces that a fixed man-made marker (plaque, model, monument) could be a near-the-spot reference point one stands beside.",
+      "confidence": "low"
+    },
+    {
+      "text": "Carnegie ... built upon the idea of service ... Beaux-Arts/Classical Revival ... limestone building",
+      "type": "material",
+      "reading": "Pale limestone / light-colored cut stone recurs (Beaux-Arts limestone HQ). A pale/light stone surface could be a color-material cue for the spot.",
+      "confidence": "low"
+    }
+  ]
+}

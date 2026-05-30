@@ -1,0 +1,77 @@
+{
+  "page": "chapter-06",
+  "constraints": [
+    {
+      "text": "\"Just like peering behind a rock to find a treasure box, inspiration can appear almost anywhere. Just feel for where its breeze nudges you.\"",
+      "type": "feature",
+      "reading": "The box sits BEHIND a rock — i.e. tucked into the back side of a natural rock feature, not in front of it and not buried. One would have to step around or peer past the rock to see it.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"peering behind a rock\"",
+      "type": "direction",
+      "reading": "Spatial orientation hint: the hide is on the far/hidden face of a rock relative to the approaching searcher's line of sight — look around the back, not on top or in front.",
+      "confidence": "med"
+    },
+    {
+      "text": "The box may be tucked behind a rock rather than buried — consistent with the author's confirmed \"not buried\" rule; surface-level, exposed to weather.",
+      "type": "feature",
+      "reading": "Hiding spot is an above-ground natural rock niche; the container rests at or near ground level wedged against/behind stone, not in a hole.",
+      "confidence": "high"
+    },
+    {
+      "text": "A real natural rock feature, not a planted prop (NOT in fake tree stumps or fake boulders); box wedged behind, under an overhang of, or beside a natural rock.",
+      "type": "feature",
+      "reading": "The feature is a genuine boulder/ledge/outcrop with a gap, undercut, or overhang large enough to shelter a box-sized case behind or beneath it.",
+      "confidence": "med"
+    },
+    {
+      "text": "Weather exposure is relevant: the author reported having to check a box was \"still safe\" after storms; boxes sit in a protective Pelican-type case.",
+      "type": "feature",
+      "reading": "The spot is open to the elements (rain/wind), implying an exposed rock face or overhang rather than a sealed cave or building — but with enough overhang/shelter that storms threaten but don't destroy it.",
+      "confidence": "med"
+    },
+    {
+      "text": "Inspiration likened to \"a wise breeze blowing in the direction I need to go\" and \"feel for where its breeze nudges you.\"",
+      "type": "nearby",
+      "reading": "Recurring wind/breeze imagery could metaphorically hint at a windy, exposed location (a ridge, gap, or overlook where breeze is felt) rather than a sheltered valley.",
+      "confidence": "low"
+    },
+    {
+      "text": "Ruby \"pigeon's blood\" deep-red color is the most sought; Burmese ruby glow is \"the inextinguishable flame of immortality.\"",
+      "type": "color",
+      "reading": "Deep-red color motif — could echo a reddish rock, red clay/soil, or a sunrise/sunset-facing spot, if color is meant to describe the surroundings of the hide.",
+      "confidence": "low"
+    },
+    {
+      "text": "Wing-shaped ruby earrings (Angie Marei); Egyptian-revival wing/Isis motifs.",
+      "type": "shape",
+      "reading": "Wing shape may describe a landform near the hide — a winged/V-shaped rock formation, a pair of symmetric outcrops, or a cliff edge resembling wings.",
+      "confidence": "low"
+    },
+    {
+      "text": "Sukhothai = \"Dawn of Happiness\"; ruby is the stone of the Sun in the Noppakao/nine-gem tradition; strong sun/dawn theme.",
+      "type": "direction",
+      "reading": "Sun/dawn theme may favor an east-facing rock or an overlook positioned to catch sunrise.",
+      "confidence": "low"
+    },
+    {
+      "text": "Amelia Earhart Birthplace described as on a bluff over the Missouri River; Earthwork on a public hillside next to Warnock Lake.",
+      "type": "view",
+      "reading": "Generic spatial pattern surfaced as fact: an elevated bluff/hillside overlooking water — a high vantage beside a body of water — as a type of accessible spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "None of the boxes more than three miles from a road; reachable within a couple of hours' walk; no high-water crossings; safe.",
+      "type": "distance",
+      "reading": "The spot lies within 3 miles of a road, no water crossing required to reach it — a moderate off-trail walk from accessible parking.",
+      "confidence": "high"
+    },
+    {
+      "text": "Author grew up \"in the boondocks\" near Emerald Hollow Mine; Brushy Mountains foothills setting.",
+      "type": "nearby",
+      "reading": "As a generic terrain descriptor only: a rural, wooded foothills/forest setting (hilly, rocky ground) rather than open plains or urban — surfaced as raw fact, not a location pointer.",
+      "confidence": "low"
+    }
+  ]
+}

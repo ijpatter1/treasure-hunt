@@ -1,0 +1,33 @@
+{
+  "spot": "Rocky Face summit (granitic dome high point)",
+  "matchScore": 74,
+  "cluesHit": 13,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "HIT", "reason": "Summit ~1795-1818 ft, ~600 ft above the Piedmont, prominence 607 ft; literally the high point with views down onto lower ground. Directly matches the single dominant signature."},
+    {"constraint": "panoramic-view (support 9)", "result": "HIT", "reason": "Large bare dome with views in ALL directions over valleys; on clear days Grandfather, Table Rock, Hawksbill, Black Mtns. A true wide open panorama, not enclosed."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "PARTIAL", "reason": "Dome has exfoliation sheet-joints and shallow cracks, but a broad bare rounded dome offers few deep undercut/overhang recesses; niche caching is plausible but not its strong feature (quarry-cliff base fits this better)."},
+    {"constraint": "surface-not-buried (support 5)", "result": "HIT", "reason": "Shallow-soil bald over bare granite; a box can rest on/against the rock at surface level, no digging possible on the dome anyway."},
+    {"constraint": "rock-marker (support 8)", "result": "HIT", "reason": "Entire spot IS stone - broad bare granite dome, flat standable rock platforms, picnic tables on the granite; stone is unambiguously the host feature."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "MISS", "reason": "Dry exfoliating dome bald; only vernal pools after rain. No creek/river/pond/spring adjacent or below at the summit; the streams are downslope. Highest-support constraint, and it does not match here."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "PARTIAL", "reason": "The dome is an open rock bald (clearing) ringed by Piedmont monadnock forest, so forest-meets-open is present, but the spot itself is the open rock, not a forest edge just past a tree line."},
+    {"constraint": "trail-accessible (support 6)", "result": "HIT", "reason": "Reached on the established Hollow Rock Trail / Vertical Mile route, ~1-2.5 mi on foot, non-dangerous footing. Clean match."},
+    {"constraint": "within-3mi-road (support 4, high)", "result": "HIT", "reason": "Well under 3 mi from Rocky Face Church Rd, reachable on foot in well under 2 hrs, no water crossing or cliff scaling to stand on the dome."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "MISS", "reason": "Summit dome is the most visited, most obvious destination with picnic tables and 360 views - the opposite of secluded/off the obvious line of sight."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "A rounded dome high point, not a gap/saddle/notch between paired crags. No cinched landform framing the spot."},
+    {"constraint": "tree-landmark (support 4)", "result": "PARTIAL", "reason": "Red cedar grows on the dome margins, but the summit is bare rock; no single prominent oak/pine as the operative marker at the spot."},
+    {"constraint": "east-facing (support 4)", "result": "PARTIAL", "reason": "Dome has views in all directions including east, but it is not specifically east-oriented; named long views are to the N and W (Pores Knob N, Black Mtns W)."},
+    {"constraint": "rounded-stone-shape (support 8, low)", "result": "HIT", "reason": "The defining form is a rounded/domed bornhardt - 'a rounded dome not a peaked summit.' Strong literal echo of the rounded-stone shape cue."},
+    {"constraint": "green-mossy-contrast (support 5, low)", "result": "HIT", "reason": "Lichens and dry rock moss against light-grey/darker exposed granite; classic moss-on-stone color contrast across the bald."},
+    {"constraint": "crystalline-quartz-rock (support 6, low)", "result": "PARTIAL", "reason": "Granitic gneiss is hard, durable, quartz-bearing with mica glint, so the host material qualifies, but it is not notably sparkling/crystal-display rock."},
+    {"constraint": "angular-faceted-rock (support 5, low)", "result": "MISS", "reason": "The dome is characteristically SMOOTH and rounded with sheet-joints - the opposite of sharp angular/faceted/columnar rock."},
+    {"constraint": "reddish-warm-stone (support 6, low)", "result": "PARTIAL", "reason": "Rock is light-grey, not reddish; however spring reddish mats of elf orpine provide a warm-toned color cue on the dome surface."},
+    {"constraint": "pale-light-stone (support 5, low)", "result": "HIT", "reason": "'Broad bare light-grey rock' - pale light stone standing against darker forest/soil surroundings. Direct match."},
+    {"constraint": "bowl-hollow-depression (support 4, low)", "result": "PARTIAL", "reason": "Vernal pools are small basin/cup depressions in the rock, a weak match to the bowl/hollow cue; no large amphitheater cove."},
+    {"constraint": "confluence-bend (support 4, low)", "result": "MISS", "reason": "No confluence or watercourse bend at or below the summit; drainage divides flow off the dome, no two waters meeting here."},
+    {"constraint": "descend-then-high (support 3, low)", "result": "MISS", "reason": "Approach to the summit is a sustained ascent, not a 'go down then up' pattern; no final descent into a draw before the high spot."},
+    {"constraint": "small-confirming-mark (support 4, low)", "result": "PARTIAL", "reason": "Exfoliation seams/cracks could serve as fine confirming marks, but no known inscription; speculative for the bare dome."},
+    {"constraint": "left-orientation (support 3, low)", "result": "MISS", "reason": "No specific left-turn decision nudge tied to the summit approach in the spot data."},
+    {"constraint": "open-to-elements (support 2, low)", "result": "HIT", "reason": "An exposed breezy granite dome bald, fully open to wind/rain rather than a sealed cave - exactly the open-to-elements profile."},
+    {"constraint": "pace-count (support 3, low)", "result": "MISS", "reason": "No fixed marker-to-spot pace count applies to an open featureless dome top; nothing concrete to count from."}
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "page": "chapter-22",
+  "constraints": [
+    {
+      "text": "23-karat gold pendant / medallion, a small round disc roughly 4.8-5.4 cm across with a hook added so it can be worn (worn 'as a pendant')",
+      "type": "shape",
+      "reading": "The featured object is a small, flat, rounded disc with a single attachment point at the top - a hide marker could be a pale round disc-shaped stone, a coin-like rock, or a rounded boulder with a notch/projection at its top edge; the 'hook' implies something hangs or projects from the upper part of a rounded feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "The pendant depicts Jacqueline 'au chevalet' - painting at an easel; an easel is an upright, A-frame / tripod-leaning structure that supports something at a height/angle.",
+      "type": "feature",
+      "reading": "Charitably read as spatial imagery: an upright leaning three-legged or A-shaped form propped against something - could echo a leaning slab, a tripod of rocks, or a tilted standing stone propped on a ledge at viewing height.",
+      "confidence": "low"
+    },
+    {
+      "text": "Each medallion was presented 'in a simple wooden box' of the Hugo atelier; Picasso kept them secret 'as though they constituted some private treasure.'",
+      "type": "feature",
+      "reading": "Container imagery: the treasure object lives concealed inside a small box-like enclosure - supports a hide spot that is a box-like cavity, a hollow, a slot, or a small enclosed recess where something is tucked out of sight rather than exposed on open ground.",
+      "confidence": "low"
+    },
+    {
+      "text": "Picasso 'drew a large chalk mural of a dove on her house' - a pale (white/chalk) marking placed on a vertical face (the wall of a house).",
+      "type": "color",
+      "reading": "A pale/white mark on a vertical surface as a sign of the right spot: look for a light-colored (chalky/quartz/lichen) marking or natural figure on a vertical rock face or wall; chalk = white limestone/light stone. A dove shape (bird-with-spread-wings) on a stone face could be the visual cue.",
+      "confidence": "low"
+    },
+    {
+      "text": "Dove motif (Picasso's 'Dove of Peace'); courting gesture is a bird drawn on a wall.",
+      "type": "shape",
+      "reading": "A bird/dove silhouette - a winged-shape stone, a rock resembling a perched or spread-winged bird, or an outcrop with a wing-like overhang could mark the spot. Birds also imply a high perch / elevated vantage.",
+      "confidence": "low"
+    },
+    {
+      "text": "He 'returned each day to present a single red rose.'",
+      "type": "color",
+      "reading": "A single red marker against the setting: a lone red/reddish feature (red rock, reddish soil, a single red bloom/shrub) standing alone could be the singular landmark to align on. 'Single' stresses one isolated object, not a cluster.",
+      "confidence": "low"
+    },
+    {
+      "text": "Epigraph: 'Fortune favors the brave' (Virgil, Aeneid 10.284 - audentes Fortuna iuvat).",
+      "type": "view",
+      "reading": "Behavioral/spatial cue toward boldness: the rewarded spot may require going to a slightly more exposed or daring-feeling position (an open ledge, a forward overlook, an edge) rather than a timid easy one - 'brave' as standing out at the front/edge of a feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "Epigraph: 'The art of love is largely the art of persistence' + narrative: 'this routine continued day after day. Days became weeks. Weeks turned into months' (six months of return visits).",
+      "type": "other",
+      "reading": "Repetition/return imagery and the explicit moral 'taking the first step out your door' - reads as encouragement to physically commit and persist on the ground rather than as a coordinate; spatially it implies the spot may not be found on first look and rewards repeated/closer approach. No direction or distance.",
+      "confidence": "low"
+    },
+    {
+      "text": "Picasso 'found her address' and went to her house (a specific dwelling he repeatedly approached and stood before).",
+      "type": "feature",
+      "reading": "Faintly suggests the hide is associated with a built/man-made structure or doorway one stands in front of (a 'house,' a door, a threshold) rather than wild open ground - approach-and-stand-before imagery.",
+      "confidence": "low"
+    },
+    {
+      "text": "Object motifs in the wider Hugo-Picasso medallion series include 'faces, bulls, dancers, and the profile of Jacqueline' (a profile = a side silhouette).",
+      "type": "shape",
+      "reading": "A profile/face-in-the-rock reading: an outcrop that reads as a face or profile in silhouette (common landform-recognition cue) could mark the spot - look for a rock whose edge forms a recognizable profile.",
+      "confidence": "low"
+    },
+    {
+      "text": "Pendant 'not offered for sale until after his death' / kept hidden; treasure described as something 'someone else will eventually own.'",
+      "type": "other",
+      "reading": "Concealment-until-discovered framing; reinforces that the spot is hidden/unobtrusive and only revealed to the persistent searcher. No spatial vector.",
+      "confidence": "low"
+    }
+  ],
+  "_meta": "Chapter 22 'Picasso's Pendant' is almost entirely biography/provenance with essentially NO literal spatial geography of a hiding spot. All constraints above are charitable/creative readings of object shape and love-story imagery, all LOW confidence. The chapter's clearest takeaway is behavioral ('take the first step out your door,' be brave and persistent), not a coordinate. The contaminated 'Treasure-Hunt Signals' section (Hugo OK, Vallauris=Golden Valley, Cass Elliot->California, Virgil NY) was deliberately IGNORED per blindness rules; no location is named or aimed at here."
+}

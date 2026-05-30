@@ -1,0 +1,33 @@
+{
+  "spot": "Open granite face on the Vertical Mile Challenge route",
+  "matchScore": 44,
+  "cluesHit": 8,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support13)", "result": "PARTIAL", "reason": "An ascending bare slab gaining ~350 ft with long sightlines, but it is a steep climbing face, not a summit/rim/overlook destination with a long view DOWN; the view is the summit at top, not here."},
+    {"constraint": "panoramic-view (support9)", "result": "PARTIAL", "reason": "'Long open sightlines while ascending' = open vista, but it is a directional uphill view, not a broad summit panorama."},
+    {"constraint": "rock-niche-cache (support9)", "result": "MISS", "reason": "Open friction slab is the antithesis of a crevice/undercut/overhang; bare exposed rock offers no above-ground recess to tuck a box."},
+    {"constraint": "surface-not-buried (support5)", "result": "PARTIAL", "reason": "No digging on bare granite, but a slab gives nowhere natural to rest a box against (no ledge/shelf/hollow at the face itself)."},
+    {"constraint": "rock-marker (support8)", "result": "HIT", "reason": "The operative feature IS rock: a large exposed granite slab/outcrop is the host landmark."},
+    {"constraint": "near-water-not-crossed (support14)", "result": "MISS", "reason": "The slab is a dry exposed face; the creek crossing is below/before it, not beside this spot."},
+    {"constraint": "wooded-with-clearing (support7)", "result": "PARTIAL", "reason": "Bare open rock surrounded by forest is a forest/open-rock interface, loosely fitting 'forest meets open ground.'"},
+    {"constraint": "trail-accessible (support6)", "result": "HIT", "reason": "Directly on the marked Vertical Mile Challenge Trail, walkable on foot, no bushwhack."},
+    {"constraint": "within-3mi-road (support4)", "result": "HIT", "reason": "Whole park is under 3 mi from Rocky Face Church Rd; reached in ~1-2 mi on foot, no water crossing/cliff scaling at this spot."},
+    {"constraint": "concealed-off-obvious (support6)", "result": "MISS", "reason": "A large open exposed slab on a popular challenge route is the opposite of secluded/out-of-sight."},
+    {"constraint": "saddle-gap-notch (support4)", "result": "MISS", "reason": "No gap/saddle/notch between paired crags; it is a single open slope."},
+    {"constraint": "tree-landmark (support4)", "result": "MISS", "reason": "Open bare rock; no prominent tree marker (flatrock specialists, not trees)."},
+    {"constraint": "east-facing (support4)", "result": "MISS", "reason": "No documented eastern orientation; the slab climbs toward the summit, aspect not eastward in sources."},
+    {"constraint": "rounded-stone-shape (support8)", "result": "PARTIAL", "reason": "It is a granitic-dome face (exfoliating, broadly rounded), loosely echoing domed/rounded stone, but it is a slab not a discrete egg/dome boulder."},
+    {"constraint": "green-mossy-contrast (support5)", "result": "PARTIAL", "reason": "Dry rock moss and flatrock plants grow on the bare grey granite, giving green-on-stone contrast."},
+    {"constraint": "crystalline-quartz-rock (support6)", "result": "HIT", "reason": "Host material is granitic gneiss — hard crystalline quartz/feldspar/mica-bearing rock with grit/glint."},
+    {"constraint": "angular-faceted-rock (support5)", "result": "MISS", "reason": "Smooth friction slab, not angular/faceted/stratified/columnar rock."},
+    {"constraint": "reddish-warm-stone (support6)", "result": "PARTIAL", "reason": "Light-grey granite, but spring elf-orpine/flatrock mats add reddish tint and the open slab is sunlit; weak."},
+    {"constraint": "pale-light-stone (support5)", "result": "HIT", "reason": "Broad bare light-grey granite slab standing pale against the surrounding dark forest."},
+    {"constraint": "bowl-hollow-depression (support4)", "result": "MISS", "reason": "Convex/flat slab, no bowl/basin/pit concavity at this spot."},
+    {"constraint": "confluence-bend (support4)", "result": "MISS", "reason": "No confluence or watercourse bend at the slab."},
+    {"constraint": "descend-then-high (support3)", "result": "PARTIAL", "reason": "Approach crosses a creek (low point) then climbs to the high spot, a faint 'down-then-up' shape."},
+    {"constraint": "small-confirming-mark (support4)", "result": "PARTIAL", "reason": "QR-code Vertical-Mile-Challenge signs are small man-made marks along the route, though they are signs not a natural seam/inscription."},
+    {"constraint": "left-orientation (support3)", "result": "MISS", "reason": "Route turns RIGHT off Grindstone onto the Challenge trail; no left nudge here."},
+    {"constraint": "open-to-elements (support2)", "result": "HIT", "reason": "Large exposed slab fully open to wind/sun/rain, matching the breezy-exposed (not sealed cave) cue."},
+    {"constraint": "pace-count (support3)", "result": "MISS", "reason": "No fixed marker-to-spot pace count; the slab spans ~0.3 mi with no defined count point."}
+  ]
+}

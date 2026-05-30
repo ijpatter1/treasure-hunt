@@ -1,0 +1,107 @@
+{
+  "page": "chapter-14",
+  "constraints": [
+    {
+      "text": "As I look at the blue and pink irises on our vase, I can't help but think of the resting places of the boxes I've hidden and the colors of nature that surround each of them. Perhaps you'll pass by similar flowers along your way.",
+      "type": "color",
+      "reading": "Each hide is surrounded by 'the colors of nature' — suggests a spot framed by seasonal vegetation/wildflower color (blue and pink hues specifically called out). One may pass flowers like irises on the approach path. Implies an open, vegetated setting (meadow/clearing/roadside) where wildflowers grow, not bare rock alone.",
+      "confidence": "med"
+    },
+    {
+      "text": "blue and pink irises ... the colors of nature that surround each of them",
+      "type": "nearby",
+      "reading": "Irises favor damp/wet meadow edges; charitably the hide could sit near a low, moist clearing where flowers grow — but a strictly wetland/bog reading conflicts with the no-water-crossing rule, so more likely a dry meadow or clearing edge with seasonal color nearby.",
+      "confidence": "low"
+    },
+    {
+      "text": "Perhaps you'll pass by similar flowers along your way.",
+      "type": "direction",
+      "reading": "Frames an approach 'along your way' — implies a walking route/trail leading to the spot, with the flowers as roadside/trailside markers passed en route rather than at the exact hide.",
+      "confidence": "low"
+    },
+    {
+      "text": "iridescent enamel created by hot glass dripped over a copper base ... left the iris shapes 'impressionistic'",
+      "type": "shape",
+      "reading": "Object imagery: irregular, dripped, rounded, blurred forms over a hard base — could echo a weathered/mottled rounded rock surface or a streaked, iridescent-colored stone face. Speculative landform echo of a smooth dome or color-streaked rock.",
+      "confidence": "low"
+    },
+    {
+      "text": "The '(LCT)' initials are carved into the base.",
+      "type": "feature",
+      "reading": "Marking carved into a 'base' — speculative double meaning: look at the base/underside of a feature for an incised mark; or the hide sits at the base (foot) of a feature rather than its top.",
+      "confidence": "low"
+    },
+    {
+      "text": "Fairhaven Cliffs (Fairhaven Hill), a wooded overlook noted as a 'favorite resort for the nature lover' ... a long-standing scenic overlook",
+      "type": "view",
+      "reading": "A named scenic overlook on a wooded hill/cliff — supports a hide at a high vantage point with a long view, an above-ground rock/cliff overlook feature.",
+      "confidence": "med"
+    },
+    {
+      "text": "Fairhaven Cliffs (Fairhaven Hill) ... a wide, lake-like section of the Sudbury River",
+      "type": "elevation",
+      "reading": "Cliffs/hill rising above a wide water body — combines elevation (cliff/overlook) with water below; a high spot looking down over a broad, lake-like expanse.",
+      "confidence": "low"
+    },
+    {
+      "text": "the Sudbury flows northeast through Fairhaven Bay to its confluence with the Assabet at Egg Rock",
+      "type": "feature",
+      "reading": "Named landform 'Egg Rock' at a river confluence — a distinctive rounded/egg-shaped rock at a meeting of two waters. Suggests a prominent rounded boulder as a possible marker feature near flowing water.",
+      "confidence": "low"
+    },
+    {
+      "text": "the largest forest fire ever recorded in Concord — over 300 acres of woodland burned ... built a campfire in a meadow of dry grass",
+      "type": "feature",
+      "reading": "Imagery of an open dry grass meadow within woodland — a clearing/meadow setting surrounded by forest; the spark spread by wind. Charitably points to a grassy clearing edge rather than deep forest.",
+      "confidence": "low"
+    },
+    {
+      "text": "How to extract its honey from the flower of the world ... I am like the bee searching the livelong day for the sweets of nature.",
+      "type": "nearby",
+      "reading": "Poetic flower/nature imagery reinforcing flowers at/along the spot; 'searching the livelong day' frames a thorough on-foot search amid flowering nature.",
+      "confidence": "low"
+    },
+    {
+      "text": "twenty acres of woodland on which his father built a log home ... spent many afternoons in those woods ... hunting arrowheads, rocks, clay, snakes",
+      "type": "feature",
+      "reading": "Setting imagery of wooded acreage with rocks, clay banks, arrowheads — a wooded, rocky terrain feel; a clearing in woods with rock outcrops. Generic environmental texture for the hide's surroundings.",
+      "confidence": "low"
+    },
+    {
+      "text": "Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.",
+      "type": "direction",
+      "reading": "Epigraph uses 'finger posts on the road' — directional marker imagery (signposts pointing the way along a road/path). Charitably hints at trail/road signposts as guides, and a 'forward' (onward along the path) orientation.",
+      "confidence": "low"
+    },
+    {
+      "text": "a large rock (John Brown's grave sits near a large rock)",
+      "type": "feature",
+      "reading": "Associated landmark imagery: an above-ground grave marker beside a large rock — recurring 'large rock' as a distinctive above-ground marker feature near which something rests.",
+      "confidence": "low"
+    },
+    {
+      "text": "Mount Wachusett summit (camped) ... Monadnock ... Greylock (highest point) ... Katahdin ... summited",
+      "type": "elevation",
+      "reading": "Heavy mountain/summit motif — multiple high points climbed. Supports an elevated/summit-area hide with broad views as a generic spatial character.",
+      "confidence": "low"
+    },
+    {
+      "text": "Walden Pond ... a glacial kettle pond ... the site reached via the ~1.8-mile Pond Path, marked by a visitor stone cairn",
+      "type": "feature",
+      "reading": "A 'stone cairn' marks the trail/site — supports a stacked-stone cairn or man-made stone marker as a possible above-ground locator along a path of roughly under 2 miles from the lot.",
+      "confidence": "low"
+    },
+    {
+      "text": "the original cabin site (with original hearth stone)",
+      "type": "material",
+      "reading": "A flat 'hearth stone' set in the ground as a site marker — a distinctive flat stone underfoot could mark a spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "Harpers Ferry sits at the confluence of the Potomac and Shenandoah Rivers ... in a water gap through the Blue Ridge",
+      "type": "nearby",
+      "reading": "Water-gap / confluence imagery — a notch/gap where a ridge is cut by water and two rivers meet; a low pass between heights near flowing water. Generic terrain motif (gap, confluence, ridge).",
+      "confidence": "low"
+    }
+  ]
+}

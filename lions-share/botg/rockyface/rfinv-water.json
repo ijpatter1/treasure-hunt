@@ -1,0 +1,95 @@
+{
+  "slice": "water",
+  "facts": [
+    {
+      "name": "Beaverdam Creek",
+      "what": "Named stream that forms along the northern part of the Rocky Face tract. It flows north/away from the mountain and drains into the South Yadkin River. One of the principal named streams associated with the Rocky Face Mountain property (per the county park master plan).",
+      "coords": "unknown (northern slope of Rocky Face Mtn, Alexander County NC, vicinity 35.97,-81.11)",
+      "elevation": "below the ~1,795 ft summit; valley/foot of north slope",
+      "access": "Northern part of the park tract; mountain is ~5 mi N of Taylorsville, park access off Rocky Face Church Rd (3451 Rocky Face Church Rd, Hiddenite). Within reasonable distance of park roads/trails.",
+      "land": "public (within/adjacent to the county recreational area tract)",
+      "source": "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+    },
+    {
+      "name": "Wallace Creek",
+      "what": "Named stream that runs along the western/eastern side of Rocky Face Mountain (described as flowing along the side of the mountain). One of the three principal named streams tied to the Rocky Face tract.",
+      "coords": "unknown (flank of Rocky Face Mtn, Alexander County NC)",
+      "elevation": "below summit; mountainside drainage",
+      "access": "Along the side of the mountain within the park tract vicinity; park is within 3 miles of road throughout.",
+      "land": "public|unknown (along tract boundary)",
+      "source": "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+    },
+    {
+      "name": "Rocky Face Branch",
+      "what": "Named branch (small stream) that drains the Rocky Face Mountain area. It is formed by TWO tributaries: the first forms near the old quarry site on the SOUTHERN end of the mountain, and the second forms along the EASTERN side of the mountain. Listed alongside Beaverdam Creek and Wallace Creek as one of the principal streams draining the tract. A 'branch' is a small headwater stream. Name 'Rocky Face Branch' also appears as a labeled feature on the USGS Hiddenite 7.5' topo quadrangle.",
+      "coords": "unknown (headwaters near quarry on south end + eastern flank, Rocky Face Mtn, Alexander County NC)",
+      "elevation": "below summit; one tributary head near quarry floor on south end, the other on eastern slope",
+      "access": "Headwater near the old quarry site (adjacent to developed park core/parking) and along the eastern side of the mountain; within park vicinity and within 3 miles of road.",
+      "land": "public|unknown",
+      "source": "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+    },
+    {
+      "name": "Quarry depression / former quarry water pool",
+      "what": "A large depression at the former rock quarry site (quarry operated ~1922 to early 1940s) that sits below the adjacent roadway grade and traps/holds water on the site. The quarry has sheer vertical walls rising more than 80 feet. This is the man-made low point near the main developed area that collects water.",
+      "coords": "unknown (former quarry, near main parking/trailhead, Rocky Face Mtn)",
+      "elevation": "low point below roadway grade in the developed lower park area",
+      "access": "Adjacent to the main parking area and the 1/3-mile paved ADA walking track; immediately off the park access road, well within 3 miles of road.",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Wetlands at base of the quarry",
+      "what": "A wetland area at the base of the former quarry. A roughly 0.3-mile paved loop track circles the wetlands at the base of the quarry. The park developed this as part of a wetland feature with boardwalks.",
+      "coords": "unknown (base of quarry, lower developed park area)",
+      "elevation": "lower park elevation (former quarry floor area)",
+      "access": "0.3-mile paved loop track around the wetlands; ADA-accessible; directly adjacent to parking/trailhead, within easy walking distance of the park access road.",
+      "land": "public",
+      "source": "https://www.tripadvisor.com/Attraction_Review-g49211-d143891-Reviews-Rocky_Face_Mountain_Recreational_Area-Hiddenite_North_Carolina.html"
+    },
+    {
+      "name": "Wetland restoration area with boardwalks and observation decks",
+      "what": "Park amenities include a wetlands area with boardwalks, a dedicated wetland restoration area, and two wildlife observation decks (plus an outdoor classroom and amphitheater nearby). These features are built over/beside standing water in the lower park.",
+      "coords": "unknown (lower developed park area near quarry)",
+      "elevation": "lower park elevation",
+      "access": "Boardwalk-accessible within the developed park core; short walk from parking, within 3 miles of road.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Grindstone Trail creek crossing",
+      "what": "A creek crossing on the Grindstone Trail, located about a half-mile from the parking lot, at the point where hikers turn right to begin the Vertical Mile Challenge Trail. This is the one confirmed flowing-water crossing reported on the park's hiking network (likely a head tributary of Rocky Face Branch).",
+      "coords": "unknown (~0.5 mi from main trailhead along Grindstone Trail)",
+      "elevation": "lower-slope elevation, ~0.5 mi from trailhead (trailhead in former quarry / developed area)",
+      "access": "Reached on foot ~0.5 mile up the green-blazed Grindstone Trail (1 mile) from the main parking lot; within 3 miles of road.",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Rocky Face Mountain summit (drainage context)",
+      "what": "Rocky Face is a dome-shaped granite mass, max elevation approx 1,795 ft (some sources say ~1,800 ft), summit rising about 600 ft above surrounding terrain; it is the southern edge of the Brushy Mountains. The mountain's slopes shed water into the named streams (Beaverdam Creek, Wallace Creek, Rocky Face Branch) and ultimately toward the South Yadkin / Yadkin drainage to the north. Provided as the elevation/coordinate anchor for the water features above.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "approx 1,795 ft (547 m)",
+      "access": "Reached by ~5-6 miles of park trails from the trailhead off Rocky Face Church Rd; all trails within 3 miles of road.",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Wallace Creek (mindat geographic feature record)",
+      "what": "Independent confirmation that 'Wallace Creek' is a cataloged geographic stream feature in Alexander County, NC, associated with the Rocky Face area drainage.",
+      "coords": "unknown (Alexander County NC; Rocky Face vicinity)",
+      "elevation": "unknown",
+      "access": "Mountainside/valley stream within the Rocky Face area.",
+      "land": "unknown",
+      "source": "https://www.mindat.org/feature-4497399.html"
+    },
+    {
+      "name": "Wetland boardwalk near Rocky Face Church Road",
+      "what": "A wetland area at the old quarry site located near Rocky Face Church Road, with an interpretive/educational component ('information about what to look for'). The park master plan called for constructing a boardwalk near this wetland; boardwalks now exist there.",
+      "coords": "unknown (old quarry site near Rocky Face Church Rd; park address 3451 Rocky Face Church Rd, Hiddenite NC)",
+      "elevation": "low, near former quarry floor / roadway grade",
+      "access": "Immediately near Rocky Face Church Road and the park entrance/developed core; ADA-accessible paved track and boardwalk; essentially roadside, far within 3 miles of road.",
+      "land": "public",
+      "source": "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+    }
+  ]
+}

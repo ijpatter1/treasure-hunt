@@ -1,0 +1,137 @@
+{
+  "spot": "Quarry cliff face (former quarry wall / main climbing crag)",
+  "matchScore": 47,
+  "cluesHit": 6,
+  "detail": [
+    {
+      "constraint": "elevated-overlook",
+      "result": "MISS",
+      "reason": "The cache-able spot is the cliff BASE at parking level (no climbing). It is low ground beneath a wall, not a high overlook with a view down — fails the single dominant high-support signature."
+    },
+    {
+      "constraint": "panoramic-view",
+      "result": "MISS",
+      "reason": "At the base you face an 80-100 ft wall; the view is enclosed/blocked, not a broad open panorama."
+    },
+    {
+      "constraint": "rock-niche-cache",
+      "result": "HIT",
+      "reason": "Exact match: 'cut rock walls, ledges, talus and recesses at the base form natural niches (no digging)' — reach into a stone recess."
+    },
+    {
+      "constraint": "surface-not-buried",
+      "result": "HIT",
+      "reason": "Niches/ledges/talus at or above ground, explicitly no digging required."
+    },
+    {
+      "constraint": "rock-marker",
+      "result": "HIT",
+      "reason": "Stone is unambiguously the host feature — the dominant rock feature of the whole park."
+    },
+    {
+      "constraint": "near-water-not-crossed",
+      "result": "PARTIAL",
+      "reason": "Quarry/wetland standing water sits near the base and is not crossed, but it is not directly adjacent to the cliff face itself."
+    },
+    {
+      "constraint": "within-3mi-road",
+      "result": "HIT",
+      "reason": "Forms the backdrop directly above the main parking lot; reachable in minutes, well under 3 mi, no water crossing to reach the base."
+    },
+    {
+      "constraint": "trail-accessible",
+      "result": "HIT",
+      "reason": "Base reached in minutes from parking on easy footing; note that reaching the wall ROUTES needs climbing/permit, but standing at base does not."
+    },
+    {
+      "constraint": "concealed-off-obvious",
+      "result": "MISS",
+      "reason": "Opposite of concealed — it is the most prominent, dead-obvious feature towering directly over the parking lot, heavily visited by climbers."
+    },
+    {
+      "constraint": "saddle-gap-notch",
+      "result": "MISS",
+      "reason": "A single continuous quarried wall, not a gap/saddle/notch between paired features."
+    },
+    {
+      "constraint": "tree-landmark",
+      "result": "MISS",
+      "reason": "Bare cut rock face; no prominent tree marker noted."
+    },
+    {
+      "constraint": "east-facing",
+      "result": "PARTIAL",
+      "reason": "Cliff has discrete faces (the named Left/west face faces west); orientation of the main wall is not clearly east, so no clean cardinal match."
+    },
+    {
+      "constraint": "wooded-with-clearing",
+      "result": "MISS",
+      "reason": "Setting is developed quarry core / open rock and parking, not a woods-meets-clearing forest edge."
+    },
+    {
+      "constraint": "rounded-stone-shape",
+      "result": "MISS",
+      "reason": "Quarried wall is sheer, blocky and angular — not a rounded/domed/egg-shaped marker stone."
+    },
+    {
+      "constraint": "angular-faceted-rock",
+      "result": "HIT",
+      "reason": "Blasted/cut quarry walls are sharp, stepped, blocky and faceted — a man-made angular rampart form."
+    },
+    {
+      "constraint": "green-mossy-contrast",
+      "result": "PARTIAL",
+      "reason": "Cliff seeps support Michaux's saxifrage and lichen/moss against the dark cut rock — plausible color contrast but not emphasized."
+    },
+    {
+      "constraint": "crystalline-quartz-rock",
+      "result": "PARTIAL",
+      "reason": "Host material is granite-gneiss (crystalline, quartz-bearing), but no notable sparkle/quartz seam called out here."
+    },
+    {
+      "constraint": "pale-light-stone",
+      "result": "PARTIAL",
+      "reason": "Granitic gneiss is light-grey; freshly cut quarry faces can read pale, though weathered walls are darker."
+    },
+    {
+      "constraint": "reddish-warm-stone",
+      "result": "MISS",
+      "reason": "No reddish/iron-stained or golden warm-tone cue noted for the cut wall."
+    },
+    {
+      "constraint": "bowl-hollow-depression",
+      "result": "PARTIAL",
+      "reason": "The quarry pit is a large basin/amphitheater, but the cliff-face spot itself is the wall, not a cup/bowl recess."
+    },
+    {
+      "constraint": "confluence-bend",
+      "result": "MISS",
+      "reason": "No confluence or watercourse bend at the cliff face."
+    },
+    {
+      "constraint": "descend-then-high",
+      "result": "MISS",
+      "reason": "No characteristic descent-then-rise approach to the base; it is right at parking grade."
+    },
+    {
+      "constraint": "small-confirming-mark",
+      "result": "PARTIAL",
+      "reason": "Bolt anchors and named-route markings are small man-made marks on the wall, loosely matching a close-up confirming mark."
+    },
+    {
+      "constraint": "left-orientation",
+      "result": "PARTIAL",
+      "reason": "Faint echo only: the crag's named sub-area is the 'Left Face' reached by going around the left side — a 'left' nudge, but tied to a sibling spot."
+    },
+    {
+      "constraint": "open-to-elements",
+      "result": "PARTIAL",
+      "reason": "Overhangs/roofs at the base are open to weather but offer shelter; partial match to a non-cave exposed niche."
+    },
+    {
+      "constraint": "pace-count",
+      "result": "MISS",
+      "reason": "No fixed marker-to-spot pace count associated with the cliff face."
+    }
+  ]
+}

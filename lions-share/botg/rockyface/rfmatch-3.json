@@ -1,0 +1,33 @@
+{
+  "spot": "Bottom Ledge climbing area (Sections 3-5) - base of the quarry",
+  "matchScore": 41,
+  "cluesHit": 9,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support13)", "result": "MISS", "reason": "This is the quarry FLOOR / base of the cliff, the lowest point of the crag - directly contradicts the single dominant 'spot is high' signature"},
+    {"constraint": "panoramic-view (support9)", "result": "MISS", "reason": "Set on the quarry floor ringed by cut walls; view is enclosed, the opposite of a sweeping open vista"},
+    {"constraint": "rock-niche-cache (support9)", "result": "HIT", "reason": "Dirty Chimney, Black Hole, Lightning Crack, talus and corner niches give genuine above-ground rock recesses to reach into - strong, specific match"},
+    {"constraint": "surface-not-buried (support5)", "result": "HIT", "reason": "Box could rest in a crack/niche/talus at base level with no digging - consistent"},
+    {"constraint": "rock-marker (support8)", "result": "HIT", "reason": "Host feature is rock: the cut quarry wall, talus blocks and named cracks at the base"},
+    {"constraint": "near-water-not-crossed (support14)", "result": "PARTIAL", "reason": "Quarry-floor seeps and the nearby base-of-quarry wetland/Rocky Face Branch headwater are adjacent, but no clear creek beside this exact spot"},
+    {"constraint": "wooded-with-clearing (support7)", "result": "MISS", "reason": "An open quarry floor of cut rock, not a forest-meets-clearing edge"},
+    {"constraint": "trail-accessible (support6)", "result": "HIT", "reason": "Adjacent to the paved track / accessed from bottom of quarry on established path, easy footing"},
+    {"constraint": "within-3mi-road (support4, high)", "result": "HIT", "reason": "Effectively at road level, well under 3 mi, no water crossing or cliff scaling to STAND at the base"},
+    {"constraint": "concealed-off-obvious (support6)", "result": "PARTIAL", "reason": "Cracks and corner niches offer concealment, but the quarry floor is a high-traffic, very visible spot"},
+    {"constraint": "saddle-gap-notch (support4)", "result": "MISS", "reason": "No gap/saddle between paired crags here; it is the foot of a single continuous wall"},
+    {"constraint": "tree-landmark (support4)", "result": "MISS", "reason": "No prominent tree noted; setting is bare cut rock and talus"},
+    {"constraint": "east-facing (support4)", "result": "MISS", "reason": "No orientation cue; base of quarry floor, aspect not specified/relevant"},
+    {"constraint": "rounded-stone-shape (support8, low)", "result": "MISS", "reason": "Quarry-cut walls and angular talus, not a rounded/domed/egg stone marker"},
+    {"constraint": "green-mossy-contrast (support5, low)", "result": "PARTIAL", "reason": "Damp quarry-floor/seep zone plausibly carries moss/lichen on dark cut stone, but not specifically noted here"},
+    {"constraint": "crystalline-quartz-rock (support6, low)", "result": "PARTIAL", "reason": "Host rock is granitic gneiss (quartz-bearing, can glint), generic to whole mountain"},
+    {"constraint": "angular-faceted-rock (support5, low)", "result": "HIT", "reason": "Quarry-cut blocky walls and stepped 'Lightning Crack'/'Dirty Chimney' faces are sharp, angular, fractured rock"},
+    {"constraint": "reddish-warm-stone (support6, low)", "result": "MISS", "reason": "No reddish/iron-stained or golden stone cue at this base spot"},
+    {"constraint": "pale-light-stone (support5, low)", "result": "PARTIAL", "reason": "Light-grey granitic gneiss, but 'Black Hole'/'Blast in Black' names emphasize dark, mixed signal"},
+    {"constraint": "bowl-hollow-depression (support4, low)", "result": "HIT", "reason": "The whole spot sits in the quarry pit/floor depression ringed by walls - a literal basin/amphitheater hollow"},
+    {"constraint": "confluence-bend (support4, low)", "result": "MISS", "reason": "No confluence or watercourse bend at this spot"},
+    {"constraint": "descend-then-high (support3, low)", "result": "PARTIAL", "reason": "Approach descends into the quarry bottom, but there is no final 'then high' - it stays low"},
+    {"constraint": "small-confirming-mark (support4, low)", "result": "HIT", "reason": "Named routes/'Quarryisms' and bolt/anchor hardware on the rock offer small fixed marks to confirm a spot"},
+    {"constraint": "left-orientation (support3, low)", "result": "MISS", "reason": "No left-turn nudge specific to this sub-area (that cue attaches to the Left Face)"},
+    {"constraint": "open-to-elements (support2, low)", "result": "PARTIAL", "reason": "Base overhangs/chimney are sheltered yet open, but the floor is fairly enclosed by walls"},
+    {"constraint": "pace-count (support3, low)", "result": "MISS", "reason": "No countable pace from a fixed marker specific to this spot"}
+  ]
+}

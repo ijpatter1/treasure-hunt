@@ -1,0 +1,33 @@
+{
+  "spot": "Children's adventure playground (cave feature, zip cord, large slide)",
+  "matchScore": 14,
+  "cluesHit": 2,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "MISS", "reason": "Playground is in the developed core at base level, not high; no view down onto lower ground. Fails the single dominant signature."},
+    {"constraint": "panoramic-view (support 9)", "result": "MISS", "reason": "Enclosed developed picnic-area setting; no broad sweeping vista."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "MISS", "reason": "Only 'cave' is a man-made playground structure; no natural rock crevice/undercut to reach into."},
+    {"constraint": "surface-not-buried (support 5)", "result": "PARTIAL", "reason": "A box could rest on/against a structure (no digging), but the host is man-made play equipment, not a natural feature."},
+    {"constraint": "rock-marker (support 8)", "result": "MISS", "reason": "Operative landmark is built play equipment, not a boulder/slab/outcrop or sittable rock."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "MISS", "reason": "No creek/pond/spring adjacent to the playground."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "PARTIAL", "reason": "Developed open core with surrounding woods nearby, but it is a manicured park clearing, not a forest/clearing edge."},
+    {"constraint": "trail-accessible (support 6)", "result": "PARTIAL", "reason": "Reachable near road/paths but it is a developed lot feature, not just-off an established footpath."},
+    {"constraint": "within-3mi-road (support 4)", "result": "HIT", "reason": "At road level in the developed core; easily within 3 mi of road, no danger. Generic fit, true park-wide."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "MISS", "reason": "High-traffic family playground, highly visible; opposite of secluded/rarely-visited."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "No paired rock features / notch."},
+    {"constraint": "tree-landmark (support 4)", "result": "MISS", "reason": "No singled-out prominent tree marker; landscaped grounds."},
+    {"constraint": "east-facing (support 4)", "result": "MISS", "reason": "No orientation cue; developed flat core."},
+    {"constraint": "rounded-stone-shape (support 8)", "result": "MISS", "reason": "No distinctive rounded/egg stone marker."},
+    {"constraint": "green-mossy-contrast (support 5)", "result": "MISS", "reason": "No moss-on-stone color contrast at this developed spot."},
+    {"constraint": "crystalline-quartz-rock (support 6)", "result": "MISS", "reason": "No exposed crystalline/quartz host rock here."},
+    {"constraint": "angular-faceted-rock (support 5)", "result": "MISS", "reason": "No angular/stratified rock feature."},
+    {"constraint": "reddish-warm-stone (support 6)", "result": "MISS", "reason": "No red/iron-stained or golden stone cue."},
+    {"constraint": "pale-light-stone (support 5)", "result": "MISS", "reason": "No pale/white stone marker."},
+    {"constraint": "bowl-hollow-depression (support 4)", "result": "PARTIAL", "reason": "The man-made 'cave'/hollow loosely echoes a hollow/recess, but it is artificial, not a rock basin."},
+    {"constraint": "confluence-bend (support 4)", "result": "MISS", "reason": "No water junction/bend nearby."},
+    {"constraint": "descend-then-high (support 3)", "result": "MISS", "reason": "No descent-then-high approach; flat base-level spot."},
+    {"constraint": "small-confirming-mark (support 4)", "result": "MISS", "reason": "No natural inscription/seam; only generic signage."},
+    {"constraint": "left-orientation (support 3)", "result": "MISS", "reason": "No left-turn decision-point cue."},
+    {"constraint": "open-to-elements (support 2)", "result": "PARTIAL", "reason": "Outdoor and weather-exposed, but it is not a sheltering ridge/overhang protecting a box."},
+    {"constraint": "pace-count (support 3)", "result": "MISS", "reason": "No fixed natural marker to pace from."}
+  ]
+}

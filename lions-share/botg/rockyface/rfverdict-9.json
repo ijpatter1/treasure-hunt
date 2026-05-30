@@ -1,0 +1,25 @@
+{
+  "spot": "Railroad spur / old rail grade remnant",
+  "judge": "adversarial pin-test",
+  "matchSummary": {
+    "matchScore": 24,
+    "cluesHitClaimed": 4,
+    "actualHits": 2,
+    "hits": ["trail-accessible", "within-3mi-road"],
+    "partials": ["surface-not-buried", "wooded-with-clearing", "concealed-off-obvious", "crystalline-quartz-rock", "descend-then-high", "small-confirming-mark", "pace-count"],
+    "misses": ["elevated-overlook", "panoramic-view", "rock-niche-cache", "rock-marker", "near-water-not-crossed", "saddle-gap-notch", "tree-landmark", "east-facing", "rounded-stone-shape", "green-mossy-contrast", "angular-faceted-rock", "reddish-warm-stone", "pale-light-stone", "bowl-hollow-depression", "confluence-bend", "open-to-elements"]
+  },
+  "test1_distinctFit": {
+    "result": false,
+    "reasoning": "Only two constraints register as HIT (trail-accessible, within-3mi-road), and both are the most generic, mountain-wide constraints in the entire rubric. EVERY spot in ROCKY-FACE-CATALOG.json is trail-accessible and within 3 mi of Rocky Face Church Rd, so these single out nothing. The catalog's only claimed distinctive attribute ('linear man-made earthwork, a precise followable feature') is precisely the property the HIT detail flags as a weakness: a faint linear grade is followable but NOT tucked/concealed, has no rock niche, no view, no water, no notch, no tree/stone marker. None of the rock-character, view, water, orientation, or niche constraints land. There is no specific, hard-to-generalize constraint that fingers THIS feature over the summit, quarry, prison camp, or any other catalog spot. distinctFit = false.",
+    "extraConcern": "The feature's existence as a locatable on-site object is weakly sourced (single botany-blog citation; coords 'precise unknown'). A spot that cannot be pinned to a feature cannot be distinctly indicated."
+  },
+  "test2_jcbOk": {
+    "result": true,
+    "reasoning": "On accessible public land (Alexander County park). Lower mountain, well within 3 mi of Rocky Face Church Rd. No water crossing, no cliff scaling, low-angle benched grade safely walkable in light snow. A box could be set against ties/a cut bank above ground (no digging strictly required), and the easy lower-slope grade is reachable carrying a >25 lb load over one or two trips. The JCB hard constraints are physically satisfiable.",
+    "caveat": "surface-not-buried is only PARTIAL: an open earthen grade offers ties/cut banks but no documented natural shelf/hollow/overhang, so a placed box would sit exposed to the elements (open-to-elements = MISS). Satisfiable but not a natural concealment."
+  },
+  "survives": false,
+  "survivesReasoning": "survives = distinctFit AND jcbOk AND meaningful matchScore. jcbOk is true, but distinctFit is FALSE and the matchScore is not meaningful: 24 points rest on only 2 generic HITs plus speculative PARTIALs. The clues that supposedly point here would fit nearly any lower-slope trail segment on Rocky Face (or any old-quarry mountain). No distinctive clue singles out a rail grade. Eliminated.",
+  "verdict": "Eliminated. Only generic HITs (trail/road); no view, niche, rock-marker, or water cue lands. Clues fit any lower trail segment, not a rail grade."
+}

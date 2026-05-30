@@ -1,0 +1,21 @@
+{
+  "spot": "Wetlands boardwalk & two wildlife observation decks (base of quarry)",
+  "judge": "adversarial pin-test",
+  "matchScore": 14,
+  "cluesHit": 2,
+  "survives": false,
+  "distinctFit": false,
+  "jcbOk": true,
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "The ONLY two HITs are 'trail-accessible' and 'within-3mi-road' — both universally true of every catalog spot at Rocky Face. The catalog itself states 'Entire park is well within 3 mi of Rocky Face Church Road' and 'No digging/climbing/water-crossing needed to STAND at any listed spot.' These hits therefore distinguish nothing; they fit any feature on this mountain (and almost any generic park feature) equally well. Every specific, hard-to-generalize constraint is a MISS: elevated-overlook (MISS — this is the LOWEST point in the park, below roadway grade), panoramic-view (MISS — enclosed pit), rock-niche/rock-marker/crystalline-quartz/angular-faceted/rounded-stone/pale-stone/reddish-stone (all MISS — host medium is wood and standing water, not rock), and concealed-off-obvious (MISS — a highly visible, signed, frequently-visited interpretive feature with an outdoor classroom). No single constraint singles out THIS spot. In fact the dominant clue signature (high place + outward view + natural rock niche + concealment) directly CONTRADICTS this spot."
+    },
+    "jcbOk": {
+      "result": true,
+      "reasoning": "Physically the spot satisfies JCB's hard rules: public land (Alexander County park); roadside / ADA-paved 0.3-mi loop, far under 3 mi from Rocky Face Church Road; surface structures (no digging/burial); no cliff-scaling and no water-crossing required to STAND at the decks; gentle paved footing makes a >25lb load trivially carriable (even in light snow). Verified against catalog sources (McGill Associates case study; Alexander County master plan); no contradiction found, so no WebSearch was needed. NOTE: jcbOk=true is non-discriminating here — these access properties are shared by the whole park and do not argue FOR this spot."
+    }
+  },
+  "verdict": "ELIMINATED. Generic-only hits (trail/road access shared by all spots); dominant high-place/view/rock-niche signature directly contradicts this lowest, wooden, water-over pit feature. Not distinctly indicated.",
+  "decision": "survives = distinctFit(false) AND jcbOk(true) AND meaningfulMatch(false) = FALSE"
+}

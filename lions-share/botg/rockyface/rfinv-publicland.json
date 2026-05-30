@@ -1,0 +1,113 @@
+{
+  "slice": "publicland",
+  "facts": [
+    {
+      "name": "Rocky Face Mountain Recreational Area (RFMRA)",
+      "what": "Public passive recreation park in northern Alexander County, NC, near Hiddenite. Opened to the public May 25, 2012. Considered the southern edge of the Brushy Mountains. Known for rock climbing, hiking, and overlooks. Address: 3451 Rocky Face Church Road, Hiddenite, NC 28636. Phone 828-632-1093.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "summit approx 1,795 ft (max approx 1,800 ft)",
+      "access": "Reached via Rocky Face Church Road; approx 5 mi north of Taylorsville, approx 4.5 mi south of the Wilkes County line; trails lead from the parking/quarry area to the summit",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Ownership / Management",
+      "what": "Owned and operated by Alexander County government (administered through Alexander County Parks & Recreation; park director historically Alisha Stamey). Alexander County formally accepted ownership of the property in 2011. It is a county park, NOT a North Carolina State Park or state-managed Natural Area.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "County-owned public park",
+      "land": "public",
+      "source": "https://alexandercountync.gov/departments/parks/"
+    },
+    {
+      "name": "Total acreage",
+      "what": "Reported acreage varies by source: commonly cited as ~318 acres; other official/secondary sources state ~326, ~328, or ~330 acres. The county website states approximately 328 acres. The 330-acre figure is described as a 'passive park' that is primarily undeveloped.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "unknown",
+      "land": "public",
+      "source": "https://alexandercountync.gov/rocky-face-park2/"
+    },
+    {
+      "name": "Land ownership history",
+      "what": "In 1982 the mountain was purchased by The Felburn Foundation. The Resource Conservation & Development (RC&D / Carolina Land & Lakes RC&D) took control of the property in 2003 and began cleanup (it had been used as a dumping ground). Alexander County partnered with the RC&D and accepted ownership in 2011; park opened May 25, 2012.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "unknown",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "Natural Heritage / Registry status (NOT a State Natural Area)",
+      "what": "In 2002 the NC Natural Heritage Program surveyed the mountain and documented rare natural communities (Low Elevation Granitic Dome; Montane Red Cedar-Hardwood Woodland). In 2003 an agreement placed Rocky Face Mountain on the NC Registry of Natural Heritage Areas. NOTE: Registry listing is a voluntary recognition, NOT a dedicated/designated NC State Natural Area. The property remains a county-owned recreational area, not state-managed. Rare species include Keever's bristle moss (state-endangered; most of world population in the Brushy Mountains), striped garlic, shinyleaf meadow-sweet, cofaqui giant skipper, giant swallowtail.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "public",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Summit / geography",
+      "what": "Dome-shaped mass of granite; maximum elevation approx 1,795-1,800 ft, rising approx 600 ft above surrounding terrain. Listed on the USGS 'Hiddenite' topographic quadrangle. Located at the southern edge of the Brushy Mountains in the western NC Piedmont.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "1,795 ft (547 m)",
+      "access": "Reached by hiking trails (Hollow Rock, Grindstone, Prison Camp) to the summit",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Trail system (~5-6 miles total)",
+      "what": "Park has roughly 5-6 miles of hiking trails plus a 1/3-mile paved ADA walking track in the former quarry area. Named trails: Buzzard Loop (~0.75-0.8 mi, easy-moderate, leads to overlook of the old rock quarry); Prison Camp Trail (~1 mi, passes former inmate-housing site, connects to Hollow Rock at top); Grindstone Trail (~1 mi, moderate-strenuous switchbacks up the south side, green blaze, connects to Hollow Rock at top); Hollow Rock Trail (~2.5 mi loop along the summit SW-to-NE, moderate-strenuous, numerous rock overlooks); Vertical Mile Challenge Trail (blue blaze, includes a ~350 ft climb up an open granite face).",
+      "coords": "unknown",
+      "elevation": "summit trails reach ~1,795 ft",
+      "access": "Trailheads within the park near the parking/quarry area",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Rock climbing area / quarry walls",
+      "what": "58+ established/bolted rock-climbing routes on natural granite faces. A former rock quarry forms a backdrop to the parking area with vertical walls rising more than 80 ft, some suitable for top-rope climbing. Rock climbing and rappelling require a valid permit issued daily at the park office (qualified individuals).",
+      "coords": "near 35.9723544,-81.108692",
+      "elevation": "quarry walls 80+ ft tall",
+      "access": "Within the park; permit required from park office; subject to park hours",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Facilities / amenities",
+      "what": "Amenities include: picnic shelter and picnic areas; restrooms; park office; a multipurpose / community building (capacity ~67 persons); 2 primitive backpack/camp sites; natural children's adventure playground (with cave feature, slide, zipline); two wildlife observation decks; an outdoor amphitheater; an outdoor classroom; wetlands with boardwalks and a wetland restoration area; geocaches; parking. No designated dog park or built climbing/observation tower confirmed in sources (climbing is on natural rock).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within the park",
+      "land": "public",
+      "source": "https://alexander.recdesk.com/Community/Facility/Detail?facilityId=1"
+    },
+    {
+      "name": "Operating hours / access",
+      "what": "Open ~360 days a year (weather permitting), closed only Thanksgiving, Christmas, and New Year's. Hours vary seasonally (e.g., reported 8am-8pm in summer). General park entry is publicly accessible (no entry-fee info confirmed in sources; climbing/rappel requires daily permit).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Public, daytime hours",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Official maps / planning documents",
+      "what": "Rocky Face Park Master Plan (September 2009) is published as a PDF on the Alexander County website. Alexander County also publishes a 'Directions to Rocky Face Mountain Recreation Area' PDF. Trail maps are available via the park's hiking page and third-party platforms (AllTrails, Trailforks, Hiking Project).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "unknown",
+      "land": "public",
+      "source": "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+    },
+    {
+      "name": "Recognition",
+      "what": "Alexander County earned a National Association of Counties (NACo) Achievement Award for Rocky Face Mountain Recreational Area.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "unknown",
+      "land": "public",
+      "source": "https://alexandercountync.gov/alexander-county-earns-naco-achievement-award-for-rocky-face-mountain-recreational-area/"
+    }
+  ]
+}

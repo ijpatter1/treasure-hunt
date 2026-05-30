@@ -1,0 +1,33 @@
+{
+  "spot": "Wetlands boardwalk & two wildlife observation decks (base of quarry)",
+  "matchScore": 14,
+  "cluesHit": 2,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "MISS", "reason": "Lowest point in the park: a quarry depression below roadway grade. Directly contradicts the single dominant high-place signature."},
+    {"constraint": "panoramic-view", "result": "MISS", "reason": "Enclosed wetland in a pit; no broad outward vista over valleys/water."},
+    {"constraint": "rock-niche-cache", "result": "MISS", "reason": "Host features are wooden boardwalks/decks, not a natural above-ground rock crevice or undercut."},
+    {"constraint": "surface-not-buried", "result": "PARTIAL", "reason": "Boardwalk structures sit above ground, but any hide would be man-made wood, not a natural ledge/hollow at a rock or tree base."},
+    {"constraint": "rock-marker", "result": "MISS", "reason": "Operative landmark is wooden decks and standing water, not a boulder/slab/sittable stone."},
+    {"constraint": "near-water-not-crossed", "result": "PARTIAL", "reason": "Water is THE feature, but boardwalks go over the water (crossing it), opposite of the dry-bank-beside-water intent."},
+    {"constraint": "wooded-with-clearing", "result": "MISS", "reason": "Developed wetland-restoration/outdoor-classroom area, not a forest edge meeting a clearing."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "Reached on a 0.3-mi paved ADA loop with easy, non-dangerous footing."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "Essentially roadside, adjacent to Rocky Face Church Road; no water crossing or cliff scaling to reach."},
+    {"constraint": "concealed-off-obvious", "result": "MISS", "reason": "Highly visible, signed, frequently-visited interpretive feature, not secluded or off the obvious view."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "No gap/saddle/notch between paired rock features here."},
+    {"constraint": "tree-landmark", "result": "MISS", "reason": "No prominent oak/pine marker noted; the markers are built structures."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "No eastward orientation cue for the spot or its view."},
+    {"constraint": "rounded-stone-shape", "result": "MISS", "reason": "No domed/egg/round stone marker present."},
+    {"constraint": "green-mossy-contrast", "result": "MISS", "reason": "Wetland vegetation, but not green moss/lichen set against dark exposed stone."},
+    {"constraint": "crystalline-quartz-rock", "result": "MISS", "reason": "No quartz/crystalline host rock; the medium is water and wood."},
+    {"constraint": "angular-faceted-rock", "result": "MISS", "reason": "No angular/faceted/stratified rock feature at this spot."},
+    {"constraint": "reddish-warm-stone", "result": "MISS", "reason": "No warm-toned/reddish stone cue."},
+    {"constraint": "pale-light-stone", "result": "MISS", "reason": "No pale/white stone marker."},
+    {"constraint": "bowl-hollow-depression", "result": "PARTIAL", "reason": "It is a quarry depression/basin that traps water, a weak basin-shape echo, but earthen pit not a rock bowl."},
+    {"constraint": "confluence-bend", "result": "MISS", "reason": "No confluence or watercourse bend; it is a static constructed pond."},
+    {"constraint": "descend-then-high", "result": "PARTIAL", "reason": "One descends below grade to reach it, but it ends low, not at a high spot, so only half the cue fits."},
+    {"constraint": "small-confirming-mark", "result": "PARTIAL", "reason": "Interpretive 'what to look for' signage exists, but that is large posted signage, not a small overlooked seam/inscription to read up close."},
+    {"constraint": "left-orientation", "result": "MISS", "reason": "No left-turn directional nudge associated with the approach."},
+    {"constraint": "open-to-elements", "result": "PARTIAL", "reason": "Open-air, but sheltered low in a depression rather than a breezy ridge/overhang."},
+    {"constraint": "pace-count", "result": "MISS", "reason": "Boardwalk posts are countable but there is no specific measured-count cue tied here."}
+  ]
+}

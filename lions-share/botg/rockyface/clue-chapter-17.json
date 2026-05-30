@@ -1,0 +1,95 @@
+{
+  "page": "chapter-17",
+  "constraints": [
+    {
+      "text": "A small, trumpet-shaped late-18th-century cut lead-crystal dessert glass",
+      "type": "shape",
+      "reading": "The treasure object's form is a narrow base widening upward into a trumpet/flared bowl — a landform echo could be a flared/funnel-shaped rock, a widening crevice, or a feature narrow at the bottom and open at the top (a notch, gap, or upward-opening cleft).",
+      "confidence": "low"
+    },
+    {
+      "text": "described by its dealer as the 'English rose pattern' ... scalloped rim and floral/bellflower cut border",
+      "type": "shape",
+      "reading": "A scalloped (wavy, toothed) rim and bell/flower shapes — could echo a scalloped rock ledge edge, a fluted/notched outcrop crest, or downward-hanging bell-like rock forms. Spatially suggestive of an edge with repeating rounded indentations.",
+      "confidence": "low"
+    },
+    {
+      "text": "bearing the Washington family green wax seal on the bottom",
+      "type": "color",
+      "reading": "A distinctive mark is on the BOTTOM/underside of the object — spatially hints the meaningful marker is on an underside or base rather than a top face. Color cue: green. Possibly a green-tinted, moss-covered, or sealed underside of a rock/feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "cut bellflowers/husks (Mount Vernon example, trumpet bowl)",
+      "type": "shape",
+      "reading": "Downward-pointing bellflower/husk motif reinforces a hanging, pendant, or downward-tapering shape — a feature that narrows or points downward (overhang, hanging rock, dripping ledge).",
+      "confidence": "low"
+    },
+    {
+      "text": "jellies were served in individual cut-glass vessels stacked on tiered salvers ... elaborate 'pyramid' dessert centerpieces",
+      "type": "shape",
+      "reading": "Imagery of a tiered, stacked pyramid/stepped structure rising to a point — could echo a stacked or tiered rock formation, stepped ledges, or a conical/pyramidal high point.",
+      "confidence": "low"
+    },
+    {
+      "text": "the water 'had become a sheet of ice,' and only Washington's boat made it; two groups could not cross",
+      "type": "nearby",
+      "reading": "Strong water-crossing imagery: a wide river, only one of three points passable. Spatially suggests proximity to flowing water with a single viable crossing/passage point.",
+      "confidence": "low"
+    },
+    {
+      "text": "Washington rode his large white steed to the front in an open farmer's field ... 'large open farmer's field'",
+      "type": "feature",
+      "reading": "An open, flat, exposed field — a clearing or meadow rather than dense woods. The hide context could be an open grassy expanse with long sightlines.",
+      "confidence": "low"
+    },
+    {
+      "text": "standing within cannon shot in full-color regalia ... newspapers from New York to London wrote of his mythic invincibility",
+      "type": "view",
+      "reading": "Image of standing prominently, visible/exposed in the open and seen from afar — suggests a conspicuous, visible vantage point rather than a concealed nook.",
+      "confidence": "low"
+    },
+    {
+      "text": "Combs Hill, Molly Pitcher Spring (named features at the open battlefield field)",
+      "type": "nearby",
+      "reading": "Spatial vocabulary surfaced: a hill (high point) beside an open field, and a spring (a water source). Generic cue: a rise overlooking flat open ground, with flowing water (spring) nearby.",
+      "confidence": "low"
+    },
+    {
+      "text": "George Washington National Forest ... Appalachian / Blue Ridge ... ~1.8 million acres of federal PUBLIC land",
+      "type": "view",
+      "reading": "If a high-relief Appalachian/Blue Ridge setting is implied, the hide would be mountainous terrain with ridgeline overlooks and long views — high ground with a distant prospect.",
+      "confidence": "low"
+    },
+    {
+      "text": "restored tallgrass prairie with walking paths (Hoover site association)",
+      "type": "nearby",
+      "reading": "Open prairie/grassland crossed by walking paths — a flat, open feature with a defined trail nearby.",
+      "confidence": "low"
+    },
+    {
+      "text": "Round Bottom (surveyed tract) and Burning Springs Run along the Ohio/Great Kanawha rivers",
+      "type": "nearby",
+      "reading": "Evocative spatial place-names: 'Round Bottom' = a rounded river bottom/bend (flat low ground in a curve of water); 'Burning Springs Run' = a spring/creek (a run is a small flowing stream). Generic cue: a rounded flat by a river bend, or near a small flowing spring/creek.",
+      "confidence": "low"
+    },
+    {
+      "text": "began his career as a professional surveyor ... ~200 surveys, marking property lines and boundaries",
+      "type": "other",
+      "reading": "Surveyor theme implies precise measured marks, boundary corners, blazes, and survey markers — the hide could be associated with a marked boundary point, corner, or man-made survey-style marker.",
+      "confidence": "low"
+    },
+    {
+      "text": "Washington's tomb / death and burial site at Mount Vernon on the Potomac River",
+      "type": "nearby",
+      "reading": "Recurring water adjacency (Potomac River) — multiple Washington sites sit beside or above a river. Reinforces a riverside/over-water positioning.",
+      "confidence": "low"
+    },
+    {
+      "text": "He marked finer possessions with a wax seal ... one of only two known to exist",
+      "type": "other",
+      "reading": "Emphasis on a unique mark/seal identifying the genuine item — at the spot, look for a singular distinguishing mark or seal-like feature confirming the correct location.",
+      "confidence": "low"
+    }
+  ]
+}

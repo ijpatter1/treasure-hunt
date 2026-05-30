@@ -1,0 +1,33 @@
+{
+  "spot": "Grindstone Trail creek crossing",
+  "matchScore": 27,
+  "cluesHit": 5,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "MISS", "reason": "Lower-slope streambank ~0.5 mi from trailhead; it is a low point in a draw, not high ground — contradicts the single dominant signature."},
+    {"constraint": "panoramic-view", "result": "MISS", "reason": "Enclosed creek crossing among trees and switchbacks; no broad outward vista."},
+    {"constraint": "rock-niche-cache", "result": "PARTIAL", "reason": "Streambank rocks and roots form small natural niches, but these are minor, not a defining stone recess."},
+    {"constraint": "surface-not-buried", "result": "HIT", "reason": "Cache could rest against streambank rocks/roots at/above ground; no digging needed."},
+    {"constraint": "rock-marker", "result": "PARTIAL", "reason": "Some streambank rocks present, but the operative landmark here is the water/crossing, not a sittable boulder or outcrop."},
+    {"constraint": "near-water-not-crossed", "result": "PARTIAL", "reason": "Water is definitively present, but this is a CROSSING — the trail crosses the creek, conflicting with 'never crossed / stay on dry bank'. Bank could host the spot but the crossing nature works against it."},
+    {"constraint": "wooded-with-clearing", "result": "PARTIAL", "reason": "Wooded SE slope, but no notable adjacent clearing/meadow/field edge described."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "On the established Grindstone Trail, easy-moderate walk, right at a trail junction; non-dangerous footing."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "~0.5 mi from parking, well under 3 mi from road, no climbing or hazard."},
+    {"constraint": "concealed-off-obvious", "result": "PARTIAL", "reason": "Lower-slope crossing is unremarkable but is also a busy junction where hikers turn; not especially secluded."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "No paired crags or notch framing the spot; it is a drainage crossing."},
+    {"constraint": "tree-landmark", "result": "PARTIAL", "reason": "Wooded streambank with roots, but no specific prominent oak/pine marker called out."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "SE side of park, but as a creek crossing in a draw it has no defined cardinal view orientation."},
+    {"constraint": "rounded-stone-shape", "result": "MISS", "reason": "No distinctive rounded/domed/egg stone described at the crossing."},
+    {"constraint": "green-mossy-contrast", "result": "PARTIAL", "reason": "Wet, slippery streambank plausibly mossy, but not explicitly a moss-against-stone color marker."},
+    {"constraint": "crystalline-quartz-rock", "result": "MISS", "reason": "Granitic-gneiss bedrock generally, but no quartz/sparkle cue noted at this streambank specifically."},
+    {"constraint": "angular-faceted-rock", "result": "MISS", "reason": "No bedding/columnar/blocky stone feature described here."},
+    {"constraint": "reddish-warm-stone", "result": "MISS", "reason": "No reddish/iron-stained or golden stone cue at the crossing."},
+    {"constraint": "pale-light-stone", "result": "MISS", "reason": "No pale/white standout stone marker described."},
+    {"constraint": "bowl-hollow-depression", "result": "MISS", "reason": "No basin/cup/kettle depression described at the spot."},
+    {"constraint": "confluence-bend", "result": "PARTIAL", "reason": "A head tributary of Rocky Face Branch, and switchbacks suggest the watercourse curves, but no clear confluence/junction of two waters."},
+    {"constraint": "descend-then-high", "result": "PARTIAL", "reason": "The crossing is a low point you descend to before the trail climbs the ridge; matches the 'go down then up' approach motif but the spot itself is the low point, not the high."},
+    {"constraint": "small-confirming-mark", "result": "MISS", "reason": "No inscription/seam noted; a natural streambank lacks a fixed up-close confirming mark."},
+    {"constraint": "left-orientation", "result": "MISS", "reason": "Junction here is described as 'turn RIGHT onto the Challenge Trail' — opposite of the left nudge."},
+    {"constraint": "open-to-elements", "result": "PARTIAL", "reason": "Open streambank is exposed to weather, but provides little shelter to protect a box."},
+    {"constraint": "pace-count", "result": "PARTIAL", "reason": "The trail junction is a fixed marker from which a short measured count could run; speculative."}
+  ]
+}

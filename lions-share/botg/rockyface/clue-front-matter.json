@@ -1,0 +1,107 @@
+{
+  "page": "front-matter",
+  "constraints": [
+    {
+      "text": "Mother Nature beckons you ... boots on the ground ... Take a friend. Bring a picnic. Find a treasure.",
+      "type": "feature",
+      "reading": "The hiding spot is an outdoor natural setting, not an indoor/urban place. It is pleasant enough to picnic at, implying a place where one can sit comfortably (a flat-ish, open or scenic resting spot rather than a sheer crag or dense thicket).",
+      "confidence": "high"
+    },
+    {
+      "text": "boots on the ground ... reached on foot; public land, near a road, not dangerous (no water crossings, cliff scaling)",
+      "type": "distance",
+      "reading": "Spot is within walking distance of a road (author elsewhere confirms ~3 miles), on solid ground reachable without scaling cliffs or crossing water. The terrain immediately at the spot is non-hazardous to stand on.",
+      "confidence": "high"
+    },
+    {
+      "text": "Not buried — no digging required on public lands.",
+      "type": "feature",
+      "reading": "The box sits on or against an existing natural feature at or above ground level (in a crevice, under a ledge/overhang, behind/beneath a rock, in a hollow), not in dug earth. Look for a ready-made natural cavity or shelf.",
+      "confidence": "high"
+    },
+    {
+      "text": "custom-made treasure box, closed — light tan/beige metal panels set in a dark gunmetal/iron frame, with dark corner brackets, two dark top straps, a front latch, and dark feet",
+      "type": "shape",
+      "reading": "The physical object is a rectangular box with pale tan panels in a dark frame; its pale-on-dark coloring could let it blend against light rock framed by dark crevice shadow. Its size (smaller four are six-figure; this one substantially larger) implies a cavity big enough to conceal a sizeable chest.",
+      "confidence": "med"
+    },
+    {
+      "text": "the fifth box is substantially larger and holds the lion's share ... custom-forged by blacksmith Seth Gould",
+      "type": "shape",
+      "reading": "Because the Lion's Share box is the largest of the five, the concealment feature must be a comparatively large recess/overhang/crevice — not a small pocket. Favor a roomy natural shelter over a tiny niche.",
+      "confidence": "med"
+    },
+    {
+      "text": "Where your pleasure is, there is your treasure: where your treasure, there your heart; where your heart, there your happiness.",
+      "type": "view",
+      "reading": "Epigraph chain (pleasure/heart/happiness) is thematic, but charitably it may hint the spot is a place of personal joy — likely scenic or emotionally resonant (an overlook or a beautiful resting place). 'Heart' could echo a central/heart-of-the-feature position.",
+      "confidence": "low"
+    },
+    {
+      "text": "The only joy in the world is to begin. —CESARE PAVESE",
+      "type": "other",
+      "reading": "Thematic about beginning the hunt; weak spatial content. Possible faint hint toward a starting point / trailhead-adjacent location, but unreliable.",
+      "confidence": "low"
+    },
+    {
+      "text": "an idea riding like a wild cowboy upon a lightning bolt of inspiration ... drawn to joy like the proverbial moth to the fiery flame",
+      "type": "feature",
+      "reading": "Recurring fire/lightning/Western imagery (also 'Thoreau's Fire'). Charitably could echo a burned area, a lightning-struck or fire-scarred tree/rock, a high exposed ridge where lightning strikes, or an elevated open vista (cowboy/wide country). Speculative.",
+      "confidence": "low"
+    },
+    {
+      "text": "research was like panning for gold ... waded out into a stream of time ... driving past the Ozarks",
+      "type": "nearby",
+      "reading": "Gold-panning / 'wading into a stream' imagery faintly associates with flowing water; the spot could be near a stream or creek (consistent with 'no water crossings' — beside, not across, water). Treat as atmospheric, not literal.",
+      "confidence": "low"
+    },
+    {
+      "text": "Arkenstone = the Heart of the Mountain, the great glowing gem at the heart of a mountain hoard; resonates with a recurring mountain-treasure motif",
+      "type": "elevation",
+      "reading": "Mountain-treasure motif (gem at the heart/center of a mountain) charitably suggests an elevated, mountainous setting and possibly a central or interior feature of a peak/ridge. Generic high-ground hint, not a place.",
+      "confidence": "low"
+    },
+    {
+      "text": "Sweet Home Mine ... rhodochrosite; The Arkenstone iconically linked to a high mountain mineral locality in national forest",
+      "type": "color",
+      "reading": "Associated signature mineral (rhodochrosite) is rose/red and the box panels are tan; weak hint that the spot may involve reddish or pale rock. Mineral/rock-face context, not soil. Low confidence.",
+      "confidence": "low"
+    },
+    {
+      "text": "Thoreau's Fire ... fire escaped on the east shore of Fair Haven Bay ... 'the Cliffs', Fairhaven Hill, woods now public conservation land",
+      "type": "feature",
+      "reading": "Item-history imagery (raw, location-agnostic): an EAST-facing shoreline, a hill/cliff feature overlooking water, and a fire-scarred woodland. Generically supports: an east-side ledge/cliff with a view over water below, set in woods. Use only as feature-type guidance.",
+      "confidence": "low"
+    },
+    {
+      "text": "Onassis brooch ... carved rock-crystal panels; former estate now conservation land between a trail and a pond, near dunes/heath, near a road, no digging",
+      "type": "nearby",
+      "reading": "Item-history raw features (location-agnostic): a clear/frosted rock-crystal object; a setting between a named trail and a pond, with dune/heath ground cover. Generically supports a spot near a path and a body of still water, on open heath/dune terrain.",
+      "confidence": "low"
+    },
+    {
+      "text": "Tiffany ... estate overlooking a harbor; furnace/glasshouse; salvaged windows",
+      "type": "view",
+      "reading": "Item-history imagery (location-agnostic): an estate overlooking water from height. Generic support for an elevated spot with a long water view. Low confidence.",
+      "confidence": "low"
+    },
+    {
+      "text": "Carnegie ... island with ruins (pedestrian-ferry-only); Johnstown Flood memorial",
+      "type": "nearby",
+      "reading": "Item-history raw features: ruins, an island, and a flood/dam site (water imagery). Generic feature hints: near old ruins/stonework or near water; not directional. Low confidence.",
+      "confidence": "low"
+    },
+    {
+      "text": "Washington jelly glass ... small (~4 in.) cut-glass dessert vessel, 'English Rose' pattern",
+      "type": "shape",
+      "reading": "Object is small, rounded/cup-shaped clear cut glass with a rose motif. Charitably the spot's micro-feature could be cup/bowl-shaped (a rounded hollow or basin) or marked by a rose-colored/rose-shaped element. Highly speculative shape echo.",
+      "confidence": "low"
+    },
+    {
+      "text": "George Washington's jelly glass ... 'English Rose' pattern; rose motif",
+      "type": "color",
+      "reading": "Recurring rose imagery could faintly suggest a pinkish/rose-toned rock or a rose/laurel plant near the spot. Speculative.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "page": "chapter-11",
+  "constraints": [
+    {
+      "text": "His ship has been at sea... anchored some three miles offshore; Fonseca races to the pier but cannot reach his ship; twelve-foot waves and a fierce swell force his small boat back to shore.",
+      "type": "distance",
+      "reading": "Recurring 'three miles' figure and a shore-to-water dynamic; if read as spatial imagery, the target sits near the edge of water with the hide a measured short distance (about three miles) from an access point/road, mirroring the hunt's ~3-mile-from-road rule. The 'cannot reach it from the pier' frames a spot just beyond easy reach but still close.",
+      "confidence": "low"
+    },
+    {
+      "text": "Through his telescope, Fonseca watches 'his Lady of the Light drifting away.'",
+      "type": "view",
+      "reading": "A long-distance line of sight from a fixed vantage looking out over open water; suggests a hiding spot with a sweeping outward view, possibly toward or across water, where one stands and looks far off.",
+      "confidence": "low"
+    },
+    {
+      "text": "Nuestra Senora de la Luz ('Our Lady of the Light'); the 'Lady of the Light' name extends the book's recurring light/illumination motif.",
+      "type": "name",
+      "reading": "Light/illumination imagery; a spot that is sunlit, catches the light, faces a sunrise/sunset direction, or is associated with a high open exposure rather than deep shade. Marian title, explicitly NOT a literal lighthouse.",
+      "confidence": "low"
+    },
+    {
+      "text": "a round knob on its face created when additional gold was added to increase its mass (gold bar); over 22 troy ounces gold disk, the disk shape.",
+      "type": "shape",
+      "reading": "Described objects emphasize a flat bar with a raised rounded knob, and a round disk. If an object's shape echoes a landform, this suggests a flat surface (ledge/slab) bearing a distinct rounded bump/boulder, or a circular rounded stone feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "Wreckage was strewn over fifty miles... a site some fifty miles from the bay of Montevideo.",
+      "type": "distance",
+      "reading": "Scattered debris over a large span; spatially weak, but reinforces dispersal along a shoreline/edge rather than a single deep point. Likely not a hide constraint, noted for completeness.",
+      "confidence": "low"
+    },
+    {
+      "text": "hidden in barrels deep in the ship's powder hold... the hidden powder-hold treasure was never recovered because it was never supposed to exist.",
+      "type": "feature",
+      "reading": "Imagery of treasure concealed in a deep, enclosed, hidden hold/cavity rather than in plain view; charitably suggests the hide is tucked into a recess, crevice, or enclosed pocket (a 'hold'-like nook) rather than fully exposed.",
+      "confidence": "low"
+    },
+    {
+      "text": "The author states 'I placed all our boxes in safe locations' and directs readers to best-practices; not dangerous, accessible.",
+      "type": "other",
+      "reading": "Negative spatial constraint on the spot itself: the hide is NOT on a cliff face, in water, or anywhere requiring dangerous scrambling; it is a safe, reachable stance. Filter, not a pinpoint.",
+      "confidence": "med"
+    }
+  ]
+}

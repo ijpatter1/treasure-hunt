@@ -1,0 +1,83 @@
+{
+  "page": "chapter-21",
+  "constraints": [
+    {
+      "text": "The chapter closes with an aerial photo of people forming a heart on a brick/stone surface, beside the line 'Here is where love resides in all of us' and 'Our next chapter is a love story.'",
+      "type": "view",
+      "reading": "An aerial/top-down vantage over a hard paved surface (brick or stone) — suggests the hide may be viewable from above or be on/near a flat masonry or rock surface; a heart-shaped figure could echo a heart-shaped landform, clearing, or rock outcrop seen from a high overlook.",
+      "confidence": "low"
+    },
+    {
+      "text": "Aerial photo of a heart formed on a brick/stone surface.",
+      "type": "shape",
+      "reading": "A heart shape rendered on stone/brick — possible spatial wink toward a heart-shaped rock, pool, clearing, or curve in a trail/boulder field at the spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "Greek gold wreath of solid olive and oak leaves, woven into a circle (the kotinos wreath 'symbolizing unity'), the band constructed to present how the wreath might have originally looked.",
+      "type": "shape",
+      "reading": "A ring/circle form made of leaves — the hide spot may be marked by or sit within a ring/circular feature: a circular clearing, a ring of trees, a curved rock band, or a round rock; 'oak/olive leaves' hint at standing under or beside a notable tree.",
+      "confidence": "low"
+    },
+    {
+      "text": "Zeus was heard by priests in the rustling of oak leaves (the wreath ties to oak and olive sacred to Zeus).",
+      "type": "feature",
+      "reading": "A distinctive oak tree (or grove) as a natural marker — listen for / stand by rustling leaves; the spot may be at or under a prominent oak.",
+      "confidence": "low"
+    },
+    {
+      "text": "Egyptian gold snake bracelet — a coiled-snake / serpent bangle form (snake bangles iconically coiled).",
+      "type": "shape",
+      "reading": "A coiled / spiral / serpentine form — the approach or the marker may follow a winding, coiling path, a switchback, a serpentine ridge or creek bend, or a spiral-shaped rock.",
+      "confidence": "low"
+    },
+    {
+      "text": "Rod of Asclepius / Star of Life — a single serpent coiled around a wooden staff (healing emblem); club/staff imagery recurs (Hercules' olive-wood club).",
+      "type": "feature",
+      "reading": "A vertical staff/rod/post/standing-stick form — the marker could be an upright stick, post, dead standing trunk, or a tall narrow stone, possibly with a winding (snake) element around or near it.",
+      "confidence": "low"
+    },
+    {
+      "text": "Club of Hercules pendant — Hercules killed the Nemean lion with an olive-wood club and wore its pelt; the lion gives its name to the constellation Leo.",
+      "type": "feature",
+      "reading": "Lion imagery — the spot could be at or near a lion-shaped rock, a 'Lion Head' / 'Lion Mountain' style outcrop, or a feature resembling a crouching lion; the club adds a stout vertical/log-like marker motif.",
+      "confidence": "low"
+    },
+    {
+      "text": "Amethyst (purple quartz) and gold beaded necklace; amethyst is purple quartz, often found in crystal pockets/geodes.",
+      "type": "color",
+      "reading": "Purple / violet color cue and crystalline quartz material — the spot may feature purple-tinged or white quartz rock, a quartz vein, or a sparkling mineral outcrop; gold beads add a yellow/gold color note.",
+      "confidence": "low"
+    },
+    {
+      "text": "The four objects are gold antiquities; gold wreaths were 'worn to the grave for their immortal qualities.'",
+      "type": "color",
+      "reading": "Gold / golden coloring — the spot may show a golden hue (lichen, golden rock, autumn leaves, a sunlit gold-toned cliff face).",
+      "confidence": "low"
+    },
+    {
+      "text": "Apotheosis of Hercules Baroque painting and Apollo/Daphne laurel myth (Daphne turned into a laurel tree); 'Poet Laureate' origin.",
+      "type": "feature",
+      "reading": "A specific tree (laurel/bay) as a natural marker, or a transformation-of-person-into-landform motif — a tree or rock said to resemble a figure could mark the spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "Alexander conquered roughly 3,000 miles from Macedonia to India; renamed 20+ cities 'Alexandria.'",
+      "type": "name",
+      "reading": "A named-place motif ('Alexander/Alexandria') is present but the page itself warns these US names are unrelated false friends — treat as a name cue only, not a spatial feature; no physical character of a hide is implied.",
+      "confidence": "low"
+    },
+    {
+      "text": "Epigraph: 'A myth is an image in terms of which we try to make sense of the world.' — Alan Watts; lesson 'Make It Make Sense' is explicitly tied to figuring out the location.",
+      "type": "view",
+      "reading": "An 'image' that helps you 'make sense' — implies a visual gestalt: from the correct vantage the scene resolves into a recognizable image/shape. Suggests the spot offers a viewpoint where a landform pattern becomes legible (an overlook revealing a shape).",
+      "confidence": "med"
+    },
+    {
+      "text": "Author: 'you might have to look beyond just ancient myths and legends and consider more' — apply logic to the real-world provenance/details rather than allegory.",
+      "type": "other",
+      "reading": "Instruction to read the concrete/literal details over the symbolic — for spatial purposes, favor literal physical features (real rock, real tree, real overlook) the items describe over mythological metaphor.",
+      "confidence": "med"
+    }
+  ]
+}

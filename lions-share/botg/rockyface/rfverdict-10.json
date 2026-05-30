@@ -1,0 +1,36 @@
+{
+  "spot": "Grindstone Trail creek crossing",
+  "judge": "adversarial pin-test",
+  "source_files": [
+    "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/rockyface/rfmatch-10.json",
+    "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/rockyface/ROCKY-FACE-CATALOG.json"
+  ],
+  "matchScore_reported": 27,
+  "cluesHit_reported": 5,
+  "score_assessment": "Of ~26 constraints, only 3 are clean HITs and all 3 are generic logistics, not feature-specific. The rest are 11 MISS and ~12 PARTIAL. matchScore 27 is low-to-middling and is propped up entirely by non-discriminating access clues.",
+
+  "test_1_distinct_fit": {
+    "result": false,
+    "reasoning": "The three HITs are: surface-not-buried, trail-accessible, within-3mi-road. Every one of these is true of essentially EVERY spot in the Rocky Face catalog (the whole park is <3mi from road, on trails, no digging). They are JCB-baseline filters, not signatures of THIS spot. Meanwhile the constraints that COULD distinguish a spot — elevated-overlook (MISS), panoramic-view (MISS), saddle-gap-notch (MISS), rounded-stone-shape (MISS), crystalline-quartz (MISS), small-confirming-mark (MISS), left-orientation (MISS, this junction actually turns RIGHT) — all fail here. The near-water constraint is PARTIAL-against, because it is a CROSSING (trail crosses the water), which conflicts with a 'stay on the dry bank / water never crossed' reading. No specific, hard-to-generalize constraint singles out this streambank; the same generic hits would fit any low creek point on any mountain.",
+    "specific_constraint_found": null
+  },
+
+  "test_2_jcb_hard_constraints": {
+    "result": false,
+    "public_land": {"ok": true, "note": "Rocky Face Mountain Recreational Area, Alexander County public park."},
+    "within_3mi_road": {"ok": true, "note": "~0.5 mi from parking; well under 3 miles (HIT confirmed in match)."},
+    "not_buried_no_digging": {"ok": true, "note": "Cache would rest against streambank rocks/roots at/above ground; surface-not-buried is a HIT."},
+    "not_dangerous_no_water_crossing": {
+      "ok": false,
+      "note": "DECISIVE FAILURE. The spot's defining feature is a creek CROSSING where the trail crosses the water; the match notes it is 'often wet and slippery.' JCB explicitly ruled out water crossings and dangerous footing. A hide whose landmark is the act of crossing a creek sits squarely against that rule. The match itself flags this conflict (near-water-not-crossed = PARTIAL with the note that the crossing nature 'works against it')."
+    },
+    "findable_in_light_snow": {"ok": false, "note": "A low streambank in a wooded draw, keyed to a watercourse and small rock/root niches, is seasonally variable (water level, leaf litter, snow cover) and hard to relocate precisely under light snow."},
+    "carry_25lb_load": {"ok": "marginal", "note": "0.5 mi carry is easy, but the final approach is a wet/slippery creek crossing — awkward and mildly hazardous for a >25lb box, contrary to an 'accessible, not dangerous' hide."},
+    "summary": "Fails the no-water-crossing / not-dangerous rule, which is the very thing that defines this spot. jcbOk = false."
+  },
+
+  "survives": false,
+  "survives_logic": "survives = distinctFit AND jcbOk AND meaningful matchScore. distinctFit=false (all HITs are generic baseline filters), jcbOk=false (water crossing violates JCB safety rule). Both fail; verdict REJECTED.",
+
+  "verdict": "Rejected. The 3 hits are generic access filters true of every park spot; defining creek-crossing violates JCB no-water-crossing rule and adds no distinct signature."
+}

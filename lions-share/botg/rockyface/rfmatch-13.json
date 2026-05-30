@@ -1,0 +1,33 @@
+{
+  "spot": "Rare granitic-dome flatrock / bald",
+  "matchScore": 63,
+  "cluesHit": 12,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "HIT", "reason": "Sits on the upper dome near the 1795 ft summit, ~600 ft above the Piedmont; high exposed bald qualifies strongly."},
+    {"constraint": "panoramic-view", "result": "HIT", "reason": "Open bald rock on the dome with broad sightlines outward across the valley; an exposed flatrock is inherently a wide-vista spot."},
+    {"constraint": "rock-niche-cache", "result": "PARTIAL", "reason": "Rock seams and shallow soil-mat pockets exist for an above-ground tuck, but a flat bald lacks the crevice/undercut/overhang the constraint emphasizes."},
+    {"constraint": "surface-not-buried", "result": "HIT", "reason": "Box would rest on/against bare rock or in a shallow seam; no digging needed, exactly matching surface cache."},
+    {"constraint": "rock-marker", "result": "HIT", "reason": "The host feature is exposed granite flatrock/dome itself — stone is unambiguously the operative landmark."},
+    {"constraint": "near-water-not-crossed", "result": "PARTIAL", "reason": "Vernal pools sit on the rock and streams lie below, but no adjacent flowing water at the bald itself; weak generic fit."},
+    {"constraint": "wooded-with-clearing", "result": "HIT", "reason": "Exposed rock bald (the clearing) bordered by red-cedar/hardwood woodland — a textbook forest-meets-open-rock edge."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "Reached on established summit trails; management keeps foot traffic to the trail, an easy non-dangerous walk."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "Whole park is well under 3 mi from Rocky Face Church Rd; summit reached in 1-2.5 mi on foot, no crossing/scaling."},
+    {"constraint": "concealed-off-obvious", "result": "MISS", "reason": "An open bald is the opposite of secluded/off-sight; rare-community signage and trail confinement make it visible, not tucked away."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "No paired crags or notch framing this bald; it is a broad open dome surface."},
+    {"constraint": "tree-landmark", "result": "PARTIAL", "reason": "Red cedars dot the shallow-soil islands, but no single prominent oak/pine marker; only a weak generic match."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "Dome is open in all directions with no defined eastern orientation cue for this spot."},
+    {"constraint": "rounded-stone-shape", "result": "HIT", "reason": "The feature is a rounded granitic dome (bornhardt) — the rounded/domed shape echo fits directly."},
+    {"constraint": "green-mossy-contrast", "result": "HIT", "reason": "Lichens and dry rock moss against bare grey granite give exactly the green-on-stone color contrast described."},
+    {"constraint": "crystalline-quartz-rock", "result": "PARTIAL", "reason": "Granitic gneiss is hard crystalline rock with quartz/mica, but not the sparkling quartz/corundum the cue centers on."},
+    {"constraint": "angular-faceted-rock", "result": "MISS", "reason": "A rounded exfoliating dome with sheet-joints is smooth, not the sharp angular/columnar/stratified form described."},
+    {"constraint": "reddish-warm-stone", "result": "PARTIAL", "reason": "Spring reddish mats of elf orpine give a warm-toned cue, but the rock itself is light grey, not reddish/iron-stained."},
+    {"constraint": "pale-light-stone", "result": "HIT", "reason": "Bare light-grey granite of the dome reads as pale stone standing against darker woodland surroundings."},
+    {"constraint": "bowl-hollow-depression", "result": "PARTIAL", "reason": "Vernal pools are shallow basin depressions in the rock, a partial echo of the bowl/cup cue."},
+    {"constraint": "confluence-bend", "result": "MISS", "reason": "No confluence or watercourse bend at this high dry bald."},
+    {"constraint": "descend-then-high", "result": "MISS", "reason": "Approach is a straight ascent to the dome; no described descent or final curl into the spot."},
+    {"constraint": "small-confirming-mark", "result": "MISS", "reason": "No inscription/seam-mark cited that pins the exact spot on this open bald."},
+    {"constraint": "left-orientation", "result": "MISS", "reason": "No left-turn directional nudge tied to this spot."},
+    {"constraint": "open-to-elements", "result": "HIT", "reason": "An exposed summit bald is fully open to wind/rain rather than a sealed cave — direct match to this low-support cue."},
+    {"constraint": "pace-count", "result": "MISS", "reason": "No fixed marker or numeric pace count associated with this diffuse bald area."}
+  ]
+}

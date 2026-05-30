@@ -1,0 +1,185 @@
+{
+  "slice": "trails",
+  "facts": [
+    {
+      "name": "Rocky Face Mountain Recreational Area (park)",
+      "what": "Alexander County public park on Rocky Face Mountain, southern edge of the Brushy Mountains; former granite quarry (operated ~1922 to early 1940s), opened as a county recreational park in 2012/2013. ~318 acres (some sources 326-330). Contains ~5-6 miles of hiking trails leading to the summit, rock climbing, camping, picnic shelters, playground, community building. On the NC Registry of Natural Heritage Areas.",
+      "coords": "approx 35.9724,-81.1087 (summit)",
+      "elevation": "summit approx 1795 ft (~547 m); ~600 ft above surrounding terrain",
+      "access": "Address 3451 Rocky Face Church Rd, Hiddenite NC 28636. Gravel parking lot at quarry/entrance. Open 8am-8pm.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Rocky Face Mountain summit",
+      "what": "Dome-shaped exfoliating granite pluton; maximum elevation ~1795-1800 ft, roughly 600 ft above the surrounding Piedmont. Reached by the park's trail network (Hollow Rock / Vertical Mile route). Summit area offers panoramic views of the Brushy Mountains; on clear days Grandfather Mountain reportedly visible.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "1795 ft (547 m)",
+      "access": "Reached via Hollow Rock Trail upper loop from main parking; summit is within the ~318-acre public park, well under 3 mi from Rocky Face Church Rd",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Hollow Rock Trail",
+      "what": "Main/most popular trail in the park; AllTrails lists ~3.1 mi with ~688 ft elevation gain (other sources ~2.5 mi round trip). Begins with an ascent up stone-cut stairs, then a gravel trail; climbs to the mountain summit. Upper loop passes views of the Brushy Mountains (and possibly Grandfather Mountain).",
+      "coords": "unknown",
+      "elevation": "688 ft elevation gain; tops out near 1795 ft summit",
+      "access": "Trailhead at main park parking area off Rocky Face Church Rd",
+      "land": "public",
+      "source": "https://www.alltrails.com/trail/us/north-carolina/hollow-rock-trail"
+    },
+    {
+      "name": "Vertical Mile Challenge (route) / Challenge Trail",
+      "what": "Marked challenge route: begins on the Grindstone Trail (~0.5 mi easy forested section), turns onto the Challenge Trail at a creek crossing, climbs an exposed granite slab (~30-degree incline, described as nearly vertical, an open granite face climb compared to Stone Mountain State Park but without assist stairs); at the summit the Challenge Trail joins the Hollow Rock Trail (option to add ~2 more miles or return to parking). Descent has switchbacks with views from the top of the sheer cliff face.",
+      "coords": "unknown",
+      "elevation": "open granite slab climb to ~1795 ft summit",
+      "access": "From main park trail network/parking via Grindstone Trail; creek crossing partway",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Summit overlooks and picnic tables (Hollow Rock Trail top)",
+      "what": "Multiple overlooks on top of the granite dome offer panoramic valley/Brushy Mountain views; picnic tables are placed at the top of the Hollow Rock Trail overlooking the valley",
+      "coords": "near 35.9724,-81.1087",
+      "elevation": "near 1795 ft summit",
+      "access": "Top of Hollow Rock Trail",
+      "land": "public",
+      "source": "https://www.onlyinyourstate.com/nature/north-carolina/hollow-rock-trail-hiddenite-nc"
+    },
+    {
+      "name": "Vertical Mile Challenge Club QR-code signage",
+      "what": "QR-code signs along the Challenge route for the Vertical Mile Challenge Club, which tracks cumulative vertical miles completed (milestones at 1, 5, 10, 100 vertical miles)",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Along Challenge Trail route",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Buzzard Loop Trail",
+      "what": "Loop trail in the park, approximately 0.8 mile (8/10 mile)",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail network from main parking",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Grindstone Trail",
+      "what": "Trail in the park, approximately 1 mile",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail network from main parking",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Prison Camp Trail",
+      "what": "Moderate trail, approximately 1 mile; winds through an area that historically served as a prison camp in the mid-20th century",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail network from main parking",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Paved ADA walking track (quarry loop)",
+      "what": "Paved ~0.3-mile (one-third mile) accessible walking track/loop located in the former quarry area near the parking lot/entrance, beside the quarry cliff walls",
+      "coords": "unknown",
+      "elevation": "quarry/base level near parking",
+      "access": "At/near main entrance and gravel parking lot off Rocky Face Church Rd",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Quarry cliff face (rock climbing crag)",
+      "what": "Sheer man-made granite cliff (former quarry, ~1922-early 1940s) with vertical walls rising more than 80 feet (some sources ~100 ft); ~58-60+ established bolted sport/top-rope climbing routes, beginner to expert. Forms the backdrop of the parking area. Daily climbing/rappelling permit required from the Park Office.",
+      "coords": "unknown",
+      "elevation": "80-100 ft walls near base/parking",
+      "access": "Adjacent to main parking lot and entrance; permit from Park Office",
+      "land": "public",
+      "source": "https://www.mountainproject.com/area/108538640/rocky-face-recreational-area"
+    },
+    {
+      "name": "Wildlife observation decks (two)",
+      "what": "Two wildlife observation decks are featured park amenities, associated with the wetland/wetland restoration area",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within park near wetlands/boardwalk area",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Wetlands with boardwalks / wetland restoration area",
+      "what": "Constructed wetlands area with boardwalks and a wetland restoration area; part of the park's outdoor classroom/education features",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within park, accessed from lower/trail areas",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Outdoor amphitheater",
+      "what": "Outdoor amphitheater within the park, used for events/programming",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within park grounds",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Picnic shelter(s), Park Office, restrooms",
+      "what": "Built amenities: park office, restrooms/bathrooms, picnic shelters, and a multipurpose/community building available for rent, near the entrance/quarry area",
+      "coords": "unknown",
+      "elevation": "near entrance/parking",
+      "access": "At main entrance off Rocky Face Church Rd",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Children's adventure playground (natural playground)",
+      "what": "Natural/adventure children's playground featuring a zip cord and large slide",
+      "coords": "unknown",
+      "elevation": "near entrance area",
+      "access": "Within park near main facilities",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Primitive campsites (two)",
+      "what": "Two primitive campsites available within the park",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Accessed via park trails",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Stone-cut stairs (Hollow Rock Trail start)",
+      "what": "Built stone-cut staircase at the start of the Hollow Rock Trail ascent before the trail transitions to gravel",
+      "coords": "unknown",
+      "elevation": "lower mountain near trailhead",
+      "access": "Start of Hollow Rock Trail from parking",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Numbered trail-marker signage system",
+      "what": "The park uses a numbered trail map system with corresponding numbers posted on trees along the trails so hikers can locate their position",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Throughout park trail network",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Outdoor classroom",
+      "what": "Outdoor classroom/education feature within the park (associated with wetlands and natural heritage area programming)",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within park grounds",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    }
+  ]
+}

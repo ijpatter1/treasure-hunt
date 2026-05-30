@@ -1,0 +1,305 @@
+{
+  "catalog": "Rocky Face Mountain candidate spots",
+  "mountain": "Rocky Face Mountain (granitic gneiss dome / bornhardt, southern edge/outlier of the Brushy Mountains)",
+  "county": "Alexander County, NC (near Hiddenite / Taylorsville)",
+  "park": "Rocky Face Mountain Recreational Area (Alexander County park, ~318-330 acres; former granite quarry 1922-early 1940s worked by convict labor; opened May 25, 2012; on NC Registry of Natural Heritage Areas; ~200,000 visitors/yr; 7 named trails + paved ADA track)",
+  "summit_coords": "35.9723544,-81.108692 (TopoZone) / 35.972704,-81.108888 (PeakVisor, 1818 ft)",
+  "entrance_address": "3451 Rocky Face Church Road, Hiddenite, NC 28636 (~5 mi N of Taylorsville, ~4.5 mi S of Wilkes Co. line)",
+  "park_bbox": "lat 35.9637299 to 35.9742246; lon -81.1162820 to -81.1071021 (OSM); centroid 35.9685664,-81.1113823",
+  "note": "Built from all nine inventories (geology, access, trails, publicland, water, history, biota, namedspots, coords). Entire park is well within 3 mi of Rocky Face Church Road; summit reached in ~1-2.5 mi of trail. No digging/climbing/water-crossing needed to STAND at any listed spot. Most precise feature-level coords are unknown in sources; positions described relative to summit/entrance/named trails. Drainage flows N to South Yadkin / Yadkin (Beaverdam, Wallace, Rocky Face Branch).",
+  "spots": [
+    {
+      "name": "Rocky Face summit (granitic dome high point)",
+      "type": "summit / exposed granite dome",
+      "coords": "35.9723544,-81.108692 (1795 ft) / 35.972704,-81.108888 (1818 ft, PeakVisor)",
+      "elevation": "~1795-1818 ft (about 600 ft above surrounding Piedmont; prominence 607 ft)",
+      "access": "Top of Hollow Rock Trail (or Vertical Mile Challenge route); ~1-2.5 mi on foot from main parking off Rocky Face Church Rd. Well under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Highest point of an exfoliating granitic-gneiss dome (bornhardt) — broad bare light-grey rock, a rounded dome not a peaked summit",
+        "Large expanses of exposed granite with views in all directions; Hollow Rock Trail loops around the peak SW-to-NE",
+        "Visible from here: Pores Knob (2680 ft, tallest Brushy, N), Fletcher/Snaggy/Mitchell/Moore mtns (Wilkes); on clear days Grandfather, Table Rock, Hawksbill, distant Black Mountains (W)",
+        "Picnic tables placed on the granite overlooking the valley; multiple flat standable rock platforms/overlooks",
+        "Shallow-soil granitic-dome bald: lichens, dry rock moss, elf orpine (reddish spring mats), prickly pear, vernal pools; exfoliation sheet-joints and shallow cracks across the rock"
+      ],
+      "sources": [
+        "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/",
+        "https://peakvisor.com/peak/rocky-face-united-states.html",
+        "https://www.onlyinyourstate.com/nature/north-carolina/hollow-rock-trail-hiddenite-nc",
+        "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+      ]
+    },
+    {
+      "name": "Quarry cliff face (former quarry wall / main climbing crag)",
+      "type": "man-made cliff / climbing wall",
+      "coords": "near 35.972,-81.109 (Rocky Face Quarry Prospect, mindat)",
+      "elevation": "~80-100 ft sheer vertical wall; base near parking level",
+      "access": "Forms the backdrop directly above the main parking lot; reachable in minutes. Standing at the BASE needs no climbing. Climbing/rappelling needs a daily permit from the Park Office; loose rock sheds, helmets advised.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Sheer man-made granite-gneiss cliff left by quarrying (1922-early 1940s, worked by convict labor breaking rock with sledgehammers), >80 ft (some sources ~100 ft) tall vertical walls",
+        "58-60+ established bolted sport/top-rope routes (man-made bolts/anchors)",
+        "US Army Reservists (3rd Brigade, 518th, Hickory) trained rappelling here in 1975; climbed since the 1970s",
+        "Cut rock walls, ledges, talus and recesses at the base form natural niches (no digging)",
+        "Dominant rock feature of the park; cliff seeps support Michaux's saxifrage"
+      ],
+      "sources": [
+        "https://www.mindat.org/loc-126341.html",
+        "https://rockyfacepark.com/rock-climbing/",
+        "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+      ]
+    },
+    {
+      "name": "Left Face climbing area (Sections 1-2) — end of the cables",
+      "type": "named climbing sub-area / cliff base",
+      "coords": "left (west) side of the cliff",
+      "elevation": "on the up-to-100-ft cliff; base is standable",
+      "access": "Follow the trail around the LEFT side of the mountain to the END OF THE CABLES, then turn right. Standing at the base requires no climbing; permit needed only to climb. Under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Reached at the distinctive 'end of the cables' (a cable/wire fence system runs the quarry rim) — a precise locatable turn point",
+        "Named routes with evocative names: Short Stack, Far Left Corner, Leaky Roof, Bob Left/Right, Bob's Gone Batty, Ben's Done Been, Chaos in Carolina, Klingon, Hang Time, Pork Chop, Chopped Pork",
+        "Left/west corner of the crag — corners, roofs and a 'leaky roof' overhang create sheltered niches",
+        "West-side exposure; buzzards/vultures soar and roost along these quarry cliffs"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/rock-climbing/section-1/",
+        "https://rockyfacepark.com/rock-climbing/"
+      ]
+    },
+    {
+      "name": "Bottom Ledge climbing area (Sections 3-5) — base of the quarry",
+      "type": "named climbing sub-area / quarry floor base",
+      "coords": "base of the quarry cliff",
+      "elevation": "quarry floor / base of cliff",
+      "access": "Accessed from the bottom of the quarry, adjacent to the paved track. Standing at the base needs no climbing; permit only to climb. Effectively at road level.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Named features at the cliff base: Dirty Chimney, Black Hole, Gateway, Confederate Daisies, Lady Bug Corner, Jug Land, Lightning Crack, Snake Charmer, Blast in Black, Quarryisms",
+        "A 'chimney' (Dirty Chimney) and 'Black Hole' imply vertical cracks/recesses at standable base level",
+        "Lowest, most accessible part of the crag; talus and corner niches",
+        "Set on the former quarry floor ringed by the cut walls"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/rock-climbing/section-3/",
+        "https://rockyfacepark.com/rock-climbing/section-4/",
+        "https://rockyfacepark.com/rock-climbing/section-5/"
+      ]
+    },
+    {
+      "name": "Quarry rim cable-fence overlook section (Hollow Rock Trail)",
+      "type": "clifftop rim walk / overlook",
+      "coords": "quarry rim, near 35.972,-81.109",
+      "elevation": "top of the ~80-100 ft quarry wall",
+      "access": "Hollow Rock Trail ends/joins Buzzard Loop at the start of this quarry-overlook section, which follows the WIRE/CABLE FENCE along the cliff edge. Walkable trail (no climbing); under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Trail runs along a cable/wire safety fence on the rim, directly above the sheer quarry wall",
+        "Looks straight down into the quarry pit; dramatic edge views of the granite face",
+        "Distinctive man-made cable fence is a precise linear landmark with fence posts (discrete hide points)",
+        "Connects the summit-ridge trails to the Buzzard Loop / quarry overlook"
+      ],
+      "sources": [
+        "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area",
+        "https://www.onlyinyourstate.com/nature/north-carolina/hollow-rock-trail-hiddenite-nc"
+      ]
+    },
+    {
+      "name": "Quarry Overlook (top of Buzzard Loop rock staircase)",
+      "type": "overlook above quarry",
+      "coords": "west side, top of quarry",
+      "elevation": "~100 ft above the quarry floor",
+      "access": "Buzzard Loop Trail (0.8 mi, purple) begins AND ends at a ROCK STAIRCASE on the west side of the old quarry and climbs ~100 ft to this overlook; very close to the entrance.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Built rock staircase on the west side of the quarry is the start/end point (a fixed, countable landmark)",
+        "Looks down over the quarry cliffs and pit",
+        "Shortest trail destination — a natural 'pause' point",
+        "Hollow Rock Trail begins and ends on Buzzard Loop here (trail junction); name evokes buzzards/vultures on the cliffs"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/hiking/",
+        "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+      ]
+    },
+    {
+      "name": "Open granite face on the Vertical Mile Challenge route",
+      "type": "open granite slab / friction face",
+      "coords": "between Grindstone creek crossing and summit",
+      "elevation": "~350 ft climb up bare granite, topping near the 1795 ft summit",
+      "access": "Vertical Mile Challenge Trail (blue, 2.2 mi loop): up Quarry/Grindstone, across a creek crossing, then up the open granite face (~350 ft over ~0.3 mi) to where it joins Hollow Rock. Walkable (steep, no ropes/handholds); under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Large open exposed granite face, steep (compared to Stone Mountain State Park but WITHOUT assist stairs)",
+        "Bare friction slab walked on foot; long open sightlines while ascending",
+        "QR-code 'Vertical Mile Challenge Club' signs along the route (man-made markers; milestones 1/5/10/100 vertical miles)",
+        "Flatrock specialists on the open rock: dry rock moss, quill fameflower, one-flowered sandwort, Appalachian sandwort",
+        "Descent has switchbacks with views from the top of the sheer cliff"
+      ],
+      "sources": [
+        "https://www.hikemoreworryless.com/blog/verticalmilechallenge",
+        "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+      ]
+    },
+    {
+      "name": "Stone-cut staircase at Hollow Rock Trail start",
+      "type": "built stone stairway",
+      "coords": "lower mountain near main parking",
+      "elevation": "near trailhead base",
+      "access": "At the very start of the Hollow Rock Trail ascent from the parking lot, before the trail turns to gravel; 0 to a few hundred yards from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Distinctive built staircase cut into/from stone (steps are countable; a literal fixed landmark)",
+        "Marks the transition from developed quarry area to wooded ascent",
+        "Crosses a rocky area near the cable-fence quarry rim just above"
+      ],
+      "sources": [
+        "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina",
+        "https://www.onlyinyourstate.com/nature/north-carolina/hollow-rock-trail-hiddenite-nc"
+      ]
+    },
+    {
+      "name": "Prison Camp site (Prison Camp Trail)",
+      "type": "historic ruin / former structure site",
+      "coords": "mid-mountain (precise location unknown in sources)",
+      "elevation": "mid-mountain",
+      "access": "Prison Camp Trail (~1 mi, orange, moderate) winds through the mid-20th-century inmate (prison camp) housing area; connects to Hollow Rock at the top. Reached on foot from connecting trails; under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Former site of prison-camp / inmate housing tied directly to the convict-labor quarry era — likely foundations/footings/remnants",
+        "Prisoners came from a jail/prison camp on Highway 16 south of Taylorsville; here they broke rock and loaded gravel into rail cars",
+        "A named, history-laden feature (proper name potentially matchable to a clue)",
+        "Man-made remnants distinct from natural rock surroundings"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/hiking/",
+        "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+      ]
+    },
+    {
+      "name": "Railroad spur / old rail grade remnant",
+      "type": "historic railroad grade / industrial remnant",
+      "coords": "lower mountain toward Hiddenite (precise unknown)",
+      "elevation": "lower mountain",
+      "access": "A spur ran from Hiddenite to the quarry to haul rock; remnants reportedly remain visible on site and portions of trails follow old quarry/rail routes. Reached on foot; under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Old railroad spur/grade remnants (ties, cuts, level benched grade) from the quarry's gravel-hauling era",
+        "Linear man-made earthwork distinct from natural slope — a precise followable feature",
+        "Connects the quarry to the direction of Hiddenite (downhill/north-northeast)",
+        "Trail segments reportedly reuse the old rail/quarry route"
+      ],
+      "sources": [
+        "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+      ]
+    },
+    {
+      "name": "Grindstone Trail creek crossing",
+      "type": "creek crossing / streambank (head of Rocky Face Branch)",
+      "coords": "~0.5 mi up Grindstone Trail (SE side of park)",
+      "elevation": "lower-slope, ~0.5 mi from trailhead",
+      "access": "Grindstone Trail (green, ~1 mi) parallels the SE edge then climbs; the creek crossing ~0.5 mi from parking is where hikers turn right onto the Vertical Mile Challenge Trail. Easy-moderate walk; under 3 mi from road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "The one confirmed flowing-water crossing on the trail network (likely a head tributary of Rocky Face Branch, whose other head forms near the quarry on the south end)",
+        "Often wet and slippery; switchbacks climb the ridge nearby",
+        "Trail junction where the Challenge Trail leaves Grindstone (a clear decision/marker point)",
+        "Streambank rocks and roots form small natural niches; amphibian habitat (treefrogs, peepers)"
+      ],
+      "sources": [
+        "https://www.hikemoreworryless.com/blog/verticalmilechallenge",
+        "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+      ]
+    },
+    {
+      "name": "Wetlands boardwalk & two wildlife observation decks (base of quarry)",
+      "type": "constructed wetland / boardwalk / observation deck",
+      "coords": "lower developed park, base of quarry near Rocky Face Church Rd",
+      "elevation": "low/base level (former quarry floor, below roadway grade)",
+      "access": "Constructed wetland at the base of the former quarry, near Rocky Face Church Road; the 0.3-mi paved loop circles it; boardwalks and two wildlife observation decks. ADA-accessible; essentially roadside.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "The standing-water feature of the park: a quarry depression below roadway grade that traps water, now a wetland-restoration area",
+        "Two built wildlife observation decks (fixed platforms over/near water)",
+        "Boardwalks (raised wooden walkway with posts/railings — many discrete hide points); interpretive 'what to look for' signage",
+        "Outdoor classroom adjacent; bullfrogs, gray treefrogs, spring peepers"
+      ],
+      "sources": [
+        "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/",
+        "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+      ]
+    },
+    {
+      "name": "Rocky Face Branch headwater near the quarry (south end)",
+      "type": "headwater stream source",
+      "coords": "south end of mountain, near old quarry site",
+      "elevation": "near quarry floor on the south end",
+      "access": "One of two tributaries forming Rocky Face Branch forms near the old quarry site on the SOUTHERN end of the mountain (the other on the eastern side). Adjacent to the developed core/parking; within 3 mi of road.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Named small stream ('branch') labeled on the USGS Hiddenite quad — proper name potentially matchable to a clue",
+        "Headwater seep/source right at the south end by the quarry (close to standable developed ground)",
+        "Drains north toward the South Yadkin / Yadkin",
+        "Damp microhabitat amid the dry outcrops (moist-site shrubs: possumhaw, clammy azalea)"
+      ],
+      "sources": [
+        "http://alexandercountync.gov/wp-content/uploads/pdf/parks-recreation/rocky-face-park_master-plan.pdf"
+      ]
+    },
+    {
+      "name": "Rare granitic-dome flatrock / bald (exposed-rock natural community)",
+      "type": "exposed rock bald / flatrock community",
+      "coords": "upper dome, reached by summit trails",
+      "elevation": "upper mountain near 1795 ft",
+      "access": "Exposed granite flatrock/dome areas along the summit trails; foot traffic limited to established trails by management. Under 3 mi from road.",
+      "land": "public (Alexander County park; NC Registry of Natural Heritage Areas)",
+      "attributes": [
+        "Low Elevation Granitic Dome + Montane Red Cedar-Hardwood Woodland (rare) + Piedmont Monadnock Forest",
+        "Shallow-soil islands and bare rock with red cedar, lichens, dry rock moss; spring reddish mats of elf orpine; prickly pear cactus; vernal pools",
+        "Flagship rarities: Keever's bristle moss (state-endangered, most of world pop. in the Brushies), Keever's onion (Brushy-Mountains endemic), striped garlic",
+        "Microhabitat pockets in shallow soil mats and rock seams (no digging needed)"
+      ],
+      "sources": [
+        "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/",
+        "https://rockyfacepark.com/plant-life/"
+      ]
+    },
+    {
+      "name": "Children's adventure playground (cave feature, zip cord, large slide)",
+      "type": "built natural playground",
+      "coords": "developed core near parking/picnic area",
+      "elevation": "base level",
+      "access": "In the developed park core near picnic shelters and parking; at road level.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Natural 'adventure' playground featuring a CAVE feature, a zip cord/zipline, and a large slide",
+        "The cave feature is a distinctive man-made hollow/recess (literal 'hollow' near the mountain named Hollow Rock)",
+        "Clearly named, locatable fixed structures near the entrance",
+        "Adjacent to picnic shelters, amphitheater and multipurpose building"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/",
+        "https://alexander.recdesk.com/Community/Facility/Detail?facilityId=1"
+      ]
+    },
+    {
+      "name": "Main parking / developed core (Park Office, amphitheater, picnic shelter, geocaches)",
+      "type": "trailhead / developed core",
+      "coords": "approx 35.968,-81.111 (entrance, within mapped park)",
+      "elevation": "base level",
+      "access": "Drive-up lot directly off Rocky Face Church Road (entrance 1.2 mi in from Rocky Springs Rd, below the SW end of the mountain). 0 mi from road. All trailheads originate here; paved ADA quarry track loops from here.",
+      "land": "public (Alexander County park)",
+      "attributes": [
+        "Park Office (issues climbing permits), restrooms, picnic shelter/pavilion with tables and grills, multipurpose/community building (~67 capacity), outdoor amphitheater, outdoor classroom",
+        "GEOCACHES are listed among park amenities (existing cache spots / containers already hidden here)",
+        "Two primitive backpack campsites reached via trails from here",
+        "Set directly beneath the quarry cliff; numbered trail-map kiosk and tree-mounted number markers throughout; many fixed man-made structures for a near-road hide"
+      ],
+      "sources": [
+        "https://rockyfacepark.com/general-information/",
+        "https://alexander.recdesk.com/Community/Facility/Detail?facilityId=1",
+        "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+      ]
+    }
+  ]
+}

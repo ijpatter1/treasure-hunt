@@ -1,0 +1,33 @@
+{
+  "spot": "Stone-cut staircase at Hollow Rock Trail start",
+  "matchScore": 28,
+  "cluesHit": 6,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13, high conf)", "result": "MISS", "reason": "Spot is at the trailhead base near parking, lowest part of the ascent; no view down. Misses the single dominant signature."},
+    {"constraint": "panoramic-view (support 9, high)", "result": "MISS", "reason": "Wooded trail start; no broad open vista."},
+    {"constraint": "rock-niche-cache (support 9, high)", "result": "PARTIAL", "reason": "Built stairway is stone but is a constructed feature, not a natural crevice/undercut; possible gaps between/under steps but not a natural rock recess."},
+    {"constraint": "surface-not-buried (support 5, high)", "result": "HIT", "reason": "A box could rest against/under the masonry steps at surface level, no digging."},
+    {"constraint": "rock-marker (support 8, high)", "result": "PARTIAL", "reason": "Stone is the host feature, but it is cut/built stone, not a natural boulder/slab/sittable rock the profile envisions."},
+    {"constraint": "near-water-not-crossed (support 14, med)", "result": "MISS", "reason": "No creek/pond/spring adjacent; nearest water is the wetland and Grindstone crossing elsewhere."},
+    {"constraint": "wooded-with-clearing (support 7, med)", "result": "PARTIAL", "reason": "Marks transition from developed/open quarry area to wooded ascent; sits at a forest/open edge."},
+    {"constraint": "trail-accessible (support 6, med)", "result": "HIT", "reason": "Literally on the established Hollow Rock Trail at its start, easy footing, beside the road."},
+    {"constraint": "within-3mi-road (support 4, high)", "result": "HIT", "reason": "0 to a few hundred yards from Rocky Face Church Rd; trivially within bound."},
+    {"constraint": "concealed-off-obvious (support 6, med)", "result": "MISS", "reason": "Trailhead start is the most-trafficked, most-obvious spot; not secluded or off the obvious sightline."},
+    {"constraint": "saddle-gap-notch (support 4, med)", "result": "MISS", "reason": "No paired-crag gap/saddle here."},
+    {"constraint": "tree-landmark (support 4, med)", "result": "MISS", "reason": "No prominent tree marker noted at the staircase."},
+    {"constraint": "east-facing (support 4, med)", "result": "MISS", "reason": "No east/sunrise orientation noted; spot faces the slope."},
+    {"constraint": "rounded-stone-shape (support 8, low)", "result": "MISS", "reason": "Stairway is angular/stepped, not a rounded dome/egg stone."},
+    {"constraint": "green-mossy-contrast (support 5, low)", "result": "MISS", "reason": "No moss-on-stone color cue noted."},
+    {"constraint": "crystalline-quartz-rock (support 6, low)", "result": "PARTIAL", "reason": "Likely granitic-gneiss material park-wide, so weakly crystalline, but not called out at this spot."},
+    {"constraint": "angular-faceted-rock (support 5, low)", "result": "HIT", "reason": "Cut stone steps are sharp, angular, stepped/layered — matches the stepped/blocky cue well."},
+    {"constraint": "reddish-warm-stone (support 6, low)", "result": "MISS", "reason": "No warm/red color cue at this spot."},
+    {"constraint": "pale-light-stone (support 5, low)", "result": "PARTIAL", "reason": "Granite tends pale-grey but not specifically noted as a pale marker here."},
+    {"constraint": "bowl-hollow-depression (support 4, low)", "result": "MISS", "reason": "No basin/hollow; despite 'Hollow Rock' name the feature here is steps, not a depression."},
+    {"constraint": "confluence-bend (support 4, low)", "result": "MISS", "reason": "No water junction/bend."},
+    {"constraint": "descend-then-high (support 3, low)", "result": "MISS", "reason": "This is the start of an ascent, not a descend-then-high or final curl before a high spot."},
+    {"constraint": "small-confirming-mark (support 4, low)", "result": "MISS", "reason": "No inscription/seam noted; steps are countable but that is a count, not a confirming mark."},
+    {"constraint": "left-orientation (support 3, low)", "result": "MISS", "reason": "No left-turn nudge at this spot."},
+    {"constraint": "open-to-elements (support 2, low)", "result": "MISS", "reason": "Not a breezy ridge/overhang; sheltered wooded trail base."},
+    {"constraint": "pace-count (support 3, low)", "result": "PARTIAL", "reason": "Countable steps could anchor a measured count, but no value implied."}
+  ]
+}

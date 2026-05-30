@@ -1,0 +1,59 @@
+{
+  "page": "chapter-23",
+  "constraints": [
+    {
+      "text": "ancient Egyptian faience bead necklace — turquoise/blue and coral/red beads, a central pendant with tassels, and a distinctive leopard's head bead",
+      "type": "shape",
+      "reading": "The hide object/marker may echo the necklace's form: a central rounded/pendant feature flanked by a strung line of smaller elements — plausibly a focal stone or knob with a string of lesser rocks leading to it, or a hanging tassel-like feature (roots, vines, drips). Charitably, a leopard-head profile rock or a spotted/mottled stone could be the keyed feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "turquoise/blue and coral/red beads ... glazed bright blue/green",
+      "type": "color",
+      "reading": "Color cue: a hide marked by or near turquoise/blue-green and red/coral coloration — e.g., blue-green lichen/mineral staining or a reddish rock against blue-green, a pale-to-bright contrast. Low confidence as spatial.",
+      "confidence": "low"
+    },
+    {
+      "text": "faience-making process: sand made malleable with salt and water, shaped, glazed with a dull color, then fired in intense heat ... the bead emerges bright and lustrous",
+      "type": "material",
+      "reading": "Material imagery of sand/quartz/silica and fire-transformed stone. Could hint at a sandy, quartz-rich, or fire-scarred/burned rock surface — a dull exterior concealing something bright. Metaphorical; weak as a literal spot descriptor.",
+      "confidence": "low"
+    },
+    {
+      "text": "leopard's head bead / leopard-head spacer",
+      "type": "shape",
+      "reading": "A spotted-cat / leopard head motif could correspond to a mottled, spotted, or cat-head-shaped rock or an outcrop resembling an animal head — the kind of distinctive landform feature one would 'stand on or beside'. Speculative shape-echo.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"Every day is a journey, and the journey itself is home.\" — Bashō Matsuo (from 'The Narrow Road to the Deep North,' a ~1,500-mile journey on foot)",
+      "type": "view",
+      "reading": "Spatial imagery of a road/path/narrow road and travel on foot. Supports a hide reachable by walking a path/trail; 'narrow road' could literally evoke a narrow trail or footpath leading to the spot. The journey-not-destination motif suggests the spot is found along a walked route, not at an obvious endpoint.",
+      "confidence": "low"
+    },
+    {
+      "text": "five gifts represented by the five fingers of the left hand ... raises the left hand",
+      "type": "direction",
+      "reading": "Repeated emphasis on the LEFT hand. Charitably a directional nudge — bear/look left, or a feature on the left side of a path/junction. Author warns against ciphers, so weight low; but the literal 'left' is the only directional word in the chapter.",
+      "confidence": "low"
+    },
+    {
+      "text": "treasures found along a journey can exceed those at the end of a rainbow",
+      "type": "view",
+      "reading": "Rainbow imagery (arc, end-of-rainbow) and 'along the way' framing. Possibly evokes an arch/arc landform or a spot reached partway rather than at a terminus; rainbows also imply water/mist (rain, falls, spray). Very loose.",
+      "confidence": "low"
+    },
+    {
+      "text": "Hathor — goddess of the sky ... 'Mistress of Turquoise' and patron goddess of miners; her instruments the sistrum and menat (rattling beaded necklace)",
+      "type": "feature",
+      "reading": "Mining / turquoise / quarry association and sky domain. If load-bearing, hints at a rocky, mineral, quarry-like, or high/sky-exposed setting. Author's own Signals reject a 'Hathor place,' so treat only as a faint mineral/elevation flavor.",
+      "confidence": "low"
+    },
+    {
+      "text": "kiln/fire metaphor: 'The intensity of life's experiences forges us' ... materials fuse in intense heat",
+      "type": "feature",
+      "reading": "Fire/heat/forging imagery. Could faintly suggest a fire-related landform or burnt/scorched feature, or simply metaphor. Negligible as a literal spot cue.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page": "chapter-12",
+  "constraints": [
+    {
+      "text": "found near the American River ... James Marshall ... scooped yellow stones from the riverbed",
+      "type": "nearby",
+      "reading": "The featured item and the chapter's central imagery are tied to a RIVER and a RIVERBED. Charitably, the hiding spot may sit near flowing water / a watercourse, at or beside a riverbank where one would scoop or reach low.",
+      "confidence": "med"
+    },
+    {
+      "text": "the most significant memorial is the James Marshall Monument ... a hilltop tomb topped by a bronze statue of Marshall holding a nugget and pointing toward the discovery spot",
+      "type": "view",
+      "reading": "Strong spatial image of a HILLTOP feature with a long downward view, and a statue that POINTS toward a specific lower spot. Generically: a high point overlooking a lower target, with a directional 'pointer' landmark aiming at the actual location.",
+      "confidence": "med"
+    },
+    {
+      "text": "a bronze statue of Marshall ... pointing toward the discovery spot",
+      "type": "direction",
+      "reading": "A literal directional cue: an object/landmark that points the way. The hiding spot may lie in the direction a marker, statue, or natural feature 'points' rather than at the marker itself.",
+      "confidence": "med"
+    },
+    {
+      "text": "the tailrace of Sutter's Mill ... gold flakes in the tailrace",
+      "type": "feature",
+      "reading": "A tailrace is a narrow water channel/sluice exiting a mill. Generically suggests a constricted flowing-water channel or man-made-looking water passage as a possible nearby feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "river dams to expose the sandy bed ... gold pans ... gravel",
+      "type": "feature",
+      "reading": "Placer-gold imagery (sandy/gravel bed, where heavy material settles). Charitably: look low in a gravel/sand pocket, a streambed depression, where small heavy things collect, rather than high on a slope.",
+      "confidence": "low"
+    },
+    {
+      "text": "discovered during a leisurely afternoon outing in which you enjoy a picnic with a loved one",
+      "type": "nearby",
+      "reading": "Implies the spot is in a pleasant, calm, accessible setting suitable for a picnic — likely an open, gentle, view-friendly public area near a road, not a rugged or hidden crevice.",
+      "confidence": "med"
+    },
+    {
+      "text": "no need to ... sleep on dusty ground ... no rations or survival kits ... no water crossings, no danger",
+      "type": "feature",
+      "reading": "Reinforces a benign, easy-to-reach surface location: no water crossing required to reach it, no scrambling — a spot you can simply walk up to and stand at.",
+      "confidence": "med"
+    },
+    {
+      "text": "a very large California Gold Rush gold nugget weighing over twenty-one ounces ... a Californian nugget this size is very rare",
+      "type": "shape",
+      "reading": "The object is a NUGGET — a rounded, irregular, lumpy gold-colored stone. Charitably, the hiding place may itself resemble or sit beside a pale/golden rounded boulder or knob (a nugget-shaped landform echo).",
+      "confidence": "low"
+    },
+    {
+      "text": "roughly forty miles east ... ninety miles west ... 40 miles east of Sacramento",
+      "type": "distance",
+      "reading": "Chapter repeatedly uses fixed cardinal-direction distances (east/west) measured from a known anchor point. Generically supports the idea of measuring a distance and direction from a recognizable reference landmark to reach the target.",
+      "confidence": "low"
+    },
+    {
+      "text": "Sutter Buttes ... a striking small mountain range",
+      "type": "feature",
+      "reading": "Mention of a small isolated mountain/buttes rising from flatter land — a possible echo of a distinctive standalone high feature, though the page flags it as private and deprioritized.",
+      "confidence": "low"
+    },
+    {
+      "text": "Calistoga ... ringed by accessible public land (Mount Saint Helena ... Oat Hill Mine Trail)",
+      "type": "view",
+      "reading": "References to a town encircled by mountains/trails — a high overlook (Mount Saint Helena) above a valley. Generically: a high vantage over a basin as a candidate spatial setting.",
+      "confidence": "low"
+    },
+    {
+      "text": "placer gold collects ... below riffles and bends; the heavy things settle where moving water slows — the inside of a bend",
+      "type": "nearby",
+      "reading": "(Thematic/imagery only — not stated as a poem.) Where water bends and slows, heavy things settle low. Charitably suggests checking the inside of a bend / a slack low pocket beside flowing water for the resting place.",
+      "confidence": "low"
+    }
+  ]
+}

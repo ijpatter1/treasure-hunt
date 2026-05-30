@@ -1,0 +1,23 @@
+{
+  "id": "rfverdict-6",
+  "spot": "Open granite face on the Vertical Mile Challenge route",
+  "sourceMatch": "rfmatch-6.json",
+  "matchScore": 44,
+  "matchScoreScale": "raw points across ~26 weighted constraints; only 6 true HITs, the rest PARTIAL/MISS",
+  "judge": "adversarial pin-test",
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "The HITs are all generic-to-the-mountain attributes that fit many other features on Rocky Face equally or better. (1) rock-marker / crystalline-quartz / pale-light-stone: the WHOLE mountain is a granitic-gneiss dome of pale exposed rock; the summit (catalog spot 1) and the flatrock bald (spot 14) satisfy these identically. (2) trail-accessible / within-3mi-road / open-to-elements: true of every trail spot in the park. The match file's own scoring shows the spot MISSES the constraints that would actually localize a cache: rock-niche-cache MISS, surface-not-buried PARTIAL ('a slab gives nowhere natural to rest a box'), concealed-off-obvious MISS ('opposite of secluded'), saddle/notch MISS, tree-landmark MISS, bowl/hollow MISS, pace-count MISS. The defining feature is an OPEN BARE SLAB on a popular timed race route -- the antithesis of a concealable hide. The 'Vertical Mile Challenge' is also a recurring foot-race / club program, not a fixed coordinate; it cannot pin a point. No specific, hard-to-generalize constraint singles out THIS spot. distinctFit = FALSE."
+    },
+    "jcbOk": {
+      "result": false,
+      "reasoning": "Primary-source descriptions of this exact feature contradict the author's hard constraints. The Vertical Mile Challenge Trail's open granite face is 'a giant almost vertical slab of never-ending granite,' 'a steep, exposed section with no assistance' that 'could be dangerous if the rock is wet or icy' (hikemoreworryless; corroborated by alltrails 'strenuous'). This conflicts with (a) NOT dangerous / no cliff-scaling, since a steep exposed friction slab with no handholds becomes hazardous and effectively un-traversable when wet or under the LIGHT SNOW condition JCB requires the spot to be findable in -- icy bare granite is exactly the failure mode called out; and (b) carrying a >25lb load (possibly two trips): hauling a heavy box up/down a steep bare friction slab is precisely the kind of exposure JCB's rules avoid. Public-land and ~3-mi-of-road are satisfied (Alexander County park, entrance at 3451 Rocky Face Church Rd), and nothing is buried -- but the danger/snow/load failures dominate. jcbOk = FALSE."
+    }
+  },
+  "matchScoreMeaningful": false,
+  "matchScoreNote": "44 raw points is inflated by generic HITs; substantive concealment constraints all MISS, so the score does not reflect a genuine pin.",
+  "survives": false,
+  "verdict": "Open bare race-route slab: hits are generic to the whole dome, hide constraints all MISS, and the slab is steep/exposed (dangerous wet or under light snow). Does not survive.",
+  "recommendation": "ELIMINATE. An open friction slab on a timed race route is unconcealable and fails JCB's danger/snow/load rules; the generic granite/view hits are better captured by the summit (spot 1) and quarry-rim overlook (spot 5)."
+}

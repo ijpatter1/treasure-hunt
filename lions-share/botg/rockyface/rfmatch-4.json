@@ -1,0 +1,33 @@
+{
+  "spot": "Quarry rim cable-fence overlook section (Hollow Rock Trail)",
+  "matchScore": 41,
+  "cluesHit": 6,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "HIT", "reason": "Clifftop rim directly atop the 80-100 ft quarry wall; the spot IS an elevated overlook looking down. Strong, high-support match."},
+    {"constraint": "panoramic-view", "result": "PARTIAL", "reason": "View is dramatic but DOWN into the enclosed quarry pit, not a broad outward panorama over valleys; 'nature's wide embrace' poorly fits a pit-edge view."},
+    {"constraint": "rock-niche-cache", "result": "MISS", "reason": "No natural crevice/niche/overhang described here; hide points are man-made cable-fence posts, not an above-ground rock recess."},
+    {"constraint": "surface-not-buried", "result": "PARTIAL", "reason": "Surface-level rim, no digging implied, but no described natural ledge/hollow the box would rest in; weak generic fit."},
+    {"constraint": "rock-marker", "result": "PARTIAL", "reason": "Granite quarry rim is rock, but the operative landmark here is the MAN-MADE cable fence, not a natural boulder/sittable rock; marker is artificial."},
+    {"constraint": "near-water-not-crossed", "result": "MISS", "reason": "No creek/lake/spring adjacent or below; the quarry pit (water-filled below) is not noted for this rim spot, and no water crossing context applies."},
+    {"constraint": "wooded-with-clearing", "result": "MISS", "reason": "Bare quarry-rim edge, not a forest-meets-clearing/tree-line setting; no woods/clearing transition described."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "On Hollow Rock Trail / Buzzard Loop, walkable established footpath, easy footing along a fenced rim. Clean match."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "Well under 3 mi of Rocky Face Church Rd, no climbing or water crossing to stand here. High-confidence match."},
+    {"constraint": "concealed-off-obvious", "result": "MISS", "reason": "A fenced edge trail above a dramatic pit is a high-traffic, conspicuous viewpoint, not a secluded/off-obvious tucked spot."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "No gap/saddle/notch between paired crags; it is a continuous quarry rim edge."},
+    {"constraint": "tree-landmark", "result": "MISS", "reason": "No prominent oak/pine marker noted; landmark is the cable fence on bare rim."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "Rim overlooks into the quarry (quarry/cliff is on the W/SW side); no east orientation indicated for this section."},
+    {"constraint": "rounded-stone-shape", "result": "MISS", "reason": "Quarried wall is cut and angular; no domed/egg/round marker stone at this rim spot."},
+    {"constraint": "green-mossy-contrast", "result": "MISS", "reason": "No moss/lichen-against-stone color marker described for this man-made rim edge."},
+    {"constraint": "crystalline-quartz-rock", "result": "PARTIAL", "reason": "Host rock is granitic gneiss (some quartz/mica), generically true of the whole mountain; not a specific sparkling marker here."},
+    {"constraint": "angular-faceted-rock", "result": "HIT", "reason": "Quarried wall is sharp, cut, blocky/stratified rampart rock by definition; the rim is the most angular-faceted spot in the catalog."},
+    {"constraint": "reddish-warm-stone", "result": "MISS", "reason": "Grey granite-gneiss; no reddish/iron-stained or golden lone feature noted at this rim section."},
+    {"constraint": "pale-light-stone", "result": "PARTIAL", "reason": "Granite-gneiss is light-grey, generically pale, but no distinct white/quartz marker singled out here."},
+    {"constraint": "bowl-hollow-depression", "result": "PARTIAL", "reason": "The quarry pit itself is a large basin/depression the spot rims, but it's man-made and huge, not a cup/bowl in rock at the spot."},
+    {"constraint": "confluence-bend", "result": "MISS", "reason": "No confluence or watercourse bend at or below this rim."},
+    {"constraint": "descend-then-high", "result": "MISS", "reason": "Spot is reached by ascending to the rim; no described descent/curl into a draw before it."},
+    {"constraint": "small-confirming-mark", "result": "PARTIAL", "reason": "Numbered fence posts could serve as a discrete confirming index, but no inscription/seam mark described; man-made not the niche-base motif."},
+    {"constraint": "left-orientation", "result": "MISS", "reason": "No left-turn decision-point nudge specific to this rim section (that cue belongs to the Left Face area)."},
+    {"constraint": "open-to-elements", "result": "HIT", "reason": "Exposed breezy cliff-edge rim, open to wind/rain rather than a sealed cave; matches the open-overhang weather cue."},
+    {"constraint": "pace-count", "result": "PARTIAL", "reason": "Discrete fence posts along the rim could support a counted pace from a fixed point, but no value or count is indicated."}
+  ]
+}

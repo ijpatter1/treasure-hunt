@@ -1,0 +1,26 @@
+{
+  "spot": "Quarry Overlook (top of Buzzard Loop rock staircase)",
+  "judge": "adversarial pin-test",
+  "date": "2026-05-30",
+  "matchScore": 58,
+  "cluesHit": 9,
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "Every HIT constraint here is generic and reproducible at other Rocky Face features and at almost any quarry/mountain: elevated-overlook, surface-not-buried, rock-marker (a built staircase), trail-accessible, within-3mi-road, angular-faceted-rock (cut quarry blocks), open-to-elements. None is a hard-to-generalize singling constraint. Critically, the catalog itself lists at least TWO competing rock staircases (this one and 'Stone-cut staircase at Hollow Rock Trail start'), plus a separate 'Quarry rim cable-fence overlook' and the summit, all of which match the same generic cues as well or better. The summit is a strictly superior 'elevated-overlook' with a genuine 360-degree panorama, whereas this spot's view is PARTIAL (down into an enclosed pit, not 'nature's wide embrace'). The highest-support clues fail here: near-water-not-crossed (support 14) MISS; panoramic-view (support 9) PARTIAL; rock-niche-cache (support 9) PARTIAL with no documented niche; east-facing (support 4) MISS (spot is on the WEST side). The 'rock staircase' itself is a built, countable landmark but it is not unique to this overlook. No specific, distinctive constraint pins THIS spot over its siblings."
+    },
+    "jcbHardConstraints": {
+      "result": true,
+      "publicLand": "Yes - Alexander County park (Rocky Face Mountain Recreational Area).",
+      "within3miRoad": "Yes - 0.8-mi Buzzard Loop Trail begins at the staircase very close to the entrance off Rocky Face Church Road; well under 3 mi.",
+      "notBuried": "Yes - surface placement possible in stone-step gaps / quarry-edge ledges; no digging.",
+      "notDangerous": "Yes for STANDING at the overlook - reached by a built walkable staircase on a maintained loop; no cliff-scaling, no water-crossing. (Climbing the quarry WALL itself needs a permit and is dangerous, but this overlook does not require that.)",
+      "lightSnowFindable": "Yes - a built rock staircase and maintained short trail are findable under light snow.",
+      "loadCarry": "Yes - >25lb (one or two trips) carryable over 0.8 mi of maintained, gently climbing trail.",
+      "caveat": "Shortest, most-visited trail = a public 'pause point' with only modest seclusion (concealed-off-obvious PARTIAL). Satisfies the rules but is exposed to heavy foot traffic, weak for a high-value long-term hide."
+    }
+  },
+  "survives": false,
+  "survivesReasoning": "matchScore 58 is meaningful and jcbOk is true, but distinctFit is FALSE: the spot is indicated only by generic mountain/quarry cues that fit several other catalog features (and the summit) equally or better, while the highest-support clues (near-water, full panorama, specific niche, east-facing) MISS or are PARTIAL. survives = distinctFit AND jcbOk AND meaningful matchScore = false because distinctFit fails.",
+  "verdict": "Generic overlook; same cues fit summit and two other staircases. Top clues (water, panorama, east, niche) miss. JCB-legal but not distinctly indicated."
+}

@@ -1,0 +1,33 @@
+{
+  "spot": "Prison Camp site (Prison Camp Trail)",
+  "matchScore": 33,
+  "cluesHit": 6,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "MISS", "reason": "Mid-mountain inmate-housing area on the slope; no summit/ridge/overlook or long view down. Misses the single dominant signature."},
+    {"constraint": "panoramic-view (support 9)", "result": "MISS", "reason": "Wooded mid-slope ruin site; no broad open vista described."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "PARTIAL", "reason": "Man-made foundations/footings could offer a recess, but constraint specifies a NATURAL above-ground rock niche; here it would be a built ruin cavity, not stone."},
+    {"constraint": "surface-not-buried (support 5)", "result": "PARTIAL", "reason": "Ruin remnants give above-ground surfaces to set against; but the canonical features (ledge/boulder/tree base) are not the host here."},
+    {"constraint": "rock-marker (support 8)", "result": "MISS", "reason": "Operative landmark is a human-made prison-camp ruin, not a natural boulder/outcrop/sittable rock."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "PARTIAL", "reason": "Park has branches/seeps but no creek is specifically tied to this mid-mountain housing site; adjacency not established."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "HIT", "reason": "A former cleared housing area now within forest is a classic woods-meets-clearing edge."},
+    {"constraint": "trail-accessible (support 6)", "result": "HIT", "reason": "Directly on the named Prison Camp Trail (~1 mi, orange), established footpath, non-dangerous."},
+    {"constraint": "within-3mi-road (support 4)", "result": "HIT", "reason": "Explicitly under 3 mi from Rocky Face Church Rd; no crossing/scaling."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "HIT", "reason": "Mid-mountain ruin away from summit draw; secluded, rarely-visited remnants tucked off the obvious destination."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "No paired-crag gap/saddle feature described."},
+    {"constraint": "tree-landmark (support 4)", "result": "PARTIAL", "reason": "Wooded site has trees, but no specific prominent oak/pine marker called out."},
+    {"constraint": "east-facing (support 4)", "result": "MISS", "reason": "No orientation given; Prison Camp Trail location/aspect unspecified."},
+    {"constraint": "rounded-stone-shape (support 8)", "result": "MISS", "reason": "No rounded/domed/egg stone marker; feature is a man-made ruin."},
+    {"constraint": "green-mossy-contrast (support 5)", "result": "MISS", "reason": "Not described; no moss-on-stone color cue called out."},
+    {"constraint": "crystalline-quartz-rock (support 6)", "result": "MISS", "reason": "Host material is built remnants, not crystalline/quartz stone."},
+    {"constraint": "angular-faceted-rock (support 5)", "result": "MISS", "reason": "No angular/faceted/stratified natural rock feature at this site."},
+    {"constraint": "reddish-warm-stone (support 6)", "result": "MISS", "reason": "No warm/red color cue described."},
+    {"constraint": "pale-light-stone (support 5)", "result": "MISS", "reason": "No pale/white stone marker described."},
+    {"constraint": "bowl-hollow-depression (support 4)", "result": "MISS", "reason": "No basin/hollow depression noted."},
+    {"constraint": "confluence-bend (support 4)", "result": "MISS", "reason": "Not at a water confluence or bend."},
+    {"constraint": "descend-then-high (support 3)", "result": "MISS", "reason": "Trail winds and connects upward to Hollow Rock but no descend-then-high motif anchored to this site."},
+    {"constraint": "small-confirming-mark (support 4)", "result": "PARTIAL", "reason": "Ruin remnants/foundations could bear an overlookable mark, but none documented; speculative."},
+    {"constraint": "left-orientation (support 3)", "result": "MISS", "reason": "No left-turn directional cue tied here."},
+    {"constraint": "open-to-elements (support 2)", "result": "MISS", "reason": "No exposed breezy ridge/overhang character; wooded slope."},
+    {"constraint": "pace-count (support 3)", "result": "MISS", "reason": "No measured-pace marker established at this site."}
+  ]
+}

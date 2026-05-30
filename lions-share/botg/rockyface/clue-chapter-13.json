@@ -1,0 +1,66 @@
+{
+  "page": "chapter-13",
+  "_source_note": "Source = wiki/chapter-13.html (Ch.13 'Best of Its Class Jordan Rookie Card', pp.115-122). Per instructions, the 'Treasure-Hunt Signals' blocks were IGNORED (location-hypothesis contaminated). Readings drawn only from Summary, Treasure, People (raw facts), Places (raw facts), Themes, Poem/Epigraph, Research Findings. This chapter is mostly motivational; explicit spatial language is sparse, so most readings are charitable/speculative.",
+  "constraints": [
+    {
+      "text": "Treasure item is a 1986 Fleer #57 rookie CARD - thin, flat, rectangular, red/white/blue bordered, '50-50 alignment, dagger-sharp corners'",
+      "type": "shape",
+      "reading": "A flat, thin, sharp-cornered rectangle. As a landform echo, the hiding feature could be a flat slab / tablet / thin upright rock face rather than a rounded boulder. 'Dagger-sharp corners' could echo a pointed or sharp-edged rock corner/promontory. '50-50 alignment' faintly suggests something centered/evenly split or a midpoint.",
+      "confidence": "low"
+    },
+    {
+      "text": "'Best of its class' / 'Superior' / 'shows better than most PSA 10s' / 'the greatest ... to ever play'",
+      "type": "elevation",
+      "reading": "Heavy superlative framing (best, top, greatest). Metaphorically could point to the single highest/standout point - a summit, the topmost ledge, or the most prominent feature among many similar ones.",
+      "confidence": "low"
+    },
+    {
+      "text": "Author's 'most embarrassing moment': grabbed a rebound, dribbled confidently, and laid it in - for the OTHER team, having RUN THE WRONG DIRECTION; referee: 'you just scored a basket for the other team'",
+      "type": "direction",
+      "reading": "The chapter's central image is a directional reversal - going the OPPOSITE way from intended. Strongest spatial signal in the chapter: searcher should verify orientation; the correct route may be the reverse of the instinctive one. Charitably hints the target lies in the direction opposite to where excitement first pulls you.",
+      "confidence": "med"
+    },
+    {
+      "text": "Lesson 'Be Like Mike' + Cousins epigraph 'He who keeps his cool best wins' + 'pause, take a breath, reframe, confirm orientation rather than charging ahead'",
+      "type": "direction",
+      "reading": "Behavioral meta-advice that doubles as a spatial caution: stop and check your bearings before moving; the obvious/forward rush may be wrong. Implies the final approach to the spot requires careful re-orientation, not a straight charge.",
+      "confidence": "med"
+    },
+    {
+      "text": "Basketball court imagery throughout: rebound off a missed free throw, dribbling down the court end-to-end, a basket/rim with netting, layup at the far end",
+      "type": "feature",
+      "reading": "Recurrent imagery of a long flat lane/court with a hoop (a round opening/ring) at the far end. Charitably: a flat open run leading to a ring-shaped or hole-like feature at its end; or simply 'travel the length, then look to the far end.' Very speculative.",
+      "confidence": "low"
+    },
+    {
+      "text": "Father erected 'a metal rim with netting in the driveway'; childhood spent 'digging for rocks or bugs or searching for snakes or spiders'; press: 'fond of digging for rocks and arrowheads'",
+      "type": "material",
+      "reading": "Imagery of rock, stone, and a round metal RIM/ring. The hiding spot may involve rock (stone slab, rocky ground) and possibly a ring/rim/round-hole shaped feature. 'Searching for snakes or spiders' hints at looking into crevices, under rocks, and into low/sheltered nooks.",
+      "confidence": "low"
+    },
+    {
+      "text": "'first person in the gym, dropped off hours early' / 'first in the gym'; being the very LAST pick (#12 of 12)",
+      "type": "other",
+      "reading": "Ordinal extremes - first/last, beginning/end. Charitably could mark a first or last feature in a sequence (e.g., the first or the last of a row of rocks/markers/trees). Weak.",
+      "confidence": "low"
+    },
+    {
+      "text": "Game clock: '2:34 left and up 28' when he entered; quarter scores 10, 15, 21",
+      "type": "distance",
+      "reading": "Specific numbers (2, 34, 28; 10, 15, 21) appear. No spatial meaning is asserted by the chapter; recorded only as candidate measurements/bearings a solver might test on the ground. No confident reading.",
+      "confidence": "low"
+    },
+    {
+      "text": "North Carolina named as author's childhood home; Wilmington, Chapel Hill, Charlotte named (Jordan); emerald-mine-near-childhood-home detail",
+      "type": "name",
+      "reading": "Raw place facts only. Per blindness rules, NOT used to assert a region. No physical character of the SPOT is implied beyond named places.",
+      "confidence": "low"
+    },
+    {
+      "text": "Norman Cousins epigraph 'He who keeps his cool best wins' (paired theme of staying COOL)",
+      "type": "nearby",
+      "reading": "'Cool' is plausibly literal as well as figurative - charitably could hint at a cool/shaded/sheltered spot (north-facing, shaded by rock or trees, or near cooling water). Speculative double meaning.",
+      "confidence": "low"
+    }
+  ]
+}

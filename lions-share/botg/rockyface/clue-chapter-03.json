@@ -1,0 +1,59 @@
+{
+  "page": "chapter-03",
+  "constraints": [
+    {
+      "text": "a nearly two-foot, iron/brass/steel forged puzzle box that resembles a small fortress, named 'Coffer'",
+      "type": "shape",
+      "reading": "The box is described as resembling a small fortress. If the box's form echoes a landform, the hiding feature could be a fortress-like rock formation: a blocky, squared, rampart-like outcrop or stacked stone wall, roughly the proportions of a tall strongbox.",
+      "confidence": "low"
+    },
+    {
+      "text": "It is a puzzle box requiring SEVEN actions to open; opens only when its panels are slid in the correct sequence",
+      "type": "feature",
+      "reading": "The opening/access is concealed and revealed only by a specific sequence/approach. Spatially this suggests the spot is hidden, with access only from one correct angle or after a series of moves around the feature; the opening is not obvious.",
+      "confidence": "low"
+    },
+    {
+      "text": "yellow brass sides, a steel top edge, and a textured iron center locking panel (Lion's Share box)",
+      "type": "color",
+      "reading": "Material/color cues for the object itself: brass-yellow flanks, a hard edged top, and a rough/textured dark-iron center. If echoing terrain, a feature with a contrasting rough/dark central panel set between smoother sides could be the visual match.",
+      "confidence": "low"
+    },
+    {
+      "text": "instructions for the seven steps are left WITH the box so finders need not damage it",
+      "type": "feature",
+      "reading": "The box (and thus the cache) sits accessible at the surface where instructions can be placed beside it; consistent with a not-buried, surface or recess hide rather than something requiring excavation.",
+      "confidence": "med"
+    },
+    {
+      "text": "gold-and-jade magnifying glass... 'Sherlock Holmesian symbol, reminding us of the importance of paying attention to the smallest things'",
+      "type": "other",
+      "reading": "Meta-instruction to look closely at small physical details at the spot: a tiny engraving/marking/seam may be the actual confirming feature, easily overlooked. At BOTG, scan surfaces minutely.",
+      "confidence": "med"
+    },
+    {
+      "text": "head workmaster... designed and crafted more than half of the 54 Imperial Faberge eggs; the Third Imperial Egg",
+      "type": "shape",
+      "reading": "Recurring egg motif: a smooth, rounded, ovoid form. If a described object's shape echoes a landform, an egg/dome-shaped boulder or rounded rock could be the target feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "a $33M treasure that hid in plain sight for years until someone noticed a tiny engraving 'Vacheron Constantin'",
+      "type": "other",
+      "reading": "The spot may be hidden in plain sight and confirmed by a small inscribed/named detail; the confirming clue is a literal small word/mark to be read, not decoded.",
+      "confidence": "low"
+    },
+    {
+      "text": "scenic green mountains... small town tucked away into the mountains (general setting imagery)",
+      "type": "view",
+      "reading": "Generic terrain texture only: green, forested mountain country. No specific spot geometry, but supports a mountainous, vegetated setting for the feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "every component -- including screws, springs, and three-piece keys -- was individually fabricated (Coffer)",
+      "type": "other",
+      "reading": "Emphasis on layered/multi-part assembly; weakly suggests the hide may be a layered nook (object within a recess within a larger feature) rather than a single open spot.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "page": "chapter-01",
+  "constraints": [
+    {
+      "text": "a 120-carat raw sapphire crystal in its original six-sided crystalline form",
+      "type": "shape",
+      "reading": "Strong six-sided / hexagonal geometry. As a landform echo, a hiding spot could be a six-sided or angular crystalline rock face, a hexagonal columnar-jointed outcrop, or a distinctly faceted/many-sided boulder rather than a rounded one. The 'raw, uncut' framing suggests a rough, un-weathered, sharp-edged stone feature.",
+      "confidence": "med"
+    },
+    {
+      "text": "most sapphires are found in streams with edges weathered smooth by water, so a sapphire in its original crystalline form is rare",
+      "type": "nearby",
+      "reading": "Repeated stream/water-weathering motif. The contrast drawn is between water-smoothed stones (in a streambed) and a sharp, intact crystal NOT smoothed by water. Two readings: (a) the spot is near a stream/creek among water-worn gravel; (b) by contrast, the spot is a sharp-edged rock that has NOT been rounded by water, i.e. above the water line, a dry angular outcrop rather than a streambed cobble.",
+      "confidence": "med"
+    },
+    {
+      "text": "gems recovered from secondary alluvial deposits — gem-bearing river gravels ('illam') buried in old flood plains and streambeds; gravel washed in nearby stream/pond water",
+      "type": "feature",
+      "reading": "Surface-searchable creek/river gravel-bar imagery: look among loose gravel where flowing water has sorted and deposited stones. Implies a low, accessible bank or bar beside flowing water (not a water crossing).",
+      "confidence": "low"
+    },
+    {
+      "text": "the stone shows blue in normal light, and red under ultraviolet light",
+      "type": "color",
+      "reading": "Color-shift / two-state imagery. Spatially weak, but a charitable read: a feature whose appearance changes with light (a rock that looks one color in sun vs shade, or reddish stone vs blue sky/water), or a marker visible only under certain light. Pale-to-blue and red coloration could echo a reddish rock against blue sky/water.",
+      "confidence": "low"
+    },
+    {
+      "text": "the book itself is a map offering 'a place to start, directions to follow, and, ultimately, a destination at which to arrive'",
+      "type": "direction",
+      "reading": "Meta-instruction framing the hunt as following directions to a fixed destination. Not a coordinate, but confirms the solve is a literal path: a starting point, a sequence of directional steps, and a single arrival spot to stand on.",
+      "confidence": "low"
+    },
+    {
+      "text": "his son spreads out a street map and announces he is making a 'treasure map'; instructs readers to 'write them down, draw them out, and organize them'",
+      "type": "other",
+      "reading": "Emphasis on drawing/mapping suggests the final spot may be pinpointed by triangulating or sketching lines/directions across a map rather than a single named landmark. Spatially: a place found by intersection of drawn lines.",
+      "confidence": "low"
+    },
+    {
+      "text": "Ratnapura means 'City of Gems'; on the Kalu Ganga ('Black River')",
+      "type": "nearby",
+      "reading": "Black River / dark-water naming motif tied to the featured stone's origin. Charitable spatial read: a hiding spot beside dark or black-named water (a black creek/river/pond), or near a dark-colored rock by water.",
+      "confidence": "low"
+    },
+    {
+      "text": "Star of Asia (~330 ct) and Logan Sapphire — 'star' sapphires; padparadscha; benitoite (state gemstone)",
+      "type": "shape",
+      "reading": "Star/asterism imagery associated with the gem family. Weak spatial echo: a star-shaped or radiating feature, or orientation toward a star/cardinal point. Low confidence.",
+      "confidence": "low"
+    },
+    {
+      "text": "Scott took badge #007; Woz #1, Jobs #0",
+      "type": "other",
+      "reading": "Numeric motifs (007, 0, 1). Not spatial on their own, but flagged in case a later step needs a count of paces, a marker number, or an ordinal step. No location reading.",
+      "confidence": "low"
+    },
+    {
+      "text": "the stone is rare — fewer than a dozen 120-carat raw crystals thought to exist; sapphire is hard/durable corundum",
+      "type": "material",
+      "reading": "Material = corundum, extremely hard, durable, enduring. Echo: the hiding feature may be a hard, durable, weather-resistant rock (an exposed durable outcrop that survives erosion), as opposed to soft, eroding ground.",
+      "confidence": "low"
+    },
+    {
+      "text": "the epigraph imagery: 'one wild and precious life' (Mary Oliver, nature poet); Val-Kill = Dutch for 'waterfall-stream'",
+      "type": "nearby",
+      "reading": "Associative natural-world / flowing-water and waterfall imagery surfacing again from the epigraph layer. Reinforces a 'near flowing water, in a natural wild setting' character for the spot. Associative only.",
+      "confidence": "low"
+    }
+  ],
+  "note": "Per blindness rules, the chapter's 'Treasure-Hunt Signals' block and all named-place location hypotheses were ignored. Constraints above describe the generic physical/spatial CHARACTER of a hiding spot (crystalline/six-sided rock, sharp un-water-worn stone vs water-sorted gravel, near flowing/dark water, color-shifting appearance, durable hard rock, found by following drawn directions to one arrival point) without aiming at any specific location."
+}

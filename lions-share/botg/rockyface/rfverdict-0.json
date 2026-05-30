@@ -1,0 +1,26 @@
+{
+  "spot": "Rocky Face summit (granitic dome high point)",
+  "matchScore_reported": 74,
+  "cluesHit_reported": 13,
+  "survives": false,
+  "distinctFit": false,
+  "jcbOk": true,
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "Every HIT for the summit is a generic mountaintop trait that applies to ANY granitic bald or high rock: elevated-overlook, panoramic-view, surface-not-buried, rock-marker, trail-accessible, within-3mi-road, rounded-stone-shape, green-mossy-contrast, pale-light-stone, open-to-elements. These describe 'high up, has a view, is pale rounded rock' and would fit the Vertical Mile open granite face, the flatrock/bald community, or any granitic dome equally well. No specific, hard-to-generalize constraint singles out THIS point. The genuinely distinctive features on this mountain (quarry cliff, cable fence, 'end of cables', prison camp, rail spur, stone staircases) belong to OTHER catalog spots, not the summit.",
+      "discriminating_constraints_that_MISS": [
+        "near-water-not-crossed (support 14, the single HIGHEST-support constraint) - MISS: dry exfoliating dome, no creek/spring/pool of significance at the summit.",
+        "concealed-off-obvious (support 6) - MISS: the summit is the MOST visited, MOST obvious destination, with picnic tables and 360 views. This is the antithesis of a concealed hide and is a strong NEGATIVE signal for a treasure intended not to be stumbled upon.",
+        "saddle-gap-notch (support 4) - MISS",
+        "confluence-bend, descend-then-high, angular-faceted-rock, pace-count, left-orientation - all MISS"
+      ]
+    },
+    "jcbOk": {
+      "result": true,
+      "reasoning": "Hard constraints are satisfied by well-sourced catalog facts (no WebSearch needed for these basics). Public land: Alexander County park (Rocky Face Mountain Recreational Area), open to public, ~200k visitors/yr. Within 3 mi of road: entire park well within 3 mi of Rocky Face Church Rd; summit ~1-2.5 mi on foot via Hollow Rock / Vertical Mile route. Not buried: shallow-soil bald over bare granite, surface placement only, digging not possible on the dome. Not dangerous: walkable established trail to stand on the dome, no cliff-scaling or water-crossing required to reach the summit itself. Light snow: bare exposed granite tends to shed/blow clear, dome remains findable. >25lb carry: non-dangerous 1-2.5 mi trail, feasible in one or two trips."
+    }
+  },
+  "matchScore_critique": "The 74 score is inflated by many generic, low-support cosmetic HITs (rounded-stone-shape, pale-light-stone, green-mossy-contrast, open-to-elements) while the two highest-discriminating constraints both MISS: near-water (support 14) and concealed-off-obvious (support 6). A high count of generic hits is not a meaningful signal of distinct indication; it is exactly what you would expect for ANY granitic summit.",
+  "verdict": "Summit fails the distinct-fit test. JCB hard rules pass, but every hit is generic mountaintop; the top-support water clue and the concealment clue both MISS. Does NOT survive."
+}

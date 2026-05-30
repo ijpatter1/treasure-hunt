@@ -1,0 +1,32 @@
+{
+  "spot": "Railroad spur / old rail grade remnant",
+  "matchScore": 24,
+  "cluesHit": 4,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "MISS", "reason": "Lower-mountain linear grade running downhill toward Hiddenite; not a high overlook with a long view down."},
+    {"constraint": "panoramic-view", "result": "MISS", "reason": "A benched grade in/below the lower slope, often tree-enclosed; no sweeping panorama."},
+    {"constraint": "rock-niche-cache", "result": "MISS", "reason": "Earthwork grade (ties, cuts, benched fill); no described natural rock crevice/undercut to tuck a box behind."},
+    {"constraint": "surface-not-buried", "result": "PARTIAL", "reason": "An above-ground feature one could set a box against (ties/cut bank), but no specific natural shelf/hollow noted; weak generic fit."},
+    {"constraint": "rock-marker", "result": "MISS", "reason": "Operative landmark is a man-made earthen rail grade, not a boulder/slab/outcrop you sit on."},
+    {"constraint": "near-water-not-crossed", "result": "MISS", "reason": "No water described at or beside the grade; runs toward Hiddenite, not along a stream."},
+    {"constraint": "wooded-with-clearing", "result": "PARTIAL", "reason": "Lower-mountain wooded setting plausible, but no described forest-meets-clearing edge at the grade."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "Trail segments reportedly reuse the old rail/quarry route; reached on foot just off established paths."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "Lower mountain, well within 3 mi of Rocky Face Church Rd, no water crossing or cliff scaling."},
+    {"constraint": "concealed-off-obvious", "result": "PARTIAL", "reason": "A faint remnant grade is low-traffic and easy to overlook, but it is a linear followable feature, not tucked out of sight."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "A rail cut is a man-made notch in fill, not a saddle/gap between paired rock crags."},
+    {"constraint": "tree-landmark", "result": "MISS", "reason": "No prominent oak/pine marker described at the grade."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "Grade trends downhill north-northeast toward Hiddenite; not an east-facing view/orientation cue."},
+    {"constraint": "rounded-stone-shape", "result": "MISS", "reason": "No rounded/domed/egg-shaped stone marker; the feature is a linear earthwork."},
+    {"constraint": "green-mossy-contrast", "result": "MISS", "reason": "No moss-against-dark-stone color cue described here."},
+    {"constraint": "crystalline-quartz-rock", "result": "PARTIAL", "reason": "Park bedrock is granitic gneiss (some quartz/mica glint) but the grade itself is fill/ballast, not a quartz host feature; generic."},
+    {"constraint": "angular-faceted-rock", "result": "MISS", "reason": "No stratified/columnar/blocky rock marker at the grade."},
+    {"constraint": "reddish-warm-stone", "result": "MISS", "reason": "No reddish/iron-stained or golden stone cue described at this remnant."},
+    {"constraint": "pale-light-stone", "result": "MISS", "reason": "No pale/white quartz marker described at the grade."},
+    {"constraint": "bowl-hollow-depression", "result": "MISS", "reason": "Linear grade/cut, no bowl/basin/cup depression."},
+    {"constraint": "confluence-bend", "result": "MISS", "reason": "No water junction or watercourse bend associated with the grade."},
+    {"constraint": "descend-then-high", "result": "PARTIAL", "reason": "Grade involves a descent toward Hiddenite, but no final-high spot at the end; only half of the cue."},
+    {"constraint": "small-confirming-mark", "result": "PARTIAL", "reason": "Old ties/spikes/cut marks could serve as small confirming marks, but nothing specific cited."},
+    {"constraint": "open-to-elements", "result": "MISS", "reason": "An open grade offers no sheltered overhang to protect a box."},
+    {"constraint": "pace-count", "result": "PARTIAL", "reason": "A linear grade allows a measured pace count from a fixed point, but speculative; no value."}
+  ]
+}

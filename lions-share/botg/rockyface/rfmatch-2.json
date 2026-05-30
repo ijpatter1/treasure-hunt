@@ -1,0 +1,33 @@
+{
+  "spot": "Left Face climbing area (Sections 1-2) - end of the cables",
+  "matchScore": 41,
+  "cluesHit": 8,
+  "detail": [
+    {"constraint": "elevated-overlook", "result": "MISS", "reason": "This is the cliff BASE (standable bottom of the wall), not a high overlook; you stand below the rock, no long view down."},
+    {"constraint": "panoramic-view", "result": "MISS", "reason": "At the base of a quarry wall the view is enclosed by the cliff, not a broad sweeping vista."},
+    {"constraint": "rock-niche-cache", "result": "HIT", "reason": "Corners, roofs and a 'leaky roof' overhang create sheltered above-ground rock recesses to reach into - exact niche profile."},
+    {"constraint": "surface-not-buried", "result": "HIT", "reason": "Niches and ledges at the cliff base let the box rest against natural stone at/above ground, no digging."},
+    {"constraint": "rock-marker", "result": "HIT", "reason": "The operative feature is the granite-gneiss crag/corner itself - stone is the host feature throughout."},
+    {"constraint": "near-water-not-crossed", "result": "MISS", "reason": "No creek/pond adjacent to the west cliff base; nearest water (wetland, Grindstone crossing) is elsewhere."},
+    {"constraint": "wooded-with-clearing", "result": "PARTIAL", "reason": "Trail approaches around the wooded left side, but the spot itself is at a bare cut rock wall, not a forest/clearing edge."},
+    {"constraint": "trail-accessible", "result": "HIT", "reason": "Reached on an established trail around the left side to the end of the cables, then turn right - off-trail-adjacent, easy footing."},
+    {"constraint": "within-3mi-road", "result": "HIT", "reason": "Standing at the base needs no climbing; well under 3 mi from Rocky Face Church Rd, no water crossing."},
+    {"constraint": "concealed-off-obvious", "result": "PARTIAL", "reason": "Left/west corner around the side of the crag is off the main view, but it is a known, named, frequented climbing area."},
+    {"constraint": "saddle-gap-notch", "result": "MISS", "reason": "A cliff corner/roof is not a saddle or notch between paired crags framing a view."},
+    {"constraint": "tree-landmark", "result": "MISS", "reason": "No prominent tree marker noted; the marker is rock/cliff, not an oak or pine."},
+    {"constraint": "east-facing", "result": "MISS", "reason": "Explicitly WEST-side exposure - opposite of the east-facing cue."},
+    {"constraint": "rounded-stone-shape", "result": "MISS", "reason": "Quarry-cut walls, corners and roofs are angular/blocky, not rounded or domed."},
+    {"constraint": "green-mossy-contrast", "result": "PARTIAL", "reason": "Quarry seeps/cliffs host saxifrage and lichen elsewhere; nothing specific noted for this corner, weak."},
+    {"constraint": "crystalline-quartz-rock", "result": "PARTIAL", "reason": "Host is granitic gneiss (quartz/feldspar bearing) so crystalline in a broad sense, but not a quartz/sparkle marker."},
+    {"constraint": "angular-faceted-rock", "result": "HIT", "reason": "Quarry-cut vertical walls, corners, roofs and blocky rampart form are sharply angular/faceted - strong match."},
+    {"constraint": "reddish-warm-stone", "result": "MISS", "reason": "Grey granitic gneiss; no reddish/iron or golden warm-stone cue for this spot."},
+    {"constraint": "pale-light-stone", "result": "PARTIAL", "reason": "Granite-gneiss is light grey, mildly pale, but not a distinctive white/quartz-white marker."},
+    {"constraint": "bowl-hollow-depression", "result": "MISS", "reason": "A 'leaky roof' overhang is an undercut, not a bowl/cup/basin depression."},
+    {"constraint": "confluence-bend", "result": "MISS", "reason": "No watercourse junction or bend at this dry west cliff base."},
+    {"constraint": "descend-then-high", "result": "MISS", "reason": "Approach is a level walk around the side, not a descent into a draw nor ending high."},
+    {"constraint": "small-confirming-mark", "result": "PARTIAL", "reason": "Bolts/anchors and route placards exist as man-made marks, but these are modern climbing hardware, not a subtle confirming seam."},
+    {"constraint": "left-orientation", "result": "HIT", "reason": "Approach is explicitly the LEFT side of the mountain ('Left Face') - directly matches the left-turn nudge."},
+    {"constraint": "open-to-elements", "result": "HIT", "reason": "Cliff-base corners/roofs are sheltered enough to protect a box yet open to weather (buzzards roost here), not a sealed cave."},
+    {"constraint": "pace-count", "result": "PARTIAL", "reason": "'End of the cables, then turn right' is a fixed locatable point a count could run from, but no numeric value given."}
+  ]
+}

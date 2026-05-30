@@ -1,0 +1,137 @@
+{
+  "page": "chapter-04",
+  "constraints": [
+    {
+      "text": "Two roads diverged in a wood, and I— / I took the one less traveled by, / And that has made all the difference. (epigraph)",
+      "type": "feature",
+      "reading": "The hiding spot may be at or just off a fork/junction where a path splits, and reached by the lesser/fainter of two trails — the less-trodden branch, not the main one.",
+      "confidence": "med"
+    },
+    {
+      "text": "Two roads diverged in a wood",
+      "type": "nearby",
+      "reading": "The spot is set within woods/forest cover, near a trail divergence — look for a Y-split or side spur.",
+      "confidence": "med"
+    },
+    {
+      "text": "digging for quartz crystals in a 'red dirt embankment'",
+      "type": "material",
+      "reading": "Reddish soil / red-clay embankment as a ground/color marker; the spot may be at or beside a sloped earthen bank of red dirt.",
+      "confidence": "low"
+    },
+    {
+      "text": "walking down the sloped street ... to a cul-de-sac, taking a sharp left ... onto a dog-worn path that followed a metal chain-link fence and ended at an empty lot",
+      "type": "direction",
+      "reading": "A movement template: descend a slope, reach a dead-end/turnaround, turn sharply left, follow a faint path along a linear boundary (fence line) to its end. Spot is at the terminus of a path that hugs a fence or edge.",
+      "confidence": "low"
+    },
+    {
+      "text": "a dog-worn path ... ended at an empty lot — his 'excavation site'",
+      "type": "feature",
+      "reading": "Destination is the END of a worn, informal footpath at an open/empty clearing.",
+      "confidence": "low"
+    },
+    {
+      "text": "hoping each unearthed rock would be clear or rose quartz rather than dark smoky quartz",
+      "type": "material",
+      "reading": "Pale/clear or rosy-pink quartz stone as a possible visual marker at the spot; contrast against darker rock.",
+      "confidence": "low"
+    },
+    {
+      "text": "studying striations in 300-million-year-old sandstone",
+      "type": "material",
+      "reading": "Layered/striated sandstone outcrop as a possible rock-type marker; look for visible bedding lines in stone.",
+      "confidence": "low"
+    },
+    {
+      "text": "another precocious boy ... was digging in a worn hillside",
+      "type": "feature",
+      "reading": "A weathered/worn hillside as the type of feature; spot may be on the eroded face of a hill.",
+      "confidence": "low"
+    },
+    {
+      "text": "the mine sat near 'a very particular outlook,' the only vista where the Andes range opened up and 'the Plains of the Llanos could be seen below'",
+      "type": "view",
+      "reading": "CENTRAL spatial clue: the spot is at/near a distinctive OVERLOOK — a unique vantage point that is the ONE place a long view opens up over lower flat land below. Look for an overlook where distant lowlands are visible.",
+      "confidence": "high"
+    },
+    {
+      "text": "'a view gaped open between two jagged grey peaks,' framing the green rolling Plains ... below",
+      "type": "view",
+      "reading": "The sightline is FRAMED between two jagged grey rock peaks/pinnacles — a gap or notch between two stones/crags through which lower land is seen. The framing pair of grey rocks is itself the locator.",
+      "confidence": "high"
+    },
+    {
+      "text": "two jagged grey peaks",
+      "type": "shape",
+      "reading": "Paired pointed/jagged grey rock formations; the spot is the saddle/gap/notch between two such grey crags.",
+      "confidence": "med"
+    },
+    {
+      "text": "the green rolling Plains of the Llanos below",
+      "type": "elevation",
+      "reading": "The spot is HIGH/elevated, looking DOWN onto comparatively flat or rolling low ground; there is a marked elevation difference between the vantage and what is viewed.",
+      "confidence": "high"
+    },
+    {
+      "text": "the mine sat ... on a high ridge overlooking the River Rucio (research, Restrepo account)",
+      "type": "nearby",
+      "reading": "The vantage overlooks flowing water — a river/stream visible below the high point. Spot is on a ridge above a watercourse.",
+      "confidence": "med"
+    },
+    {
+      "text": "the only place where Los Llanos ... were visible through a V-notch in the range to the east (research)",
+      "type": "direction",
+      "reading": "The opening/notch and the distant view face EAST; the framed sightline points toward the eastern lowlands. Orientation of the view is eastward.",
+      "confidence": "med"
+    },
+    {
+      "text": "a specific, repeatable sightline (a notch/gap framing a distant view) is what pinpoints the spot (research synthesis)",
+      "type": "view",
+      "reading": "Confirmation criterion: stand at the spot and a specific framed view should line up. The hiding place is identified by a precise sightline through a gap, not by terrain alone.",
+      "confidence": "high"
+    },
+    {
+      "text": "Restrepo found the ridge ... and uncovered old terraces and aqueduct remains (research)",
+      "type": "feature",
+      "reading": "Once at the vantage, nearby man-made stone features (terraces, channels, walls) marked the exact spot — look for old stonework / built remnants near the overlook.",
+      "confidence": "low"
+    },
+    {
+      "text": "he hiked the Andes on 'well-worn trail ways' and 'there is no jungle clearing required ... your task is a much, much easier one'",
+      "type": "feature",
+      "reading": "Spot is reachable on an established, well-worn trail — not bushwhacking. Accessible footpath leads to it; consistent with near-a-road, not-dangerous constraints.",
+      "confidence": "med"
+    },
+    {
+      "text": "emeralds don't sparkle. They shine ... green is the color most visible to the human eye",
+      "type": "color",
+      "reading": "Green may be a salient color cue at the spot (green vista, green stone, mossy/green feature) — the thing to spot is green and visible rather than glittering.",
+      "confidence": "low"
+    },
+    {
+      "text": "the abandoned mine was overgrown by Andes forest ... and lay hidden for 200 years; likened to 'the jungle surrounding the Angkor temples'",
+      "type": "nearby",
+      "reading": "The spot may be in or near a partly overgrown / hidden feature — concealed by vegetation, not in the open; possibly near an old structure reclaimed by growth.",
+      "confidence": "low"
+    },
+    {
+      "text": "Pilot Mountain ... capped by TWO bare-rock pinnacles ... connected by a narrow saddle (research analogue)",
+      "type": "shape",
+      "reading": "Generic landform echo of the chapter motif: two bare rock summits joined by a saddle, with an overlook framing distant low country. The spot may sit at such a saddle/gap between twin rock outcrops.",
+      "confidence": "med"
+    },
+    {
+      "text": "a notable gap between Cooks Wall and Devils Chimney (Hanging Rock analogue, research)",
+      "type": "shape",
+      "reading": "Reinforces a 'gap between two named rock features' geometry as the spatial signature to look for.",
+      "confidence": "low"
+    },
+    {
+      "text": "Window Rock / the Windows ... frame distant landscape through rock (research analogue)",
+      "type": "feature",
+      "reading": "Alternate reading of the 'view gaped open' image: a natural rock window/arch/hole through which a distant view is framed — the spot may be at a window-rock opening.",
+      "confidence": "low"
+    }
+  ]
+}

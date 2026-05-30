@@ -1,0 +1,89 @@
+{
+  "page": "chapter-20",
+  "constraints": [
+    {
+      "text": "\"Where you stand determines what you see and what you do not see; it determines also the angle you see it from; a change in where you stand changes everything.\" (Steve de Shazer epigraph)",
+      "type": "view",
+      "reading": "Strong vantage-point imagery: the hiding spot may only reveal itself (or the right landmark/view) from one specific standing position and viewing angle. Suggests the searcher must position themselves at a particular spot to see the target; the correct view/sightline matters as much as the coordinate.",
+      "confidence": "med"
+    },
+    {
+      "text": "\"...it determines also the ANGLE you see it from...\"",
+      "type": "direction",
+      "reading": "Explicit emphasis on angle/orientation. The marker or feature may be visible only from a certain compass direction or bearing, or an object's shape may read differently depending on which side you approach.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"...we can only see so far in any one direction from any point at which we are stationed,\" so finding a new standpoint forms a more complete picture.",
+      "type": "view",
+      "reading": "Limited sightline from a fixed point; hints the spot has a bounded line of sight, or that moving to a higher/different standpoint opens up the full scene. Possibly an overlook where the view is directional and partial unless you reposition.",
+      "confidence": "low"
+    },
+    {
+      "text": "The walker, standing tall, sees the whole garden's beauty, while the malcontent rose speaks from ground level and cannot; \"if only this rose could shift its vantage point.\"",
+      "type": "elevation",
+      "reading": "Contrast of ground-level (low, blocked) vs. standing-tall/elevated (sees the whole). Soft hint that the right perception comes from height or an elevated viewpoint above the surroundings; the target may sit where one must look down or be seen from above.",
+      "confidence": "low"
+    },
+    {
+      "text": "The capstone scene: walking in a \"local park,\" they came upon a \"massive rose garden,\" with \"several acres of park terrain\" painted by blooming roses.",
+      "type": "nearby",
+      "reading": "Imagery of an open, multi-acre cultivated terrain reachable on foot via a walk through a park; flat-to-rolling open ground covered in flowering plants. If literal at all, suggests an accessible park/garden setting one strolls into, not rugged wilderness.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"...several acres of park terrain\" painted by blooming roses (open, flower-covered expanse seen at once by the standing walker).",
+      "type": "view",
+      "reading": "A broad open expanse visible in a single sweep from a standing vantage; reinforces an overlook-style wide view across an open area rather than a closed/forested pocket.",
+      "confidence": "low"
+    },
+    {
+      "text": "He uses the way Mark Oros's cut angles light to reflect INTO the stone as a metaphor for how shifting perspective lets clarity pour in (\"allowing light to reflect into\" the stone).",
+      "type": "feature",
+      "reading": "Imagery of angled facets channeling light inward. Loosely could echo a faceted/angular rock formation, a crevice or hollow that catches light, or a reflective surface; the emphasis on 'into' might hint at a recess or opening rather than an exposed face.",
+      "confidence": "low"
+    },
+    {
+      "text": "200-carat smokey quartz, described as \"arguably the most radiant item\" — angled, faceted, light-catching crystal.",
+      "type": "shape",
+      "reading": "A faceted, angular, radiant form; if echoing a landform, suggests a crystalline/blocky rock outcrop with sharp angled faces that catch and reflect light.",
+      "confidence": "low"
+    },
+    {
+      "text": "Childhood crystal-digging memory: \"small chunks of dark smokey quartz\" found while digging crystals in an empty lot.",
+      "type": "material",
+      "reading": "Dark, smoky-gray to brown quartz / crystalline rock as a material motif; the hiding spot's surroundings may feature gray-brown quartz-bearing rock or loose chunks of stone.",
+      "confidence": "low"
+    },
+    {
+      "text": "12-carat tsavorite garnet — a vivid green grossular garnet, color compared to a Chivor emerald.",
+      "type": "color",
+      "reading": "Vivid green color motif; could correspond to a notably green/mossy or lush spot, or green stone/lichen near the marker. Mostly thematic.",
+      "confidence": "low"
+    },
+    {
+      "text": "Birthstone story: red specks in the asphalt road in front of his house were \"crushed pieces of garnet\" (\"that very same red rock that was in our asphalt\").",
+      "type": "material",
+      "reading": "Red flecks embedded in gray rock/pavement; the spot's stone may contain reddish garnet specks, or a reddish mineral glint set in a darker matrix could mark the place.",
+      "confidence": "low"
+    },
+    {
+      "text": "Campbell Bridges discovery imagery: charged by a buffalo, dove into a ditch/gully, and \"spotted a glimmer of green in an outcrop\" up the ravine.",
+      "type": "feature",
+      "reading": "Spatial imagery of a ditch/gully/ravine and a rock OUTCROP, with a hidden glimmer spotted low/inside it. Suggests the target could be in or beside a gully or at a rock outcrop, with a small bright detail revealed up-close rather than from afar.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"Mouth of Flower\" double-image painting: an arrangement of objects (flowers, curving stem, bud, butterfly) that also reads as a hidden face in profile — an exercise in shifting perspective.",
+      "type": "shape",
+      "reading": "Double-image / hidden-form motif: a natural arrangement of rocks/trees/landform that, from the right angle, resolves into a recognizable shape (a face, a figure). Hints to look for a feature whose outline 'becomes' something when viewed from the correct vantage.",
+      "confidence": "med"
+    },
+    {
+      "text": "Repeated motif throughout the chapter: standpoint, angle, vantage, viewpoint, 'where you stand.'",
+      "type": "view",
+      "reading": "The dominant physical-spatial theme is the searcher's literal viewpoint and standing position. Charitable read: at the actual spot, the correct sightline/standing position (and possibly elevation) is the operative clue for confirming the location.",
+      "confidence": "med"
+    }
+  ]
+}

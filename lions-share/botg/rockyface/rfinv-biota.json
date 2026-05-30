@@ -1,0 +1,311 @@
+{
+  "slice": "biota",
+  "facts": [
+    {
+      "name": "NC Registry of Natural Heritage Areas designation",
+      "what": "Rocky Face Mountain Recreational Area is on the North Carolina Registry of Natural Heritage Areas. A survey by the NC Natural Heritage Program in 2002 found significant communities of plants and wildlife; in 2003 an agreement formally placed it on the Registry because of its unique qualities.",
+      "coords": "unknown",
+      "elevation": "summit ~1800 ft",
+      "access": "Public park; ~318-330 acres with ~6 miles of hiking trails to the summit. Address 3451 Rocky Face Church Road, Hiddenite, NC 28636.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Low Elevation Granitic Dome (natural community)",
+      "what": "Rare natural community type present at Rocky Face due to extensive exposures of granitic gneiss and areas of shallow soil. One of the named rare community types documented by the NC Natural Heritage Program survey.",
+      "coords": "unknown",
+      "elevation": "up to ~1800 ft (summit)",
+      "access": "On the mountain's exposed rock faces; foot traffic on outcrops limited to established trails per management recommendations.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Montane Red Cedar-Hardwood Woodland (natural community)",
+      "what": "Rare natural community type documented at Rocky Face Mountain by the NC Natural Heritage Program (2002 survey).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within the recreational area on/near rock outcrops with shallow soil.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Piedmont Monadnock Forest (natural community)",
+      "what": "Uncommon forest community type; Rocky Face contains a good example. The mountain is a monadnock/bornhardt rising above surrounding terrain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Forested slopes within the park.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Keever's bristle moss (Orthotrichum keeverae)",
+      "what": "Moss considered endangered by the state of North Carolina; most of its world population is in the Brushy Mountains. A flagship rare species documented at Rocky Face. Named for botanist Catherine Keever.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Associated with rock outcrops on the mountain.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Keever's Onion / Keever's garlic (Allium keeverae)",
+      "what": "Rare knee-high garlic/onion that occurs ONLY in the Brushy Mountains of Alexander and Wilkes Counties, NC. A documented patch grows at Rocky Face Mountain. Highly endemic to this region. Also referred to in some sources alongside 'striped garlic.'",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Documented on the mountain; rock-outcrop-associated.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Striped garlic",
+      "what": "Rare plant species listed among the notable rare flora documented at Rocky Face Mountain by the NC Natural Heritage Program.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the mountain (rock outcrop / woodland associated).",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Shinyleaf meadow-sweet",
+      "what": "Rare plant species documented among the notable rare flora at Rocky Face Mountain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the mountain.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Elf Orpine (Diamorpha smallii)",
+      "what": "A diminutive flatrock plant barely ~4 inches tall, photographed in full bloom on 2 May 2020 on the granite flatrocks of Rocky Face. Classic granite-outcrop annual that forms reddish mats/vernal-pool-edge displays in spring. Grows only on exposed flatrock.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On exposed granite flatrocks within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Appalachian Sandwort (Mononeuria glabra)",
+      "what": "Wildflower documented blooming on the granite rocks of Rocky Face. A rock-outcrop specialist.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the granite outcrops within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Michaux's Saxifrage (Micranthes petiolaris)",
+      "what": "Wildflower documented on the granite rocks of Rocky Face. Rock-outcrop / cliff seep associated species.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the granite outcrops within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Quill fameflower (Phemeranthus teretifolius)",
+      "what": "Granite flatrock specialist that grows only on exposed flatrock; one of the most abundant species encountered on NC granitic flatrocks (documented in NC flatrock community context relevant to Rocky Face's flatrock habitat).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed granite flatrock habitat.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    },
+    {
+      "name": "Dry rock moss (Grimmia laevigata)",
+      "what": "One of the most abundant species on NC granitic flatrocks; a desiccation-tolerant moss that grows only on exposed flatrock, characteristic of the granitic flatrock community type present at Rocky Face.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed granite flatrock habitat.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    },
+    {
+      "name": "Prickly pear cactus (Opuntia, native)",
+      "what": "Native North Carolina cactus found on Rocky Face Mountain and on other rocky peaks in the Brushy Mountains. A distinctive, unexpected sight on the dry granite outcrops.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On dry rock outcrops within the park.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Yucca",
+      "what": "Yuccas are abundant in the wooded areas of Rocky Face Mountain; they are the host/food plant of the rare Cofaqui giant skipper butterfly found here.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Wooded areas within the park.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Hop-tree (Ptelea trifoliata)",
+      "what": "Present at Rocky Face; it is the larval host plant of the rare Giant swallowtail butterfly documented at the mountain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the mountain.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Second-growth oak-cedar-pine forest (forest composition)",
+      "what": "The forests on the mountain are second-growth oaks, cedars, and pines, with generally thin soil and a relatively dry habitat reflecting these conditions.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Forested slopes throughout the park along the trail system.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Cofaqui giant skipper (butterfly)",
+      "what": "A butterfly very rare in North Carolina, on the NC Natural Heritage Program's list of significant animal species. Feeds on yuccas abundant in the wooded areas of Rocky Face. One of two rare butterflies known from the mountain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Wooded areas within the park.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Giant swallowtail / Eastern giant swallowtail (butterfly)",
+      "what": "A butterfly very rare in North Carolina, on the NC Natural Heritage Program's significant animal species list. Feeds on the hop-tree. One of two rare butterflies known from Rocky Face Mountain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the mountain.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "General wildlife (mammals, snakes, birds)",
+      "what": "Rocky Face Mountain provides habitat for squirrels, rabbits, rodents, and a variety of snakes and birds.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Throughout the park.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Reptiles (Eastern Fence Lizard, Six-lined Racerunner, Smooth Earthsnake)",
+      "what": "Reptile species reported at Rocky Face include Eastern Fence Lizards, Six-lined Racerunners, and Smooth Earthsnakes. The Six-lined Racerunner is a characteristic fast lizard of open sandy/rocky sun-baked habitats like granite outcrops.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Open rock outcrop and woodland habitats within the park.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Amphibians (Cope's Gray Treefrog, Spring Peeper, American Bullfrog)",
+      "what": "Amphibian species reported at Rocky Face include Cope's Gray Treefrogs, Spring Peepers, and American Bullfrogs.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within the park (wet areas / water features).",
+      "land": "public",
+      "source": "https://rockyfacepark.com/plant-life/"
+    },
+    {
+      "name": "Granitic flatrock community ecology",
+      "what": "A granitic flatrock community is characterized by large slabs of granite overlaying soil and hosts many species of mosses, lichens, cacti, and other plants adapted to very shallow/low soil levels; shallow soil mats and seasonal seeps/vernal-pool conditions drive the distinctive spring annual displays (e.g., elf orpine).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed flatrock areas within the park.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    },
+    {
+      "name": "Granitic dome / bornhardt landform with botanical history",
+      "what": "Rocky Face is an excellent example of a granitic dome (bornhardt) formed by exfoliation of massive granitic rock; a classic pluton (magma pool) now exposed as a metamorphosed granitic dome. Botanists began documenting its flora in the 1930s, continuing through the 1940s-50s and into the 1970s with university researchers - a long-studied rare-plant site.",
+      "coords": "unknown",
+      "elevation": "summit ~1800 ft",
+      "access": "The exposed rock faces and summit are reachable via the park's ~6 miles of trails; emergency vehicles only on the mountain, foot traffic on outcrops limited to established trails.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Table Mountain Pine (Pinus pungens)",
+      "what": "Distinctive fire-adapted, serotinous-coned pine documented in the flora of Rocky Face Mountain; characteristic of dry, rocky, exposed Appalachian/monadnock ridge habitats.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Dry rocky slopes/ridges within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Bigleaf Magnolia (Magnolia macrophylla)",
+      "what": "Distinctive tree with the largest simple leaves of any native North American tree, documented in the Rocky Face Mountain flora.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Forested areas within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "American Beautyberry (Callicarpa americana)",
+      "what": "Shrub with vivid magenta/purple berry clusters, documented in the Rocky Face Mountain flora.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Woodland/edge habitats within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Fragrant Sumac (Rhus aromatica)",
+      "what": "Aromatic native shrub documented in the Rocky Face Mountain flora; tolerant of dry rocky sites.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Dry rocky/woodland habitats within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Possumhaw (Viburnum nudum) and Clammy Azalea (Rhododendron viscosum)",
+      "what": "Wetland/moist-habitat native shrubs documented in the Rocky Face Mountain flora, indicating moister microhabitats amid the dry outcrops.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Moist areas within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Cofaqui giant skipper scientific name (Megathymus cofaqui)",
+      "what": "Scientific name of the rare yucca-feeding giant skipper butterfly documented at Rocky Face; on NC NHP significant animal species list.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Wooded areas (with yucca host plant) within the park.",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Eastern giant swallowtail scientific name (Heraclides cresphontes)",
+      "what": "Scientific name of the rare hop-tree-feeding giant swallowtail butterfly documented at Rocky Face; on NC NHP significant animal species list.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "On the mountain (with hop-tree host plant).",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Eastern prickly pear (Opuntia humifusa)",
+      "what": "Specific native prickly pear cactus species of NC granitic flatrock communities (the flatrock habitat present at Rocky Face); thrives directly on exposed granite with minimal soil.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed granite flatrock habitat.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    },
+    {
+      "name": "One-flowered sandwort (Minuartia uniflora), state-endangered",
+      "what": "State-endangered granitic flatrock annual characteristic of the NC flatrock community type present at Rocky Face; a tiny white-flowered specialist of shallow soil mats on exposed granite.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed granite flatrock habitat.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    },
+    {
+      "name": "Vernal pools on granitic flatrock",
+      "what": "Temporary shallow pools form within granitic flatrock communities, holding frogs and tadpoles and supporting wildflowers in winter and spring before drying up seasonally - a distinctive seasonal feature of the flatrock habitat present at Rocky Face.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Depressions on exposed flatrock within the park.",
+      "land": "public",
+      "source": "https://threeriverslandtrust.org/taken-for-granite-flatrock-species-of-north-carolina/"
+    }
+  ]
+}

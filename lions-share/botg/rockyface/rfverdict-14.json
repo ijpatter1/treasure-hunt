@@ -1,0 +1,37 @@
+{
+  "spot": "Children's adventure playground (cave feature, zip cord, large slide)",
+  "matchScore": 14,
+  "cluesHit_claimed": 2,
+  "cluesHit_actual": 1,
+  "judge": "adversarial pin-test",
+  "test1_distinctFit": {
+    "result": false,
+    "reasoning": [
+      "The ONLY true HIT in rfmatch-14.json is 'within-3mi-road' (support 4) — and the match file itself labels it 'Generic fit, true park-wide.' Every spot in the entire catalog satisfies this; it singles out nothing.",
+      "22 of 25 constraints are MISS. The high-support signature constraints all FAIL: elevated-overlook (13) MISS, near-water-not-crossed (14) MISS, panoramic-view (9) MISS, rock-niche-cache (9) MISS, rock-marker (8) MISS, rounded-stone-shape (8) MISS.",
+      "The few PARTIALs (surface-not-buried, wooded-with-clearing, trail-accessible, bowl-hollow-depression, open-to-elements) are all generic to ANY developed outdoor spot and are explicitly downgraded because the host is MAN-MADE play equipment, not a natural feature.",
+      "The 'cave' feature is a plastic/built playground structure — the catalog's attempt to tie it to 'Hollow Rock' is a stretch (man-made hollow vs. named natural dome). It does NOT provide a hard-to-generalize natural constraint.",
+      "No specific, distinctive constraint singles out THIS spot over the summit, quarry overlooks, climbing sub-areas, or wetlands deck — most of which score the SAME generic near-road HIT plus genuine rock/water/view hits this spot lacks.",
+      "Conclusion: NOT distinctly indicated. distinctFit = false."
+    ]
+  },
+  "test2_jcbHardConstraints": {
+    "result": true,
+    "reasoning": [
+      "Public land: YES — Alexander County park (Rocky Face Mountain Recreational Area), developed core.",
+      "Within ~3 mi of road: YES — it is AT road level in the developed core near parking.",
+      "No digging / not buried: YES — surface placement against a structure is possible (PARTIAL in match).",
+      "Not dangerous: YES — flat base-level family play area, no cliff-scaling or water-crossing.",
+      "Light-snow findability: YES — fixed man-made structures remain visible/locatable under light snow.",
+      "Carry >25lb load (possibly two trips): YES — roadside/parking-adjacent, trivially reachable.",
+      "All JCB physical rules are satisfied. jcbOk = true.",
+      "NOTE: A high-traffic family playground is the WORST kind of hide for concealment — 'concealed-off-obvious' is a MISS. JCB's rules permit it, but practically a treasure here would be found/disturbed constantly by children and families. This argues strongly against JCB choosing it even though it is not technically disqualified."
+    ]
+  },
+  "matchScoreMeaningful": false,
+  "matchScoreNote": "matchScore 14 rests almost entirely on a single generic, park-wide constraint (within-3mi-road, support 4) plus low-support PARTIALs. The dominant signature constraints (overlook/water/view/niche/rock-marker, supports 8-14) ALL miss. Score is not a meaningful indicator of fit.",
+  "survives": false,
+  "verdict": "Fails distinct-fit hard: only generic park-wide hit, all signature constraints miss. JCB-legal but a man-made playground is a self-defeating, highly-visible hide.",
+  "distinctFit": false,
+  "jcbOk": true
+}

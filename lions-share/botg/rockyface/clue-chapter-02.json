@@ -1,0 +1,78 @@
+{
+  "page": "chapter-02",
+  "_note": "Spatial/physical-character constraints extracted from Chapter 2 wiki (Summary, Treasure, People, Themes, Poem/Epigraph). Treasure-Hunt Signals block intentionally ignored (contaminated location priors). All readings are generic descriptions of a hiding SPOT, not any named place.",
+  "constraints": [
+    {
+      "text": "\"a blue lotus indicates that knowledge and wisdom have conjoined to prepare a path to enlightenment where secrets are revealed\"",
+      "type": "feature",
+      "reading": "A 'path' that leads to a point 'where secrets are revealed' — the spot may sit at the end of, or just off, a walkable path/trail. The lotus is an aquatic flower, so the path could approach or end near still/standing water (a pond, pool, marsh).",
+      "confidence": "med"
+    },
+    {
+      "text": "\"blue lotus\" / \"glowing blue sapphire\" / \"bluish-pink pink-sapphire\" imagery",
+      "type": "color",
+      "reading": "Recurrent blue (and blue-pink) coloration could echo a visual marker at the spot: a blue-toned stone, a view of blue water, or a feature seen against sky. Lotus also implies a low, water-level vantage rather than a peak.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"rings like ours that survive today were discovered mostly in hidden caches, secreted away within temple walls\"",
+      "type": "feature",
+      "reading": "Strong physical analogy for the hide: a small cache tucked INSIDE a wall-like structure — a crevice, niche, or gap in a rock face/stone wall, rather than out in the open or buried in ground. Look for a wall, rock seam, or built/natural recess to reach into.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"golden lions guarding a golden bridge that stretched across the river to its entrance\"",
+      "type": "nearby",
+      "reading": "Spatial template of a crossing over flowing water leading to an entrance/threshold, flanked by paired guardian features. Generically: the spot may lie beyond a bridge or stream crossing, at an 'entrance' (cave mouth, gap, gateway) possibly marked by two flanking stones/rocks ('lions').",
+      "confidence": "med"
+    },
+    {
+      "text": "\"a tall golden tower at the center of Angkor\"",
+      "type": "feature",
+      "reading": "A tall central upright feature marks the focal point — generically a prominent standing rock, spire, pillar, or lone tall tree at the center of a site could be the reference object to navigate to.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"Champa, a resilient maritime culture on the eastern shore ... who repelled the Khmer ... then ... sailed out, defeated Angkor\"",
+      "type": "direction",
+      "reading": "Emphasis on an EASTERN shore and movement outward from water. Weak directional flavor: the spot may face/lie to the east, or sit on the shore/edge of a body of water.",
+      "confidence": "low"
+    },
+    {
+      "text": "Angkor \"swallowed by jungle for three centuries\" / rings 'secreted away' and rediscovered",
+      "type": "feature",
+      "reading": "The hide is concealed by overgrowth/vegetation and not obvious — expect a spot screened by brush, moss, or tree cover that must be deliberately uncovered, consistent with 'boots on the ground' after solving.",
+      "confidence": "med"
+    },
+    {
+      "text": "Subtitle \"Don't Wing It\"; \"None of these cultures were winging it\"; reader urged 'not to dismiss any details'",
+      "type": "other",
+      "reading": "Read literally as preparation advice, but the repeated 'wing' could double as a feature hint: a wing-shaped landform, a fan/flared ledge, an overhang, or a place named for a bird/wing. Low confidence given author's stated literal framing.",
+      "confidence": "low"
+    },
+    {
+      "text": "Author: \"I have always preferred a 36,000-foot view\" (also rendered '30,000-foot view')",
+      "type": "view",
+      "reading": "Explicit high-altitude / sweeping-overlook imagery. Could hint the spot offers (or is found from) a high, long vantage point — a summit, ridge, or overlook with a wide view.",
+      "confidence": "med"
+    },
+    {
+      "text": "Tuyet Nguyet's name means \"Snow Moon\" (born near a river)",
+      "type": "shape",
+      "reading": "Moon = a round or crescent/arc shape; snow = white/pale. Generically the spot could be marked by a pale, rounded, or crescent-curved stone/ledge; 'born near a river' faintly reinforces a near-flowing-water setting.",
+      "confidence": "low"
+    },
+    {
+      "text": "The featured treasure is a set of RINGS (circular) plus a small gold/betel box",
+      "type": "shape",
+      "reading": "Ring = circle/ring shape; box = a small rectangular cavity. The hiding container/feature may itself be small and tucked, and a circular landform (ring of stones, round clearing, curved ledge) could echo the ring motif.",
+      "confidence": "low"
+    },
+    {
+      "text": "Brahma \"born from a golden egg\" / Hindu 'light of creation'",
+      "type": "shape",
+      "reading": "Egg = a smooth, rounded ovoid form; 'light' implies a sunlit/illuminated spot. Generically: a smooth rounded boulder or an egg-shaped stone catching light could be the marker.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "profile": [
+    {
+      "tag": "elevated-overlook",
+      "description": "Spot is HIGH/elevated with a long view down onto lower ground: a summit, ridge, bluff, rim, or scenic overlook. Recurs as the single dominant spatial signature; back-matter is explicit that the place is high.",
+      "support": 13,
+      "confidence": "high"
+    },
+    {
+      "tag": "panoramic-view",
+      "description": "From the spot one sees a broad, sweeping, open vista ('nature's wide embrace'): a wide panorama outward over valleys/water, not an enclosed view.",
+      "support": 9,
+      "confidence": "high"
+    },
+    {
+      "tag": "rock-niche-cache",
+      "description": "Cache is tucked in a natural above-ground rock recess: a crevice, niche, gap, undercut, or overhang at/against stone - reach in behind/under a rock, not buried.",
+      "support": 9,
+      "confidence": "high"
+    },
+    {
+      "tag": "surface-not-buried",
+      "description": "Not buried, no digging: the box rests on or against an existing natural feature at or above ground level (ledge, shelf, hollow, base of tree/boulder).",
+      "support": 5,
+      "confidence": "high"
+    },
+    {
+      "tag": "rock-marker",
+      "description": "The operative landmark is rock/stone - a boulder, slab, outcrop, ledge, or sittable rock at the spot ('a rock you can sit on'). Stone is the host feature.",
+      "support": 8,
+      "confidence": "high"
+    },
+    {
+      "tag": "near-water-not-crossed",
+      "description": "Water is adjacent/visible but never crossed: a creek, river, pond, lake, or spring beside or below the spot. Spot stays on the dry bank/shore side.",
+      "support": 14,
+      "confidence": "med"
+    },
+    {
+      "tag": "wooded-with-clearing",
+      "description": "Setting is woods/forest with an open clearing, meadow, or field edge nearby; the spot sits where forest meets open ground (often just past a tree line).",
+      "support": 7,
+      "confidence": "med"
+    },
+    {
+      "tag": "trail-accessible",
+      "description": "Reached on an established footpath/trail, just off it - not bushwhacking; near a road, an easy walk, non-dangerous footing.",
+      "support": 6,
+      "confidence": "med"
+    },
+    {
+      "tag": "within-3mi-road",
+      "description": "Hard accessibility bound: within ~3 miles of a road, reachable on foot in under ~2 hours, no water crossing or cliff scaling.",
+      "support": 4,
+      "confidence": "high"
+    },
+    {
+      "tag": "concealed-off-obvious",
+      "description": "Spot is hidden/secluded, slightly off the obvious view - around a bend, on the far/back or side of a feature, tucked just out of straight-line sight, rarely visited.",
+      "support": 6,
+      "confidence": "med"
+    },
+    {
+      "tag": "saddle-gap-notch",
+      "description": "A gap/saddle/notch between two rock features (twin crags, paired outcrops, a cinched landform) frames the spot or its view.",
+      "support": 4,
+      "confidence": "med"
+    },
+    {
+      "tag": "tree-landmark",
+      "description": "A prominent tree as a natural marker at/near the spot - oak (shade) and pine recur; cache may sit at the base of a tree.",
+      "support": 4,
+      "confidence": "med"
+    },
+    {
+      "tag": "east-facing",
+      "description": "Spot/view oriented EAST (sunrise, eastern shore, notch facing east); the clearest single cardinal cue, though some cues point NE/other.",
+      "support": 4,
+      "confidence": "med"
+    },
+    {
+      "tag": "rounded-stone-shape",
+      "description": "A distinctively rounded/domed/egg-shaped/circular stone as the marker (dome boulder, round disc, egg-rock). Most common shape echo, though competing with angular cues.",
+      "support": 8,
+      "confidence": "low"
+    },
+    {
+      "tag": "green-mossy-contrast",
+      "description": "Green moss/lichen/vegetation against darker exposed stone as a color marker at the spot.",
+      "support": 5,
+      "confidence": "low"
+    },
+    {
+      "tag": "crystalline-quartz-rock",
+      "description": "Hard, durable, crystalline/quartz-bearing or sparkling/gritty rock as the host material (corundum, rock crystal, quartz, mica glint).",
+      "support": 6,
+      "confidence": "low"
+    },
+    {
+      "tag": "angular-faceted-rock",
+      "description": "Sharp, angular, faceted, six-sided or stepped/layered (stratified) rock rather than smooth - bedding lines, columnar/hexagonal, blocky rampart form.",
+      "support": 5,
+      "confidence": "low"
+    },
+    {
+      "tag": "reddish-warm-stone",
+      "description": "Warm-toned color cue: reddish/iron-stained rock or red clay, or golden/sunlit stone; a lone red feature to align on.",
+      "support": 6,
+      "confidence": "low"
+    },
+    {
+      "tag": "pale-light-stone",
+      "description": "Pale, white, clear/frosted, chalky, or quartz-white stone as the marker - light rock standing against darker surroundings.",
+      "support": 5,
+      "confidence": "low"
+    },
+    {
+      "tag": "bowl-hollow-depression",
+      "description": "A bowl-, cup-, or basin-like concave depression, hollow, or pit in the rock/ground at the spot (chalice, kettle, amphitheater cove).",
+      "support": 4,
+      "confidence": "low"
+    },
+    {
+      "tag": "confluence-bend",
+      "description": "Near a confluence or bend where two waters meet or a watercourse curves; spot sits at/above the junction or inside the bend.",
+      "support": 4,
+      "confidence": "low"
+    },
+    {
+      "tag": "descend-then-high",
+      "description": "Approach involves a descent ('go down') or a final curl/turn just before the high spot - down a slope into a draw, or the spot just past where the path bends.",
+      "support": 3,
+      "confidence": "low"
+    },
+    {
+      "tag": "small-confirming-mark",
+      "description": "A small, easily-overlooked inscription/mark/seam confirms the exact spot up close (read it, do not decode); look on undersides/bases.",
+      "support": 4,
+      "confidence": "low"
+    },
+    {
+      "tag": "left-orientation",
+      "description": "Faint repeated 'left'/turn-left directional nudge at a decision point on the approach.",
+      "support": 3,
+      "confidence": "low"
+    },
+    {
+      "tag": "open-to-elements",
+      "description": "Spot is exposed to wind/rain (a breezy ridge/overhang) rather than a sealed cave - sheltered enough to protect the box but open to weather.",
+      "support": 2,
+      "confidence": "low"
+    },
+    {
+      "tag": "pace-count",
+      "description": "Possible short measured pace/number count from a fixed marker to the exact spot (numeric motifs flagged, no confident value).",
+      "support": 3,
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "spot": "Rare granitic-dome flatrock / bald",
+  "sourceMatch": "rfmatch-13.json",
+  "matchScore": 63,
+  "cluesHit": 12,
+  "survives": false,
+  "distinctFit": false,
+  "jcbOk": true,
+  "matchScoreMeaningful": false,
+  "test1_distinctFit": {
+    "verdict": false,
+    "reasoning": "Every HIT is generic to ANY exposed granite bald on a bornhardt and applies equally to the catalog's 'Rocky Face summit (granitic dome high point)' and 'Open granite face on the Vertical Mile Challenge route' spots: elevated-overlook, panoramic-view, open-to-elements, rounded-stone-shape (it IS a dome), pale-light-stone (grey granite), green-mossy-contrast (lichen on rock), rock-marker, surface-not-buried, wooded-with-clearing. None of these single out THIS feature versus the generic summit dome. The discriminating, hard-to-generalize constraints are all MISSes: concealed-off-obvious (MISS - an open bald is the OPPOSITE of tucked-away), saddle-gap-notch (MISS), east-facing (MISS), small-confirming-mark (MISS), pace-count (MISS), descend-then-high (MISS), left-orientation (MISS), angular-faceted-rock (MISS), confluence-bend (MISS). The spot fails precisely the constraints that would pinpoint a location. Worse, an open bald is diffuse: there is no defensible pinpoint. The genuinely distinctive trait of this spot (rare Low Elevation Granitic Dome community, Keever's bristle moss endemic) is matched by ZERO clue hits, so nothing hard-to-generalize ties the clues to this spot specifically."
+  },
+  "test2_jcbOk": {
+    "verdict": true,
+    "publicLand": "Yes - Alexander County park, NC Registry of Natural Heritage Areas (well-sourced in catalog).",
+    "within3miRoad": "Yes - entire park well under 3 mi of Rocky Face Church Rd; summit ~1-2.5 mi on foot.",
+    "notBuried": "Yes - surface cache on/against bare rock or shallow seam; no digging.",
+    "notDangerous": "Yes - reached on established summit trails, no cliff-scaling or water-crossing to STAND here.",
+    "lightSnowFindable": "Plausible - open exposed rock, but light snow could obscure shallow seam pockets; not disqualifying.",
+    "carryLoad": "Yes - walkable graded summit trails support a >25lb load, possibly in two trips.",
+    "caveat": "JCB's literal stated rules are satisfied. However, an OPEN exposed bald with rare-community signage where management confines foot traffic to the trail is a poor durable concealment site (a box in the open would be visible/removed, and an off-trail hide steps into a protected rare-plant community). This undermines plausibility as a real hide even though the explicit hard constraints pass."
+  },
+  "finalVerdict": "FAILS. distinctFit=false: all hits are generic dome/bald traits shared with other catalog spots; all pinpointing constraints MISS; an open bald has no defensible pinpoint. JCB hard rules technically pass but the inflated matchScore (63) is not a meaningful discriminator. Spot does not survive."
+}

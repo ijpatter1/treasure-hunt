@@ -1,0 +1,29 @@
+{
+  "spot": "Quarry rim cable-fence overlook section (Hollow Rock Trail)",
+  "judge": "adversarial pin-test",
+  "date": "2026-05-30",
+  "inputs": [
+    "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/rockyface/rfmatch-4.json",
+    "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/rockyface/ROCKY-FACE-CATALOG.json"
+  ],
+  "matchScore": 41,
+  "cluesHit": 6,
+  "hits": ["elevated-overlook", "trail-accessible", "within-3mi-road", "angular-faceted-rock", "open-to-elements"],
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "The HITs are dominated by generic, non-discriminating constraints. 'trail-accessible' and 'within-3mi-road' are true of EVERY spot in the catalog (the whole park qualifies) — zero singling power. 'elevated-overlook' and 'open-to-elements' are shared by the summit, Quarry Overlook (Buzzard Loop), and the VMC granite face. 'angular-faceted-rock' is the only semi-specific hit, but it points to 'the quarry wall' generally and is equally true of the Quarry cliff-face spot and the climbing sub-areas (same wall) — it does not single out THIS rim section. The hardest-to-generalize landmark in the catalog, 'end of the cables', is assigned to the Left Face spot, not this one. Decisive MISSES against the box-hide motif: rock-niche-cache MISS, concealed-off-obvious MISS (high-traffic conspicuous viewpoint), surface-not-buried only PARTIAL (no natural ledge/hollow), panoramic-view only PARTIAL (view looks DOWN into an enclosed pit, contradicting 'nature's wide embrace'). No specific, hard-to-generalize constraint uniquely indicates this spot."
+    },
+    "jcbOk": {
+      "result": false,
+      "reasoning": "Public land (Alexander County park) and within-3mi-of-road are satisfied, and the spot is reachable on a walkable trail (no climbing to STAND there), findable under light snow, and a >25lb load could be carried. HOWEVER the spot sits on the rim directly atop an 80-100 ft sheer quarry wall, behind a cable/wire SAFETY fence that exists precisely because of the fatal fall hazard. JCB's 'not dangerous' rule explicitly excludes cliff scaling / hazardous edges; hiding/retrieving a heavy box at or over a fenced cliff lip conflicts with that rule. The conspicuous, high-traffic nature of a fenced scenic edge further undercuts a discreet hide. jcbOk fails on the danger gate."
+    },
+    "matchScore": {
+      "meaningful": true,
+      "note": "Score of 41 is moderate, but built largely on park-wide generic constraints; quality of hits is low once de-duplicated against other catalog spots."
+    }
+  },
+  "survives": false,
+  "verdict": "Fails: hits are generic park-wide constraints, not distinct to this rim; fenced 80-100 ft quarry-edge trips JCB's no-danger/no-cliff rule. Not a defensible pin.",
+  "note_on_process": "An earlier draft of this file incorrectly claimed the input files were unreadable due to a transient empty-output glitch; the files were in fact read and this verdict supersedes that draft with full analysis."
+}

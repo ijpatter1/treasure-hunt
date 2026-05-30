@@ -1,0 +1,77 @@
+{
+  "page": "chapter-08",
+  "constraints": [
+    {
+      "text": "his house “sits right on the edge of Hopi, so when you look out there you see the vastness.”",
+      "type": "view",
+      "reading": "The hiding spot sits at an edge/rim with a wide, open, long-distance view (a vista of vastness) looking outward. Suggests a vantage point on the lip of a high landform rather than down in it.",
+      "confidence": "med"
+    },
+    {
+      "text": "He built a studio/gallery on a rocky knoll near Hotevilla overlooking the mesas.",
+      "type": "feature",
+      "reading": "A small rocky high point (knoll/rise) that overlooks the surrounding terrain. The spot is associated with a distinct rocky outcrop or knob commanding a view, not flat ground.",
+      "confidence": "med"
+    },
+    {
+      "text": "built a studio/gallery on a rocky knoll commanding panoramic views of the valleys and mesas",
+      "type": "view",
+      "reading": "Panoramic, 360-ish outlook over valleys and high tablelands — stand-on-a-high-rock-and-see-everything geometry. The spot is elevated relative to valleys below.",
+      "confidence": "med"
+    },
+    {
+      "text": "to study rock formations from above ... “It's a bird's eye view”",
+      "type": "view",
+      "reading": "A high, top-down vantage reading the land from above; the hiding place may be a high overlook where the landscape reads like a map seen from a bird's perspective.",
+      "confidence": "med"
+    },
+    {
+      "text": "in 1962 he created an ironwood bracelet ... “inlaid in a way that looked like a cityscape”",
+      "type": "shape",
+      "reading": "A stepped/notched skyline silhouette — an uneven jagged profile of stacked blocks. Charitably, the target landform may have a stepped, blocky, mesa-edge or skyline profile that one could match against the horizon.",
+      "confidence": "low"
+    },
+    {
+      "text": "free-form turquoise stone with a rim inlaid ... a sugilite stone ... (blue ring / purple ring)",
+      "type": "color",
+      "reading": "Strong color cues: blue/turquoise and purple/sugilite stones with bordered rims. A pale-to-blue or purple-tinted rounded stone with a banded edge could echo a colored rock feature at the spot; the 'rim' suggests a feature with a distinct border/ledge.",
+      "confidence": "low"
+    },
+    {
+      "text": "the Tutuveni petroglyphs ... over 150 giant rocks ... carved on sandstone boulders ... at the base of the Echo Cliffs",
+      "type": "feature",
+      "reading": "Marked/inscribed large boulders clustered at the base of cliffs. The hide may involve a notable large rock or cluster of boulders at the foot of a cliff/escarpment, possibly bearing markings.",
+      "confidence": "low"
+    },
+    {
+      "text": "Spider Rock ... White House Ruin ... Mummy Cave (Canyon de Chelly landmarks)",
+      "type": "feature",
+      "reading": "Generic landform vocabulary present: a tall freestanding rock spire, a recessed alcove/cave, a ruin set into a cliff face. Charitably flags candidate feature types — spire, alcove/cave, cliff niche — for the spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "“Alcatraz stands less than three miles from Treasure Island” / “less than three miles”",
+      "type": "distance",
+      "reading": "An explicit short-distance measure: under three miles between two points. Echoes a 'within ~3 miles' accessibility frame; the spot may be a short, sub-three-mile distance from a reference point (a road, an island, a landmark). Flagged in source as likely a red herring.",
+      "confidence": "low"
+    },
+    {
+      "text": "the angular-mesa landscape ... documented muse for inlay designs",
+      "type": "feature",
+      "reading": "Angular, flat-topped tableland (mesa) edges — sharp-cornered cliff rims. The spot may be on or near a flat-topped highland with sharply angular edges rather than rounded hills.",
+      "confidence": "low"
+    },
+    {
+      "text": "building ... in the shape of a Navajo hogan; building designed in the shape of a Navajo hogan (Wheelwright Museum)",
+      "type": "shape",
+      "reading": "A rounded, domed, eight-sided hogan shape recurs. Charitably, a rounded/domed rock or a circular formation could echo this; weak spatial hint about a round shape.",
+      "confidence": "low"
+    },
+    {
+      "text": "full circular Hopi calendar diagram dividing the year ... at the winter and summer solstices",
+      "type": "direction",
+      "reading": "A circle split by solstice axes implies cardinal/solar orientation (sunrise-sunset, E–W solstice alignment). Possible hint that orientation toward sunrise/sunset or a solstice sightline matters at the spot.",
+      "confidence": "low"
+    }
+  ]
+}

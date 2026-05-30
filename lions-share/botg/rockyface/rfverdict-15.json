@@ -1,0 +1,25 @@
+{
+  "spot": "Main parking / developed core (Park Office, amphitheater, picnic shelter, geocaches)",
+  "matchScore": 22,
+  "cluesHit": 3,
+  "survives": false,
+  "distinctFit": false,
+  "jcbOk": true,
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "The only two genuine HITs are 'trail-accessible' (support 6) and 'within-3mi-road' (support 4). The match JSON itself flags both as generic: within-3mi-road 'fits almost anywhere, weak' (0 mi from road), and all-trailheads-originate-here is true of every park hub. Neither is a specific, hard-to-generalize constraint that singles out THIS feature; both fit every other Rocky Face spot and virtually any developed park in the country. Worse, the high-support constraints actively contradict this spot: elevated-overlook (support 13) MISS — lowest/flattest ground at the SW foot; panoramic-view (support 9) MISS — view blocked beneath the quarry cliff; concealed-off-obvious (support 6) MISS — this is the ~200k-visitor/yr exposed hub, the OPPOSITE of secluded. The PARTIALs (near-water, amphitheater-as-bowl, tree-markers) are man-made/incidental echoes, not natural feature confirmations. No single specific constraint singles out the developed core, so distinctFit = false."
+    },
+    "jcbOk": {
+      "result": true,
+      "reasoning": "This spot trivially satisfies every JCB hard constraint. PUBLIC land: Alexander County park (Rocky Face Mountain Recreational Area), open to the public. Within ~3 mi of a road: it IS the drive-up lot directly off Rocky Face Church Road (0 mi). Not buried: surface hide possible (geocaches already exist here per catalog). Not dangerous: flat, paved, ADA-accessible developed core; no cliff-scaling or water-crossing. Findable under light snow: open, signed, structured area. >25lb load reachable: drive right up to it, no carry. These are all satisfied — but JCB rules are necessary, not sufficient; nearly every spot in this park passes them."
+    },
+    "matchScoreMeaningful": {
+      "result": false,
+      "reasoning": "Score 22 with only 3 cluesHit, and the two real HITs are the lowest-support generic ones. The dominant high/view/concealment signature (supports 13, 9, 6) all MISS. Not a meaningful positive signal."
+    }
+  },
+  "verdict": "ELIMINATED. Only generic HITs (trail/near-road) that fit anywhere; directly contradicts the dominant high/view/concealed signature. JCB-passing but not distinctly indicated.",
+  "judgedBy": "adversarial pin-test",
+  "date": "2026-05-30"
+}

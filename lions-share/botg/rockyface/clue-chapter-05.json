@@ -1,0 +1,65 @@
+{
+  "page": "chapter-05",
+  "constraints": [
+    {
+      "text": "Epigraph: \"Faith is taking the first step even when you don't see the whole staircase.\" - Martin Luther King, Jr.",
+      "type": "feature",
+      "reading": "Strong staircase/step imagery. A hiding spot may involve a stepped or terraced rock face, a natural rock staircase, ledges that ascend, or stone steps; the 'first step' could mark a starting tread you stand on while the rest is hidden from view above or below.",
+      "confidence": "med"
+    },
+    {
+      "text": "\"Faith is taking the first step even when you don't see the whole staircase.\"",
+      "type": "view",
+      "reading": "The spot may be one where you cannot see the full route/destination from the starting point - i.e. the hide is around a bend, over a rise, or below a lip, not visible until you commit to climbing/stepping.",
+      "confidence": "low"
+    },
+    {
+      "text": "Subtitle / lesson: \"An Exercise in Faith\"; faith as \"taking the first step\"",
+      "type": "elevation",
+      "reading": "Stair/step framing leans toward an ascent - a higher position reached by climbing, rather than a flat or low spot.",
+      "confidence": "low"
+    },
+    {
+      "text": "Free-form sterling silver ring whose outside edge \"contours around the neighboring finger\" (p.62)",
+      "type": "shape",
+      "reading": "An object that wraps/curves around an adjacent form - a landform analog could be a curved ledge or rock arm that hugs or wraps around a neighboring feature (a boulder, tree, or second outcrop). Look for a spot tucked where one form contours around another.",
+      "confidence": "low"
+    },
+    {
+      "text": "Signature style: asymmetrical, free-form, biomorphic forms; designed to be \"large but light\"; inspired by Calder mobiles",
+      "type": "shape",
+      "reading": "Organic, asymmetrical, sweeping curved shapes rather than straight/angular ones; a hiding feature may be a smooth, irregular, rounded or sweeping rock form rather than a blocky or geometric one.",
+      "confidence": "low"
+    },
+    {
+      "text": "Jewelry described as jewelry that was \"striking, from both close and far away\" and contoured the body",
+      "type": "view",
+      "reading": "A feature recognizable from a distance as well as up close - the hide could sit at/near a landmark visible from afar (a prominent outcrop or silhouette), then resolving to a contoured nook up close.",
+      "confidence": "low"
+    },
+    {
+      "text": "Materials of the treasure pieces: copper, brass, silver (warm reddish/golden copper-brass; pale silver)",
+      "type": "color",
+      "reading": "Color/material palette to watch at the spot: warm reddish-orange to golden tones (copper/brass) and pale silver-grey (silver) - e.g. rusty/iron-stained rock or a pale silver-grey stone.",
+      "confidence": "low"
+    },
+    {
+      "text": "Brooch / cuff / ring forms; copper-and-brass brooch pictured \"above\" the sidebar (p.58)",
+      "type": "material",
+      "reading": "Hard metallic objects of cast/forged metal - generic material echo of a metal marker, plaque, or pin-shaped feature; weak.",
+      "confidence": "low"
+    },
+    {
+      "text": "Aquinas epigraph: \"To one who has faith, no explanation is necessary\"; Bergson: \"Some other faculty than the intellect is necessary for the apprehension of reality.\"",
+      "type": "view",
+      "reading": "Counsel to trust intuition/perception over reasoning - spatially neutral, but reinforces 'you'll know the spot when you see/feel it' rather than deduce it.",
+      "confidence": "low"
+    },
+    {
+      "text": "Chapter title: \"Masterworks by Art Smith\" - a maker named Smith working at a forge/bench in metal",
+      "type": "other",
+      "reading": "Smith = metalworker; no spatial content on its own, logged only as a possible name/word echo (e.g. a 'Smith' place or forge-related feature). Very weak.",
+      "confidence": "low"
+    }
+  ]
+}

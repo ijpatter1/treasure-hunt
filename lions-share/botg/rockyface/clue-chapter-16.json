@@ -1,0 +1,47 @@
+{
+  "page": "chapter-16",
+  "constraints": [
+    {
+      "text": "\"Maybe it can provide you just the direction you need.\"",
+      "type": "direction",
+      "reading": "Charitable read: the word 'direction' could flirt with a literal compass bearing/heading at the hide site (a way one must face or travel). Most likely morale phrasing, but the bare spatial cue is 'a direction/heading.'",
+      "confidence": "low"
+    },
+    {
+      "text": "Daniel Amokachi \"magically flicked the ball with his heel up and over the Argentine keeper and into the net\" (a heel-flick lob, up and over).",
+      "type": "shape",
+      "reading": "Spatial imagery of an arc up-and-over an obstacle then dropping down behind it. Could echo a hide tucked behind/over a barrier (a ledge, lip, or rock) where the spot is reached by going up and over rather than around.",
+      "confidence": "low"
+    },
+    {
+      "text": "In the final minute a free kick caught Argentina's offside trap moving too late, leaving Emmanuel Amunike alone to redirect the winner.",
+      "type": "direction",
+      "reading": "Imagery of a ball/path 'redirected' at the last moment past a line. Faint suggestion of a turn or change of direction near a final point/line; weak.",
+      "confidence": "low"
+    },
+    {
+      "text": "The medal is shown in a wooden presentation case bearing the \"Atlanta 1996\" logo, with a green-and-gold ribbon.",
+      "type": "color",
+      "reading": "Object colors gold and green; if color of the hide spot matters, look for gold/green tones (gilt rock, green moss/lichen, green-gold foliage) near the cache.",
+      "confidence": "low"
+    },
+    {
+      "text": "The medal: gilt-silver, ~70 mm round disc, ~180 g, Cassioli front face, with a green ribbon.",
+      "type": "shape",
+      "reading": "A flat round disc shape (pale/gilt, ~70mm). If an object's shape echoes a landform, this is a small rounded/circular feature or a pale rounded stone marker.",
+      "confidence": "low"
+    },
+    {
+      "text": "The team drove 180 miles back to the Olympic village, then found a rundown motel over 75 miles from the host city.",
+      "type": "distance",
+      "reading": "Specific distance figures appear in narrative (180 miles, 75 miles). Almost certainly story detail, not a measured offset to the hide, but noted as the only explicit numeric distances on the page.",
+      "confidence": "low"
+    },
+    {
+      "text": "Nigeria \"held on for the tie\" / scored in the final minute / golden goal four minutes into overtime.",
+      "type": "other",
+      "reading": "Recurring 'last-minute / final spot' motif; if applied spatially, suggests the cache is reached at the very end of a route or in a final, edge position rather than midway. Thematic, very speculative.",
+      "confidence": "low"
+    }
+  ]
+}

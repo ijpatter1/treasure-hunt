@@ -1,0 +1,179 @@
+{
+  "page": "back-matter",
+  "constraints": [
+    {
+      "text": "See how far to go. / Use will's straight edge, as the turning square or any arc may align at a proper point.",
+      "type": "direction",
+      "reading": "Imagery of geometric alignment: a 'straight edge', a 'turning square' (a right-angle / corner), and an 'arc' that 'align at a proper point'. Spatially suggests sighting along a straight line and/or a curve to a precise convergence point - i.e., the spot is found where a straight bearing meets a curved feature (a bend, a curving ridge, an arc of trees, a sweeping view). A 'square' may also hint at a right-angled corner of rock or a man-made marker.",
+      "confidence": "med"
+    },
+    {
+      "text": "may align at a proper point",
+      "type": "name",
+      "reading": "A precise convergence/'point'. Could imply the hiding spot sits at a literal point/promontory or at the intersection of sightlines.",
+      "confidence": "low"
+    },
+    {
+      "text": "This is no imaginary wonderland. Now look.",
+      "type": "other",
+      "reading": "Explicit instruction that the described landscape is a REAL physical place, not metaphor. The spatial images (oaks, water, rock, height) should be taken literally as features one will see on site.",
+      "confidence": "high"
+    },
+    {
+      "text": "You can take your own path / an X leads the way / or simply follow shimmering circles of gold.",
+      "type": "feature",
+      "reading": "Two navigation alternatives: an 'X' (a trail crossing/junction, an X-shaped blaze on a tree, or two paths intersecting) OR follow 'circles of gold'. The X reads as an on-site crossing or marker rather than a buried spot. Stand at or near a path intersection.",
+      "confidence": "med"
+    },
+    {
+      "text": "or simply follow shimmering circles of gold",
+      "type": "color",
+      "reading": "Round/circular gold-colored shimmering objects to follow as a trail. Most literal natural read: golden round leaves that shimmer/tremble (aspen-like trees turning gold). Could also be sun glinting in circles on water, or round gold lichen/markers. Color = gold/yellow; shape = round/circular; quality = shimmering/trembling.",
+      "confidence": "med"
+    },
+    {
+      "text": "There may be magic in the water, but the pike are rather all around.",
+      "type": "nearby",
+      "reading": "A water feature is present ('magic in the water' - possibly a spring, effervescent/mineral water, or sparkling/reflective water). But the dominant surrounding feature is 'pike' - readable as sharp-topped peaks/hills all around (a 'pike' = a pointed peak), i.e. the spot is ringed by peaked terrain. Water nearby, peaks surrounding.",
+      "confidence": "med"
+    },
+    {
+      "text": "the pike are rather all around",
+      "type": "view",
+      "reading": "Surrounded on multiple sides by pointed peaks/summits ('pike' = peak). The spot has peaks visible all around it - an encircled, mountainous vantage.",
+      "confidence": "med"
+    },
+    {
+      "text": "If you get warm, you may find shady oaks.",
+      "type": "feature",
+      "reading": "Oak trees provide shade at or near the spot. A 'warmth' (proximity/'getting warm' in the hunt sense) cue is paired with oaks - the hiding place is at or beside oak trees offering shade. Feature: oak tree(s); the cache may be at the base of / under an oak.",
+      "confidence": "high"
+    },
+    {
+      "text": "When close, the haiku curls a little further on where few have seen it.",
+      "type": "direction",
+      "reading": "When near the spot, something 'curls a little further on' - suggests a curving/winding path or feature that bends just beyond, in a hidden/seldom-visited place ('where few have seen it'). The final spot is slightly past a bend, off the beaten track, tucked away from common view.",
+      "confidence": "med"
+    },
+    {
+      "text": "where few have seen it",
+      "type": "other",
+      "reading": "The spot is hidden/secluded, rarely visited - not on an obvious overlook but tucked just out of sight.",
+      "confidence": "med"
+    },
+    {
+      "text": "And if you don't go down you may never know how high you ever want to be.",
+      "type": "elevation",
+      "reading": "Strong elevation cue: you must 'go down' to appreciate 'how high'. Implies a high place / overlook, possibly reached after descending (a spot below a high point, or a low approach to a high vantage). The hiding place is associated with height and a vertical relationship - go down then appreciate high, or the spot is high up.",
+      "confidence": "high"
+    },
+    {
+      "text": "And if you don't go down",
+      "type": "direction",
+      "reading": "Directional cue to descend ('go down') at some stage of the approach - down a slope, into a valley/draw, or downhill from a high point.",
+      "confidence": "med"
+    },
+    {
+      "text": "how high you ever want to be",
+      "type": "elevation",
+      "reading": "The location is high / elevated - a high vantage point.",
+      "confidence": "high"
+    },
+    {
+      "text": "The sky smiles on you. Dancers are on the land.",
+      "type": "view",
+      "reading": "Open sky / clear view of the sky ('the sky smiles') implies an exposed, open spot with a broad view. 'Dancers are on the land' could be a feature whose shape/movement evokes dancing - swaying trees, wind-moved grass, moving rock formations, or a named land feature - on the ground around you.",
+      "confidence": "low"
+    },
+    {
+      "text": "And if you stay to see the night it will ignite with the flame of starlight.",
+      "type": "view",
+      "reading": "Open, dark-sky vantage where stars are vivid ('flame of starlight') - an unobstructed view of the night sky. Reinforces a high, open, exposed location away from light/obstruction.",
+      "confidence": "med"
+    },
+    {
+      "text": "or sat upon a rock, allowing nature's wide embrace to sustain their bliss",
+      "type": "feature",
+      "reading": "A specific sitting ROCK is at the spot - one can sit upon it. 'Nature's wide embrace' = a wide, panoramic/sweeping view from that rock. The cache likely is at or beside a sittable rock with a broad outlook. Feature: a rock you can sit on; view: wide/panoramic.",
+      "confidence": "high"
+    },
+    {
+      "text": "nature's wide embrace",
+      "type": "view",
+      "reading": "A wide, expansive, encompassing view/vista from the spot - panoramic outlook.",
+      "confidence": "med"
+    },
+    {
+      "text": "if you spy others warming with the sunlight, or sat upon a rock",
+      "type": "nearby",
+      "reading": "A spot where other people sit/rest in the sun on a rock - suggests a recognized resting/overlook point that visitors use (a popular sitting rock or sunny ledge), implying an accessible vantage rather than deep wilderness.",
+      "confidence": "low"
+    },
+    {
+      "text": "Our conductor, as with a trace of a baton through the air, gives direction.",
+      "type": "direction",
+      "reading": "A sweeping motion 'through the air' that 'gives direction' - faint imagery of a sweeping line/gesture pointing the way; possibly a sweeping arc/line across the landscape (a ridge line, a sweeping curve) that indicates a bearing.",
+      "confidence": "low"
+    },
+    {
+      "text": "Postscript: No treasure is hidden more than three miles from any road; reaching a box should take no more than a couple of hours, usually far less.",
+      "type": "distance",
+      "reading": "Hard spatial constraint: hiding spot is within 3 miles of a road and reachable in under ~2 hours on foot. Bounds the search radius from any trailhead/road to a single-day, short on-foot distance.",
+      "confidence": "high"
+    },
+    {
+      "text": "Postscript: treasure boxes are NOT BURIED - they are hidden; no shovel or metal detector; no digging.",
+      "type": "feature",
+      "reading": "Surface cache, not underground. The spot is a place to TUCK/HIDE an object on the surface - e.g., a rock crevice, under a ledge, in a hollow, at the base of a tree, behind/under a boulder. Look for a natural surface concealment.",
+      "confidence": "high"
+    },
+    {
+      "text": "Postscript: none under water (no raft/canoe, no swift current); never wade or cross high water.",
+      "type": "nearby",
+      "reading": "Spot is on dry land near but not in water. Any 'water' imagery means water is adjacent/visible, not something you must enter or cross. Constrains the spot to the bank/shore side, accessible without water crossing.",
+      "confidence": "high"
+    },
+    {
+      "text": "Postscript: none requiring scaling a cliff or rock face; no climbing.",
+      "type": "elevation",
+      "reading": "Even though the spot is 'high', it does NOT require climbing a cliff or rock face. The high vantage is reached by walking/trail, not by scaling - so a ledge/overlook accessible on foot, not a vertical wall.",
+      "confidence": "high"
+    },
+    {
+      "text": "Postscript: all outdoors (not inside structures); on open/public land.",
+      "type": "feature",
+      "reading": "The hiding spot is an outdoor natural feature, not a building/structure interior. Look for natural landmarks (rock, tree, ledge), not man-made enclosures.",
+      "confidence": "high"
+    },
+    {
+      "text": "Dust-jacket near-haiku referenced in poem: 'Be solid, have grit; / sparkle even as you pine. / Here lies a joy divined.'",
+      "type": "material",
+      "reading": "Material/texture imagery: 'solid', 'grit' (gritty stone, e.g. a coarse/granular rock surface), 'sparkle' (crystalline/glittering rock or mineral), and 'pine' (pine trees nearby, or 'pine' as longing). Suggests the spot involves a solid, gritty, sparkling rock and possibly pine trees. 'Here lies' hints the cache is AT this described feature.",
+      "confidence": "med"
+    },
+    {
+      "text": "Viking gold ring motif: 'dozens of circles stamped into eight serpentine forms.'",
+      "type": "shape",
+      "reading": "Shape echo (speculative): circles arranged in winding/serpentine (snaking) forms. Could metaphorically echo a winding, snaking path/switchbacks or a serpentine ridge/creek bend with rounded features - a curving, coiling landform. Tag low: this is an object description, not a stated place.",
+      "confidence": "low"
+    },
+    {
+      "text": "Andvari/serpentine asides: cursed gold guarded by a serpent-dragon in a valley.",
+      "type": "feature",
+      "reading": "Speculative thematic shape: a valley with serpentine/winding character (a coiling creek, serpentine switchbacks, or a snake-like ridge). Suggests checking for a valley/draw with winding water or trail near the spot. Low confidence - thematic, not stated.",
+      "confidence": "low"
+    },
+    {
+      "text": "Southeast Asian gold box carved with a deer (front) and a chicken (back).",
+      "type": "shape",
+      "reading": "Object with directional front/back faces (deer front, chicken/bird back) - very weak speculative echo of an oriented marker having a 'front' facing one direction. Negligible spatial value.",
+      "confidence": "low"
+    },
+    {
+      "text": "Tanzanite called perfect for a 'dazzling pendant'; recurring pendant/necklace + 'circles of gold' motif across items and poem.",
+      "type": "shape",
+      "reading": "Recurring round/looping 'pendant', 'necklace', 'circle', 'ring' shapes. Speculative: the spot's defining feature may be circular/looping (a ring of rocks, a circular clearing, a loop in a trail or stream, a rounded knob). Tag low - motif convergence only.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "slice": "history",
+  "facts": [
+    {
+      "name": "Rocky Face Mountain (summit)",
+      "what": "Dome-shaped mass of granite (granitic gneiss bornhardt) forming the southern edge/outlier of the Brushy Mountains, in the northern/northeastern section of Alexander County, NC, near Hiddenite. Summit rises approximately 600 ft above the surrounding terrain.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "approx 1,795-1,800 ft (547 m)",
+      "access": "Reached by ~6 miles of park trails to the summit within the recreation area",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Rocky Face Mountain Recreational Area",
+      "what": "Alexander County public park on the former quarry site; reported size ranges 318-381 acres across sources (county case study cites ~330 acres). Includes ~6 miles of hiking trails, a paved walking trail in the old quarry, climbing area, camping, wetlands with boardwalks, amphitheater, and playground.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "summit approx 1,795 ft",
+      "access": "Public park; access road and parking off local roads near Hiddenite",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "Park opening date",
+      "what": "Rocky Face Mountain Recreational Area opened to the public on May 25, 2012.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "NC PARTF grant funding",
+      "what": "Development funded in part by NC Parks and Recreation Trust Fund (PARTF) grants. The history page cites a $477,000 grant (awarded ~2010); the county case study cites total of $702,882 in PARTF grants covering Phases 1 and 2.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://www.mcgillassociates.com/case-study/rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Land acquisition timeline (Felburn Foundation / RC&D / County)",
+      "what": "In 1982 the mountain was purchased by The Felburn Foundation (lacked resources to improve it). By 2002 it became a focus of the Carolina Land and Lakes Resource Conservation and Development District (RC&D), which took control in 2003 and began cleanup. Alexander County partnered with the RC&D and accepted ownership in 2011, then applied for PARTF grants; park opened May 2012.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://www.journalpatriot.com/from-dumping-ground-to-popular-park-in-less-than-10-years/article_12b0e78f-b24b-5463-b443-44d387992960.html"
+    },
+    {
+      "name": "Rocky Face quarry operation",
+      "what": "Stone/granite quarry at Rocky Face Mountain that began in 1922 and ceased operations in the early 1940s. Rock was crushed into gravel for road building. The sheer ~100-ft cliff face used for climbing today is largely the exposed quarry wall.",
+      "coords": "approx 35.972,-81.109",
+      "elevation": "unknown",
+      "access": "Old quarry site within the recreation area; rim followed by trails; paved 1/3-mile walking trail in the quarry area",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "Rocky Face Quarry Prospect (mindat mineral locality)",
+      "what": "The Rocky Face Quarry is documented as a mineral locality/prospect at Hiddenite, Alexander County, in the mindat.org mineral database (granitic quarry site).",
+      "coords": "approx 35.972,-81.109",
+      "elevation": "unknown",
+      "access": "Within the recreation area",
+      "land": "public",
+      "source": "https://www.mindat.org/loc-126341.html"
+    },
+    {
+      "name": "Convict / prison labor at the quarry",
+      "what": "Prison inmates worked the quarry from roughly the 1920s into the 1940s, breaking up rock with sledgehammers and loading gravel/rock into railroad cars to be hauled to Hiddenite. Prisoners came from a jail/prison camp on Highway 16 south of town (Taylorsville).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Quarry site within the recreation area",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Prison Camp Trail",
+      "what": "Named hiking trail (orange blaze) within the recreation area that winds through the historically significant area that once served as a prison camp in the mid-20th century (tied to the convict-labor quarry era). Roughly a mile one-way; connects with Hollow Rock Trail.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail, reached from trailhead/parking",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Railroad spur / rail line to the quarry",
+      "what": "A railroad reached the old quarry; a spur ran from Hiddenite to the quarry to haul broken rock/gravel. Railroad spur remnants reportedly remain visible on site; portions of trails follow old quarry/rail routes.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Former rail grade partly within the park",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Grindstone Trail",
+      "what": "Named hiking trail (green blaze) within the recreation area; about a mile one-way; part of routes up Quarry Trail to Grindstone to the Vertical Mile Challenge Trail. Name evokes the grinding/quarry heritage.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Hollow Rock Trail",
+      "what": "Named hiking trail within the recreation area that ascends stone-cut stairs then gravel; crosses a rocky area with a cable fence system along the quarry rim, with overlooks of the granite face/quarry wall.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Park trail",
+      "land": "public",
+      "source": "https://www.onlyinyourstate.com/nature/north-carolina/hollow-rock-trail-hiddenite-nc"
+    },
+    {
+      "name": "Vertical Mile Challenge Trail / Quarry Trail / Buzzard Loop",
+      "what": "Other named trails in the park: Vertical Mile Challenge Trail (a ~350-ft climb up an open granite face), Quarry Trail, and Buzzard Loop (purple blaze). Multiple overlooks atop the dome give views and follow the rim of the quarry wall.",
+      "coords": "unknown",
+      "elevation": "summit approx 1,795 ft",
+      "access": "Park trails from parking",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Climbing crag and named features",
+      "what": "Granite climbing on the ~100-ft former quarry cliff face; 58 established routes (beginner to expert). Named features include 'Dirty Chimney,' 'Black Hole,' 'Quickdraw,' and 'Blast in Black.' Earliest documented climbing/rappelling use was the 1970s; US Army Reservists (3rd Brigade, 518th out of Hickory) used Rocky Face for rappelling training in 1975.",
+      "coords": "approx 35.972,-81.109",
+      "elevation": "crag base/top around 1,700-1,800 ft",
+      "access": "Reached by park trails from parking; public climbing access",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Illegal dumping ground (pre-park land use)",
+      "what": "After the quarry was abandoned, the property was left to become an unofficial public dumping ground with graffiti for many years before the RC&D and county cleaned it up and converted it to a park.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Site now part of the recreation area",
+      "land": "public",
+      "source": "https://www.journalpatriot.com/from-dumping-ground-to-popular-park-in-less-than-10-years/article_12b0e78f-b24b-5463-b443-44d387992960.html"
+    },
+    {
+      "name": "Agricultural history of the site",
+      "what": "Before/around the quarry era the area supported farming including apples, peaches, wheat, and grapes (the Brushy Mountains region is broadly known for fruit orchards).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "NC Natural Heritage designation (2003)",
+      "what": "In 2003 the North Carolina Natural Heritage Program designated Rocky Face Mountain as a registered natural heritage area for its distinctive ecology; the Heritage Program had surveyed/documented it (survey ~2002) as an excellent example of a granitic dome (bornhardt) with rare communities (Low Elevation Granitic Dome, Montane Red Cedar-Hardwood Woodland, Piedmont Monadnock Forest).",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://rockyfacepark.com/history-of-rocky-face/"
+    },
+    {
+      "name": "Historic botanical exploration",
+      "what": "Documented botanizing since the 1930s: Otto Veerhoff (NC State); W.C. Coker, H.R. Totten, T.G. Harbison (UNC); Catherine Keever (Duke, 1940s); 1950s botanists from Davidson, UNC-Charlotte, UNC; Robert Wyatt and James Horton (1970s). A notable expedition on May 21, 1938 (Dr. Solomon Wallace Hoffmann, Rev. Charles Edward Raynal, Dr. H.R. Totten and Adelaide Totten, Sarah Noe) collected 20 specimens. The endemic Keever's onion (Allium keeverae) occurs only in the Brushy Mountains.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "NACo Achievement Award",
+      "what": "Alexander County earned a National Association of Counties (NACo) Achievement Award for the Rocky Face Mountain Recreational Area. The park was designed/overseen by McGill Associates using LEED design principles; reported ~200,000 visitors/year.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "https://alexandercountync.gov/alexander-county-earns-naco-achievement-award-for-rocky-face-mountain-recreational-area/"
+    },
+    {
+      "name": "Brushy Mountains (range context)",
+      "what": "Rocky Face is the southern edge/outlier of the Brushy Mountains, a deeply eroded ~45-mile-long, 4-8-mile-wide isolated spur of the Blue Ridge crossing Caldwell, Alexander, Wilkes, Iredell, and Yadkin counties; divides the Yadkin and Catawba watersheds. Highest point is Pores Knob (2,680 ft, Wilkes County). Hickory Knob is the notable Alexander County peak.",
+      "coords": "unknown",
+      "elevation": "range high point 2,680 ft (Pores Knob)",
+      "access": "n/a",
+      "land": "unknown",
+      "source": "https://en.wikipedia.org/wiki/Brushy_Mountains_(North_Carolina)"
+    },
+    {
+      "name": "Alexander County (place-name / formation)",
+      "what": "Alexander County formed in 1847, named for William Julius Alexander, a member of the NC legislature; county seat is Taylorsville.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "n/a",
+      "land": "public",
+      "source": "http://www.nchistorichundred.com/region-eight-eastern-mountains/alexander/"
+    },
+    {
+      "name": "Hiddenite (town and mineral place-name origin)",
+      "what": "The CDP of Hiddenite (2020 pop. 507; formerly called White Plains) and the rare green gem mineral hiddenite (a variety of spodumene) are named for mineralogist William Earl Hidden (1853-1918), whom Thomas Edison sent to NC to search for platinum. Hidden's stone was first discovered 1879 and identified as spodumene by Dr. J. Lawrence Smith. Hiddenite is ~5 miles east of Taylorsville, ~15 miles NW of Statesville.",
+      "coords": "approx 35.92,-81.10",
+      "elevation": "town approx 1,093 ft",
+      "access": "n/a",
+      "land": "unknown",
+      "source": "https://en.wikipedia.org/wiki/Hiddenite,_North_Carolina"
+    },
+    {
+      "name": "Emerald & hiddenite mining history (Warren/Adams/Turner mine)",
+      "what": "The Adams mine (formerly Warren mine / Emerald & Hiddenite mine / Turner mine / Hiddenite mine) on the former James Warren farm near Hiddenite was the site of the earliest discoveries. Emeralds were found during ploughing in 1874; hiddenite named 1879/1881. An 1,276-carat emerald crystal was found in 1882; the 1,869-carat 'NAEM Emerald' is the largest emerald crystal found in North America. These mines are near (but distinct from) Rocky Face Mountain.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "private gem-mine operations in the Hiddenite area",
+      "land": "private",
+      "source": "https://en.wikipedia.org/wiki/Hiddenite_Gem_Mines"
+    }
+  ]
+}

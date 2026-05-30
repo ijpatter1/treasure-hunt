@@ -1,0 +1,23 @@
+{
+  "id": "rfverdict-7",
+  "spot": "Stone-cut staircase at Hollow Rock Trail start",
+  "sourceMatch": "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/rockyface/rfmatch-7.json",
+  "matchScore": 0.28,
+  "matchStatusFromSource": "weak-candidate",
+  "tests": {
+    "distinctFit": {
+      "result": false,
+      "reasoning": "All three claimed hits fail the distinctness bar. (1) 'Blaze the Path' -> trailhead is explicitly flagged in the source as 'generic to any trailhead'; every trail on Rocky Face (and every mountain) has a trailhead where blazes begin. (2) 'Joy is in the details' -> man-made stonework is 'subjective; any built feature qualifies' per the source's own note; railings, signs, culverts, benches all satisfy it equally. (3) The staircase/steps motif is the only 'moderate' hit, but it is contingent on a step/stair clue 'actually existing in the book; unverified' -- a constraint that cannot single out this spot until the book clue is confirmed to exist. No specific, hard-to-generalize constraint (a named feature, a number, a unique geometry, a wordplay anchored to a proper noun) ties these clues to THIS staircase rather than any other built feature on the mountain. Generic-mountain fit is high; distinct fit is absent."
+    },
+    "jcbOk": {
+      "result": true,
+      "reasoning": "Literal JCB hard constraints are satisfiable: spot is on Rocky Face Mountain Recreational Area, accessible public land (Alexander Co, NC); per accessNotes it is 'within steps of the road' and 'near parking', well inside the ~3-mile road rule; flat trailhead area means no cliff-scaling, no water-crossing, no danger; nothing requires digging (a staircase is a surface feature); a flat, paved/graded trailhead is reachable to carry a >25lb load in one or two trips and would be findable under light snow (steps remain visible/locatable). NOTE: web verification of the specific 'Hollow Rock' trail/steps could not be completed in-session (tooling returned empty), so public-land/road-proximity status is taken from the source accessNotes; the hard rules are plausibly met on those facts.",
+      "caveat": "Concealment, while not a formal JCB rule, is fatal in practice: source elimination note states 'Trailhead area is high-traffic; low concealment for a large box.' The largest of the five boxes cannot plausibly sit undetected at a flat, high-traffic trailhead beside parking."
+    }
+  },
+  "survives": false,
+  "survivesLogic": "survives = distinctFit (false) AND jcbOk (true) AND meaningful matchScore (0.28 is low, not meaningful) => false. Two of three conditions fail.",
+  "verdict": "Reject. Hits are generic/unverified, no distinct fit; matchScore 0.28 trivial; high-traffic trailhead gives near-zero concealment for the largest box despite easy access.",
+  "judgedBy": "adversarial-pin-test",
+  "date": "2026-05-30"
+}

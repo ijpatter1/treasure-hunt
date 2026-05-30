@@ -1,0 +1,33 @@
+{
+  "spot": "Quarry Overlook (top of Buzzard Loop rock staircase)",
+  "matchScore": 58,
+  "cluesHit": 9,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "HIT", "reason": "Explicitly an overlook ~100 ft above the quarry floor; high spot looking down."},
+    {"constraint": "panoramic-view (support 9)", "result": "PARTIAL", "reason": "View is down into the quarry pit/cliffs, not a broad sweeping valley panorama; enclosed-ish, not 'nature's wide embrace' like the summit."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "PARTIAL", "reason": "Built stone staircase and quarry-edge rock plausibly offer crevices/gaps, but no specific niche/undercut documented for this spot."},
+    {"constraint": "surface-not-buried (support 5)", "result": "HIT", "reason": "Stone-step gaps and rock-edge ledges allow surface placement without digging."},
+    {"constraint": "rock-marker (support 8)", "result": "HIT", "reason": "The built rock staircase is the explicit fixed stone landmark; quarry granite all around."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "MISS", "reason": "No creek/pond/spring at this overlook; Rocky Face Branch headwater and wetland are at the base, not here."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "PARTIAL", "reason": "Buzzard Loop is short/wooded near the quarry edge (open), but no clearing/meadow edge stated."},
+    {"constraint": "trail-accessible (support 6)", "result": "HIT", "reason": "Directly on the 0.8-mi Buzzard Loop Trail, walkable, no bushwhack."},
+    {"constraint": "within-3mi-road (support 4)", "result": "HIT", "reason": "0.8 mi trail very close to entrance; well within 3 mi, no crossing/scaling."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "PARTIAL", "reason": "Shortest-trail 'pause point' near entrance — fairly visited, only modest seclusion."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "No twin-crag gap/notch framing the spot; it is a quarry-rim overlook."},
+    {"constraint": "tree-landmark (support 4)", "result": "MISS", "reason": "No prominent oak/pine marker documented."},
+    {"constraint": "east-facing (support 4)", "result": "MISS", "reason": "Spot is on the WEST side of the quarry; orientation is west, not east."},
+    {"constraint": "rounded-stone-shape (support 8, low)", "result": "MISS", "reason": "Operative feature is a stepped staircase/cut quarry rock, not a rounded/dome/egg stone."},
+    {"constraint": "green-mossy-contrast (support 5, low)", "result": "MISS", "reason": "No moss/lichen-against-stone color cue noted here."},
+    {"constraint": "crystalline-quartz-rock (support 6, low)", "result": "PARTIAL", "reason": "Host rock is granitic gneiss (some quartz/mica), but no sparkling/crystalline emphasis at this spot."},
+    {"constraint": "angular-faceted-rock (support 5, low)", "result": "HIT", "reason": "Cut/blocky quarry rock and stepped, stratified staircase match angular/stepped form."},
+    {"constraint": "reddish-warm-stone (support 6, low)", "result": "MISS", "reason": "Granite-gneiss is grey; no reddish/golden stone cue here."},
+    {"constraint": "pale-light-stone (support 5, low)", "result": "PARTIAL", "reason": "Granitic gneiss is light-grey, weakly matching pale-stone, but not white/quartz-white emphasis."},
+    {"constraint": "bowl-hollow-depression (support 4, low)", "result": "PARTIAL", "reason": "Overlooks the quarry pit (a large man-made basin), loosely matching a pit/depression motif."},
+    {"constraint": "confluence-bend (support 4, low)", "result": "MISS", "reason": "No water confluence or watercourse bend at this spot."},
+    {"constraint": "descend-then-high (support 3, low)", "result": "PARTIAL", "reason": "Buzzard Loop climbs the staircase to the high overlook; ascent-to-high fits, but no notable 'descend first' element."},
+    {"constraint": "small-confirming-mark (support 4, low)", "result": "MISS", "reason": "No inscription/seam mark documented at this spot."},
+    {"constraint": "left-orientation (support 3, low)", "result": "MISS", "reason": "No left-turn directional nudge tied to this spot."},
+    {"constraint": "open-to-elements (support 2, low)", "result": "HIT", "reason": "Exposed quarry-rim overlook, open to wind/weather rather than a sealed cave."},
+    {"constraint": "pace-count (support 3, low)", "result": "PARTIAL", "reason": "Built staircase gives countable steps from a fixed landmark, a plausible pace/number anchor."}
+  ]
+}

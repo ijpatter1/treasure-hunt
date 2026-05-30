@@ -1,0 +1,158 @@
+{
+  "slice": "access",
+  "facts": [
+    {
+      "name": "Rocky Face Mountain Recreational Area",
+      "what": "Public county park operated by Alexander County, NC, on Rocky Face Mountain, a dome-shaped mass of granite at the southern edge of the Brushy Mountains in the northern part of Alexander County. Former rock quarry (operations began 1922, ceased early 1940s) converted to a recreation area. Approximately 318 acres.",
+      "coords": "park entrance area approx 35.96222,-81.12028 (35 deg 57' 44\" N, 81 deg 07' 13\" W)",
+      "elevation": "summit approx 1795-1800 ft; about 600 ft above surrounding terrain",
+      "access": "Public park; vehicle access via Rocky Face Church Road to a parking lot at the entrance below the southwest end of the mountain.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Rocky Face summit (USGS named summit)",
+      "what": "Named summit 'Rocky Face' on the Hiddenite USGS topo quad, Alexander County. Granite dome with exposed rock face used for climbing.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "approx 1795 ft (547 m)",
+      "access": "Reached on foot via the park trail system (e.g., Hollow Rock / Vertical Mile trails) from the entrance parking lot.",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Park street address",
+      "what": "Official entrance/mailing address of the recreational area.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "3451 Rocky Face Church Road, Hiddenite, NC 28636. Phone 828-632-1093.",
+      "land": "public",
+      "source": "https://www.yelp.com/biz/rocky-face-mountain-recreational-area-hiddenite"
+    },
+    {
+      "name": "Rocky Face Church Road (entrance road)",
+      "what": "The county road on which the park entrance and parking lot are located. Park entrance is 1.2 miles in on Rocky Face Church Road after turning from Rocky Springs Road.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Primary access road. Turn onto Rocky Face Church Road; park entrance is 1.2 miles on the right.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/directions/"
+    },
+    {
+      "name": "Driving directions - approach road network",
+      "what": "Documented road sequence to reach the park from I-40. From Iredell County: US 64 West ~14 mi; right on Millersville Road; ~0.5 mi to NC 90, turn left; ~0.5 mi, right on White Plains Road; to stop sign, right on Rocky Springs Road; 1.4 mi, left on Rocky Face Church Road; park 1.2 mi on right. From Catawba County: NC 16 North toward Taylorsville, east on US 64, then same sequence. Routes from Wilkes (NC 16) and Caldwell (US 64/NC 90) also merge onto US 64 east.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Access roads in order: US 64, Millersville Road, NC 90, White Plains Road, Rocky Springs Road, Rocky Face Church Road. NC 16 used from Catawba/Wilkes sides.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/directions/"
+    },
+    {
+      "name": "Park hours (seasonal gate hours)",
+      "what": "Operating hours vary by season. Apr 1 - Sep 30: 8:00am-8:00pm; Oct 1 - Oct 31: 8:00am-7:00pm; Nov 1 - Feb 28: 8:00am-5:00pm; Mar 1 - Mar 31: 8:00am-7:00pm. Open about 360 days/year, weather permitting; closed roughly five days total around New Year's, Thanksgiving, and Christmas.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Daytime-only access enforced by posted hours; park closes overnight.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/general-information/"
+    },
+    {
+      "name": "Parking lot and entrance facilities",
+      "what": "Main parking area at the park entrance with restrooms, park office, and a picnic shelter/pavilion (tables, grills). Described as ample parking; ADA-accessible. A multi-purpose building is available for rental. Primitive backpack camping is offered.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Drive-up parking lot at the entrance off Rocky Face Church Road; trailheads begin from/near the lot.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/general-information/"
+    },
+    {
+      "name": "Paved ADA walking track (former quarry)",
+      "what": "A one-third-mile (0.3 mi, marked black on the park map) paved, flat, ADA-accessible walking trail located in the former quarry area near the entrance.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Flat paved loop accessible directly from the parking area; wheelchair accessible. Grindstone Trail begins at its southeastern corner.",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Hiking trail system overview",
+      "what": "About 5-6 miles of marked hiking trails (7 named trails) ranging beginner to strenuous, ~600 ft vertical change, leading to the mountain summit. Trails are color-coded on the park map.",
+      "coords": "unknown",
+      "elevation": "summit approx 1795-1800 ft",
+      "access": "Trailheads originate at/near the entrance parking lot; the entire ~318-acre park is well within 3 miles of the entrance road, with summit reachable in roughly 1-2.5 miles of trail.",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Buzzard Loop Trail",
+      "what": "Shortest named trail, 0.8 mi (purple). Near the park entrance below the far southwest end of the mountain; begins and ends at a rock staircase on the west side of the old quarry and climbs about 100 ft to a quarry overlook. Hollow Rock Trail starts and ends on Buzzard Loop.",
+      "coords": "unknown",
+      "elevation": "climbs ~100 ft to overlook",
+      "access": "Trailhead is northwest of the parking lot, very close to the entrance. Easy to moderate.",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Hollow Rock Trail",
+      "what": "2.5-mile (red) lollipop-shaped trail, moderate to strenuous. Starts/ends on Buzzard Loop, runs the full length of the ridge top, loops around Rocky Face's peak, and crosses large expanses of exposed granite with views in all directions (toward Wilkes, Watauga, Ashe counties).",
+      "coords": "unknown",
+      "elevation": "reaches the summit ridge, approx 1795 ft",
+      "access": "Reached on foot from Buzzard Loop / entrance lot. Picnic tables reported at the top rock face.",
+      "land": "public",
+      "source": "https://www.trailforks.com/trails/hollow-rock-trail-356815/"
+    },
+    {
+      "name": "Vertical Mile Challenge Trail",
+      "what": "2.2-mile (blue) strenuous loop. Follows the lower portion of Grindstone for about a half mile, then leaves it for a steep ~500-foot climb up the mountain.",
+      "coords": "unknown",
+      "elevation": "approx 500 ft climb to ridge",
+      "access": "Reached from Grindstone Trail; trailhead near the walking track / entrance area.",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Grindstone Trail",
+      "what": "1-mile (green) easy-to-moderate connector trail. Starts in the southeastern corner of the paved walking track, parallels the southeastern edge of the park, then turns north and climbs the ridge with switchbacks; often wet and slippery. Provides access to the Vertical Mile Challenge Trail.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Begins at the walking track near the entrance parking area.",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Prison Camp Trail",
+      "what": "1-mile (orange) moderate trail that passes the former site of inmate (prison camp) housing.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Part of the upper trail network; reached on foot from connecting trails.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Rock climbing area (quarry cliff face)",
+      "what": "Designated rock-climbing/rappelling area on the ~100-foot exposed granite quarry cliff face, with 58 established climbing routes ranging beginner to expert. Climbing area used since the 1970s; US Army Reservists trained rappelling here in 1975.",
+      "coords": "unknown",
+      "elevation": "approx 100 ft cliff on the granite dome",
+      "access": "Accessed on foot from the park near the quarry; climbing generally requires a permit. Within the public park boundary.",
+      "land": "public",
+      "source": "https://www.mountainproject.com/area/108538640/rocky-face-recreational-area"
+    },
+    {
+      "name": "Within-3-miles-of-road / drivable approach",
+      "what": "The entire ~318-acre park lies immediately adjacent to its entrance road; the parking lot is on Rocky Face Church Road and all trails and the summit are well under 3 miles from that paved public road. Surrounding county roads (Rocky Springs Road, White Plains Road, NC 90, US 64) bound the broader area.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Drivable paved approach to a maintained parking lot; summit reachable on foot in roughly 1-2.5 miles of trail. No part of the park is more than ~3 miles from a road.",
+      "land": "public",
+      "source": "https://rockyfacepark.com/directions/"
+    },
+    {
+      "name": "County jurisdiction / management",
+      "what": "Managed by Alexander County Parks and Recreation; county government offices at 621 Liledoun Road, Taylorsville, NC 28681 (phone 828-632-9332). Park is in the northern part of Alexander County near Hiddenite, just past Statesville.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "County-owned and operated public land.",
+      "land": "public",
+      "source": "https://alexandercountync.gov/departments/parks-and-recreation/"
+    }
+  ]
+}

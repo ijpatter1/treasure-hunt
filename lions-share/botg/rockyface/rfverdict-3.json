@@ -1,0 +1,39 @@
+{
+  "spot": "Bottom Ledge climbing area (Sections 3-5) - base of the quarry",
+  "judge": "adversarial pin-test",
+  "date": "2026-05-30",
+  "inputs": {
+    "rfmatch": "rfmatch-3.json (matchScore 41, cluesHit 9 of 26 constraints)",
+    "catalog_entry": "Bottom Ledge climbing area (Sections 3-5) - base of the quarry; type: named climbing sub-area / quarry floor base"
+  },
+  "test_1_distinct_fit": {
+    "result": false,
+    "reasoning": [
+      "The spot FAILS the two highest-support locational signatures: elevated-overlook (support13, the single dominant 'spot is high' cue) = MISS, and panoramic-view (support9) = MISS. This is the quarry FLOOR, the lowest point of the crag, the opposite of the strongest clue pattern.",
+      "Of the 9 HITs, the large majority are GENERIC and would fit almost any rocky feature on Rocky Face (or any quarried/rocky mountain): rock-marker (support8), surface-not-buried (support5), rock-niche-cache (support9), trail-accessible (support6), within-3mi-road (support4), angular-faceted-rock (support5, low). All of these apply equally to the Quarry cliff face, Left Face (Sections 1-2), the cable-fence rim, the boardwalk wetland, and the developed core. They do not single out THIS spot.",
+      "bowl-hollow-depression HIT is a low-support (support4) constraint and is shared by the entire quarry pit, not this sub-area specifically.",
+      "small-confirming-mark (bolts/route names) is shared across the WHOLE climbing crag (58-60+ routes), not distinct to Sections 3-5. The named features (Dirty Chimney, Black Hole, Lightning Crack) are real, but they tag a generic climbing sub-area rather than a uniquely-clued pinpoint.",
+      "No specific, hard-to-generalize, HIGH-support constraint singles out this spot. On the contrary, it actively contradicts the dominant high/elevated/view signature. distinctFit = FALSE."
+    ]
+  },
+  "test_2_jcb_hard_constraints": {
+    "result": true,
+    "reasoning": [
+      "PUBLIC land: yes - Rocky Face Mountain Recreational Area, Alexander County park. PASS.",
+      "Within ~3 mi of a road: yes - base of quarry is adjacent to the paved ADA track, effectively at road level. PASS.",
+      "Not buried / no digging: yes - box could rest in a crack/niche/talus at base level. PASS.",
+      "Not dangerous: to STAND at the base requires no climbing or rappelling (permit is needed only to climb the wall). No water crossing, no cliff scaling needed to reach the base. PASS on the literal rule. CAVEAT: it sits beneath a sheer >80 ft quarry wall noted for shedding loose rock (helmets advised for climbers) - an overhead-hazard concern, though not a JCB-disqualifying access danger.",
+      "Findable with light snow: a low, enclosed quarry-floor niche is reasonably findable in light snow. PASS.",
+      "Carry >25 lb load (possibly two trips): essentially at road/track level, easy footing, shortest carry of any spot on the mountain. PASS.",
+      "jcbOk = TRUE on the stated rules."
+    ]
+  },
+  "survives": false,
+  "survives_logic": "survives = distinctFit (FALSE) AND jcbOk (TRUE) AND meaningful matchScore => FALSE. Fails on distinct fit.",
+  "additional_skeptic_notes": [
+    "This is a HIGH-TRAFFIC, highly visible climbing zone (active climbers, the most-visited rock in a ~200k-visitor/yr park). A multi-million-dollar cache surviving years here, where climbers and rangers handle the base rock constantly, is implausible (concealed-off-obvious = PARTIAL, conceded as weak).",
+    "matchScore 41 is mediocre and is propped up by generic rock/access constraints while it MISSES the two strongest locational signals. The score is not meaningfully distinguishing.",
+    "Better-fitting siblings in the same catalog (summit, Vertical Mile open granite face, quarry rim cable-fence overlook) satisfy the dominant elevated-overlook + panoramic-view signature that THIS spot fails."
+  ],
+  "verdict": "REJECTED. Fails distinct fit: it is the quarry floor, contradicting the dominant high/overlook/view clues; its HITs are generic rock/access traits shared by many features. Meets JCB rules but not distinctly indicated."
+}

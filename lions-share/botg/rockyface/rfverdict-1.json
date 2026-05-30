@@ -1,0 +1,44 @@
+{
+  "spot": "Quarry cliff face (former quarry wall / main climbing crag)",
+  "judge": "adversarial pin-test",
+  "date": "2026-05-30",
+  "matchScore": 47,
+  "cluesHit": 6,
+  "headlineConstraintsFailed": [
+    "elevated-overlook = MISS (spot is the cliff BASE at parking grade, low ground)",
+    "panoramic-view = MISS (face an 80-100 ft wall; enclosed/blocked view)",
+    "concealed-off-obvious = MISS (most prominent, dead-obvious feature towering over the parking lot; heavily climber-trafficked)"
+  ],
+  "test1_distinctFit": {
+    "verdict": false,
+    "reasoning": [
+      "The 6 HITs are: rock-niche-cache, surface-not-buried, rock-marker, within-3mi-road, trail-accessible, angular-faceted-rock.",
+      "rock-niche-cache / surface-not-buried / rock-marker are GENERIC to essentially every rock spot on this mountain (summit dome, flatrock bald, Left Face, Bottom Ledge, cable rim, stone staircase) and to almost any rocky mountain. They are 'a rock you can reach into without digging' — not distinguishing.",
+      "within-3mi-road / trail-accessible are satisfied by EVERY one of the 15 catalog spots. Zero discriminating power.",
+      "angular-faceted-rock is the only semi-specific constraint (blasted cut wall vs natural rounded dome), BUT it is shared by all sibling quarry sub-spots (Left Face, Bottom Ledge, cable-rim) and merely re-describes 'this is a quarry,' not 'this exact wall.' It also flatly contradicts rounded-stone-shape, which would point at the summit dome instead.",
+      "Crucially, the constraints that COULD individuate a treasure spot (elevated-overlook, panoramic-view, concealed-off-obvious) all MISS here. The spot wins only on the lowest-information, most-generalizable cluster.",
+      "No single hard-to-generalize constraint singles out THIS spot. distinctFit = false."
+    ]
+  },
+  "test2_jcbOk": {
+    "verdict": false,
+    "reasoning": [
+      "PUBLIC land: PASS (Alexander County park).",
+      "Within ~3 mi of road: PASS (backdrop directly above main parking lot).",
+      "Not buried / no digging: PASS at the base niches/talus.",
+      "Carry >25 lb load / light snow findability: PLAUSIBLE for the base on flat parking-grade footing.",
+      "NOT dangerous: FAIL/marginal. Verified via rockyfacepark.com: the blasted quarry walls SHED LOOSE ROCK and the park strongly advises HELMETS; rockfall hazard sits directly over the cliff base. JCB rule is 'not dangerous' and 'no cliff-scaling.' Standing under an 80-100 ft loose-rock wall is an objective overhead-rockfall hazard, not a safe casual hide. Any niche worth hiding in (ledges/recesses) trends UP the wall into climbing/permit terrain, which violates no-cliff-scaling.",
+      "An author wanting a non-dangerous, snow-findable, family-safe public hide would not place a >25lb box in a permit-gated, helmet-advised rockfall zone at the base of the park's marquee climbing crag.",
+      "jcbOk = false."
+    ]
+  },
+  "distinctFit": false,
+  "jcbOk": false,
+  "matchScoreMeaningful": false,
+  "survives": false,
+  "verdict": "Generic hits only; headline view/concealment constraints all miss; loose-rock helmet-advised crag is a rockfall hazard. Does not survive.",
+  "sources": [
+    "https://rockyfacepark.com/rock-climbing/",
+    "https://www.mindat.org/loc-126341.html"
+  ]
+}

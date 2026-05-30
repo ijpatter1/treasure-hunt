@@ -1,0 +1,95 @@
+{
+  "page": "chapter-07",
+  "constraints": [
+    {
+      "text": "\"We never know what's past the next tree line, over the next rise, or around the next corner unless we see it for ourselves.\"",
+      "type": "feature",
+      "reading": "The hiding spot is concealed just beyond an edge of woods (a tree line), implying the spot sits where forest meets open ground or where one band of trees ends.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"...over the next rise...\"",
+      "type": "elevation",
+      "reading": "The spot lies just over the top of a low hill or rise - on the far side of a crest, out of sight from the near approach. Stand at a small summit/ridge and look down the opposite slope.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"...around the next corner...\"",
+      "type": "direction",
+      "reading": "The spot is around a bend - a turn in a trail, a road, or a terrain feature (rock outcrop, ridge spur) that hides it from a straight-line view. Follow the path past the curve.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"the box sits just out of normal sightline at a spot most people walk past\" (Research Findings)",
+      "type": "view",
+      "reading": "Hiding spot is hidden from the casual sightline of someone at a road, overlook, or trailhead - not at the obvious viewpoint or parking area, but a short distance beyond where the view 'breaks'.",
+      "confidence": "high"
+    },
+    {
+      "text": "\"in mountaineering 'tree line' means timberline (the elevation above which trees stop growing); if read that strongly it would point to a high-elevation, near-summit setting\" (Research Findings)",
+      "type": "elevation",
+      "reading": "Speculative alternate reading: 'past the next tree line' could mean above timberline - a high, near-summit setting where trees thin out. Flagged speculative even in source.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"Even the watchful purple hills / That hold the lake\" (Earhart poem 'From an Airplane')",
+      "type": "nearby",
+      "reading": "Spatial image of hills cradling/encircling a body of water - the spot may be on a hillside or slope overlooking a lake, with high ground wrapping around the water. 'Hold the lake' = ringed/embraced by hills.",
+      "confidence": "med"
+    },
+    {
+      "text": "\"watchful purple hills\"",
+      "type": "color",
+      "reading": "Hills described as purple - a distant/atmospheric color cast (purple haze of ridgelines at dusk). Suggests viewing distant hills, possibly from elevation.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"Could not see so well as I / The stain of evening / Creeping from its heart\"",
+      "type": "view",
+      "reading": "Implies a high, commanding vantage with a long downward view ('see so well') - looking out over a lake/valley as evening shadow spreads. The spot may be a high overlook.",
+      "confidence": "med"
+    },
+    {
+      "text": "\"Nor the round, yellow eyes of the hamlet / Growing filmy with mists\"",
+      "type": "shape",
+      "reading": "'Round, yellow eyes' = round glowing lights of a small village seen from above/afar; 'filmy with mists' suggests a misty valley or low-lying fog. The viewpoint sits above a hamlet, looking down through mist.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"the green backdrop of Londonderry\" / treasure photo taken against a green field (provenance)",
+      "type": "nearby",
+      "reading": "The defining treasure image is set against a green open field/pasture with the subject standing in the open - a grassy clearing rather than dense forest or rock.",
+      "confidence": "low"
+    },
+    {
+      "text": "Treasure photo: Earhart \"standing on/beside her Lockheed Vega 5B\" in a flat open pasture",
+      "type": "feature",
+      "reading": "Imagery of a figure standing upright in/on a flat open ground beside a large object - echoes a level clearing or flat where one would stand next to a prominent feature.",
+      "confidence": "low"
+    },
+    {
+      "text": "Birthplace described as \"on a bluff over the Missouri River\" / \"on a hillside overlooking Warnock Lake\" with a \"hilltop viewing deck\" (Places, raw facts)",
+      "type": "elevation",
+      "reading": "Recurring spatial motif in the chapter's geography: high ground (bluff/hillside/hilltop) positioned directly above and overlooking water - a raised vantage point over a lake or river.",
+      "confidence": "med"
+    },
+    {
+      "text": "\"a plaque at Diamond Head Lookout\" and Earhart Peak (~11,974 ft summit) as named features (Places, raw facts)",
+      "type": "view",
+      "reading": "Associated landmarks are lookouts and peaks - reinforces a high overlook / summit-vantage character for the spot, a place with a commanding view.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"By 1966 he built a studio/gallery on a rocky knoll\" (Loloma, Research Findings, raw fact)",
+      "type": "feature",
+      "reading": "Spatial image of a small rocky knoll (a low rocky rise/hillock) as a chosen high spot - a candidate microfeature: a rocky knob or outcrop.",
+      "confidence": "low"
+    },
+    {
+      "text": "\"the International Forest of Friendship (a living memorial with trees from all 50 states)\" (Places, raw fact)",
+      "type": "feature",
+      "reading": "Spatial motif of a stand/grove of distinctive trees as a marker - the spot may be associated with a notable cluster or line of trees (reinforces the 'tree line' edge imagery).",
+      "confidence": "low"
+    }
+  ]
+}

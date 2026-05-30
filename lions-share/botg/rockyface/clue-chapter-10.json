@@ -1,0 +1,83 @@
+{
+  "page": "chapter-10",
+  "constraints": [
+    {
+      "text": "Bow/ribbon-shaped brooch with sapphires and diamonds inlaid around a carved rock crystal center; Art Deco, set in platinum, with carved/frosted rock-crystal panels framed by calibre-cut sapphires.",
+      "type": "shape",
+      "reading": "The featured object's defining form is a BOW/RIBBON shape with a central panel framed by a pair of side elements. A hiding spot might echo this: a notched or cinched landform (a saddle/gap between two rounded knobs that pinch in the middle like a bow's knot), or a feature with a pale clear/frosted stone centerpiece flanked symmetrically on two sides.",
+      "confidence": "low"
+    },
+    {
+      "text": "carved/frosted rock-crystal panels (clear quartz), pale and translucent, at the brooch's center.",
+      "type": "color",
+      "reading": "Pale, clear/whitish, frosted stone imagery — look for a light-colored, glassy, or quartz/white rock as the marker (a pale rounded or slabbed stone) rather than dark rock.",
+      "confidence": "low"
+    },
+    {
+      "text": "deep blue sapphires (calibre-cut) inlaid around the crystal; the brooch is fundamentally a sapphire-and-diamond piece.",
+      "type": "color",
+      "reading": "Blue + clear/white color pairing. Possible 'blue' association = near water or under open blue sky; a white/clear stone marker set against/within blue surroundings.",
+      "confidence": "low"
+    },
+    {
+      "text": "Brooch measures about 2.25 in long; diamonds ~2.00 carats total.",
+      "type": "distance",
+      "reading": "Small, precise measurements tied to the object (2.25 inches, 2.00 ct). Could hint at a short literal measurement/pace count to the spot, or simply object spec. Speculative.",
+      "confidence": "low"
+    },
+    {
+      "text": "Carved rock crystal center; rock-crystal panels are the structural core of the piece.",
+      "type": "feature",
+      "reading": "The word 'rock' is literally embedded in the treasure's material (rock crystal). Reinforces a ROCK feature as the hide marker — a stone, ledge, or boulder, especially a crystalline/quartz-bearing one.",
+      "confidence": "med"
+    },
+    {
+      "text": "Resilience and pliability are the moral throughline ('Man never made any material as resilient as the human spirit'; pliability/bending without breaking).",
+      "type": "shape",
+      "reading": "Imagery of bending/flexing — a bent, curved, or leaning natural feature (a bowed tree, a curved ridge or arch of rock) could echo 'resilient/pliable' form. Highly metaphorical.",
+      "confidence": "low"
+    },
+    {
+      "text": "Author's father's parking-lot lesson: 'it's not about WHEN bad things happen... It's about HOW you respond'; hardship is temporary.",
+      "type": "other",
+      "reading": "No direct spatial content; thematic. Treat as constraint reassurance (low effort, temporary discomfort), not a position cue.",
+      "confidence": "low"
+    },
+    {
+      "text": "Sanskrit tattoo down his LEFT forearm: 'I welcome the good with the bad, as they both come from the one true source.'",
+      "type": "direction",
+      "reading": "Mentions of LEFT and a 'source.' Charitably, 'left' could be a directional hint (bear/turn left) and 'one true source' could allude to a spring/headwater (a water source) at the spot. Both speculative.",
+      "confidence": "low"
+    },
+    {
+      "text": "Reassurance: hunt 'is not designed to require any great hardship,' 'stakes are not particularly high,' enjoy 'sights, smells, and sounds of nature,' 'designed to bring you joy, not suffering.'",
+      "type": "view",
+      "reading": "Confirms an outdoor natural setting reachable without hardship — implies a pleasant, sensory-rich spot (nature sounds/smells), accessible and safe, consistent with an easy walk to a viewpoint or natural feature. Not a pinpoint.",
+      "confidence": "med"
+    },
+    {
+      "text": "Jackie 'did not stray the course'; she 'came full circle' (writer to editor).",
+      "type": "shape",
+      "reading": "'Full circle' and 'the course' — possibly a circular/loop form or a feature you return to; or a 'course' (trail/path/stream course). Metaphorical wordplay, weak spatial value.",
+      "confidence": "low"
+    },
+    {
+      "text": "Grand Central celestial CEILING is famously painted BACKWARDS (east-west reversed) — 'look the opposite way' motif (noted as color, no-cipher).",
+      "type": "direction",
+      "reading": "A 'reversed orientation' image: at the spot the obvious orientation may be inverted (look the opposite direction, or the marker faces away from expected). Very speculative; flagged as non-cipher color.",
+      "confidence": "low"
+    },
+    {
+      "text": "Twelve cast-iron EAGLES (~4,000 lb each) dispersed; several stand roadside / on overlooks and in public natural land.",
+      "type": "feature",
+      "reading": "Recurring EAGLE imagery + roadside placement. Charitably: an eagle-shaped rock, an overlook named for eagles, or a marker visible from a road. The roadside detail aligns with 'near a road.' Object-association only.",
+      "confidence": "low"
+    },
+    {
+      "text": "Brooch's provenance hook: original fitted RED leather presentation BOX from A la Vieille Russie.",
+      "type": "color",
+      "reading": "A 'box' is literally what is being hidden; red-leather box imagery may simply describe the container. A reddish marker (red rock/clay) is a weak color possibility.",
+      "confidence": "low"
+    }
+  ]
+}

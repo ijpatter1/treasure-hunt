@@ -1,0 +1,113 @@
+{
+  "slice": "geology",
+  "facts": [
+    {
+      "name": "Rocky Face Mountain (summit / dome)",
+      "what": "A dome-shaped mass of granite gneiss; described as an excellent example of a granitic dome (bornhardt) formed by exfoliation of massive granitic rock, which creates the bare 'rock faces' that give the mountain its name. Located in the northern part of Alexander County, considered the southern edge of the Brushy Mountains.",
+      "coords": "approx 35.93,-81.10 (Hiddenite/Taylorsville area)",
+      "elevation": "approx 1,795 ft (max); summit ~600 ft above surrounding terrain",
+      "access": "Within Rocky Face Mountain Recreational Area; reached via park trails (about 5-6 miles of hiking trails lead to the summit) from the park near Hiddenite, NC",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Granite gneiss rock face / quarry cliff (climbing wall)",
+      "what": "The former quarry area exposes a sheer cliff face of granite gneiss, including a giant nearly-vertical granite slab (~30-degree incline on the slab feature). Over 60 bolted climbing routes are established here; popular with rock climbers.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Designated quarry/climbing area within the park; reached by park trails",
+      "land": "public",
+      "source": "https://app.advcollective.com/north_carolina/Climbing/rocky-face-mountains-natural-wonder"
+    },
+    {
+      "name": "Rocky Face Quarry (historic granite quarry)",
+      "what": "Granite/granite-gneiss quarry that operated from 1922 to the early 1940s; the abandoned quarry pit and high cut rock walls are now the centerpiece of the recreational area. A one-third-mile paved walking trail is located in the former quarry area.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Within Rocky Face Mountain Recreational Area, Alexander County, NC; paved trail loop in the quarry area",
+      "land": "public",
+      "source": "https://www.journalpatriot.com/from-dumping-ground-to-popular-park-in-less-than-10-years/article_12b0e78f-b24b-5463-b443-44d387992960.html"
+    },
+    {
+      "name": "Rocky Face Quarry Prospect (mindat locality)",
+      "what": "Catalogued mineral-prospect/quarry locality on Rocky Face Mountain at Hiddenite, Alexander County, NC, listed in the mindat mineral database; associated with the granite-gneiss quarry workings.",
+      "coords": "unknown (mindat locality, Hiddenite, Alexander Co.)",
+      "elevation": "unknown",
+      "access": "On Rocky Face Mountain, now within the recreational area",
+      "land": "public",
+      "source": "https://www.mindat.org/loc-126341.html"
+    },
+    {
+      "name": "Rare granitic-dome natural communities / balds (exposed rock)",
+      "what": "Rocky Face has extensive exposures of granitic gneiss with areas of shallow soil supporting rare natural community types, including Low Elevation Granitic Dome and Montane Red Cedar-Hardwood Woodland, plus Piedmont Monadnock forest. N.C. Natural Heritage Program biologists documented these in 2002; the area is on the NC Registry of Natural Heritage Areas.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "Exposed granite-dome / bald areas reached by the summit trails within the park",
+      "land": "public",
+      "source": "https://ncbg.unc.edu/2020/08/04/following-in-botanical-footsteps/"
+    },
+    {
+      "name": "Rocky Face Mountain Recreational Area",
+      "what": "Public Alexander County park, approximately 318 acres, containing the granite-gneiss mountain, former quarry, sheer rock faces/climbing cliffs, ~5-6 miles of hiking trails to the summit, a 1/3-mile paved quarry trail, scenic overlooks, and picnic facilities. On the NC Registry of Natural Heritage Areas; created from a former quarry/dumping ground.",
+      "coords": "unknown",
+      "elevation": "summit ~1,795 ft",
+      "access": "Park near Hiddenite, NC (Rocky Face Church Rd area); trails from easy paved loop to strenuous summit hikes",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Brushy Mountains range (host range)",
+      "what": "A deeply eroded isolated spur of the Blue Ridge Mountains, ~45 miles (72 km) long and only 4-8 miles wide, separated from the main Blue Ridge by the Yadkin River valley; usually rises 300-800 ft above surrounding countryside. Highest point is Pores Knob, 2,680 ft (Wilkes County). Rocky Face Mountain lies at its southern edge in Alexander County. Range is known for gem deposits (emerald, hiddenite).",
+      "coords": "unknown",
+      "elevation": "range crest typically 1,200-2,680 ft; Pores Knob 2,680 ft",
+      "access": "Spans Alexander, Wilkes, Caldwell and Iredell counties",
+      "land": "unknown",
+      "source": "https://en.wikipedia.org/wiki/Brushy_Mountains_(North_Carolina)"
+    },
+    {
+      "name": "Hiddenite / NC emerald mineral belt (host geology)",
+      "what": "Gem-bearing zone in Alexander County around Hiddenite/Stony Point. Local country rock is biotite gneiss and schist (Inner Piedmont). Emerald (green beryl), hiddenite, quartz, mica and beryl crystallized in fractures, voids, pegmatitic pockets and quartz veins injected into the gneiss bedrock roughly 600 million years ago. NC is the only place in North America producing significant emeralds; the largest North American emeralds came from this belt.",
+      "coords": "unknown (Hiddenite area, Alexander Co., NC)",
+      "elevation": "unknown",
+      "access": "Region around the town of Hiddenite, Alexander County, NC",
+      "land": "unknown",
+      "source": "https://wncmagazine.com/feature/hidden_hiddenite"
+    },
+    {
+      "name": "Hiddenite (mineral)",
+      "what": "Pale-to-emerald-green gem variety of spodumene (a lithium aluminum silicate); coloring agent is chromium; strongly pleochroic. Type locality is near the former settlement of White Plains, west of Stony Point, Alexander County, NC (the town of Hiddenite). First found circa 1879; deposits occur in granite pegmatite within the gneiss country rock. Named after William Earl Hidden, an exploration geologist sent to NC (commissioned via Thomas Edison) by chemist J. Lawrence Smith, who identified the mineral.",
+      "coords": "unknown (type locality: Alexander Co., NC)",
+      "elevation": "unknown",
+      "access": "Type locality is the Hiddenite/Stony Point area, Alexander County, NC",
+      "land": "unknown",
+      "source": "https://en.wikipedia.org/wiki/Hiddenite"
+    },
+    {
+      "name": "Emerald Hollow Mine",
+      "what": "Gem mine in the Hiddenite belt, in the Brushy Mountains foothills; advertised as the only emerald mine in the world open to the public for prospecting (opened 1986). Hosts 60+ naturally occurring gems/minerals including emerald, hiddenite (green spodumene), sapphire, aquamarine, garnet, topaz, amethyst, citrine, rutile, tourmaline, and smoky/clear quartz. Prospecting by sluicing, creeking and digging.",
+      "coords": "unknown",
+      "elevation": "unknown",
+      "access": "484 Emerald Hollow Mine Dr., Hiddenite, NC 28636; open 7 days/week, permit required",
+      "land": "private (commercial fee-dig, open to public)",
+      "source": "https://www.emeraldhollowmine.com/"
+    },
+    {
+      "name": "Hiddenite Gem Mines (Adams Mine, NAEM/North American Emerald Mine, Emerald Hollow Mine)",
+      "what": "Cluster of three larger commercial/historic gem mines collectively known as the Hiddenite Gem Mines. The historic Emerald and Hiddenite Mining Company (formed 1881, ~100 employees 1881-1885) mined hiddenite and emerald from quartz/pegmatite pockets in the gneiss; the largest hiddenite crystal found measured 8.5 inches and weighed 9 ounces.",
+      "coords": "unknown (Hiddenite area, Alexander Co., NC)",
+      "elevation": "unknown",
+      "access": "Hiddenite area, Alexander County, NC",
+      "land": "private",
+      "source": "https://en.wikipedia.org/wiki/Hiddenite_Gem_Mines"
+    },
+    {
+      "name": "North American Emerald Mine (NAEM)",
+      "what": "Commercial emerald mine in the Hiddenite belt, Alexander County NC; source of large gem-quality emeralds from quartz veins/pegmatite pockets in biotite gneiss. Listed as a mineral locality on mindat.",
+      "coords": "unknown (Hiddenite, Alexander Co., NC)",
+      "elevation": "unknown",
+      "access": "Hiddenite area, Alexander County, NC",
+      "land": "private",
+      "source": "https://www.mindat.org/loc-19740.html"
+    }
+  ]
+}

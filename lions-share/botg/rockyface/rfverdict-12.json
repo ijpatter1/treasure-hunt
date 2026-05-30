@@ -1,0 +1,26 @@
+{
+  "spot": "Rocky Face Branch headwater near the quarry (south end)",
+  "judge": "adversarial pin-test (default skepticism)",
+  "matchScore": 22,
+  "cluesHit": 4,
+  "true_hits": ["near-water-not-crossed (support 14)", "within-3mi-road (support 4)"],
+  "dominant_signatures_status": {
+    "elevated-overlook (support 13)": "MISS",
+    "panoramic-view (support 9)": "MISS",
+    "rock-niche-cache (support 9)": "MISS",
+    "rock-marker (support 8)": "MISS",
+    "rounded-stone-shape (support 8)": "MISS"
+  },
+  "distinctFit": {
+    "result": false,
+    "reasoning": "The ONLY strong hit is 'near-water-not-crossed' (support 14). That is generic to any stream/seep, and Rocky Face has multiple watery features: this south-end tributary, its SISTER east-side tributary (named in the same catalog entry), the Grindstone Trail creek crossing (separate catalog spot), and the constructed wetland. The single discriminating clue therefore does NOT single out THIS seep over its own sibling tributary. Every high-discrimination constraint that would pin a specific feature - elevated-overlook (13), panoramic-view (9), rock-niche-cache (9), rock-marker (8), rounded-stone-shape (8) - MISSES. The speculative 'named branch -> proper-name matchable to a clue' angle has no actual clue word backing it. This is a low-discrimination, generalizes-to-any-mountain-stream match. Fails the distinct-fit bar."
+  },
+  "jcbOk": {
+    "result": true,
+    "reasoning": "Accessible PUBLIC land (Alexander County park, Rocky Face Mountain Recreational Area). Within 3 mi of road (HIT; adjacent to developed core/parking off Rocky Face Church Rd). Not buried (standing at the seep needs no digging). Not dangerous (damp wooded draw, no cliff-scaling or water-CROSSING required - it is a source, not a ford). >25lb load reachable (close to parking). Basic JCB rules pass. CAVEATS that weaken but do not break: (a) operative feature is wet ground, in tension with JCB's water-avoidance posture; a seep is poor dry host ground for a >25lb container; (b) snow-findability is poor - no rock-marker, landmark tree, or countable anchor described, so a featureless wet draw would be hard to relocate under light snow."
+  },
+  "survives": false,
+  "survives_logic": "survives = distinctFit AND jcbOk AND meaningful matchScore. distinctFit=false; matchScore 22 rests on only 2 true HITs with ALL dominant signatures missing => not meaningful. Therefore survives=false.",
+  "verdict": "Scores only on generic near-water clue; every dominant overlook/view/niche/rock-marker signature misses and a sister tributary fits equally. Not distinctly indicated.",
+  "note_on_prior_verdict": "An earlier write of this file claimed tool failure; that was incorrect - tools were functioning and the real match/catalog data was read. This file supersedes it."
+}

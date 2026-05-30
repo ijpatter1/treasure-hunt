@@ -1,0 +1,167 @@
+{
+  "slice": "coords",
+  "facts": [
+    {
+      "name": "Rocky Face (GNIS summit feature)",
+      "what": "USGS GNIS-cataloged summit feature named 'Rocky Face' in Alexander County, NC; shown on the Hiddenite USGS 7.5' topo quadrangle. NOTE: GNIS-listed coordinates differ from peak databases (see other facts) - GNIS often places a feature at a generalized point, not the true high point.",
+      "coords": "35.9573366,-81.0959441",
+      "elevation": "1348 ft (411 m) per anyplaceamerica/GNIS-derived datum",
+      "access": "Within Rocky Face Mountain Recreational Area; reached by park trails",
+      "land": "public",
+      "source": "https://www.anyplaceamerica.com/directory/nc/alexander-county-37003/summits/rocky-face-993582/"
+    },
+    {
+      "name": "Rocky Face summit (topozone waypoint)",
+      "what": "Summit point as listed by Topozone for Rocky Face, Alexander County (Hiddenite area); displayed on Hiddenite USGS topo map.",
+      "coords": "35.9723544,-81.108692",
+      "elevation": "1795 ft (547 m) approx (topozone-cited)",
+      "access": "Within/near Rocky Face Mountain Recreational Area trail system",
+      "land": "public",
+      "source": "https://www.topozone.com/north-carolina/alexander-nc/summit/rocky-face-3/"
+    },
+    {
+      "name": "Rocky Face peak (PeakVisor)",
+      "what": "Rocky Face peak entry in PeakVisor database; ranked #14 of 27 peaks in Alexander County by elevation and #6 of 27 by prominence. Prominence 607 ft (185 m). In NC Piedmont-Southeast Coast range. Coords corroborate the topozone summit waypoint (~35.972,-81.109).",
+      "coords": "35.972704,-81.108888",
+      "elevation": "1818 ft (554 m)",
+      "access": "Within Rocky Face Mountain Recreational Area",
+      "land": "public",
+      "source": "https://peakvisor.com/peak/rocky-face-united-states.html"
+    },
+    {
+      "name": "Rocky Face Mountain (general description)",
+      "what": "Dome-shaped granite mass in northern Alexander County, considered the southern edge of the Brushy Mountains; summit stands roughly 600 ft above surrounding terrain. Max elevation cited around 1800 ft. A former granite quarry (operated 1920s) is on the mountain, with vertical walls rising 80+ ft.",
+      "coords": "unknown (see summit fact variants)",
+      "elevation": "approx 1800 ft max",
+      "access": "Public park land",
+      "land": "public",
+      "source": "https://discover.hubpages.com/travel/Rocky-Face-Recreational-Area-Hiddenite-North-Carolina"
+    },
+    {
+      "name": "Rocky Face Mountain Recreational Area (OSM mapped area)",
+      "what": "Alexander County park (~318 acres). OpenStreetMap Nominatim centroid for the named recreation area.",
+      "coords": "35.9685664,-81.1113823",
+      "elevation": "unknown",
+      "access": "County park with parking lot and trailheads off Rocky Face Church Road",
+      "land": "public",
+      "source": "https://nominatim.openstreetmap.org/search?q=Rocky+Face+Mountain+Recreation+Area+North+Carolina&format=json"
+    },
+    {
+      "name": "Rocky Face Mountain Recreational Area (OSM bounding box)",
+      "what": "Geographic extent of the OSM-mapped recreation area (south,north,west,east). Roughly 1.16 km N-S by ~0.83 km E-W.",
+      "coords": "lat 35.9637299 to 35.9742246; lon -81.1162820 to -81.1071021",
+      "elevation": "unknown",
+      "access": "Park boundary extent",
+      "land": "public",
+      "source": "https://nominatim.openstreetmap.org/search?q=Rocky+Face+Mountain+Recreation+Area+North+Carolina&format=json"
+    },
+    {
+      "name": "Park entrance / address",
+      "what": "Official address of Rocky Face Mountain Recreational Area: 3451 Rocky Face Church Road, Hiddenite, NC 28636. Park phone 828-632-1093. Hours 8am-5pm. Roughly 30 minutes from Statesville, NC.",
+      "coords": "approx 35.968,-81.111 (within mapped park; precise address node not geocoded by Nominatim)",
+      "elevation": "unknown",
+      "access": "Main vehicular entrance; private/park lot parking near climbing area and restrooms",
+      "land": "public",
+      "source": "https://rockyfacepark.com/general-information/"
+    },
+    {
+      "name": "Park acreage",
+      "what": "Total size of Rocky Face Mountain Recreational Area; commonly cited as approximately 318 acres (some sources ~320). On the NC Registry of Natural Heritage Areas. Opened as a county park in 2013; site of a 1920s granite quarry.",
+      "coords": "n/a",
+      "elevation": "n/a",
+      "access": "County-managed public park",
+      "land": "public",
+      "source": "https://rockyfacepark.com/"
+    },
+    {
+      "name": "Trail system total mileage",
+      "what": "Overall hiking trail network. Most-cited figure: ~6 miles of hiking trails leading to the summit; some sources say 'nearly 5 miles' or 'over 5 miles'. Plus a separate 1/3-mile (0.3 mi) paved ADA walking track in the former quarry area. Park lists a total of 7 trails.",
+      "coords": "n/a",
+      "elevation": "n/a",
+      "access": "Trails depart from main parking/trailhead area",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Buzzard Loop Trail",
+      "what": "Shortest hiking loop (purple blaze) near the park entrance; climbs ~100 ft to an overlook. Hollow Rock Trail ends at Buzzard Loop at the start of the quarry-overlook section, which follows the wire fence along the cliff edge.",
+      "coords": "n/a",
+      "elevation": "0.8 mi long; ~100 ft climb",
+      "access": "Near park entrance",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Walking Track (paved)",
+      "what": "Paved, ADA-accessible walking track (black blaze) located in the former quarry area.",
+      "coords": "n/a",
+      "elevation": "0.3 mi (one-third mile)",
+      "access": "Near parking/quarry area; ADA accessible",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Hollow Rock Trail",
+      "what": "Lollipop-shaped trail (red blaze) - relatively gradual climb to the southwestern end of the ridge, runs the full length of the ridge top, loops around Rocky Face's peak, returns on the same trail. AllTrails lists a longer variant at 3.1 mi.",
+      "coords": "n/a",
+      "elevation": "2.5 mi round trip (park); ~688 ft gain (AllTrails 3.1 mi variant)",
+      "access": "From main trailhead",
+      "land": "public",
+      "source": "https://www.alltrails.com/parks/us/north-carolina/rocky-face-mountain-recreation-area"
+    },
+    {
+      "name": "Grindstone Trail",
+      "what": "Hiking trail, green blaze.",
+      "coords": "n/a",
+      "elevation": "1 mi",
+      "access": "Part of trail network",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Prison Camp Trail",
+      "what": "Moderate hiking trail (orange blaze).",
+      "coords": "n/a",
+      "elevation": "1 mi",
+      "access": "Part of trail network",
+      "land": "public",
+      "source": "https://rockyfacepark.com/hiking/"
+    },
+    {
+      "name": "Vertical Mile Challenge Trail",
+      "what": "Strenuous trail (blue blaze) featuring a steep, exposed ~350-ft climb up an open granite face over ~0.3 mi, with no assistance/handholds. Combined Vertical Mile / Grindstone / Hollow Rock / Prison Camp loop has the most cumulative gain.",
+      "coords": "n/a",
+      "elevation": "2.2 mi loop; ~350 ft granite-face climb. Combined route est. 3.8 mi / ~967 ft gain (AllTrails)",
+      "access": "From main trailhead; steep granite section",
+      "land": "public",
+      "source": "https://www.hikemoreworryless.com/blog/verticalmilechallenge"
+    },
+    {
+      "name": "Former granite quarry / climbing cliff",
+      "what": "Old rock quarry with vertical walls rising more than 80 ft; sheer rock cliff face with 60+ established bolted sport-climb routes (also top-ropeable). Operated as a quarry in the 1920s. Loose rock sheds regularly; helmets advised.",
+      "coords": "n/a (near park entrance/parking)",
+      "elevation": "walls 80+ ft tall",
+      "access": "Close to parking lot and restrooms",
+      "land": "public",
+      "source": "https://rockyfacepark.com/rock-climbing/"
+    },
+    {
+      "name": "Rocky Face Quarry Prospect (mindat locality)",
+      "what": "Mineralogical locality 'Rocky Face Quarry Prospect' at Hiddenite, Alexander County, NC, cataloged by mindat.org.",
+      "coords": "approx 35.97,-81.11 (Hiddenite area)",
+      "elevation": "unknown",
+      "access": "On park / quarry land",
+      "land": "public",
+      "source": "https://www.mindat.org/loc-126341.html"
+    },
+    {
+      "name": "General locality (Hiddenite, NC)",
+      "what": "Rocky Face Mountain sits just outside Hiddenite in northern/central Alexander County. Hiddenite coordinates 35.90528,-81.08611; elevation ~1093-1160 ft. County seat Taylorsville is nearby.",
+      "coords": "35.90528,-81.08611 (Hiddenite town)",
+      "elevation": "Hiddenite ~1093 ft (333 m)",
+      "access": "Reached via Rocky Face Church Road off routes near Hiddenite",
+      "land": "public",
+      "source": "https://en.wikipedia.org/wiki/Hiddenite,_North_Carolina"
+    }
+  ]
+}

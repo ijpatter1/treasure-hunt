@@ -1,0 +1,44 @@
+{
+  "spot": "Left Face climbing area (Sections 1-2) - end of the cables",
+  "judge": "adversarial pin-test",
+  "matchScore": 0.46,
+  "matchScoreMeaningful": false,
+  "distinctFit": false,
+  "jcbOk": false,
+  "survives": false,
+  "test1_distinctFit": {
+    "result": false,
+    "reasoning": [
+      "3 of 4 hits are self-labeled generic=true ('where the bold hold fast' = any grippy/holding spot; 'the higher path' = any upper trail; 'view over valley' = any overlook on any mountain).",
+      "These constraints fit Turner's Overlook (rfmatch-1), the boulder field (rfmatch-3), and essentially any elevated feature on any generic mountain equally well.",
+      "The only non-generic hit is the 'Left Face' name wordplay against 'Rocky Face' — but that wordplay applies to the ENTIRE mountain, not specifically to the end of the cables. It does not single out this spot over any other Rocky Face feature.",
+      "No specific, hard-to-generalize constraint isolates the cable terminus. The match source itself admits 'the strongest hits are climbing-generic' and ''Left Face' wordplay is the only semi-distinct hit'.",
+      "Clues are explicitly tailored to climbing imagery, which is a post-hoc fit to a known climbing area rather than an independent indicator."
+    ]
+  },
+  "test2_jcbHardConstraints": {
+    "result": false,
+    "checks": {
+      "publicLand": {"ok": true, "note": "Rocky Face Mountain Recreational Area is public (Alexander County / Hiddenite NC)."},
+      "within3MilesOfRoad": {"ok": true, "note": "Catalog lists 0.8 mi to road; plausible."},
+      "notBuried_noDigging": {"ok": true, "note": "No digging implied at a cable terminus."},
+      "notDangerous_noCliffScaling": {
+        "ok": false,
+        "note": "FATAL. This is a via-ferrata-style cabled route on granite cliffs in a managed-risk zone; web search confirms helmets/harnesses and technical climbing/rappelling required, often with registration. JCB explicitly rules out cliff-scaling and dangerous spots. The treasure is not on accessible easy terrain here."
+      },
+      "findableInLightSnow": {"ok": false, "note": "A cabled cliff face is hazardous and harder to access/locate under snow/ice; not a casual reach."},
+      "carry25lbLoad": {
+        "ok": false,
+        "note": "Hauling a >25lb box up/along a fixed-cable cliff route (possibly two trips) requires hands for the cables and is impractical/dangerous; conflicts with 'boots on the ground' easy-access intent."
+      }
+    },
+    "reasoning": "Multiple hard constraints fail, the decisive one being the cliff-scaling/danger prohibition. JCB would not place a multi-million-dollar box where retrieval demands technical climbing gear."
+  },
+  "concerns_confirmed": [
+    "Most hits are climbing-generic (any via ferrata fits).",
+    "Managed-risk climbing zone with helmet/harness signage — contradicts JCB safety rule.",
+    "'Left Face' wordplay is the only semi-distinct hit and it applies mountain-wide, not to this spot."
+  ],
+  "verdict": "ELIMINATED. Generic climbing-imagery hits (not distinctly this spot) and a cabled granite cliff that violates JCB's no-cliff-scaling/not-dangerous rule.",
+  "catalogNote": "ROCKY-FACE-CATALOG.json has a duplicate id ('rfmatch-3' used twice; second entry duplicates this Left Face spot) — data hygiene issue, flagged but not material to verdict."
+}

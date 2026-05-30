@@ -1,0 +1,38 @@
+{
+  "spot": "Prison Camp site (Prison Camp Trail)",
+  "source_match": "rfmatch-8.json",
+  "matchScore": 33,
+  "cluesHit": 6,
+  "judge": "adversarial pin-test",
+  "date": "2026-05-30",
+  "test_1_distinctFit": {
+    "result": false,
+    "reasoning": [
+      "The dominant high-support constraints all MISS at this spot: near-water-not-crossed (support 14) PARTIAL/unestablished, elevated-overlook (support 13) MISS, panoramic-view (support 9) MISS, rock-niche-cache (support 9) PARTIAL only, rock-marker (support 8) MISS. The clues that carry the most weight do NOT point here.",
+      "The four actual HITs are all GENERIC, low-support, and would fit nearly any mid-slope trail location on Rocky Face or any mountain:",
+      "  - wooded-with-clearing (support 7): a former cleared area now in forest is a generic woods/clearing edge; the quarry, railroad grade, and any old clearing satisfy this equally.",
+      "  - trail-accessible (support 6): true of EVERY named trail in the park; not discriminating.",
+      "  - within-3mi-road (support 4): true of the ENTIRE park per the catalog; zero discriminating power.",
+      "  - concealed-off-obvious (support 6): a 'secluded mid-mountain ruin' description fits the railroad grade remnant and many off-summit spots equally.",
+      "The one genuinely distinctive feature here is the man-made prison-camp ruin, but the constraint set actually PENALIZES this: rock-niche-cache, rock-marker, rounded-stone, crystalline-quartz, angular-rock all expect NATURAL stone hosts, and the ruin is man-made, producing MISS/PARTIAL.",
+      "No specific, hard-to-generalize constraint singles out THIS spot. distinctFit = false."
+    ]
+  },
+  "test_2_jcbHardConstraints": {
+    "result": true,
+    "reasoning": [
+      "PUBLIC land: Rocky Face Mountain Recreational Area, Alexander County park — satisfied.",
+      "Within ~3 miles of a road: explicitly under 3 mi from Rocky Face Church Rd; whole park qualifies — satisfied.",
+      "Not buried / no digging: surface ruin remnants with interpretive plant signage; nothing requires digging — satisfied.",
+      "Not dangerous: mid-slope wooded trail (~1 mi, orange, moderate); no cliff-scaling or water-crossing (unlike the quarry cliff or Grindstone creek) — satisfied. Web-confirmed the trail passes near foundations of inmate housing on rolling forested terrain.",
+      "Findable in light snow + >25lb load (possibly two trips): established moderate footpath, no scrambling — satisfied.",
+      "JCB physical rules plausibly met; this is one of the more logistically benign Rocky Face candidates."
+    ]
+  },
+  "matchScore_meaningful": {
+    "result": false,
+    "reasoning": "matchScore 33 with only 4 true HITs, ALL low-support generic constraints, while every high-support constraint (water 14, overlook 13, view 9, niche 9, rock-marker 8) MISSes or is unestablished. The score is driven by trivially-satisfiable filters, not by distinctive evidence. Not a meaningful evidentiary signal."
+  },
+  "survives": false,
+  "verdict": "FAILS distinct-fit. Hits are all generic, low-support filters (any trail/clearing/under-3mi); every high-support clue MISSes. Man-made ruin even conflicts with natural-stone constraints. JCB rules met, but score not meaningful. Eliminated."
+}

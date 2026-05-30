@@ -1,0 +1,33 @@
+{
+  "spot": "Rocky Face Branch headwater near the quarry (south end)",
+  "matchScore": 22,
+  "cluesHit": 4,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "MISS", "reason": "Headwater seep near quarry floor on the south end (~base level); lowest, not a high vantage. Fails the single dominant signature."},
+    {"constraint": "panoramic-view (support 9)", "result": "MISS", "reason": "Damp wooded draw amid outcrops; no broad open vista. Enclosed, not panoramic."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "MISS", "reason": "No described crevice/undercut/overhang at this seep; spot is a wet stream source, not a rock recess."},
+    {"constraint": "surface-not-buried (support 5)", "result": "PARTIAL", "reason": "Standing at the seep needs no digging, but no specific natural shelf/ledge/hollow host is described here."},
+    {"constraint": "rock-marker (support 8)", "result": "MISS", "reason": "Operative feature is a stream/seep, not a boulder, slab, outcrop, or sittable rock."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "HIT", "reason": "Strongest fit: this IS a named branch headwater/source - water directly adjacent without needing a crossing."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "PARTIAL", "reason": "Damp wooded microhabitat amid dry outcrops; near the developed/quarry open core, so a forest-edge proximity exists."},
+    {"constraint": "trail-accessible (support 6)", "result": "PARTIAL", "reason": "Adjacent to developed core/parking, within 3 mi of road, but the exact seep source is off-trail, not just-off an established footpath."},
+    {"constraint": "within-3mi-road (support 4)", "result": "HIT", "reason": "Adjacent to developed core/parking off Rocky Face Church Rd; well within 3 mi, no crossing/cliff."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "PARTIAL", "reason": "A damp seep amid outcrops is secluded/rarely-visited, fitting the concealed cue, though not described as 'around a bend' off a view."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "No paired-crag gap or notch at this stream source."},
+    {"constraint": "tree-landmark (support 4)", "result": "MISS", "reason": "Moist-site shrubs (possumhaw, clammy azalea) noted, but no prominent oak/pine marker tree."},
+    {"constraint": "east-facing (support 4)", "result": "MISS", "reason": "Spot drains north toward South Yadkin; no east orientation. (Sister tributary is on east side, not this one.)"},
+    {"constraint": "rounded-stone-shape (support 8)", "result": "MISS", "reason": "No rounded/domed/egg-shaped marker stone at the seep."},
+    {"constraint": "green-mossy-contrast (support 5)", "result": "PARTIAL", "reason": "Damp microhabitat plausibly mossy, but no explicit moss-against-dark-stone marker is recorded for this spot."},
+    {"constraint": "crystalline-quartz-rock (support 6)", "result": "MISS", "reason": "Host material is water/wet soil, not a quartz/crystalline stone marker."},
+    {"constraint": "angular-faceted-rock (support 5)", "result": "MISS", "reason": "No angular/stratified/columnar rock feature at the headwater."},
+    {"constraint": "reddish-warm-stone (support 6)", "result": "MISS", "reason": "No reddish/iron-stained or golden stone cue noted here (red mats are on the upper dome, not this seep)."},
+    {"constraint": "pale-light-stone (support 5)", "result": "MISS", "reason": "No pale/white quartz marker at the stream source."},
+    {"constraint": "bowl-hollow-depression (support 4)", "result": "PARTIAL", "reason": "A seep can occupy a slight hollow/basin, but no defined bowl/cup depression in rock is described."},
+    {"constraint": "confluence-bend (support 4)", "result": "PARTIAL", "reason": "It is one of TWO tributaries that join to form Rocky Face Branch - confluence-adjacent in concept, but the source seep itself is upstream of the junction."},
+    {"constraint": "descend-then-high (support 3)", "result": "PARTIAL", "reason": "Approach to a low draw involves going DOWN, matching the descent cue - but there is no final 'then high' spot here."},
+    {"constraint": "small-confirming-mark (support 4)", "result": "MISS", "reason": "No inscription/seam/mark feature noted at this natural seep."},
+    {"constraint": "left-orientation (support 3)", "result": "MISS", "reason": "No documented left-turn decision cue on the approach to this spot."},
+    {"constraint": "open-to-elements (support 2)", "result": "MISS", "reason": "Sheltered wet draw, not a breezy ridge/overhang exposed to elements."},
+    {"constraint": "pace-count (support 3)", "result": "MISS", "reason": "No fixed countable marker-to-spot pace anchor described."}
+  ]
+}

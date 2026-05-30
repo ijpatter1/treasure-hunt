@@ -1,0 +1,33 @@
+{
+  "spot": "Main parking / developed core (Park Office, amphitheater, picnic shelter, geocaches)",
+  "matchScore": 22,
+  "cluesHit": 3,
+  "detail": [
+    {"constraint": "elevated-overlook (high, support 13)", "result": "MISS", "reason": "Base level at the SW foot of the mountain; the lowest, flattest spot in the park, no long view down. Directly contradicts the dominant high signature."},
+    {"constraint": "panoramic-view (support 9)", "result": "MISS", "reason": "Developed lot sits beneath the quarry cliff; view is blocked/enclosed, not a sweeping panorama."},
+    {"constraint": "rock-niche-cache (support 9)", "result": "MISS", "reason": "Developed core has buildings, pavilions, lot; no natural rock crevice/niche is the operative feature here."},
+    {"constraint": "surface-not-buried (support 5)", "result": "PARTIAL", "reason": "A surface hide is possible (geocaches exist), but there is no natural ledge/hollow/boulder base; man-made structures only."},
+    {"constraint": "rock-marker (support 8)", "result": "MISS", "reason": "Operative landmarks are Park Office/amphitheater/shelter, not a boulder/outcrop/sittable rock."},
+    {"constraint": "near-water-not-crossed (support 14)", "result": "PARTIAL", "reason": "Rocky Face Branch headwater and the wetland are nearby in the developed core, but the lot itself has only man-made water; adjacency is weak/incidental."},
+    {"constraint": "wooded-with-clearing (support 7)", "result": "PARTIAL", "reason": "Developed clearing with forest at its edge where trails enter, but this is a paved/built clearing, not a natural forest-meets-meadow edge."},
+    {"constraint": "trail-accessible (support 6)", "result": "HIT", "reason": "All trailheads originate here and the paved ADA track loops from the lot; quintessentially trail-accessible and easy footing."},
+    {"constraint": "within-3mi-road (support 4)", "result": "HIT", "reason": "Drive-up lot directly off Rocky Face Church Road; 0 mi from road, trivially satisfies the bound (but fits almost anywhere, weak)."},
+    {"constraint": "concealed-off-obvious (support 6)", "result": "MISS", "reason": "Highest-traffic, most exposed hub in the park (~200k visitors/yr pass through); opposite of secluded/off the obvious."},
+    {"constraint": "saddle-gap-notch (support 4)", "result": "MISS", "reason": "No twin-crag gap/saddle framing the lot; it is open flat developed ground."},
+    {"constraint": "tree-landmark (support 4)", "result": "PARTIAL", "reason": "Tree-mounted number markers exist throughout, but no single prominent oak/pine cited as the marker at this spot."},
+    {"constraint": "east-facing (support 4)", "result": "MISS", "reason": "Lot is below the SW end of the mountain; no east-facing orientation cue."},
+    {"constraint": "rounded-stone-shape (support 8, low)", "result": "MISS", "reason": "No domed/egg/round stone marker at the developed core."},
+    {"constraint": "green-mossy-contrast (support 5, low)", "result": "MISS", "reason": "No moss-on-stone contrast feature in the built lot."},
+    {"constraint": "crystalline-quartz-rock (support 6, low)", "result": "MISS", "reason": "No exposed crystalline/quartz host rock at this spot (granite is up on the dome/cliff)."},
+    {"constraint": "angular-faceted-rock (support 5, low)", "result": "MISS", "reason": "No angular/columnar rock marker at the developed core."},
+    {"constraint": "reddish-warm-stone (support 6, low)", "result": "MISS", "reason": "No reddish/iron or golden stone feature noted here."},
+    {"constraint": "pale-light-stone (support 5, low)", "result": "MISS", "reason": "No pale/white stone marker at the developed core."},
+    {"constraint": "bowl-hollow-depression (support 4, low)", "result": "PARTIAL", "reason": "An outdoor amphitheater is a built bowl/amphitheater cove, loosely echoing the basin cue; man-made not rock, weak."},
+    {"constraint": "confluence-bend (support 4, low)", "result": "MISS", "reason": "No confluence or watercourse bend at the lot."},
+    {"constraint": "descend-then-high (support 3, low)", "result": "MISS", "reason": "This is the low starting point, not a high spot reached after a descent/curl."},
+    {"constraint": "small-confirming-mark (support 4, low)", "result": "PARTIAL", "reason": "Numbered kiosk/tree markers provide readable small marks, but generic park signage, not a feature-confirming seam."},
+    {"constraint": "left-orientation (support 3, low)", "result": "MISS", "reason": "No left-turn decision cue specific to the lot."},
+    {"constraint": "open-to-elements (support 2, low)", "result": "PARTIAL", "reason": "Open-air, but it is a flat developed lot, not the breezy ridge/overhang the cue implies."},
+    {"constraint": "pace-count (support 3, low)", "result": "MISS", "reason": "No fixed natural marker for a measured pace count; only generic structures."}
+  ]
+}
