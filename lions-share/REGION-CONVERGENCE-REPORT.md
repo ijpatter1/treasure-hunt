@@ -8,7 +8,7 @@
 
 **Ranking by VALIDATED independent-group convergence:**
 
-1. **North Carolina (Blue Ridge gem belt)** — 3 validated groups, MODERATE — **the only region above "thin."**
+1. **North Carolina (Blue Ridge / western Piedmont)** — **4** validated groups (Hiddenite, Chapel Hill, Bakersville, Statesville; see CORRECTION below), MODERATE — **the only region above "thin."**
 2. **Washington DC / Mid-Atlantic** — 2 validated groups (claimed 3), THIN — scattered ~250 mi apart, no internal convergence.
 3. **California (greater-LA orbit)** — 1 validated group, THIN — and that group is a *home, not a hide*.
 4. *(tie, all THIN, 1 validated group each)* Arizona/Hopi · Massachusetts/Concord · SF Bay Area · Los Angeles · Menlo Park · Oregon — each rests on a single source (item-provenance or one borrowed/biography crumb).
@@ -23,7 +23,7 @@
 
 | Region | Validated groups (claimed) | Channels | Validator verdict | One-line case |
 |---|---|---|---|---|
-| **North Carolina** (Hiddenite/Alexander, Bakersville/Mitchell, Chapel Hill, Statesville) | **3 (3)** | biography ×2–3 + item-provenance | **holds** (MODERATE) | Three distinct anchors converge on W/central NC; the book's clearest hide-method teaching (Ch4 "vantage-as-key") sits in the same chapter that names Hiddenite. |
+| **North Carolina** (Hiddenite/Alexander, Bakersville/Mitchell, Chapel Hill, Statesville) | **4 (4)** | biography ×3 + item-provenance | **holds** (MODERATE) | Four distinct anchors converge on W/central NC (3 cluster in the western Piedmont/Brushy foothills); the book's clearest hide-method teaching (Ch4 "vantage-as-key") sits in the same chapter that names Hiddenite. |
 | **Washington DC / Mid-Atlantic** (Mt Vernon/N-VA, Pittsburgh/Carnegie, DC) | **2 (3)** | item-provenance | **thin** | Two genuine item-provenance pointers (Washington jelly glass → Mt Vernon; Carnegie emerald → Pittsburgh) scatter ~250 mi apart with no convergence; the Onassis-DC 3rd group double-points to NYC/Dallas and is discounted. |
 | **California** (greater-LA / San Gabriel; Mt Wilson) | **1 (1)** | biography | **thin** | One real anchor — the author's 20-yr LA home (geo-located NE of Mt Wilson) — but a home is the *authoring* locus, not the hide (Fenn error); all the Gold-Rush/Loloma/Apple "frequency" is item-provenance/exhibition that collapses out. |
 | **Arizona / Hopi mesas** (Oraibi, Hotevilla, Canyon de Chelly, Grand Canyon) | **1 (1)** | item-provenance | **thin** | Largest US-placename pile in the book, but every name flows from the single Loloma/Sonwai jeweler thread (one point); zero JCB biography; water/oaks discriminators actively fail high desert. |
@@ -96,13 +96,21 @@ Reasoning:
 
 ---
 
+## CORRECTION (post-synthesis, user review)
+
+Two fixes to the record:
+
+1. **NC is 4 validated groups, not 3.** Statesville (Ch18 p.161, "helped start and lead a new church in **Statesville, NC**," referenced in 2+ contexts) is a legitimate FOURTH distinct biographical anchor — textually explicit and geographically distinct from Hiddenite (Iredell County vs. Alexander County). The synthesis conservatively held it at 3; the validated count is **4: Hiddenite, Chapel Hill, Bakersville, Statesville.**
+
+2. **"Bakersville/Mitchell County first" was a biased reach — RETRACTED.** Elevating Bakersville as *the* sub-region (because Rocky Face failed) re-imports the single-lead fixation this whole effort is trying to escape. Under a TRIANGULATION approach, **all four anchors are inputs to a geometry — none is discarded.** Three of the four cluster tightly in the **western Piedmont / Brushy Mountains foothills corridor** (Hiddenite ↔ Statesville ↔ Bakersville), with Chapel Hill the eastern outlier. A hider may center a hide *among* his life-anchors, not *on* any one — which triangulation reveals and single-lead fixation misses.
+
 ## Recommended next step
 
 **Proceed to Phase B research. Do NOT run another convergence pass on the literal ledger — it is exhausted.**
 
 Priority threads:
 
-1. **NC Blue Ridge, Bakersville / Mitchell County first.** It is the highest-quality, **un-refuted** NC sub-lead (Hiddenite/Alexander/Rocky Face is downgraded by the prior failed BOTG search). Apply Phase-B research here: identify accessible public land (Pisgah NF / Roan / state natural areas) within 3 mi of a road that matches the Ch4 vantage-as-key landform (view opening onto lower country) plus the water/oak/sit-rock/blue-and-pink-bloom discriminator stack. This is where item-provenance (Gould's town) and terrain-fit and a method-teaching co-locate.
+1. **NC Blue Ridge / western Piedmont — TRIANGULATE the four anchors, do not camp on one.** Use Hiddenite/Alexander (W), Statesville/Iredell (SE), Bakersville/Mitchell (NW), and Chapel Hill (E outlier) together: where do they (esp. the tight Hiddenite–Statesville–Bakersville cluster) bound or center a region? Within that geometry, identify accessible public land within 3 mi of a road that matches the Ch4 vantage-as-key landform (view opening onto lower country) plus the water/oak/sit-rock/blue-and-pink-bloom discriminator stack. Treat Hiddenite/Alexander as a *spent corner of the triangle* (Rocky Face searched-and-failed), NOT as a deleted anchor — it still constrains the geometry.
 
 2. **Item-provenance-to-ground as the primary Phase-B engine.** The text deliberately hides geography behind objects; trace the real treasure items to specific US ground (not the decoy/abroad origins). This is the most likely source of the missing pinpoint signal.
 
