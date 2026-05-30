@@ -23,21 +23,75 @@ var sat=L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_
 var topo=L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",{maxZoom:17,attribution:"OpenTopoMap"});
 sat.addTo(map);
 L.control.layers({"Satellite":sat,"Topo":topo}).addTo(map);
-/* === Triangulation overlay (B->CH x S->H extended) === */
-var TRI={Bakersville:[36.0151,-82.1582],ChapelHill:[35.9132,-79.0558],Statesville:[35.7826,-80.8873],Hiddenite:[35.9168,-81.0989]};
+/* === Triangulation overlay v2 (exhaustive) === */
+/* All endpoints are BIOGRAPHICAL/PROVENANCE points from the book; JCB's Postscript says named people/places were not given clues. Geometry is exploratory only. */
+var EP={
+  Bakersville:[36.0151,-82.1582],          // Ch3: Seth Gould's town ("40 mi NE of Asheville")
+  ChapelHillTown:[35.9132,-79.0558],       // Ch2/13: town center
+  UNC:[35.9049,-79.0469],                  // UNC Old Well (Daily Tar Heel / Tar Heels)
+  Statesville:[35.7826,-80.8873],          // Ch18: parents' church town center
+  StatesvilleHS:[35.7935,-80.8730],        // author's high school (approx)
+  HiddeniteTown:[35.9168,-81.0989],        // Ch4: town center
+  EmeraldHollow:[35.91375,-81.08278],      // "Emerald Hollow Mine" (research id; NOT book's words)
+  NorthAmEmerald:[35.9270,-81.0828],       // North American Emerald Mine (~0.75mi N of Hiddenite)
+  RockyFace:[35.9712824139155,-81.10973949661587] // search-map center / summit area
+};
 function _ext(a,b,t){return [a[0]+(b[0]-a[0])*t, a[1]+(b[1]-a[1])*t];}
 function _isect(p1,p2,p3,p4){var x1=p1[1],y1=p1[0],x2=p2[1],y2=p2[0],x3=p3[1],y3=p3[0],x4=p4[1],y4=p4[0];var d=(x1-x2)*(y3-y4)-(y1-y2)*(x3-x4);if(Math.abs(d)<1e-12)return null;var px=((x1*y2-y1*x2)*(x3-x4)-(x1-x2)*(x3*y4-y3*x4))/d;var py=((x1*y2-y1*x2)*(y3-y4)-(y1-y2)*(x3*y4-y3*x4))/d;return [py,px];}
-var L1a=TRI.Bakersville,L1b=TRI.ChapelHill,L2a=TRI.Statesville,L2b=TRI.Hiddenite;
-var ix=_isect(L1a,L1b,L2a,L2b);
-var L2_nw=_ext(L2a,L2b,2.6),L2_se=_ext(L2b,L2a,1.4);
-L.polyline([L1a,L1b],{color:"#1e88e5",weight:3,opacity:0.9}).addTo(map).bindPopup("Bakersville &#8594; Chapel Hill");
-L.polyline([L2_se,L2_nw],{color:"#e53935",weight:3,opacity:0.9,dashArray:"6,6"}).addTo(map).bindPopup("Statesville &#8594; Hiddenite (extended)");
-function _cm(ll,label,color){return L.circleMarker(ll,{radius:6,color:"#222",weight:1,fillColor:color,fillOpacity:1}).addTo(map).bindPopup(label);}
-_cm(TRI.Bakersville,"Bakersville, NC","#1e88e5");_cm(TRI.ChapelHill,"Chapel Hill, NC","#1e88e5");
-_cm(TRI.Statesville,"Statesville, NC","#e53935");_cm(TRI.Hiddenite,"Hiddenite, NC","#e53935");
-if(ix){L.circleMarker(ix,{radius:9,color:"#000",weight:2,fillColor:"#FFD700",fillOpacity:1}).addTo(map).bindPopup("Intersection &#8776; "+ix[0].toFixed(4)+", "+ix[1].toFixed(4)).openPopup();L.circle(ix,{radius:500,color:"#000",weight:2,fill:false}).addTo(map);}
-map.fitBounds(L.latLngBounds([L1a,L1b,L2_nw,L2_se]).pad(0.08));
+function _hav(a,b){var R=6371,dl=(b[0]-a[0])*Math.PI/180,dn=(b[1]-a[1])*Math.PI/180,la1=a[0]*Math.PI/180,la2=b[0]*Math.PI/180;var h=Math.sin(dl/2)*Math.sin(dl/2)+Math.cos(la1)*Math.cos(la2)*Math.sin(dn/2)*Math.sin(dn/2);return 2*R*Math.asin(Math.sqrt(h));}
+function _mi(km){return km*0.621371;}
+
+/* --- endpoint markers, color by city group --- */
+var EPGRP=L.layerGroup();
+var epColors={Bakersville:"#1e88e5",ChapelHillTown:"#43a047",UNC:"#2e7d32",Statesville:"#e53935",StatesvilleHS:"#b71c1c",HiddeniteTown:"#fb8c00",EmeraldHollow:"#f9a825",NorthAmEmerald:"#6d4c41",RockyFace:"#8e24aa"};
+for(var k in EP){(function(name){var ll=EP[name];L.circleMarker(ll,{radius:6,color:"#111",weight:1,fillColor:epColors[name]||"#999",fillOpacity:1}).addTo(EPGRP).bindPopup("<b>"+name+"</b><br>"+ll[0].toFixed(5)+", "+ll[1].toFixed(5));})(k);}
+EPGRP.addTo(map);
+
+/* --- line variants: each = [name, endA, endB, endC, endD, dash, color] (Line1 = A->B solid-ish, Line2 = C->D the extended emerald line) --- */
+var VARIANTS=[
+ ["A orig: Bakersville->ChapelHillTown  x  Statesville->HiddeniteTown","Bakersville","ChapelHillTown","Statesville","HiddeniteTown","#1e88e5"],
+ ["B refine: Bakersville->UNC  x  Statesville->EmeraldHollow","Bakersville","UNC","Statesville","EmeraldHollow","#00897b"],
+ ["C: Bakersville->UNC  x  Statesville->HiddeniteTown","Bakersville","UNC","Statesville","HiddeniteTown","#3949ab"],
+ ["D: Bakersville->ChapelHillTown  x  Statesville->EmeraldHollow","Bakersville","ChapelHillTown","Statesville","EmeraldHollow","#7cb342"],
+ ["E closest: Bakersville->UNC  x  Statesville->NorthAmEmerald","Bakersville","UNC","Statesville","NorthAmEmerald","#d81b60"],
+ ["F: Bakersville->UNC  x  StatesvilleHS->EmeraldHollow","Bakersville","UNC","StatesvilleHS","EmeraldHollow","#fb8c00"]
+];
+var overlayCtl={"Endpoints":EPGRP};
+var allIx=[];
+VARIANTS.forEach(function(v){
+  var name=v[0],A=EP[v[1]],B=EP[v[2]],C=EP[v[3]],D=EP[v[4]],col=v[5];
+  var g=L.layerGroup();
+  // line 1 (A->B), extended slightly both ways for visibility
+  var l1a=_ext(A,B,1.15),l1b=_ext(B,A,1.15);
+  L.polyline([l1a,l1b],{color:col,weight:2,opacity:0.75}).addTo(g).bindPopup(name+"<br>(line 1: "+v[1]+"->"+v[2]+")");
+  // line 2 (C->D) extended NW past D so it reaches the crossing
+  var l2a=_ext(D,C,1.4),l2b=_ext(C,D,2.8);
+  L.polyline([l2a,l2b],{color:col,weight:2,opacity:0.75,dashArray:"6,6"}).addTo(g).bindPopup(name+"<br>(line 2 extended: "+v[3]+"->"+v[4]+")");
+  var ix=_isect(A,B,C,D);
+  if(ix){
+    var dRF=_hav(ix,EP.RockyFace),dEHM=_hav(ix,EP.EmeraldHollow);
+    L.circleMarker(ix,{radius:7,color:"#000",weight:2,fillColor:col,fillOpacity:0.95}).addTo(g)
+      .bindPopup("<b>Intersection "+name.charAt(0)+"</b><br>"+ix[0].toFixed(4)+", "+ix[1].toFixed(4)+"<br>&rarr; Rocky Face: "+_mi(dRF).toFixed(2)+" mi ("+dRF.toFixed(2)+" km)<br>&rarr; Emerald Hollow: "+dEHM.toFixed(2)+" km");
+    allIx.push(ix);
+  }
+  g.addTo(map);
+  overlayCtl[name]=g;
+});
+
+/* --- distance reference rings around Rocky Face --- */
+var RINGS=L.layerGroup();
+[1,2,3,5].forEach(function(miR){var m=miR*1609.34;L.circle(EP.RockyFace,{radius:m,color:"#8e24aa",weight:1,opacity:0.5,fill:false,dashArray:"2,6"}).addTo(RINGS).bindTooltip(miR+" mi from Rocky Face",{permanent:false});});
+RINGS.addTo(map);
+overlayCtl["Rings (1/2/3/5 mi from Rocky Face)"]=RINGS;
+
+/* --- second layers control for the overlays --- */
+L.control.layers(null,overlayCtl,{collapsed:true,position:"topright"}).addTo(map);
+
+/* fit to everything */
+var fb=[];for(var k2 in EP){fb.push(EP[k2]);}allIx.forEach(function(x){fb.push(x);});
+map.fitBounds(L.latLngBounds(fb).pad(0.05));
 /* === end triangulation overlay === */
+
 var nk=document.getElementById("neckImg");
 var ns={x:0,y:0,scale:0.4,rotation:180,opacity:0.55,flipH:false,flipV:false,visible:false,dragging:false,sx:0,sy:0,ex:0,ey:0};
 function centerNeck(){var pt=map.latLngToContainerPoint([35.9712824139155,-81.10973949661587]);ns.x=pt.x-nk.naturalWidth*ns.scale/2;ns.y=pt.y-nk.naturalHeight*ns.scale/2;uNk()}
