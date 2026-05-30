@@ -85,7 +85,7 @@ Reasoning:
 2. **Why it is NOT a pinpoint, and why that is structural, not a failure of effort:**
    - The strongest *named* NC place (Bakersville) is **craftsman-provenance** — where the boxes were *made*, with no statement anything was *hidden* near it. Lone-association risk on the very anchor that looks strongest.
    - The other two NC anchors are **biography** (where the author is *from*), which a hider may use OR deliberately avoid — undecidable from the text.
-   - One NC anchor (Hiddenite/Alexander → Rocky Face Mtn) has **already been searched on the ground and FAILED.** Part of the convergence is spent.
+   - One NC anchor (Hiddenite/Alexander → Rocky Face Mtn) had a prior BOTG attempt — but Rocky Face is ~320 acres and only a small sub-area was checked. "Not where I looked" ≠ "not there." This anchor remains FULLY LIVE; the convergence is NOT spent.
    - MODERATE is the ceiling: NC clears multi-anchor convergence but cannot reach "strong" because no signal says "hidden near here."
 
 3. **The region-sparsity is real and broad:** Across 937 signals, the overwhelming majority are role (e) item-provenance (object origins, mostly abroad or decoy), role (b) region-agnostic discriminators, and role (d) method teachings. Genuine role (a) region-pointing-at-the-HIDE signals are scarce — which is exactly why NYC's "5 groups" collapse to 0 hide-pointers and why ten regions land at THIN/collapses. The book was built so that *frequency ≠ pointing*; the convergence engine has now extracted essentially all the hide-pointing value the literal text contains.
@@ -110,7 +110,7 @@ Two fixes to the record:
 
 Priority threads:
 
-1. **NC Blue Ridge / western Piedmont — TRIANGULATE the four anchors, do not camp on one.** Use Hiddenite/Alexander (W), Statesville/Iredell (SE), Bakersville/Mitchell (NW), and Chapel Hill (E outlier) together: where do they (esp. the tight Hiddenite–Statesville–Bakersville cluster) bound or center a region? Within that geometry, identify accessible public land within 3 mi of a road that matches the Ch4 vantage-as-key landform (view opening onto lower country) plus the water/oak/sit-rock/blue-and-pink-bloom discriminator stack. Treat Hiddenite/Alexander as a *spent corner of the triangle* (Rocky Face searched-and-failed), NOT as a deleted anchor — it still constrains the geometry.
+1. **NC Blue Ridge / western Piedmont — TRIANGULATE the four anchors, do not camp on one.** Use Hiddenite/Alexander (W), Statesville/Iredell (SE), Bakersville/Mitchell (NW), and Chapel Hill (E outlier) together: where do they (esp. the tight Hiddenite–Statesville–Bakersville cluster) bound or center a region? Within that geometry, identify accessible public land within 3 mi of a road that matches the Ch4 vantage-as-key landform (view opening onto lower country) plus the water/oak/sit-rock/blue-and-pink-bloom discriminator stack. Treat Hiddenite/Alexander as a FULL, LIVE anchor — the prior BOTG covered only a fraction of Rocky Face's ~320 acres, so it is "one sub-area checked, empty," NOT "searched and failed." Most of Rocky Face (and the rest of the Hiddenite/Alexander zone) remains unsearched and in play.
 
 2. **Item-provenance-to-ground as the primary Phase-B engine.** The text deliberately hides geography behind objects; trace the real treasure items to specific US ground (not the decoy/abroad origins). This is the most likely source of the missing pinpoint signal.
 
