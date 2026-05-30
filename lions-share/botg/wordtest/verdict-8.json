@@ -1,0 +1,30 @@
+{
+  "place": "Golden, CO",
+  "state": "CO",
+  "judge": "adversarial",
+  "placeExists": true,
+  "placeVerification": {
+    "real": true,
+    "type": "city / county seat",
+    "details": "Golden is the county seat of Jefferson County, Colorado, in the Rocky Mountain foothills west of Denver. Founded 1859 in the Pike's Peak Gold Rush; former Colorado Territorial capital; home to Colorado School of Mines and Coors. It is a real, specific US place.",
+    "caveat": "The WORD 'Golden' is also a common/generic name (Golden NM, Golden IL, Golden MS, Golden TX, Golden MO; many 'Golden Valley'/'Golden Gate' compounds). The DENSITY-MAP rationale itself admits 'also Golden, NM', conceding the name is ambiguous and not uniquely Golden, CO."
+  },
+  "winks": [
+    {
+      "entity": "The Golden Chalice (ch9 title)",
+      "rationale_in_map": "The word 'Golden' is exactly the name of the well-known Colorado city (also Golden, NM).",
+      "verdict": "KILL",
+      "reason": "The chapter title's 'Golden' is the color/material adjective describing a gold chalice treasure item, not a proper place name. Extracting the adjective and re-reading it as a Colorado municipality is a multi-step thematic stretch. The map's own note '(also Golden, NM)' admits the word does not point to ONE place. Plain reading = 'made of gold.' Generic + non-specific."
+    },
+    {
+      "entity": "The Golden State",
+      "rationale_in_map": "The bare word 'Golden' is a real US town (Golden, CO), read past the California nickname.",
+      "verdict": "KILL",
+      "reason": "Self-defeating: 'The Golden State' is the established nickname for CALIFORNIA. The wink requires deliberately discarding the plain, well-known meaning (California) and isolating the fragment 'Golden' to repoint it at Colorado. That is a cherry-pick / letter-fragment trick, not plain language. A neutral reader hears 'California,' not 'go to Golden, CO.' Strongly fails refutation."
+    }
+  ],
+  "survivingEntities": 0,
+  "distinctSurvivingEntities": 0,
+  "isRival": false,
+  "verdict": "Real place, but only 2 winks, both keyed to the generic adjective 'Golden' (one is literally California's nickname). Zero survive refutation; not a rival."
+}

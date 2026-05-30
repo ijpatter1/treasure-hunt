@@ -1,0 +1,38 @@
+{
+  "place": "Hercules",
+  "state": "CA",
+  "judge": "adversarial",
+  "placeExists": true,
+  "placeVerification": {
+    "real": true,
+    "type": "incorporated city",
+    "region": "Contra Costa County, California; San Francisco Bay Area, ~10 mi north of Berkeley on San Pablo Bay",
+    "population": 26016,
+    "notes": "Confirmed via Wikipedia and city of Hercules official site. Named after the Hercules Powder Company (its dynamite product 'Hercules powder', in turn named after the Roman/Greek hero). A real, specific, single US place. Verification PASSES.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hercules,_California",
+      "https://www.herculesca.gov/"
+    ]
+  },
+  "winkAnalysis": [
+    {
+      "entity": "Gold armband with Herakles knot",
+      "winkType": "homophone",
+      "claimedStrength": 3.0,
+      "verdict": "KILL",
+      "reason": "Multi-step chain: the book word is 'Herakles' (the knot motif), the city is 'Hercules'. To connect them you must (a) know Herakles is the Greek form of Hercules, then (b) map that to a city named after the Roman hero via a dynamite company. That is an etymology/translation hop, not a plain immediate reading. A neutral reader sees 'Herakles knot' as a jewelry term, not a CA suburb. Not plain language, not direct. Killed."
+    },
+    {
+      "entity": "Hercules' Club",
+      "winkType": "meaning",
+      "claimedStrength": 4.0,
+      "verdict": "MARGINAL-KEEP",
+      "reason": "The substring 'Hercules' does exactly match the city name Hercules, CA, read straight off the word. That part is plain and location-specific (Hercules is not a common US placename; essentially this one Bay Area city). BUT it is a single mythological-name match with no California/Bay-Area corroboration anywhere else, and the source phrase 'Hercules' Club' is itself a plant/club reference, so the reader still has to discard the intended meaning to reach a town. Counts as at most ONE plain surviving wink."
+    }
+  ],
+  "survivingEntities": 1,
+  "distinctSurviving": 1,
+  "rivalThreshold": ">=3 distinct strong surviving entities AND real specific place",
+  "isRival": false,
+  "verdict": "Hercules, CA is real and specific, but only ~1 wink survives (the bare 'Hercules' name match); the Herakles homophone is a translation chain. Far below the 3-distinct-wink bar. Coincidental, not a rival."
+}

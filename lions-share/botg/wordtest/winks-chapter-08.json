@@ -1,0 +1,10 @@
+{ "page": "chapter-08", "winks": [
+  { "entity": "Badger clan", "place": "Badger", "state": "SD", "winkType": "meaning", "strength": 3, "existsConfidence": "high", "rationale": "The plain word 'Badger' is the name of real US towns (e.g. Badger, South Dakota; Badger, Minnesota)." },
+  { "entity": "Marble Press", "place": "Marble", "state": "CO", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Marble' is an exact match for Marble, Colorado, a real town." },
+  { "entity": "Cameron", "place": "Cameron", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Cameron' is an exact match for several US towns/counties (Cameron, Texas; Cameron Parish, Louisiana)." },
+  { "entity": "Holbrook", "place": "Holbrook", "state": "MA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The word 'Holbrook' is an exact match for real US towns (Holbrook, Massachusetts; Holbrook, New York)." },
+  { "entity": "coral", "place": "Cape Coral", "state": "FL", "winkType": "meaning", "strength": 3, "existsConfidence": "high", "rationale": "The plain word 'coral' appears directly in real US place names like Cape Coral and Coral Gables, Florida." },
+  { "entity": "Coronado-Cibola", "place": "Coronado", "state": "CA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Coronado' is an exact match for Coronado, California, a real city and island." },
+  { "entity": "Phoenix", "place": "Phoenix", "state": "NY", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The plain word 'Phoenix' is the name of a real town in New York (independent of the famous Arizona city)." },
+  { "entity": "Lyndon Johnson", "place": "Johnson City", "state": "TN", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "The surname 'Johnson' is a real US place name (Johnson City, Tennessee; Johnson County)." }
+] }

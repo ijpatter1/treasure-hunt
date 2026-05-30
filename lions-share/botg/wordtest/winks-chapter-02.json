@@ -1,0 +1,131 @@
+{
+  "page": "chapter-02",
+  "winks": [
+    {
+      "entity": "Mark Twain",
+      "place": "Twain Harte",
+      "state": "CA",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Twain' is itself a US place name: Twain Harte and Twain, both small communities in California's Gold Country."
+    },
+    {
+      "entity": "Seth Gould",
+      "place": "Gould",
+      "state": "AR",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "The surname 'Gould' is a real US town name (e.g. Gould, Arkansas; Gould, Oklahoma)."
+    },
+    {
+      "entity": "Jacqueline Kennedy Onassis",
+      "place": "Onassis",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "'Onassis' as a literal US place name is not something I can confidently recall, so this is at best a faint guess."
+    },
+    {
+      "entity": "Peter Ross",
+      "place": "Ross",
+      "state": "CA",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Ross' is a common US town name (Ross, California; Ross, Ohio; Ross County, Ohio)."
+    },
+    {
+      "entity": "Jordan",
+      "place": "Jordan",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Jordan' is a real US town name (Jordan, Minnesota; Jordan, New York; Jordan, Montana)."
+    },
+    {
+      "entity": "Tar Heel, North Carolina",
+      "place": "Tar Heel",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Tar Heel' is literally an incorporated US town in Bladen County, North Carolina."
+    },
+    {
+      "entity": "Cape Cod, Massachusetts",
+      "place": "Cod (Cape Cod)",
+      "state": "MA",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "The word 'Cape' plus 'Cod' is itself a named US feature, though it is already the entity's own referent."
+    },
+    {
+      "entity": "Florida, Missouri",
+      "place": "Florida",
+      "state": "FL",
+      "winkType": "homophone",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The word 'Florida' reads immediately as the US state Florida, distinct from the tiny Missouri town."
+    },
+    {
+      "entity": "Hannibal, Missouri",
+      "place": "Hannibal",
+      "state": "OH",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Hannibal' is also a US town elsewhere (Hannibal, Ohio; Hannibal, New York), so the word points to multiple real US places."
+    },
+    {
+      "entity": "Charlotte, NC",
+      "place": "Charlotte",
+      "state": "VT",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Charlotte' is a widespread US place name (Charlotte, Vermont; Charlotte, Michigan; Charlotte County, FL/VA)."
+    },
+    {
+      "entity": "Memphis",
+      "place": "Memphis",
+      "state": "TN",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Memphis' is its own US city name, also found in Memphis, Missouri and Memphis, Texas."
+    },
+    {
+      "entity": "Calaveras County",
+      "place": "Calaveras County",
+      "state": "CA",
+      "winkType": "meaning",
+      "strength": 1,
+      "existsConfidence": "high",
+      "rationale": "The word means 'skulls' in Spanish, but that meaning does not map to a distinct US place, so no clean wink."
+    },
+    {
+      "entity": "Orange County, North Carolina",
+      "place": "Orange",
+      "state": "CA",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Orange' is a common US place name (Orange, California; Orange, Texas; Orange County in several states)."
+    },
+    {
+      "entity": "Pisgah National Forest",
+      "place": "Pisgah",
+      "state": "AL",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Pisgah' is a recurring US place name (Pisgah, Alabama; Mount Pisgah appears in many states), so the word itself names real US spots."
+    }
+  ]
+}

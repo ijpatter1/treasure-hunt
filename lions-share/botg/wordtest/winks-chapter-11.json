@@ -1,0 +1,23 @@
+{
+  "page": "chapter-11",
+  "winks": [
+    { "entity": "La Luz", "place": "La Luz", "state": "NM", "winkType": "meaning", "strength": 4, "existsConfidence": "high", "rationale": "Spanish 'the light' is the name of the real village La Luz in Otero County, New Mexico." },
+    { "entity": "Lima", "place": "Lima", "state": "OH", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Lima' is the exact name of Lima, Ohio (and Lima, NY), a real US city." },
+    { "entity": "Montevideo, Uruguay", "place": "Montevideo", "state": "MN", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Montevideo' is the exact name of a real city in Chippewa County, Minnesota." },
+    { "entity": "Castile", "place": "Castile", "state": "NY", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Castile' is the exact name of the village of Castile in Wyoming County, New York." },
+    { "entity": "Leon", "place": "Leon County", "state": "FL", "winkType": "meaning", "strength": 3, "existsConfidence": "high", "rationale": "Leon (Spanish 'lion') is the exact name of Leon County, Florida (and Leon County, Texas)." },
+    { "entity": "Potosi", "place": "Potosi", "state": "MO", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Potosi' is the exact name of a real city in Washington County, Missouri (and Potosi, WI)." },
+    { "entity": "Bogota", "place": "Bogota", "state": "NJ", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Bogota' is the exact name of the borough of Bogota in Bergen County, New Jersey." },
+    { "entity": "Punta Gorda", "place": "Punta Gorda", "state": "FL", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The phrase 'Punta Gorda' is the exact name of a real city in Charlotte County, Florida." },
+    { "entity": "San Carlos", "place": "San Carlos", "state": "CA", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The phrase 'San Carlos' is the exact name of a real city in San Mateo County, California (and San Carlos, AZ)." },
+    { "entity": "Buenos Aires", "place": "Buenos Aires", "state": "NM", "winkType": "homophone", "strength": 2, "existsConfidence": "low", "rationale": "Possible US locality named Buenos Aires, but uncertain it exists as a recognized place." },
+    { "entity": "Sebastian Cabot", "place": "Cabot", "state": "AR", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Cabot' is the exact name of the city of Cabot in Lonoke County, Arkansas (and Cabot, VT)." },
+    { "entity": "Florida", "place": "Florida", "state": "NY", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The word 'Florida' is also the exact name of villages/towns named Florida in New York and Massachusetts." },
+    { "entity": "Martin", "place": "Martin County", "state": "KY", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "'Martin' is the exact name of multiple US places, e.g. Martin County, KY, and the city of Martin, TN." },
+    { "entity": "Durango", "place": "Durango", "state": "CO", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Durango' is the exact name of the real city of Durango, Colorado." },
+    { "entity": "Phoenix", "place": "Phoenix", "state": "NY", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The word 'Phoenix' is also the exact name of villages named Phoenix in New York and Oregon." },
+    { "entity": "Buena Vista", "place": "Buena Vista", "state": "VA", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The phrase 'Buena Vista' is the exact name of an independent city in Virginia (and Buena Vista, CO/GA)." },
+    { "entity": "Santiago", "place": "Santiago Peak", "state": "CA", "winkType": "homophone", "strength": 2, "existsConfidence": "med", "rationale": "The word 'Santiago' appears in real US features such as Santiago Peak in the Santa Ana Mountains, California." },
+    { "entity": "Atocha", "place": "Atoka", "state": "OK", "winkType": "homophone", "strength": 1, "existsConfidence": "med", "rationale": "Faint near-homophone of Atoka, Oklahoma; not an exact spelling match." }
+  ]
+}

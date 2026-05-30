@@ -1,0 +1,25 @@
+{
+  "page": "chapter-17",
+  "winks": [
+    { "entity": "Madisyn Taylor", "place": "Madison", "state": "WI", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The name 'Madisyn' sounds exactly like Madison, a US city and many US counties." },
+    { "entity": "Martha Washington", "place": "Martha", "state": "KY", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "The first name 'Martha' is itself the name of an unincorporated community in Kentucky." },
+    { "entity": "Charles Lee", "place": "Lee", "state": "MA", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Lee' is a common US place name (town of Lee, MA; Lee County in several states)." },
+    { "entity": "Andrew Carnegie", "place": "Carnegie", "state": "PA", "winkType": "etymology", "strength": 4, "existsConfidence": "high", "rationale": "Carnegie is a real Pennsylvania borough named after the industrialist; also Carnegie, OK." },
+    { "entity": "Alexander Hamilton", "place": "Hamilton", "state": "OH", "winkType": "etymology", "strength": 4, "existsConfidence": "high", "rationale": "The surname 'Hamilton' is a major US city name (Hamilton, OH; Hamilton, MT)." },
+    { "entity": "Grant Wood", "place": "Wood", "state": "WI", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Wood' maps to numerous US places (Wood County WI/OH/WV; town of Wood)." },
+    { "entity": "Sir Henry Clinton", "place": "Clinton", "state": "IA", "winkType": "etymology", "strength": 4, "existsConfidence": "high", "rationale": "The surname 'Clinton' is one of the most common US town names (Clinton, IA; Clinton, NY)." },
+    { "entity": "Molly Pitcher (Mary Ludwig Hays McCauley)", "place": "Pitcher", "state": "NY", "winkType": "substring", "strength": 3, "existsConfidence": "med", "rationale": "'Pitcher' is the name of a town in Chenango County, New York." },
+    { "entity": "Gerald R. Ford", "place": "Ford", "state": "KS", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Ford' is a US place name (Ford, KS; Ford County KS/IL)." },
+    { "entity": "Herbert Hoover", "place": "Hoover", "state": "AL", "winkType": "etymology", "strength": 4, "existsConfidence": "high", "rationale": "Hoover is a real Alabama city; also Hoover Dam landmark." },
+    { "entity": "Donald W. Reynolds", "place": "Reynolds", "state": "GA", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Reynolds' is a US town name (Reynolds, GA; Reynolds, IN)." },
+    { "entity": "George (young George)", "place": "George", "state": "IA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'George' is itself a town name (George, IA; George, WA)." },
+    { "entity": "Eleanor 'Nelly' Parke Custis Lewis", "place": "Lewis", "state": "KS", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Lewis' maps to many US places (Lewis, KS; Lewis County in several states)." },
+    { "entity": "Jackson County", "place": "Jackson", "state": "MS", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "'Jackson' is an extremely common US place name (Jackson, MS; Jackson, WY)." },
+    { "entity": "Mason County", "place": "Mason", "state": "TX", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Mason' is a US town name (Mason, TX; Mason City, IA)." },
+    { "entity": "Putnam County", "place": "Putnam", "state": "CT", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Putnam' is a US town name (Putnam, CT) and many counties." },
+    { "entity": "Bristol", "place": "Bristol", "state": "TN", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The word 'Bristol' is a US city (Bristol, TN/VA; Bristol, CT) independent of its English referent." },
+    { "entity": "Waterford", "place": "Waterford", "state": "CT", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "'Waterford' is a US town (Waterford, CT; Waterford, MI) apart from the Irish city." },
+    { "entity": "Lexington, Massachusetts", "place": "Lexington", "state": "KY", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "The word 'Lexington' is also a major city in Kentucky and elsewhere." },
+    { "entity": "Manalapan", "place": "Manalapan", "state": "FL", "winkType": "homophone", "strength": 2, "existsConfidence": "high", "rationale": "'Manalapan' is also the name of a town in Palm Beach County, Florida." }
+  ]
+}

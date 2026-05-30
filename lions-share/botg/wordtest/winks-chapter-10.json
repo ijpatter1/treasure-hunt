@@ -1,0 +1,275 @@
+{
+  "page": "chapter-10",
+  "winks": [
+    {
+      "entity": "Theodore Roosevelt",
+      "place": "Roosevelt",
+      "state": "unknown",
+      "winkType": "substring",
+      "rationale": "The surname 'Roosevelt' is the exact name of several US towns (e.g. Roosevelt, UT; Roosevelt, NY).",
+      "strength": 3,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Commodore Stephen Decatur",
+      "place": "Decatur",
+      "state": "IL",
+      "winkType": "substring",
+      "rationale": "The surname 'Decatur' is the exact name of Decatur, Illinois and many other US towns/counties.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Michael Jackson",
+      "place": "Jackson",
+      "state": "MS",
+      "winkType": "substring",
+      "rationale": "The surname 'Jackson' is the exact name of Jackson, Mississippi (a state capital) and dozens of other US places.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Greg Lawrence",
+      "place": "Lawrence",
+      "state": "KS",
+      "winkType": "substring",
+      "rationale": "The surname 'Lawrence' is the exact name of Lawrence, Kansas and many other US towns.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Dallas, Texas",
+      "place": "Dallas",
+      "state": "TX",
+      "winkType": "substring",
+      "rationale": "'Dallas' is itself a US city name (also Dallas, OR; Dallas, GA).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Greece",
+      "place": "Greece",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "The word 'Greece' is the exact name of the town of Greece, New York.",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Phoenicia, New York",
+      "place": "Phoenicia",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Phoenicia' is itself the name of the Catskills hamlet; the word reads directly as a US place.",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Asgaard Farm",
+      "place": "Asgard",
+      "state": "unknown",
+      "winkType": "meaning",
+      "rationale": "'Asgaard' is the Norse home of the gods; Asgard is also a US place name (e.g. peaks/locales named Asgard).",
+      "strength": 2,
+      "existsConfidence": "low"
+    },
+    {
+      "entity": "Lincoln, Rhode Island",
+      "place": "Lincoln",
+      "state": "NE",
+      "winkType": "substring",
+      "rationale": "'Lincoln' is the exact name of Lincoln, Nebraska (state capital) and many other US places.",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Ulysses, Kansas",
+      "place": "Ulysses",
+      "state": "KS",
+      "winkType": "substring",
+      "rationale": "'Ulysses' is itself a US town name in Kansas (also Ulysses, NY; Ulysses, PA).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Marshall, Virginia",
+      "place": "Marshall",
+      "state": "TX",
+      "winkType": "substring",
+      "rationale": "'Marshall' is a common US place name (Marshall, TX; Marshall, MO; Marshall County in several states).",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Garrison, Putnam County, NY",
+      "place": "Garrison",
+      "state": "ND",
+      "winkType": "substring",
+      "rationale": "'Garrison' is the exact name of Garrison, North Dakota and other US towns.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Newport, RI (Hammersmith Farm)",
+      "place": "Newport",
+      "state": "KY",
+      "winkType": "substring",
+      "rationale": "'Newport' is an extremely common US city name (Newport, KY; Newport, OR; Newport News, VA).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Southampton, NY",
+      "place": "Southampton",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Southampton' is the exact name of the NY town and others.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Whiteface Mountain",
+      "place": "Whiteface",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Whiteface' is itself a US place name (Whiteface, TX; the mountain in NY).",
+      "strength": 3,
+      "existsConfidence": "med"
+    },
+    {
+      "entity": "Garden City, NY",
+      "place": "Garden City",
+      "state": "KS",
+      "winkType": "substring",
+      "rationale": "'Garden City' is a common US city name (Garden City, KS; Garden City, MI; Garden City, GA).",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Cleveland Museum of Art, OH",
+      "place": "Cleveland",
+      "state": "OH",
+      "winkType": "substring",
+      "rationale": "'Cleveland' is itself the name of the major Ohio city and many other US places.",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Richmond, Virginia Museum of Fine Arts",
+      "place": "Richmond",
+      "state": "VA",
+      "winkType": "substring",
+      "rationale": "'Richmond' is itself a US city name (Richmond, VA; Richmond, CA; Richmond, IN).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Boston, MA",
+      "place": "Boston",
+      "state": "MA",
+      "winkType": "substring",
+      "rationale": "'Boston' is itself a US city name (also Boston, GA).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Sussex, New Jersey",
+      "place": "Sussex",
+      "state": "NJ",
+      "winkType": "substring",
+      "rationale": "'Sussex' is itself a US place name (Sussex, NJ; Sussex County, DE/VA).",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Centerport, Long Island, NY",
+      "place": "Centerport",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Centerport' is itself the Long Island hamlet name.",
+      "strength": 4,
+      "existsConfidence": "med"
+    },
+    {
+      "entity": "Maine",
+      "place": "Maine",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Maine' besides the state is also a town in Broome County, New York.",
+      "strength": 3,
+      "existsConfidence": "med"
+    },
+    {
+      "entity": "Tarrytown, NY",
+      "place": "Tarrytown",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Tarrytown' is itself the Westchester village name.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Sleepy Hollow",
+      "place": "Sleepy Hollow",
+      "state": "NY",
+      "winkType": "substring",
+      "rationale": "'Sleepy Hollow' is the exact name of the Westchester village (also Sleepy Hollow, IL/CA).",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Mount Vernon",
+      "place": "Mount Vernon",
+      "state": "WA",
+      "winkType": "substring",
+      "rationale": "'Mount Vernon' is a common US city name (Mount Vernon, WA/OH/IL/NY).",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Provo, Utah",
+      "place": "Provo",
+      "state": "UT",
+      "winkType": "substring",
+      "rationale": "'Provo' is itself the Utah city name (also Provo, SD).",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Chicago",
+      "place": "Chicago",
+      "state": "IL",
+      "winkType": "substring",
+      "rationale": "'Chicago' is itself the major US city name.",
+      "strength": 5,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Middleburg, VA",
+      "place": "Middleburg",
+      "state": "FL",
+      "winkType": "substring",
+      "rationale": "'Middleburg' is a US place name in several states (Middleburg, FL/PA/VA).",
+      "strength": 3,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "Eleanor \"Cissy\" Patterson",
+      "place": "Patterson",
+      "state": "CA",
+      "winkType": "substring",
+      "rationale": "The surname 'Patterson' is the exact name of Patterson, California and other US towns.",
+      "strength": 4,
+      "existsConfidence": "high"
+    },
+    {
+      "entity": "740 Jackson Place NW",
+      "place": "Jackson",
+      "state": "WY",
+      "winkType": "substring",
+      "rationale": "'Jackson' (Place) reads as the common US town name Jackson (WY/MS/TN).",
+      "strength": 3,
+      "existsConfidence": "high"
+    }
+  ]
+}

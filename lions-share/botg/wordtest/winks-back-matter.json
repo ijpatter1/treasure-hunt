@@ -1,0 +1,17 @@
+{
+  "page": "back-matter",
+  "winks": [
+    { "entity": "Bryce", "place": "Bryce Canyon", "state": "UT", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The name 'Bryce' is exactly the name of Bryce Canyon and Bryce Canyon National Park in Utah." },
+    { "entity": "Londyn", "place": "London", "state": "KY/OH", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "'Londyn' is a respelling of London, which is also a real US town (e.g. London, Kentucky and London, Ohio)." },
+    { "entity": "Augusta", "place": "Augusta", "state": "GA/ME", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Augusta' is itself the name of multiple US places, most notably Augusta, Georgia and Augusta, Maine." },
+    { "entity": "Teresa", "place": "Santa Teresa", "state": "NM", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The word 'Teresa' reads directly into Santa Teresa, New Mexico, a real community." },
+    { "entity": "Mark", "place": "St. Marks", "state": "FL", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Mark' reads into the town/refuge name St. Marks, Florida (faint, as 'Mark' alone is generic)." },
+    { "entity": "Smith", "place": "Smith River", "state": "CA", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Smith' is a real place name, e.g. Smith River, California, though it is an extremely common word." },
+    { "entity": "Richard", "place": "Richardson", "state": "TX", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Richard' reads into Richardson, a real Texas city, though the connection is loose." },
+    { "entity": "Brian", "place": "Briny Breezes", "state": "FL", "winkType": "homophone", "strength": 1, "existsConfidence": "med", "rationale": "Very faint sound-alike; 'Brian' is mostly just a common first name with no clean US place match." },
+    { "entity": "Andvari", "place": "Andover", "state": "MA/NH", "winkType": "homophone", "strength": 1, "existsConfidence": "high", "rationale": "Faint sound-alike of the common town name Andover; not a clean plain reading." },
+    { "entity": "Beatty", "place": "Beatty", "state": "NV", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Beatty' is exactly the name of Beatty, Nevada, a real town near Death Valley." },
+    { "entity": "Lauren", "place": "Laurens", "state": "SC", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Lauren' reads into Laurens, South Carolina, a real town and county seat." },
+    { "entity": "Zach", "place": "Zachary", "state": "LA", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Zach' reads into Zachary, Louisiana, a real city; loose because it relies on the full name." }
+  ]
+}

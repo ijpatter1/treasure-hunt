@@ -1,0 +1,518 @@
+{
+  "page": "chapter-09",
+  "winks": [
+    {
+      "entity": "The Golden Chalice",
+      "place": "Golden",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The word 'Golden' is exactly the name of the well-known Colorado city (also Golden, NM)."
+    },
+    {
+      "entity": "Peru",
+      "place": "Peru",
+      "state": "IN",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Peru' is exactly the name of several US towns (Peru, Indiana; Peru, Illinois; Peru, NY)."
+    },
+    {
+      "entity": "Oxford definition",
+      "place": "Oxford",
+      "state": "MS",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Oxford' is exactly the name of many US towns (Oxford, MS; Oxford, OH; Oxford, NC)."
+    },
+    {
+      "entity": "Andes Mountains",
+      "place": "Andes",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Andes' is exactly the name of a town in the Catskills, New York."
+    },
+    {
+      "entity": "Lima",
+      "place": "Lima",
+      "state": "OH",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Lima' is exactly the name of a real US city (Lima, Ohio; also Lima, NY/MT)."
+    },
+    {
+      "entity": "the birth of Christ",
+      "place": "Christ",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "No clean standalone US place named simply 'Christ'; Christmas, FL is a closer relative but not this word."
+    },
+    {
+      "entity": "Christmas Eve",
+      "place": "Christmas",
+      "state": "FL",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Christmas' is exactly the name of a real US town (Christmas, Florida)."
+    },
+    {
+      "entity": "Easter",
+      "place": "Easter",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "low",
+      "rationale": "No prominent US town simply named 'Easter'; faint at best."
+    },
+    {
+      "entity": "Jackie Onassis",
+      "place": "Onassis",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "No US place named 'Onassis'; no clean wink."
+    },
+    {
+      "entity": "Lima",
+      "place": "Lima",
+      "state": "OH",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "Duplicate-safe: 'Lima' matches Lima, Ohio exactly."
+    },
+    {
+      "entity": "Stanford",
+      "place": "Stanford",
+      "state": "KY",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Stanford' is exactly the name of a real US town (Stanford, Kentucky; also Stanford, MT)."
+    },
+    {
+      "entity": "Hiddenite, Alexander County, North Carolina",
+      "place": "Hiddenite",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Hiddenite' contains 'Hidden' and is itself an exact real NC town name."
+    },
+    {
+      "entity": "Alexander County",
+      "place": "Alexander",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Alexander' is exactly the name of Alexander County, NC (and Alexander, NC town)."
+    },
+    {
+      "entity": "North Carolina",
+      "place": "Carolina",
+      "state": "RI",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Carolina' is itself a US place name (Carolina, RI; Carolina, WV) beyond the state."
+    },
+    {
+      "entity": "Emerald Hollow Mine",
+      "place": "Emerald",
+      "state": "WI",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Emerald' is the name of US places (Emerald, Wisconsin; Emerald Isle, NC)."
+    },
+    {
+      "entity": "Brushy Mountains",
+      "place": "Brushy",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Brushy' appears in real US place names (Brushy, OK; Brushy Mountain, TN/NC)."
+    },
+    {
+      "entity": "Statesville",
+      "place": "Statesville",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Statesville' is exactly a real NC city name."
+    },
+    {
+      "entity": "Keyser, West Virginia",
+      "place": "Keyser",
+      "state": "WV",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Keyser' is exactly the name of a real city in West Virginia."
+    },
+    {
+      "entity": "West Virginia",
+      "place": "Virginia",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Virginia' is itself a US town name (Virginia, Minnesota) beyond the state."
+    },
+    {
+      "entity": "Potomac Highlands / Potomac River",
+      "place": "Potomac",
+      "state": "MD",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Potomac' is the name of a real US place (Potomac, Maryland; Potomac, IL)."
+    },
+    {
+      "entity": "Frosty the Snowman",
+      "place": "Frostproof / Frost",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "med",
+      "rationale": "'Frosty' has no exact US town; 'Frost, TX' is the nearest relative, faint."
+    },
+    {
+      "entity": "Steve Nelson",
+      "place": "Nelson",
+      "state": "NE",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Nelson' is exactly the name of US towns (Nelson, Nebraska; Nelson County, KY/VA/ND)."
+    },
+    {
+      "entity": "Gene Autry",
+      "place": "Gene Autry",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "There is a real town literally named Gene Autry, Oklahoma."
+    },
+    {
+      "entity": "Sandwich / East Sandwich, Massachusetts",
+      "place": "Sandwich",
+      "state": "MA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Sandwich' is exactly a real US town (Sandwich, MA; Sandwich, IL; Sandwich, NH)."
+    },
+    {
+      "entity": "Cape Cod",
+      "place": "Cape Cod",
+      "state": "MA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Cape Cod' is a real named US feature in Massachusetts."
+    },
+    {
+      "entity": "Cleveland Museum of Art",
+      "place": "Cleveland",
+      "state": "OH",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Cleveland' is exactly a major US city (Cleveland, Ohio; Cleveland, TN)."
+    },
+    {
+      "entity": "Ohio",
+      "place": "Ohio",
+      "state": "OH",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Ohio' is a US state and also town names (Ohio, IL)."
+    },
+    {
+      "entity": "New York",
+      "place": "York",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'York' is exactly a real US city (York, Pennsylvania; York, ME)."
+    },
+    {
+      "entity": "Art Institute of Chicago",
+      "place": "Chicago",
+      "state": "IL",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Chicago' is exactly the major US city in Illinois."
+    },
+    {
+      "entity": "Dallas Museum of Art",
+      "place": "Dallas",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Dallas' is exactly the major US city in Texas (also Dallas, OR)."
+    },
+    {
+      "entity": "Baltimore",
+      "place": "Baltimore",
+      "state": "MD",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Baltimore' is exactly the major US city in Maryland."
+    },
+    {
+      "entity": "Brooklyn Museum",
+      "place": "Brooklyn",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Brooklyn' is exactly a real US place (Brooklyn, NY; Brooklyn, OH)."
+    },
+    {
+      "entity": "Los Angeles",
+      "place": "Los Angeles",
+      "state": "CA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Los Angeles' is exactly the major US city in California."
+    },
+    {
+      "entity": "Washington, DC",
+      "place": "Washington",
+      "state": "DC",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Washington' is the US capital and countless US towns/counties."
+    },
+    {
+      "entity": "Harpers Ferry NHP",
+      "place": "Harpers Ferry",
+      "state": "WV",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Harpers Ferry' is exactly a real town in West Virginia."
+    },
+    {
+      "entity": "Shenandoah River",
+      "place": "Shenandoah",
+      "state": "VA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Shenandoah' is a real US river, valley, and town (Shenandoah, VA/IA/PA)."
+    },
+    {
+      "entity": "Missouri (Mississippi + Missouri)",
+      "place": "Missouri",
+      "state": "MO",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Missouri' is a US state and river."
+    },
+    {
+      "entity": "Mississippi River",
+      "place": "Mississippi",
+      "state": "MS",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Mississippi' is a US state and major river."
+    },
+    {
+      "entity": "Minnesota River / Minnesota",
+      "place": "Minnesota",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Minnesota' is a US state and river."
+    },
+    {
+      "entity": "Fort Snelling",
+      "place": "Fort Snelling",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Fort Snelling' is a real named historic site in Minnesota."
+    },
+    {
+      "entity": "Pittsburgh",
+      "place": "Pittsburgh",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Pittsburgh' is exactly the major US city in Pennsylvania."
+    },
+    {
+      "entity": "Pennsylvania (PA)",
+      "place": "Pennsylvania",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Pennsylvania' is a US state."
+    },
+    {
+      "entity": "Allegheny River",
+      "place": "Allegheny",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Allegheny' is a real US river, county, and mountain range."
+    },
+    {
+      "entity": "Monongahela River",
+      "place": "Monongahela",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Monongahela' is a real US river and a city (Monongahela, PA)."
+    },
+    {
+      "entity": "Colorado River",
+      "place": "Colorado",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Colorado' is a US state and major river."
+    },
+    {
+      "entity": "Green River",
+      "place": "Green River",
+      "state": "WY",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Green River' is a real river and a city (Green River, Wyoming/Utah)."
+    },
+    {
+      "entity": "Utah",
+      "place": "Utah",
+      "state": "UT",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Utah' is a US state."
+    },
+    {
+      "entity": "South Dakota",
+      "place": "Dakota",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Dakota' is itself a place name (Dakota, MN; Dakota City, NE/IA) beyond the states."
+    },
+    {
+      "entity": "Carl Sagan",
+      "place": "Sagan",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "No US place named 'Sagan'; no clean wink."
+    },
+    {
+      "entity": "Paris",
+      "place": "Paris",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Paris' is exactly the name of many US towns (Paris, Texas; Paris, KY/TN)."
+    },
+    {
+      "entity": "England",
+      "place": "England",
+      "state": "AR",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'England' is exactly a real US town (England, Arkansas)."
+    },
+    {
+      "entity": "Dartmouth",
+      "place": "Dartmouth",
+      "state": "MA",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Dartmouth' is exactly a real US town (Dartmouth, Massachusetts)."
+    },
+    {
+      "entity": "Hanover, NH",
+      "place": "Hanover",
+      "state": "NH",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Hanover' is exactly a real US town (Hanover, NH; Hanover, PA)."
+    },
+    {
+      "entity": "New Hampshire (NH)",
+      "place": "Hampshire",
+      "state": "IL",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Hampshire' is itself a US place (Hampshire, Illinois; Hampshire County, WV) beyond the state."
+    },
+    {
+      "entity": "Henry David Thoreau",
+      "place": "Henry",
+      "state": "IL",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Thoreau' is itself a real US town (Thoreau, New Mexico), a cleaner direct wink than the given name."
+    },
+    {
+      "entity": "Tiffany's Furnace & Thoreau's Fire",
+      "place": "Tiffany",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "med",
+      "rationale": "'Tiffany' appears as small localities (Tiffany, CO) but is faint as a place name."
+    },
+    {
+      "entity": "Jordan Rookie Card",
+      "place": "Jordan",
+      "state": "MN",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Jordan' is exactly a real US town (Jordan, Minnesota; Jordan, NY/MT)."
+    }
+  ]
+}

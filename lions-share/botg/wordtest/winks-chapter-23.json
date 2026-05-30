@@ -1,0 +1,19 @@
+{
+  "page": "chapter-23",
+  "winks": [
+    { "entity": "Greg Anderson", "place": "Anderson", "state": "SC", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname Anderson is a well-known US place name (Anderson, SC and Anderson County in several states)." },
+    { "entity": "Andrew Carnegie", "place": "Carnegie", "state": "PA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Carnegie is a real borough in Pennsylvania (also Carnegie, OK), an exact match to the name." },
+    { "entity": "Medusa", "place": "Medusa", "state": "NY", "winkType": "homophone", "strength": 3, "existsConfidence": "med", "rationale": "Medusa is a hamlet in Albany County, New York, an exact spelling match to the word." },
+    { "entity": "Chapman (State Park)", "place": "Chapman", "state": "KS", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "Chapman is a real US town name (Chapman, KS and Chapman, NE) matching the word exactly." },
+    { "entity": "Oakland (neighborhood, Pittsburgh)", "place": "Oakland", "state": "CA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Oakland is the exact name of the major California city and many other US towns." },
+    { "entity": "Lenox, Massachusetts", "place": "Lenox", "state": "IA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Lenox is the exact name of towns in Iowa and Georgia (and the MA town itself)." },
+    { "entity": "Hershey, Pennsylvania", "place": "Hershey", "state": "NE", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Hershey is the exact name of a village in Nebraska as well as the PA town." },
+    { "entity": "Otis Norcross", "place": "Norcross", "state": "GA", "winkType": "etymology", "strength": 4, "existsConfidence": "high", "rationale": "The surname Norcross is an exact match to Norcross, Georgia, a well-known US city." },
+    { "entity": "Howard Carter", "place": "Carter County", "state": "MT", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname Carter is the exact name of counties in MT, OK, KY, TN and MO." },
+    { "entity": "Clarence Dutton", "place": "Dutton", "state": "MT", "winkType": "etymology", "strength": 2, "existsConfidence": "med", "rationale": "The surname Dutton matches small US towns Dutton, MT and Dutton, AL." },
+    { "entity": "Cass Elliot (Mama Cass)", "place": "Elliott County", "state": "KY", "winkType": "homophone", "strength": 2, "existsConfidence": "high", "rationale": "Elliot sounds like and nearly spells Elliott County, Kentucky." },
+    { "entity": "Purgatory Chasm", "place": "Purgatory", "state": "CO", "winkType": "meaning", "strength": 3, "existsConfidence": "med", "rationale": "Purgatory is the name of a Colorado resort/area and the Purgatoire River, matching the word." },
+    { "entity": "Albany County, Wyoming", "place": "Albany", "state": "NY", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Albany is the exact name of the New York state capital and towns in GA and OR." },
+    { "entity": "George Washington", "place": "Washington", "state": "WA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Washington is the exact name of a US state, the capital, and dozens of towns/counties." }
+  ]
+}

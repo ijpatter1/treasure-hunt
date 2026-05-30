@@ -1,0 +1,104 @@
+{
+  "page": "chapter-01",
+  "winks": [
+    {
+      "entity": "The 120 Carat Sapphire",
+      "place": "Sapphire",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "The word 'Sapphire' is the exact name of a community in Jackson County, North Carolina."
+    },
+    {
+      "entity": "Lion's Share Wiki",
+      "place": "Lions",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Lion's' reads directly as Lions, a place name (e.g., Lions, several US localities; Lions Head features)."
+    },
+    {
+      "entity": "Star of Asia",
+      "place": "Star",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The leading word 'Star' is the exact name of a town in Montgomery County, North Carolina (also Star, ID)."
+    },
+    {
+      "entity": "Star Trek",
+      "place": "Star",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "Reading past the show, 'Star' is the exact name of a town in Montgomery County, NC."
+    },
+    {
+      "entity": "Mike Scott (\"Scotty\"), Michael McCreary Scott",
+      "place": "Scotts",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "The surname 'Scott' reads as the place root Scott/Scotts (e.g., Scotts, NC in Iredell County; Scott County)."
+    },
+    {
+      "entity": "Logan Sapphire",
+      "place": "Logan",
+      "state": "UT",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The name 'Logan' is the exact name of a city in Utah and of Logan County in several states."
+    },
+    {
+      "entity": "Redwood City, California",
+      "place": "Redwood",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Redwood' is a common US place root (Redwood Falls, MN; Redwood County; Redwood National Park)."
+    },
+    {
+      "entity": "Mountain View, California",
+      "place": "Mountain View",
+      "state": "unknown",
+      "winkType": "meaning",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Mountain View' is a generic descriptive place name shared by many US towns."
+    },
+    {
+      "entity": "Marcel Muller",
+      "place": "Muller",
+      "state": "unknown",
+      "winkType": "meaning",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "Muller literally means 'miller'; Miller is a common US place name (Miller, SD), but the link is faint."
+    },
+    {
+      "entity": "Beech Forest",
+      "place": "Beech",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "med",
+      "rationale": "'Beech' is a common US place root (Beech Mountain, NC; Beech Grove, IN)."
+    },
+    {
+      "entity": "Blackwater Pond",
+      "place": "Blackwater",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "med",
+      "rationale": "'Blackwater' is a US place name (Blackwater River, FL/VA; Blackwater, MO)."
+    }
+  ]
+}

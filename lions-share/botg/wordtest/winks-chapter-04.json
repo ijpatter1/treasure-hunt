@@ -1,0 +1,32 @@
+{
+  "page": "chapter-04",
+  "winks": [
+    { "entity": "Robert Frost", "place": "Frost", "state": "TX",
+      "winkType": "substring", "strength": 3,
+      "existsConfidence": "high", "rationale": "The surname 'Frost' is itself the name of a small Texas town (also Frost, MN)." },
+    { "entity": "Brazil", "place": "Brazil", "state": "IN",
+      "winkType": "homophone", "strength": 4,
+      "existsConfidence": "high", "rationale": "'Brazil' is the exact name of a real city in Indiana, ignoring the country." },
+    { "entity": "China", "place": "China", "state": "TX",
+      "winkType": "homophone", "strength": 4,
+      "existsConfidence": "high", "rationale": "'China' is the exact name of real US towns (China, TX and China, ME)." },
+    { "entity": "the Pope", "place": "Pope County", "state": "AR",
+      "winkType": "substring", "strength": 3,
+      "existsConfidence": "high", "rationale": "The word 'Pope' is the exact name of US counties (Pope County, AR/IL/MN)." },
+    { "entity": "Window Rock", "place": "Window Rock", "state": "AZ",
+      "winkType": "homophone", "strength": 5,
+      "existsConfidence": "high", "rationale": "'Window Rock' is the exact name of a real town in Arizona (Navajo Nation capital)." },
+    { "entity": "Plains of the Llanos (Los Llanos)", "place": "The Plains", "state": "VA",
+      "winkType": "meaning", "strength": 3,
+      "existsConfidence": "high", "rationale": "Spanish 'llanos' literally means 'the plains', and The Plains is a real US village in Virginia." },
+    { "entity": "Lime City, Ohio", "place": "Lime", "state": "OR",
+      "winkType": "substring", "strength": 2,
+      "existsConfidence": "med", "rationale": "The word 'Lime' is itself a US place name (Lime, OR) embedded in 'Lime City'." },
+    { "entity": "Carlton Davis", "place": "Davis", "state": "CA",
+      "winkType": "substring", "strength": 2,
+      "existsConfidence": "high", "rationale": "The surname 'Davis' is the exact name of Davis, California (and Davis County)." },
+    { "entity": "Art Smith", "place": "Smith County", "state": "TX",
+      "winkType": "substring", "strength": 2,
+      "existsConfidence": "high", "rationale": "The surname 'Smith' is the exact name of many US counties (Smith County, TX/KS/MS/TN)." }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "place": "Jordan",
+  "state": "MN",
+  "placeExists": true,
+  "placeVerification": {
+    "summary": "Jordan, Minnesota is a real incorporated city in Scott County, MN. Population 6,656 (2020). Sits in the Minnesota River Valley, exurb ~35 miles from the Twin Cities. Named in 1855 after the Jordan River in Palestine.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jordan,_Minnesota",
+      "https://ballotpedia.org/Jordan,_Minnesota"
+    ],
+    "genericNameWarning": "The name 'Jordan' is extremely common: there is also Jordan, NY; Jordan, MT; the Jordan River; the country Jordan; and the surname is one of the most common in America (Michael Jordan). DENSITY-MAP itself admits multiple states match. A single bare 'Jordan' wink does NOT localize to Minnesota specifically; it is equally consistent with NY, MT, or no place at all."
+  },
+  "winkAnalysis": [
+    {
+      "entity": "Jordan",
+      "winkType": "substring",
+      "strength": 3.0,
+      "verdict": "KILL",
+      "reason": "The bare word 'Jordan' is a generic, multi-state town name (MN, NY, MT) and overwhelmingly reads first as the river/country/surname. Generic = does not count, and it does not point to MN over NY/MT."
+    },
+    {
+      "entity": "Best of Its Class Jordan Rookie Card",
+      "winkType": "substring",
+      "strength": 2.0,
+      "verdict": "KILL",
+      "reason": "This is the Chapter 13 title and refers unambiguously to MICHAEL JORDAN the basketball player. The plain, immediate reading is the athlete, not a Minnesota town. Treating 'Jordan' as a town is the stretch a neutral reader would reject. Also a duplicate of the same 'Jordan' token below."
+    },
+    {
+      "entity": "Jordan Rookie Card",
+      "winkType": "substring",
+      "strength": 4.0,
+      "verdict": "KILL",
+      "reason": "Same source as above (Michael Jordan rookie card, Ch.13). Not a distinct entity. Plain reading = the player. Strength 4 is unjustified inflation for what is a surname collision."
+    },
+    {
+      "entity": "Michael Jordan (Michael Jeffrey Jordan)",
+      "winkType": "substring",
+      "strength": 3.0,
+      "verdict": "KILL",
+      "reason": "Surname-as-town is a generic substring trick. 'Jordan' as a surname is among the most common in the US and reads as the person, not Jordan, MN specifically. Does not localize."
+    }
+  ],
+  "distinctEntityReassessment": {
+    "claimedDistinct": 4,
+    "actualDistinct": 1,
+    "explanation": "All four winks are the single token 'Jordan'. Three of the four (rows 2,3,4) trace to ONE underlying entity: Michael Jordan / his rookie card in Chapter 13. They have been triple-counted. The fourth is a bare 'Jordan'. After de-duplication this is effectively one repeated surname/word, not four independent entities winking at a town.",
+    "survivingEntities": 0
+  },
+  "adversarialConclusion": "Jordan, MN is a real place but the wordplay case is apophenia. Every wink is the same common token 'Jordan', whose plain reading is the basketball player (the book literally devotes Chapter 13 to Michael Jordan's card) or the river/country, NOT a 6,600-person Minnesota exurb. The name is generic across multiple states, so it fails to localize even if accepted. Zero winks survive adversarial refutation; zero distinct entities remain after de-duplication.",
+  "survivingEntities": 0,
+  "isRival": false,
+  "verdict": "Jordan, MN is real but generic; all 4 winks are the same surname/word reading plainly as Michael Jordan (Ch.13). 0 survive. Not a rival."
+}

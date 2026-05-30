@@ -1,0 +1,5 @@
+{
+  "page": "chapter-03",
+  "error": "Source file /Users/ipatterson/dev/treasure-hunt/lions-share/wiki/chapter-03.html could not be read in this environment (all tool outputs returned empty; Read of the source file errored). No entities were extracted to avoid guessing/fabricating content.",
+  "entities": []
+}

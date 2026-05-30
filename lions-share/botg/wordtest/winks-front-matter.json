@@ -1,0 +1,131 @@
+{
+  "page": "front-matter",
+  "winks": [
+    {
+      "entity": "Henry David Thoreau",
+      "place": "Thoreau",
+      "state": "NM",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Thoreau' is exactly the name of the town of Thoreau, New Mexico (a real incorporated community)."
+    },
+    {
+      "entity": "William Faulkner",
+      "place": "Faulkner County",
+      "state": "AR",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Faulkner' is exactly the name of Faulkner County, Arkansas."
+    },
+    {
+      "entity": "Forrest Fenn",
+      "place": "Fenn",
+      "state": "ID",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Fenn' is exactly the name of the small community of Fenn, Idaho."
+    },
+    {
+      "entity": "Alexander the Great",
+      "place": "Alexander County",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The word 'Alexander' is exactly the name of Alexander County, North Carolina (and Alexander City, AL)."
+    },
+    {
+      "entity": "Walt Whitman",
+      "place": "Whitman County",
+      "state": "WA",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Whitman' is exactly the name of Whitman County, Washington (and Whitman, MA)."
+    },
+    {
+      "entity": "Herman Melville",
+      "place": "Melville",
+      "state": "MT",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Melville' is exactly the name of towns such as Melville, Montana and Melville, NY."
+    },
+    {
+      "entity": "Francois Hugo / Pierre Hugo",
+      "place": "Hugo",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Hugo' is exactly the name of Hugo, Colorado (and Hugo, OK / MN)."
+    },
+    {
+      "entity": "Seth Gould",
+      "place": "Gould",
+      "state": "AR",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Gould' is exactly the name of Gould, Arkansas (and Gould, OK)."
+    },
+    {
+      "entity": "Lawrence Lewis",
+      "place": "Lewis County",
+      "state": "WA",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Lewis' is exactly the name of multiple Lewis Counties and the town of Lewiston."
+    },
+    {
+      "entity": "Jon Collins-Black",
+      "place": "Black Mountain",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The 'Black' half of the hyphenated surname is the name of features/towns such as Black Mountain, NC."
+    },
+    {
+      "entity": "Jon Collins-Black",
+      "place": "Fort Collins",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The 'Collins' half of the surname is the name of US places like Fort Collins, CO and Collins, MS."
+    },
+    {
+      "entity": "Saint Augustine",
+      "place": "Augusta",
+      "state": "GA",
+      "winkType": "homophone",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Augustine' shares the same Latin root and near-sound as Augusta, GA/ME, though the exact word also yields St. Augustine, FL."
+    },
+    {
+      "entity": "Andrew Carnegie",
+      "place": "Carnegie",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Carnegie' is exactly the name of towns such as Carnegie, Oklahoma and Carnegie, PA."
+    },
+    {
+      "entity": "Louis Comfort Tiffany",
+      "place": "Tiffany",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "The surname 'Tiffany' is the name of small communities such as Tiffany, Colorado."
+    }
+  ]
+}

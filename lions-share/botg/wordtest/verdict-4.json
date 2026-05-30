@@ -1,0 +1,34 @@
+{
+  "place": "Cleveland, OH",
+  "judge_stance": "Adversarial. Default = coincidence/apophenia. Winks must prove plain, distinct, location-specific reads to count.",
+  "placeExists": true,
+  "placeExists_reasoning": "Confirmed via WebSearch. Cleveland is a real, specific, major US city: county seat of Cuyahoga County, Ohio, on the southern shore of Lake Erie (~372,624 pop, 2020). Existence is certain. CAVEAT: 'Cleveland' is also a very common US placename (Cleveland TN, Cleveland MS, Cleveland County NC, Cleveland County OK, plus President Grover Cleveland namesakes), so a bare 'Cleveland' wink is NOT uniquely Ohio-specific.",
+  "source": "https://en.wikipedia.org/wiki/Cleveland ; https://www.britannica.com/place/Cleveland-Ohio",
+  "raw_record": {
+    "distinctEntities_claimed": 2,
+    "pages": 2,
+    "avgStrength": 5.0,
+    "score": 13.0
+  },
+  "winks": [
+    {
+      "wink": "Cleveland Museum of Art",
+      "winkType": "substring",
+      "claimed_strength": 5.0,
+      "keep_or_kill": "KILL",
+      "reason": "This is not a wink at the PLACE Cleveland via wordplay; it is just the literal name of an art museum the book references. The 'Cleveland' here is already, openly, the Ohio city by direct reference -- there is no concealed/double meaning being winked at. Moreover the name is generic (Cleveland TN/MS/NC/OK all share the word), so it does not discriminate Ohio. As plain treasure-wordplay it is a non-event: the book mentioning a famous museum does not 'wink' at a hidden location."
+    },
+    {
+      "wink": "Cleveland Museum of Art, OH",
+      "winkType": "substring",
+      "claimed_strength": 5.0,
+      "keep_or_kill": "KILL",
+      "reason": "DUPLICATE of the first wink (same museum, same source entity, just with ', OH' appended). It adds zero distinct evidence. The 'distinctEntities: 2' count is inflated -- there is really only ONE underlying entity (the Cleveland Museum of Art). Same generic-name problem applies."
+    }
+  ],
+  "distinct_surviving_entities": 0,
+  "analysis": "Both supporting items collapse to a single source entity: the Cleveland Museum of Art mentioned in the book. That is a direct institutional reference, not a plain-language wordplay wink at a hidden treasure place, and the word 'Cleveland' is geographically ambiguous across many states. After adversarial refutation, ZERO distinct, location-specific winks survive. A serious rival needs >=3 distinct surviving entities; Cleveland has effectively one non-surviving reference.",
+  "survivingEntities": 0,
+  "isRival": false,
+  "verdict": "Cleveland OH is real but its 2 'winks' are one duplicated generic museum reference, not wordplay; zero survive. Not a rival."
+}

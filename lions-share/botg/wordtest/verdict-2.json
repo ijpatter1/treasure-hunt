@@ -1,0 +1,43 @@
+{
+  "place": "Hiddenite",
+  "judge": "adversarial",
+  "model": "claude-opus-4-8",
+  "date": "2026-05-30",
+  "note": "Supersedes an earlier draft of this file that was written under a mistaken tool-failure assumption. The data WAS readable; this is the real analysis.",
+
+  "placeExists": true,
+  "placeExistsBasis": "WebSearch confirmed: Hiddenite is a census-designated place in east-central Alexander County, North Carolina (pop. 507, 2020 census), on NC Hwy 90 ~5 mi east of Taylorsville and ~15 mi NW of Statesville. Named for mineralogist William Earl Hidden (1853-1918), who discovered the green spodumene gem 'hiddenite' there in 1879 while prospecting platinum for Thomas Edison. Home of Emerald Hollow Mine. A genuine, specific, single US place. Strong on existence.",
+
+  "winks": [
+    {
+      "entity": "Hiddenite",
+      "strength_claimed": 5.0,
+      "verdict": "KILL (as a distinct entity); the underlying observation is real but it is ONE entity, not three",
+      "reason": "Plain reading is strong: the word literally contains 'Hidden', the natural word for a concealed treasure, AND is an exact real NC place. As a single wink this is legitimate and not a cipher. BUT this is the same noun 'Hiddenite' that the other two winks also cite. It is one concept counted three times across three pages, not three distinct entities winking independently."
+    },
+    {
+      "entity": "Hiddenite, Alexander County, North Carolina",
+      "strength_claimed": 5.0,
+      "verdict": "KILL as distinct entity (duplicate of wink 1)",
+      "reason": "Identical claim to wink 1 with the county appended. Same word 'Hiddenite' on a different page. No new independent entity is winking; this is the noun repeated. Counting it separately inflates distinctEntities."
+    },
+    {
+      "entity": "Hiddenite, NC",
+      "strength_claimed": 4.0,
+      "verdict": "KILL as distinct entity (duplicate of wink 1)",
+      "reason": "Again the same word 'Hiddenite'. Plain-language and real, but it is the third restatement of one concept, not a third independent entity."
+    }
+  ],
+
+  "criticalFlaw": "All three 'supporting' winks are the SAME noun -- 'Hiddenite' -- appearing on three book pages. The wordplay test is supposed to count DISTINCT entities winking at a location (e.g. for Alexander: Alexander Calder, Antiquities of Alexander, Alexander the Great -- genuinely different nouns). Hiddenite has only ONE entity ('Hiddenite' itself) repeated. Distinct surviving entities = 1, not 3.",
+
+  "strengthOfTheOneSurvivingWink": "The single surviving wink is genuinely strong: 'Hidden'+'ite' is a vivid, plain-language nod to a hidden treasure, it is a real and specific NC place, it sits in Alexander County (the book's top-scoring location and a chapter title 'Antiquities of Alexander'), and the gem's discovery story ties to a chapter object. As ONE clue it is among the best in the whole map. But one strong clue is not a wordplay HUB.",
+
+  "survivingEntities": 1,
+  "survivingEntitiesBasis": "After collapsing the three duplicate citations of the single noun 'Hiddenite' into one entity, exactly one distinct entity winks at this place. It survives refutation (plain, non-cipher, location-specific, not generic) but it is alone.",
+
+  "isRival": false,
+  "isRivalBasis": "A serious rival requires >=3 DISTINCT surviving entities. Hiddenite has only 1 distinct entity (the word 'Hiddenite' itself, cited thrice). It fails the multiplicity test. It is a single excellent clue, not an independent convergence hub. Notably its strength derives from being IN Alexander County -- it reinforces the Alexander cluster rather than standing as a separate rival.",
+
+  "verdict": "Real, specific NC place with one genuinely strong plain-language wink ('Hidden'+ite). But its 3 'entities' are the same noun repeated; only 1 distinct entity -> not a rival hub."
+}

@@ -1,0 +1,80 @@
+{
+  "place": "Alexander",
+  "state": "NC",
+  "judgeStance": "adversarial / default-skeptical",
+  "dataSource": "/Users/ipatterson/dev/treasure-hunt/lions-share/botg/wordtest/DENSITY-MAP.json",
+  "scoreInMap": 44.0,
+  "claimedDistinctEntities": 5,
+
+  "placeExists": {
+    "verdict": true,
+    "evidence": [
+      "Alexander County, North Carolina — created 1847, county seat Taylorsville, 2020 population ~36,444 (Wikipedia, US Census QuickFacts).",
+      "Alexander, North Carolina — an unincorporated community in Buncombe County on the French Broad River along NC Hwy 251, ~3.3 mi west of Weaverville; post office ZIP 28701 since 1881 (Wikipedia, Buncombe County Special Collections)."
+    ],
+    "note": "Real and specific as a COUNTY, and also a small named community in a different NC county. Not too generic to be a place. Place existence is conceded."
+  },
+
+  "winkRefutation": [
+    {
+      "entity": "Alexander Calder",
+      "strength": 4.0,
+      "winkType": "substring",
+      "decision": "KEEP (weak)",
+      "reason": "The bare string 'Alexander' is exactly the county name; plain, no cipher. But it is a generic given-name match. A neutral reader of 'Alexander Calder' thinks of the sculptor, not an NC county. Survives as a distinct entity only on the technicality that the word equals the place name."
+    },
+    {
+      "entity": "Alexander County, North Carolina",
+      "strength": 3.0,
+      "winkType": "substring",
+      "decision": "KILL",
+      "reason": "Circular/degenerate. The 'entity' IS the target place spelled out in full. The place naming itself is not a WINK toward the place. No wordplay, no inference."
+    },
+    {
+      "entity": "Alexander County",
+      "strength": 5.0,
+      "winkType": "substring",
+      "decision": "KILL",
+      "reason": "Same circularity as above and redundant with it. A direct mention of 'Alexander County' is not a concealed nod; the 5.0 strength is inflated by treating a literal self-reference as a wink."
+    },
+    {
+      "entity": "Antiquities of Alexander",
+      "strength": 4.0,
+      "winkType": "substring",
+      "decision": "KEEP",
+      "reason": "Chapter 21 title authored into the book; exact substring 'Alexander' = county name; plain language, no cipher. Legitimately distinct from a personal name. Still only the same generic string."
+    },
+    {
+      "entity": "Alexander the Great",
+      "strength": 4.0,
+      "winkType": "substring",
+      "decision": "KEEP",
+      "reason": "Plain substring; 'Alexander' exactly names the county read past the king. Distinct carrier."
+    },
+    {
+      "entity": "Alexander the Great (duplicate row)",
+      "strength": 4.0,
+      "winkType": "substring",
+      "decision": "KILL",
+      "reason": "Exact duplicate of the prior 'Alexander the Great' entry. Adds no distinct entity; only pads the count."
+    }
+  ],
+
+  "survivingDistinctEntities": [
+    "Alexander Calder",
+    "Antiquities of Alexander",
+    "Alexander the Great"
+  ],
+  "survivingEntities": 3,
+
+  "adversarialAssessment": {
+    "singleMechanismProblem": "All survivors rely on ONE coincidence: the extremely common given name/surname 'Alexander' happens to also be an NC county. This is the same signal re-counted across three carriers (an artist's first name, a king, a chapter title), not three independent convergent clues.",
+    "genericNameProblem": "'Alexander' is among the most common personal names in English. Any book referencing anyone named Alexander, or Alexander the Great, auto-generates this 'wink.' By the prompt's own rule, generic name matches that would fire for dozens of texts do not count as location-specific.",
+    "noLocationSemantics": "None of the survivors carry meaning pointing to a treasure SITE; they only note a string collision with a county name. Contrast Hiddenite ('Hidden'+'-ite'), which adds genuine concealment semantics. Alexander adds none.",
+    "inflationByDuplicationAndSelfReference": "Two of the six rows are literal self-references to the place ('Alexander County' x2) and one is a duplicate king row. The headline score (44.0) and '5 distinct entities' are substantially inflated by counting the place naming itself plus duplicates.",
+    "neutralAcceptance": "A neutral reader would not accept 'a book mentions Alexander the Great and an artist named Alexander' as evidence the treasure is in Alexander County. Only someone already favoring the NC/Alexander hypothesis would."
+  },
+
+  "isRival": false,
+  "verdict": "Real NC place, but its winks are one generic-name coincidence re-counted plus self-references/duplicates; no location-specific signal. Not a serious rival."
+}

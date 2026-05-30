@@ -1,0 +1,42 @@
+{
+  "place": "Brazil",
+  "state": "IN",
+  "judge": "adversarial",
+  "placeExists": true,
+  "placeVerification": "Brazil, Indiana is a real, specific US place: county seat of Clay County, Indiana (confirmed via Wikipedia). It is, however, a small midwestern city, while every supporting wink references the South American country Brazil, not the Indiana town.",
+  "winks": [
+    {
+      "entity": "Chivor Emerald (Ch.4)",
+      "claimedStrength": "weak",
+      "verdict": "KILL",
+      "reason": "Chivor is a Colombian mine, NOT in Brazil. The only link is 'both South America' -> a continent-level stretch that would equally fit Peru, Argentina, Venezuela. Not location-specific, not plain reading."
+    },
+    {
+      "entity": "Picasso's Pendant (Ch.22)",
+      "claimedStrength": "weak",
+      "verdict": "KILL",
+      "reason": "The wink text itself states the association is to Europe, not Brazil. Self-refuting; no Brazil link at all."
+    },
+    {
+      "entity": "Antiquities of Alexander (Ch.21)",
+      "claimedStrength": "weak",
+      "verdict": "KILL",
+      "reason": "Wink text says 'no plain Brazil link.' Self-refuting non-wink."
+    },
+    {
+      "entity": "Amelia Earhart autograph (Ch.7)",
+      "claimedStrength": "moderate",
+      "verdict": "KILL",
+      "reason": "True that Earhart's final flight stopped at Natal, Brazil, so the word 'Brazil' surfaces. But it points to the South American COUNTRY, not Brazil, Indiana. Indirect, requires biographical research, and resolves to the wrong Brazil. Strongest of the five but still not location-specific to the IN town."
+    },
+    {
+      "entity": "Massive Gold Rush Nugget (Ch.12)",
+      "claimedStrength": "weak",
+      "verdict": "KILL",
+      "reason": "Minas Gerais gold rush is in the country Brazil; thematic gold association only. The Indiana town has no gold-rush tie. Country-level, not town-specific."
+    }
+  ],
+  "survivingEntities": 0,
+  "isRival": false,
+  "verdict": "Place is real (Clay County, IN) but every wink references the COUNTRY Brazil, not the town; all self-refute, are continental, or thematic. Zero survive."
+}

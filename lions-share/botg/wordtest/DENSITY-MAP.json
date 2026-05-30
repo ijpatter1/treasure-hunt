@@ -1,0 +1,6230 @@
+{
+  "locations": [
+    {
+      "place": "Alexander",
+      "state": "NC",
+      "distinctEntities": 5,
+      "pages": 5,
+      "avgStrength": 4.0,
+      "score": 44.0,
+      "supporting": [
+        {
+          "entity": "Alexander Calder",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "First name 'Alexander' is an exact-name US county (NC, IL) and town read straight off the word."
+        },
+        {
+          "entity": "Alexander County, North Carolina",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Alexander' is itself a US place name (Alexander, NC community and Alexander County)."
+        },
+        {
+          "entity": "Alexander County",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Alexander' is exactly the name of Alexander County, NC (and Alexander, NC town)."
+        },
+        {
+          "entity": "Antiquities of Alexander",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Alexander' is the exact name of Alexander County, North Carolina (and Alexander City, AL)."
+        },
+        {
+          "entity": "Alexander the Great",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Alexander' itself names Alexander County, NC, regardless of the king's fame."
+        },
+        {
+          "entity": "Alexander the Great",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Alexander' is exactly the name of Alexander County, North Carolina (and Alexander City, AL)."
+        }
+      ]
+    },
+    {
+      "place": "Jordan",
+      "state": "MN",
+      "distinctEntities": 4,
+      "pages": 4,
+      "avgStrength": 3.0,
+      "score": 22.8,
+      "supporting": [
+        {
+          "entity": "Jordan",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Jordan' is a real US town name (Jordan, Minnesota; Jordan, New York; Jordan, Montana)."
+        },
+        {
+          "entity": "Best of Its Class Jordan Rookie Card",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Jordan' is a real US town (Jordan, MN; Jordan, NY) read straight off the name."
+        },
+        {
+          "entity": "Jordan Rookie Card",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Jordan' is exactly a real US town (Jordan, Minnesota; Jordan, NY/MT)."
+        },
+        {
+          "entity": "Michael Jordan (Michael Jeffrey Jordan)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Jordan' is itself a US town name (Jordan, Minnesota; also Jordan, Montana; Jordan, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Hiddenite",
+      "state": "NC",
+      "distinctEntities": 3,
+      "pages": 3,
+      "avgStrength": 4.6667,
+      "score": 22.4,
+      "supporting": [
+        {
+          "entity": "Hiddenite",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The word literally is a real NC community, and it plainly contains 'Hidden' -- the natural reading for where something is concealed."
+        },
+        {
+          "entity": "Hiddenite, Alexander County, North Carolina",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Hiddenite' contains 'Hidden' and is itself an exact real NC town name."
+        },
+        {
+          "entity": "Hiddenite, NC",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word literally contains 'Hidden' and is itself the named hamlet Hiddenite, NC."
+        }
+      ]
+    },
+    {
+      "place": "Chicago",
+      "state": "IL",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 5.0,
+      "score": 13.0,
+      "supporting": [
+        {
+          "entity": "Art Institute of Chicago",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Chicago' is exactly the major US city in Illinois."
+        },
+        {
+          "entity": "Chicago",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Chicago' is itself the major US city name."
+        }
+      ]
+    },
+    {
+      "place": "Cleveland",
+      "state": "OH",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 5.0,
+      "score": 13.0,
+      "supporting": [
+        {
+          "entity": "Cleveland Museum of Art",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Cleveland' is exactly a major US city (Cleveland, Ohio; Cleveland, TN)."
+        },
+        {
+          "entity": "Cleveland Museum of Art, OH",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Cleveland' is itself the name of the major Ohio city and many other US places."
+        }
+      ]
+    },
+    {
+      "place": "Dallas",
+      "state": "TX",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 5.0,
+      "score": 13.0,
+      "supporting": [
+        {
+          "entity": "Dallas Museum of Art",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Dallas' is exactly the major US city in Texas (also Dallas, OR)."
+        },
+        {
+          "entity": "Dallas, Texas",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Dallas' is itself a US city name (also Dallas, OR; Dallas, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Brazil",
+      "state": "IN",
+      "distinctEntities": 2,
+      "pages": 3,
+      "avgStrength": 4.0,
+      "score": 12.8,
+      "supporting": [
+        {
+          "entity": "Brazil",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "'Brazil' is the exact name of a real city in Indiana, ignoring the country."
+        },
+        {
+          "entity": "Brazil",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Brazil' is the exact name of a US city (Brazil, Indiana, county seat of Clay County)."
+        },
+        {
+          "entity": "Brazilian rough",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Brazil' is exactly the name of Brazil, Indiana, a real US town."
+        }
+      ]
+    },
+    {
+      "place": "Lincoln",
+      "state": "NE",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 4.5,
+      "score": 11.7,
+      "supporting": [
+        {
+          "entity": "Lincoln, Rhode Island",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Lincoln' is the exact name of Lincoln, Nebraska (state capital) and many other US places."
+        },
+        {
+          "entity": "Lincoln",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "'Lincoln' is exactly the name of Lincoln, Nebraska, and dozens of other US places."
+        }
+      ]
+    },
+    {
+      "place": "Golden",
+      "state": "CO",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "The Golden Chalice",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Golden' is exactly the name of the well-known Colorado city (also Golden, NM)."
+        },
+        {
+          "entity": "The Golden State",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The bare word 'Golden' is a real US town (Golden, CO), read past the California nickname."
+        }
+      ]
+    },
+    {
+      "place": "Hercules",
+      "state": "CA",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "Gold armband with Herakles knot",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "'Herakles' is the Greek form of Hercules, matching the city of Hercules, California."
+        },
+        {
+          "entity": "Hercules' Club",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "'Hercules' is the exact name of the city of Hercules, California."
+        }
+      ]
+    },
+    {
+      "place": "Jackson",
+      "state": "MS",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "Michael Jackson",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Jackson' is the exact name of Jackson, Mississippi (a state capital) and dozens of other US places."
+        },
+        {
+          "entity": "Jackson County",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "'Jackson' is an extremely common US place name (Jackson, MS; Jackson, WY)."
+        }
+      ]
+    },
+    {
+      "place": "Marshall",
+      "state": "TX",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "Marshall, Virginia",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Marshall' is a common US place name (Marshall, TX; Marshall, MO; Marshall County in several states)."
+        },
+        {
+          "entity": "James W. Marshall",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "'Marshall' standing alone is a common US town/county name (Marshall, TX; Marshall County, several states)."
+        }
+      ]
+    },
+    {
+      "place": "Mason",
+      "state": "TX",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "Mason Rudolph golf course",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Mason is an exact-match Texas town and county."
+        },
+        {
+          "entity": "Mason County",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Mason' is a US town name (Mason, TX; Mason City, IA)."
+        }
+      ]
+    },
+    {
+      "place": "Tar Heel",
+      "state": "NC",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.5,
+      "score": 9.1,
+      "supporting": [
+        {
+          "entity": "Tar Heel, North Carolina",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Tar Heel' is literally an incorporated US town in Bladen County, North Carolina."
+        },
+        {
+          "entity": "University of North Carolina Tar Heels",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Tar Heel' is itself a town name (Tar Heel, NC in Bladen County)."
+        }
+      ]
+    },
+    {
+      "place": "Roosevelt",
+      "state": "UT",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 3.0,
+      "score": 7.8,
+      "supporting": [
+        {
+          "entity": "Eleanor Roosevelt",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Roosevelt' is an exact-name town in Utah and a county in Montana/New Mexico, read straight off the surname."
+        },
+        {
+          "entity": "Roosevelts",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Roosevelt is the exact name of Roosevelt, UT and Roosevelt County, NM/MT."
+        }
+      ]
+    },
+    {
+      "place": "Carnegie",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 4,
+      "avgStrength": 4.0,
+      "score": 7.6,
+      "supporting": [
+        {
+          "entity": "Andrew Carnegie",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Carnegie' is an exact-name borough in Pennsylvania and a town in Oklahoma."
+        },
+        {
+          "entity": "Andrew Carnegie",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "Carnegie is a real Pennsylvania borough named after the industrialist; also Carnegie, OK."
+        },
+        {
+          "entity": "Andrew Carnegie",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The surname Carnegie is itself the name of a borough in Pennsylvania (also towns in OK and CA)."
+        },
+        {
+          "entity": "Andrew Carnegie",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Carnegie is a real borough in Pennsylvania (also Carnegie, OK), an exact match to the name."
+        }
+      ]
+    },
+    {
+      "place": "Star",
+      "state": "NC",
+      "distinctEntities": 2,
+      "pages": 1,
+      "avgStrength": 3.5,
+      "score": 7.0,
+      "supporting": [
+        {
+          "entity": "Star of Asia",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The leading word 'Star' is the exact name of a town in Montgomery County, North Carolina (also Star, ID)."
+        },
+        {
+          "entity": "Star Trek",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Reading past the show, 'Star' is the exact name of a town in Montgomery County, NC."
+        }
+      ]
+    },
+    {
+      "place": "Madison",
+      "state": "WI",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 2.5,
+      "score": 6.5,
+      "supporting": [
+        {
+          "entity": "Madison Street",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Madison' is a very common US place name (Madison, WI; Madison County)."
+        },
+        {
+          "entity": "Madisyn Taylor",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The name 'Madisyn' sounds exactly like Madison, a US city and many US counties."
+        }
+      ]
+    },
+    {
+      "place": "Lima",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 2,
+      "avgStrength": 4.6667,
+      "score": 6.0667,
+      "supporting": [
+        {
+          "entity": "Lima",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Lima' is exactly the name of a real US city (Lima, Ohio; also Lima, NY/MT)."
+        },
+        {
+          "entity": "Lima",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "Duplicate-safe: 'Lima' matches Lima, Ohio exactly."
+        },
+        {
+          "entity": "Lima",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Lima' is the exact name of Lima, Ohio (and Lima, NY), a real US city."
+        }
+      ]
+    },
+    {
+      "place": "Johnson City",
+      "state": "TN",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 2.0,
+      "score": 5.2,
+      "supporting": [
+        {
+          "entity": "Lyndon Johnson",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The surname 'Johnson' is a real US place name (Johnson City, Tennessee; Johnson County)."
+        },
+        {
+          "entity": "Magic Johnson (Earvin Johnson)",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The surname 'Johnson' is a common US place element (Johnson City, TN; Johnson County)."
+        }
+      ]
+    },
+    {
+      "place": "Walden",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 2,
+      "avgStrength": 4.0,
+      "score": 5.2,
+      "supporting": [
+        {
+          "entity": "Walden",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Walden' is itself a US town name (Walden, CO; Walden, NY)."
+        },
+        {
+          "entity": "Walden",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Walden' is the exact name of a US town (Walden, Colorado, county seat of Jackson County)."
+        }
+      ]
+    },
+    {
+      "place": "Allegheny",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Allegheny River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Allegheny' is a real US river, county, and mountain range."
+        }
+      ]
+    },
+    {
+      "place": "Apollo",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Apollo",
+          "winkType": "meaning",
+          "strength": 5.0,
+          "rationale": "'Apollo' is the exact name of the borough of Apollo, Pennsylvania."
+        }
+      ]
+    },
+    {
+      "place": "Athens",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Athens",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "Athens is an exact-match US city name (Athens, Georgia and Athens, Tennessee)."
+        }
+      ]
+    },
+    {
+      "place": "Baltimore",
+      "state": "MD",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Baltimore",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Baltimore' is exactly the major US city in Maryland."
+        }
+      ]
+    },
+    {
+      "place": "Boston",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Boston, MA",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Boston' is itself a US city name (also Boston, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Brooklyn",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Brooklyn Museum",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Brooklyn' is exactly a real US place (Brooklyn, NY; Brooklyn, OH)."
+        }
+      ]
+    },
+    {
+      "place": "Cairo",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Cairo, Egypt",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The word 'Cairo' is itself a well-known US town (Cairo, Illinois; also Cairo, Georgia)."
+        }
+      ]
+    },
+    {
+      "place": "Cape Cod",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Cape Cod",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Cape Cod' is a real named US feature in Massachusetts."
+        }
+      ]
+    },
+    {
+      "place": "Christmas, Florida",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Christmas",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Christmas' is exactly the name of a real unincorporated community in Florida."
+        }
+      ]
+    },
+    {
+      "place": "Cicero",
+      "state": "IL/IN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Cicero",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Cicero' is the exact name of Cicero, Illinois and Cicero, Indiana."
+        }
+      ]
+    },
+    {
+      "place": "Colorado",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Colorado River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Colorado' is a US state and major river."
+        }
+      ]
+    },
+    {
+      "place": "Concord",
+      "state": "NH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Thoreau's Concord",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Concord' is the exact name of many US places (Concord, NH capital; Concord, MA; Concord, CA)."
+        }
+      ]
+    },
+    {
+      "place": "Daphne",
+      "state": "AL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Daphne",
+          "winkType": "meaning",
+          "strength": 5.0,
+          "rationale": "'Daphne' is the exact name of the city of Daphne, Alabama."
+        }
+      ]
+    },
+    {
+      "place": "Dartmouth",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Dartmouth",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Dartmouth' is exactly a real US town (Dartmouth, Massachusetts)."
+        }
+      ]
+    },
+    {
+      "place": "Earth, Texas",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Earth",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Earth' is exactly the name of a real town in Texas."
+        }
+      ]
+    },
+    {
+      "place": "Faulkner County",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "William Faulkner",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The surname 'Faulkner' is exactly the name of Faulkner County, Arkansas."
+        }
+      ]
+    },
+    {
+      "place": "Fort Snelling",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Fort Snelling",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Fort Snelling' is a real named historic site in Minnesota."
+        }
+      ]
+    },
+    {
+      "place": "Greece",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Greece",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The word 'Greece' is the exact name of the town of Greece, New York."
+        }
+      ]
+    },
+    {
+      "place": "Green River",
+      "state": "WY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Green River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Green River' is a real river and a city (Green River, Wyoming/Utah)."
+        }
+      ]
+    },
+    {
+      "place": "Hanover",
+      "state": "NH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Hanover, NH",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Hanover' is exactly a real US town (Hanover, NH; Hanover, PA)."
+        }
+      ]
+    },
+    {
+      "place": "Harpers Ferry",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Harpers Ferry NHP",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Harpers Ferry' is exactly a real town in West Virginia."
+        }
+      ]
+    },
+    {
+      "place": "Homer",
+      "state": "AK/NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Homer",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Homer' is the exact name of Homer, Alaska and Homer, New York."
+        }
+      ]
+    },
+    {
+      "place": "Keyser",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Keyser, West Virginia",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Keyser' is exactly the name of a real city in West Virginia."
+        }
+      ]
+    },
+    {
+      "place": "Los Angeles",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Los Angeles",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Los Angeles' is exactly the major US city in California."
+        }
+      ]
+    },
+    {
+      "place": "Macedon",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Macedon / Macedonian",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Macedon' is the exact name of the town of Macedon in Wayne County, New York."
+        }
+      ]
+    },
+    {
+      "place": "Mars, Pennsylvania",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Mars",
+          "winkType": "homophone",
+          "strength": 5.0,
+          "rationale": "The word 'Mars' is exactly the name of a real borough in Pennsylvania."
+        }
+      ]
+    },
+    {
+      "place": "Mexico",
+      "state": "MO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Mexico",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Mexico' is the exact name of a US town (Mexico, Missouri; also Mexico, New York)."
+        }
+      ]
+    },
+    {
+      "place": "Milan",
+      "state": "TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Inter Milan",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Milan' is the exact name of many US towns (Milan, Tennessee; Milan, Ohio; Milan, Michigan)."
+        }
+      ]
+    },
+    {
+      "place": "Minnesota",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Minnesota River / Minnesota",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Minnesota' is a US state and river."
+        }
+      ]
+    },
+    {
+      "place": "Mississippi",
+      "state": "MS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Mississippi River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Mississippi' is a US state and major river."
+        }
+      ]
+    },
+    {
+      "place": "Missouri",
+      "state": "MO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Missouri (Mississippi + Missouri)",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Missouri' is a US state and river."
+        }
+      ]
+    },
+    {
+      "place": "Monongahela",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Monongahela River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Monongahela' is a real US river and a city (Monongahela, PA)."
+        }
+      ]
+    },
+    {
+      "place": "Mount Vernon",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Mount Vernon",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Mount Vernon' is a common US city name (Mount Vernon, WA/OH/IL/NY)."
+        }
+      ]
+    },
+    {
+      "place": "Newport",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Newport, RI (Hammersmith Farm)",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Newport' is an extremely common US city name (Newport, KY; Newport, OR; Newport News, VA)."
+        }
+      ]
+    },
+    {
+      "place": "Ohio",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Ohio",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Ohio' is a US state and also town names (Ohio, IL)."
+        }
+      ]
+    },
+    {
+      "place": "Oxford",
+      "state": "MS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Oxford definition",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Oxford' is exactly the name of many US towns (Oxford, MS; Oxford, OH; Oxford, NC)."
+        }
+      ]
+    },
+    {
+      "place": "Paris",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Paris",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Paris' is exactly the name of many US towns (Paris, Texas; Paris, KY/TN)."
+        }
+      ]
+    },
+    {
+      "place": "Pennsylvania",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Pennsylvania (PA)",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Pennsylvania' is a US state."
+        }
+      ]
+    },
+    {
+      "place": "Peru",
+      "state": "IN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Peru",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Peru' is exactly the name of several US towns (Peru, Indiana; Peru, Illinois; Peru, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Phoenicia",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Phoenicia, New York",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Phoenicia' is itself the name of the Catskills hamlet; the word reads directly as a US place."
+        }
+      ]
+    },
+    {
+      "place": "Pierre",
+      "state": "SD",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Pierre Hugo",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Pierre' is exactly the name of Pierre, the capital of South Dakota (and the word also contains 'Hugo')."
+        }
+      ]
+    },
+    {
+      "place": "Pittsburgh",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Pittsburgh",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Pittsburgh' is exactly the major US city in Pennsylvania."
+        }
+      ]
+    },
+    {
+      "place": "Richmond",
+      "state": "VA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Richmond, Virginia Museum of Fine Arts",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Richmond' is itself a US city name (Richmond, VA; Richmond, CA; Richmond, IN)."
+        }
+      ]
+    },
+    {
+      "place": "Rome",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Rome",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The word Rome is itself a well-known US city name (Rome, Georgia and Rome, New York)."
+        }
+      ]
+    },
+    {
+      "place": "Sandwich",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Sandwich / East Sandwich, Massachusetts",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Sandwich' is exactly a real US town (Sandwich, MA; Sandwich, IL; Sandwich, NH)."
+        }
+      ]
+    },
+    {
+      "place": "Sapphire",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "The 120 Carat Sapphire",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The word 'Sapphire' is the exact name of a community in Jackson County, North Carolina."
+        }
+      ]
+    },
+    {
+      "place": "Shenandoah",
+      "state": "VA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Shenandoah River",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Shenandoah' is a real US river, valley, and town (Shenandoah, VA/IA/PA)."
+        }
+      ]
+    },
+    {
+      "place": "Statesville",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Statesville",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Statesville' is exactly a real NC city name."
+        }
+      ]
+    },
+    {
+      "place": "Thoreau",
+      "state": "NM",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Henry David Thoreau",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "The surname 'Thoreau' is exactly the name of the town of Thoreau, New Mexico (a real incorporated community)."
+        }
+      ]
+    },
+    {
+      "place": "Ulysses",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Ulysses, Kansas",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Ulysses' is itself a US town name in Kansas (also Ulysses, NY; Ulysses, PA)."
+        }
+      ]
+    },
+    {
+      "place": "Utah",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Utah",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Utah' is a US state."
+        }
+      ]
+    },
+    {
+      "place": "Washington",
+      "state": "DC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Washington, DC",
+          "winkType": "substring",
+          "strength": 5.0,
+          "rationale": "'Washington' is the US capital and countless US towns/counties."
+        }
+      ]
+    },
+    {
+      "place": "Window Rock",
+      "state": "AZ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 5.0,
+      "score": 5.0,
+      "supporting": [
+        {
+          "entity": "Window Rock",
+          "winkType": "homophone",
+          "strength": 5.0,
+          "rationale": "'Window Rock' is the exact name of a real town in Arizona (Navajo Nation capital)."
+        }
+      ]
+    },
+    {
+      "place": "Andes",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Andes Mountains",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Andes' is exactly the name of a town in the Catskills, New York."
+        }
+      ]
+    },
+    {
+      "place": "Apollo, Pennsylvania",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Apollo missions",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Apollo' is exactly the name of a real borough in Pennsylvania."
+        }
+      ]
+    },
+    {
+      "place": "Athena",
+      "state": "OR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Athena",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "'Athena' is the exact name of a US town (Athena, Oregon)."
+        }
+      ]
+    },
+    {
+      "place": "Atlanta",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Atalanta",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "Atalanta sounds like and is the etymological source of Atlanta, GA."
+        }
+      ]
+    },
+    {
+      "place": "Augusta",
+      "state": "GA/ME",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Augusta",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Augusta' is itself the name of multiple US places, most notably Augusta, Georgia and Augusta, Maine."
+        }
+      ]
+    },
+    {
+      "place": "Barton",
+      "state": "VT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Reed & Barton",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Barton' is the exact name of a US town (Barton, Vermont; also Barton, North Dakota)."
+        }
+      ]
+    },
+    {
+      "place": "Beatty",
+      "state": "NV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Beatty",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Beatty' is exactly the name of Beatty, Nevada, a real town near Death Valley."
+        }
+      ]
+    },
+    {
+      "place": "Bethlehem",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "St. Bethlehem",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Bethlehem is the well-known Pennsylvania city."
+        }
+      ]
+    },
+    {
+      "place": "Bogota",
+      "state": "NJ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Bogota",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Bogota' is the exact name of the borough of Bogota in Bergen County, New Jersey."
+        }
+      ]
+    },
+    {
+      "place": "Bryce Canyon",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Bryce",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The name 'Bryce' is exactly the name of Bryce Canyon and Bryce Canyon National Park in Utah."
+        }
+      ]
+    },
+    {
+      "place": "Cameron",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Cameron",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Cameron' is an exact match for several US towns/counties (Cameron, Texas; Cameron Parish, Louisiana)."
+        }
+      ]
+    },
+    {
+      "place": "Carnegie",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Andrew Carnegie",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Carnegie' is exactly the name of towns such as Carnegie, Oklahoma and Carnegie, PA."
+        }
+      ]
+    },
+    {
+      "place": "Castile",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Castile",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Castile' is the exact name of the village of Castile in Wyoming County, New York."
+        }
+      ]
+    },
+    {
+      "place": "Centerport",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Centerport, Long Island, NY",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Centerport' is itself the Long Island hamlet name."
+        }
+      ]
+    },
+    {
+      "place": "China",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "China",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "'China' is the exact name of real US towns (China, TX and China, ME)."
+        }
+      ]
+    },
+    {
+      "place": "China",
+      "state": "ME",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "China",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'China' is the exact name of US towns (China, Maine; China, Texas)."
+        }
+      ]
+    },
+    {
+      "place": "Christmas",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Christmas Eve",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Christmas' is exactly the name of a real US town (Christmas, Florida)."
+        }
+      ]
+    },
+    {
+      "place": "Cincinnati",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Cincinnatus",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The Roman statesman Cincinnatus is the namesake of Cincinnati, Ohio (and Cincinnatus, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Clay",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Cassius Clay",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Surname Clay is a very common US town and county name (Clay County in many states)."
+        }
+      ]
+    },
+    {
+      "place": "Clinton",
+      "state": "IA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Sir Henry Clinton",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The surname 'Clinton' is one of the most common US town names (Clinton, IA; Clinton, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Coleman",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Dr. Coleman",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Coleman is an exact-match Texas town and county."
+        }
+      ]
+    },
+    {
+      "place": "Corona, California",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Corona, Queens",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Corona' is a well-known standalone US city in California."
+        }
+      ]
+    },
+    {
+      "place": "Coronado",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Coronado-Cibola",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Coronado' is an exact match for Coronado, California, a real city and island."
+        }
+      ]
+    },
+    {
+      "place": "Cuba",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Cuba",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Cuba' is an exact-name US town in New York, Missouri, Illinois, and Alabama, read directly off the word."
+        }
+      ]
+    },
+    {
+      "place": "Cuthbert",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Betty Cuthbert",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Surname Cuthbert is an exact-match Georgia town (Cuthbert, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Decatur",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Commodore Stephen Decatur",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Decatur' is the exact name of Decatur, Illinois and many other US towns/counties."
+        }
+      ]
+    },
+    {
+      "place": "Durango",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Durango",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Durango' is the exact name of the real city of Durango, Colorado."
+        }
+      ]
+    },
+    {
+      "place": "Edgefield",
+      "state": "SC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Edgefield Missionary Baptist Church",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Edgefield is an exact-match South Carolina town and county."
+        }
+      ]
+    },
+    {
+      "place": "Egypt",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Egypt",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "'Egypt' is the exact name of communities such as Egypt, Pennsylvania and Egypt, Texas."
+        }
+      ]
+    },
+    {
+      "place": "Electra",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Lockheed Electra 10E",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Electra is the exact name of Electra, Texas."
+        }
+      ]
+    },
+    {
+      "place": "England",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "England",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'England' is exactly a real US town (England, Arkansas)."
+        }
+      ]
+    },
+    {
+      "place": "Enterprise, Alabama",
+      "state": "AL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "starship Enterprise",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Enterprise' is exactly the name of real cities in Alabama and Oregon."
+        }
+      ]
+    },
+    {
+      "place": "Fenn",
+      "state": "ID",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Forrest Fenn",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Fenn' is exactly the name of the small community of Fenn, Idaho."
+        }
+      ]
+    },
+    {
+      "place": "Florida",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Florida, Missouri",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Florida' reads immediately as the US state Florida, distinct from the tiny Missouri town."
+        }
+      ]
+    },
+    {
+      "place": "Friendship",
+      "state": "WI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Friendship",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The plane's name is the exact word of US towns named Friendship (WI, MD, TN, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Garden City",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Garden City, NY",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Garden City' is a common US city name (Garden City, KS; Garden City, MI; Garden City, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Garrison",
+      "state": "ND",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Garrison, Putnam County, NY",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Garrison' is the exact name of Garrison, North Dakota and other US towns."
+        }
+      ]
+    },
+    {
+      "place": "Gene Autry",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Gene Autry",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "There is a real town literally named Gene Autry, Oklahoma."
+        }
+      ]
+    },
+    {
+      "place": "Gordon",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Louis Gordon",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Gordon is the exact name of Gordon, GA and Gordon County, GA."
+        }
+      ]
+    },
+    {
+      "place": "Hamilton",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Alexander Hamilton",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The surname 'Hamilton' is a major US city name (Hamilton, OH; Hamilton, MT)."
+        }
+      ]
+    },
+    {
+      "place": "Harvard",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Harvard University",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Harvard is the exact name of Harvard, MA/IL/NE."
+        }
+      ]
+    },
+    {
+      "place": "Harvard, Illinois",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Harvard",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Harvard' is exactly the name of real towns in Illinois and Nebraska."
+        }
+      ]
+    },
+    {
+      "place": "Hidden Valley",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "William E. Hidden",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The literal word 'Hidden' names many US features (Hidden Valley, Hidden Lake), reading the name plainly as the adjective 'hidden'."
+        }
+      ]
+    },
+    {
+      "place": "Hooker",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Hooker Telescope",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word Hooker is literally the name of a town in the Oklahoma panhandle."
+        }
+      ]
+    },
+    {
+      "place": "Hoover",
+      "state": "AL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Herbert Hoover",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "Hoover is a real Alabama city; also Hoover Dam landmark."
+        }
+      ]
+    },
+    {
+      "place": "Hugo",
+      "state": "OK/CO/MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Victor Hugo",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The surname 'Hugo' is the exact name of several US towns (Hugo, Oklahoma named for the novelist; Hugo, Colorado; Hugo, Minnesota)."
+        }
+      ]
+    },
+    {
+      "place": "Hugo",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Francois Hugo",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Contains 'Hugo', the exact name of Hugo, Oklahoma and other US towns."
+        }
+      ]
+    },
+    {
+      "place": "Hugo",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Francois Hugo / Pierre Hugo",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Hugo' is exactly the name of Hugo, Colorado (and Hugo, OK / MN)."
+        }
+      ]
+    },
+    {
+      "place": "Irving, Texas",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Tony Irving (Anthony Irving)",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Irving' is exactly the name of a major city in Texas."
+        }
+      ]
+    },
+    {
+      "place": "Italy",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Italy",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word Italy is an exact-match real US town (Italy, Texas)."
+        }
+      ]
+    },
+    {
+      "place": "La Luz",
+      "state": "NM",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "La Luz",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "Spanish 'the light' is the name of the real village La Luz in Otero County, New Mexico."
+        }
+      ]
+    },
+    {
+      "place": "Lawrence",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Greg Lawrence",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Lawrence' is the exact name of Lawrence, Kansas and many other US towns."
+        }
+      ]
+    },
+    {
+      "place": "Liberty",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Liberty Park",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Liberty is a very common US town name in many states."
+        }
+      ]
+    },
+    {
+      "place": "Logan",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Logan Sapphire",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The name 'Logan' is the exact name of a city in Utah and of Logan County in several states."
+        }
+      ]
+    },
+    {
+      "place": "London",
+      "state": "KY/OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Londyn",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "'Londyn' is a respelling of London, which is also a real US town (e.g. London, Kentucky and London, Ohio)."
+        }
+      ]
+    },
+    {
+      "place": "Lumpkin County",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Martha Atalanta Lumpkin",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Lumpkin is the exact name of Lumpkin, GA and Lumpkin County, GA."
+        }
+      ]
+    },
+    {
+      "place": "Macedonia",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Macedonia",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "'Macedonia' is the exact name of US towns such as Macedonia, Ohio and Macedonia, Iowa."
+        }
+      ]
+    },
+    {
+      "place": "Madison, Wisconsin",
+      "state": "WI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "72nd & Madison",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Madison' is the bare-word name of Wisconsin's state capital and many US towns."
+        }
+      ]
+    },
+    {
+      "place": "Marble",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Marble Press",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Marble' is an exact match for Marble, Colorado, a real town."
+        }
+      ]
+    },
+    {
+      "place": "Melville",
+      "state": "MT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Herman Melville",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Melville' is exactly the name of towns such as Melville, Montana and Melville, NY."
+        }
+      ]
+    },
+    {
+      "place": "Monroe",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Harriet Monroe",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Monroe is the exact name of Monroe, NC and many Monroe counties."
+        }
+      ]
+    },
+    {
+      "place": "Montevideo",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Montevideo, Uruguay",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Montevideo' is the exact name of a real city in Chippewa County, Minnesota."
+        }
+      ]
+    },
+    {
+      "place": "Moon, Pennsylvania",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Moon",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Moon' is exactly the name of Moon Township, Pennsylvania."
+        }
+      ]
+    },
+    {
+      "place": "Mount Olympus",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Olympus",
+          "winkType": "meaning",
+          "strength": 4.0,
+          "rationale": "'Olympus' is exactly the name of Mount Olympus in Washington's Olympic National Park."
+        }
+      ]
+    },
+    {
+      "place": "Nelson",
+      "state": "NE",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Steve Nelson",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Nelson' is exactly the name of US towns (Nelson, Nebraska; Nelson County, KY/VA/ND)."
+        }
+      ]
+    },
+    {
+      "place": "Nixon, Texas",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "President Nixon",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Nixon' is exactly the name of real towns in Texas and Nevada."
+        }
+      ]
+    },
+    {
+      "place": "Norcross",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Otis Norcross",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The surname Norcross is an exact match to Norcross, Georgia, a well-known US city."
+        }
+      ]
+    },
+    {
+      "place": "Ovid",
+      "state": "NY/CO/MI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Ovid",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Ovid' is the exact name of Ovid, New York, Ovid, Colorado, and Ovid, Michigan."
+        }
+      ]
+    },
+    {
+      "place": "Patterson",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Eleanor \"Cissy\" Patterson",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Patterson' is the exact name of Patterson, California and other US towns."
+        }
+      ]
+    },
+    {
+      "place": "Pitt County",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Darryl Pitt",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Pitt' is exactly the name of a real county in North Carolina."
+        }
+      ]
+    },
+    {
+      "place": "Potomac",
+      "state": "MD",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Potomac Highlands / Potomac River",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Potomac' is the name of a real US place (Potomac, Maryland; Potomac, IL)."
+        }
+      ]
+    },
+    {
+      "place": "Potosi",
+      "state": "MO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Potosi",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The word 'Potosi' is the exact name of a real city in Washington County, Missouri (and Potosi, WI)."
+        }
+      ]
+    },
+    {
+      "place": "Provo",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Provo, Utah",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Provo' is itself the Utah city name (also Provo, SD)."
+        }
+      ]
+    },
+    {
+      "place": "Punta Gorda",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Punta Gorda",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The phrase 'Punta Gorda' is the exact name of a real city in Charlotte County, Florida."
+        }
+      ]
+    },
+    {
+      "place": "Putnam County",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "George Palmer Putnam",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Putnam is the exact name of Putnam County (NY, FL, TN, and others)."
+        }
+      ]
+    },
+    {
+      "place": "Radcliffe",
+      "state": "IA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Radcliffe",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Radcliffe is the exact name of Radcliffe, Iowa."
+        }
+      ]
+    },
+    {
+      "place": "San Carlos",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "San Carlos",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "The phrase 'San Carlos' is the exact name of a real city in San Mateo County, California (and San Carlos, AZ)."
+        }
+      ]
+    },
+    {
+      "place": "Saratoga Springs",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Saratoga",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The word 'Saratoga' is directly Saratoga, NY, the spa town invoked in the Calistoga coinage."
+        }
+      ]
+    },
+    {
+      "place": "Sleepy Hollow",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Sleepy Hollow",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Sleepy Hollow' is the exact name of the Westchester village (also Sleepy Hollow, IL/CA)."
+        }
+      ]
+    },
+    {
+      "place": "Snook",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Anita 'Neta' Snook",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname Snook is the exact name of Snook, Texas."
+        }
+      ]
+    },
+    {
+      "place": "Southampton",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Southampton, NY",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Southampton' is the exact name of the NY town and others."
+        }
+      ]
+    },
+    {
+      "place": "Stanford",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Stanford",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Stanford' is exactly the name of a real US town (Stanford, Kentucky; also Stanford, MT)."
+        }
+      ]
+    },
+    {
+      "place": "Stowe",
+      "state": "VT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Harriet Beecher Stowe",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Surname Stowe is the well-known Vermont town of Stowe."
+        }
+      ]
+    },
+    {
+      "place": "Sudan",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Sudan",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Sudan' is the exact name of a US town (Sudan, Texas)."
+        }
+      ]
+    },
+    {
+      "place": "Summit",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Pat Head Summitt Legacy Plaza",
+          "winkType": "homophone",
+          "strength": 4.0,
+          "rationale": "Summitt sounds exactly like Summit, a common US town name and a mountaintop feature."
+        }
+      ]
+    },
+    {
+      "place": "Sussex",
+      "state": "NJ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Sussex, New Jersey",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Sussex' is itself a US place name (Sussex, NJ; Sussex County, DE/VA)."
+        }
+      ]
+    },
+    {
+      "place": "Tarrytown",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Tarrytown, NY",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Tarrytown' is itself the Westchester village name."
+        }
+      ]
+    },
+    {
+      "place": "Temple",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Edward Stanley 'Ed' Temple",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Surname Temple is an exact-match Texas city (Temple, TX)."
+        }
+      ]
+    },
+    {
+      "place": "Upland",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Upland Trail",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Upland is an exact-match California city."
+        }
+      ]
+    },
+    {
+      "place": "Vega",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Lockheed Vega 5B",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Vega is the exact name of Vega, Texas."
+        }
+      ]
+    },
+    {
+      "place": "Virgil",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Virgil",
+          "winkType": "etymology",
+          "strength": 4.0,
+          "rationale": "The poet's name 'Virgil' is the exact name of Virgil, New York and Virgil, Kansas."
+        }
+      ]
+    },
+    {
+      "place": "Walden, Colorado (Jackson County) / Walden, NY",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Walden",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The bare word 'Walden' is itself a real US town (Walden, CO), independent of Thoreau's pond."
+        }
+      ]
+    },
+    {
+      "place": "Washburn",
+      "state": "WI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Joe Washburn",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Washburn is the exact name of Washburn, WI/ND and Washburn County, WI."
+        }
+      ]
+    },
+    {
+      "place": "Washington",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "George Washington",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "Washington is the exact name of a US state, the capital, and dozens of towns/counties."
+        }
+      ]
+    },
+    {
+      "place": "Washington (state / many towns)",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "George Washington",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'Washington' is directly a US state and dozens of towns/counties."
+        }
+      ]
+    },
+    {
+      "place": "West",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Taribo West",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'West' is the exact name of a US town (West, Texas)."
+        }
+      ]
+    },
+    {
+      "place": "Whitman County",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "Walt Whitman",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "The surname 'Whitman' is exactly the name of Whitman County, Washington (and Whitman, MA)."
+        }
+      ]
+    },
+    {
+      "place": "York",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 4.0,
+      "score": 4.0,
+      "supporting": [
+        {
+          "entity": "New York",
+          "winkType": "substring",
+          "strength": 4.0,
+          "rationale": "'York' is exactly a real US city (York, Pennsylvania; York, ME)."
+        }
+      ]
+    },
+    {
+      "place": "Gould",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 2,
+      "avgStrength": 3.0,
+      "score": 3.9,
+      "supporting": [
+        {
+          "entity": "Seth Gould",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Gould' is a real US town name (e.g. Gould, Arkansas; Gould, Oklahoma)."
+        },
+        {
+          "entity": "Seth Gould",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Gould' is exactly the name of Gould, Arkansas (and Gould, OK)."
+        }
+      ]
+    },
+    {
+      "place": "Phoenix",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 2,
+      "avgStrength": 3.0,
+      "score": 3.9,
+      "supporting": [
+        {
+          "entity": "Phoenix",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The plain word 'Phoenix' is the name of a real town in New York (independent of the famous Arizona city)."
+        },
+        {
+          "entity": "Phoenix",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The word 'Phoenix' is also the exact name of villages named Phoenix in New York and Oregon."
+        }
+      ]
+    },
+    {
+      "place": "Albany",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Albany County, Wyoming",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Albany is the exact name of the New York state capital and towns in GA and OR."
+        }
+      ]
+    },
+    {
+      "place": "Alexandria",
+      "state": "VA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Alexandria",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The word 'Alexandria' is directly a major US city (Alexandria, VA / LA / MN)."
+        }
+      ]
+    },
+    {
+      "place": "Anderson",
+      "state": "SC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Greg Anderson",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname Anderson is a well-known US place name (Anderson, SC and Anderson County in several states)."
+        }
+      ]
+    },
+    {
+      "place": "Arthur",
+      "state": "ND/NE",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Arthur Ellis",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Arthur' is the name of Arthur, North Dakota and Arthur County, Nebraska; also contains 'Ellis'."
+        }
+      ]
+    },
+    {
+      "place": "Arthur, Illinois / Arthur County, NE",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "President Chester A. Arthur",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Arthur' is a standalone US town and county name."
+        }
+      ]
+    },
+    {
+      "place": "Astor",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Astors",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Astor is the exact name of Astor, Florida."
+        }
+      ]
+    },
+    {
+      "place": "Bacchus",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Bacchus",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "'Bacchus' is a named place in Utah (Bacchus, near West Valley City)."
+        }
+      ]
+    },
+    {
+      "place": "Badger",
+      "state": "SD",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Badger clan",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "The plain word 'Badger' is the name of real US towns (e.g. Badger, South Dakota; Badger, Minnesota)."
+        }
+      ]
+    },
+    {
+      "place": "Baldwin",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "James Baldwin",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Baldwin' is an exact-name place in New York, Florida, and Baldwin County in Alabama/Georgia."
+        }
+      ]
+    },
+    {
+      "place": "Beecher",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Harriet Beecher Stowe",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Middle name Beecher is an exact-match town (Beecher, Illinois)."
+        }
+      ]
+    },
+    {
+      "place": "Black Mountain",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Jon Collins-Black",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The 'Black' half of the hyphenated surname is the name of features/towns such as Black Mountain, NC."
+        }
+      ]
+    },
+    {
+      "place": "Booker",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Booker T. Washington",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Booker is an exact-match Texas town."
+        }
+      ]
+    },
+    {
+      "place": "Bristol",
+      "state": "TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Bristol",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The word 'Bristol' is a US city (Bristol, TN/VA; Bristol, CT) independent of its English referent."
+        }
+      ]
+    },
+    {
+      "place": "Brushy",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Brushy Mountains",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Brushy' appears in real US place names (Brushy, OK; Brushy Mountain, TN/NC)."
+        }
+      ]
+    },
+    {
+      "place": "Buena Vista",
+      "state": "VA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Buena Vista",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The phrase 'Buena Vista' is the exact name of an independent city in Virginia (and Buena Vista, CO/GA)."
+        }
+      ]
+    },
+    {
+      "place": "Buffalo",
+      "state": "WY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Buffalo, NY",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Buffalo' is an exact-name town in Wyoming, South Dakota, Missouri, and Minnesota beyond the NY city."
+        }
+      ]
+    },
+    {
+      "place": "Burt",
+      "state": "IA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Burt High School",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Burt is a real US town (Burt, Iowa) and Burt County, Nebraska."
+        }
+      ]
+    },
+    {
+      "place": "Cabot",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Sebastian Cabot",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Cabot' is the exact name of the city of Cabot in Lonoke County, Arkansas (and Cabot, VT)."
+        }
+      ]
+    },
+    {
+      "place": "Campbell",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Fort Campbell",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Campbell is a common exact-match US town and county name."
+        }
+      ]
+    },
+    {
+      "place": "Cape Coral",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "coral",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "The plain word 'coral' appears directly in real US place names like Cape Coral and Coral Gables, Florida."
+        }
+      ]
+    },
+    {
+      "place": "Carlos",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Roberto Carlos",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Carlos' is the exact name of a US town (Carlos, Minnesota)."
+        }
+      ]
+    },
+    {
+      "place": "Carolina",
+      "state": "RI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "North Carolina",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Carolina' is itself a US place name (Carolina, RI; Carolina, WV) beyond the state."
+        }
+      ]
+    },
+    {
+      "place": "Carter County",
+      "state": "MT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Howard Carter",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname Carter is the exact name of counties in MT, OK, KY, TN and MO."
+        }
+      ]
+    },
+    {
+      "place": "Carver",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "George Washington Carver",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Surname Carver is an exact-match Massachusetts town and Carver County, MN."
+        }
+      ]
+    },
+    {
+      "place": "Cass",
+      "state": "WV/MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Cass Elliot (\"Mama Cass\")",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Cass' is the name of US places like Cass, West Virginia and Cass County (multiple states)."
+        }
+      ]
+    },
+    {
+      "place": "Cedar Grove",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Cedar Grove, Shreveport, Louisiana",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Cedar Grove' is an exact-name community in North Carolina, New Jersey, and Indiana, separate from the LA original."
+        }
+      ]
+    },
+    {
+      "place": "Chapman",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Chapman (State Park)",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "Chapman is a real US town name (Chapman, KS and Chapman, NE) matching the word exactly."
+        }
+      ]
+    },
+    {
+      "place": "Charlotte",
+      "state": "VT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Charlotte, NC",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Charlotte' is a widespread US place name (Charlotte, Vermont; Charlotte, Michigan; Charlotte County, FL/VA)."
+        }
+      ]
+    },
+    {
+      "place": "Clinton",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Coach Clinton Grey",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Clinton is one of the most common US town names across many states."
+        }
+      ]
+    },
+    {
+      "place": "Cobb",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Cobb Elementary",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Cobb is an exact-match Georgia county (Cobb County)."
+        }
+      ]
+    },
+    {
+      "place": "Concord",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Concord, Massachusetts",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "'Concord' is itself a common US town name (NC, NH, CA), readable straight off the word for harmony/agreement."
+        }
+      ]
+    },
+    {
+      "place": "Cooperstown / Cooper County",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Peter Cooper",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Cooper' is an exact US place root (Cooperstown NY, Cooper County MO, Cooper TX)."
+        }
+      ]
+    },
+    {
+      "place": "Corona",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Corona, Queens, NY",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Corona' is exactly the name of Corona, California."
+        }
+      ]
+    },
+    {
+      "place": "Dakota",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "South Dakota",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Dakota' is itself a place name (Dakota, MN; Dakota City, NE/IA) beyond the states."
+        }
+      ]
+    },
+    {
+      "place": "Dunbar",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Dunbar Cave",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Dunbar is an exact-match West Virginia city."
+        }
+      ]
+    },
+    {
+      "place": "Egypt",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Egypt",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Egypt' names several small US communities and an Egypt, Texas."
+        }
+      ]
+    },
+    {
+      "place": "Ellis",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Albert Ellis",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Ellis' is the exact name of Ellis, Kansas and Ellis County."
+        }
+      ]
+    },
+    {
+      "place": "Emerald",
+      "state": "WI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Emerald Hollow Mine",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Emerald' is the name of US places (Emerald, Wisconsin; Emerald Isle, NC)."
+        }
+      ]
+    },
+    {
+      "place": "Emerald Isle",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Andrew Carnegie's Emerald",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "The word emerald is the name of the coastal town Emerald Isle, North Carolina."
+        }
+      ]
+    },
+    {
+      "place": "Emerson",
+      "state": "NJ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Ralph Waldo Emerson",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Emerson' is a real US town name (Emerson, NJ and others)."
+        }
+      ]
+    },
+    {
+      "place": "Fairmount",
+      "state": "IN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Fairmount (Philadelphia neighborhood)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Fairmount' is itself a US town name (Fairmount, IN; Fairmont, WV/MN variants)."
+        }
+      ]
+    },
+    {
+      "place": "Florida",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Florida",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The word 'Florida' is also the exact name of villages/towns named Florida in New York and Massachusetts."
+        }
+      ]
+    },
+    {
+      "place": "Ford",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Gerald R. Ford",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Ford' is a US place name (Ford, KS; Ford County KS/IL)."
+        }
+      ]
+    },
+    {
+      "place": "Fort Collins",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Jon Collins-Black",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The 'Collins' half of the surname is the name of US places like Fort Collins, CO and Collins, MS."
+        }
+      ]
+    },
+    {
+      "place": "Foster",
+      "state": "RI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Foster Memorial Garden Cemetery",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Foster is a real US town (Foster, Rhode Island) and Foster County, ND."
+        }
+      ]
+    },
+    {
+      "place": "Franklin",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "The Franklin Institute",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Franklin is the exact name of Franklin, NC and dozens of Franklin counties/towns."
+        }
+      ]
+    },
+    {
+      "place": "Freedom",
+      "state": "NH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Freedom Point",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Freedom is a real US town name (Freedom, New Hampshire and others)."
+        }
+      ]
+    },
+    {
+      "place": "Frost",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Robert Frost",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Frost' is itself the name of a small Texas town (also Frost, MN)."
+        }
+      ]
+    },
+    {
+      "place": "George",
+      "state": "IA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "George (young George)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'George' is itself a town name (George, IA; George, WA)."
+        }
+      ]
+    },
+    {
+      "place": "Glen Cove",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Glen Cove",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Glen Cove' is exactly the name of Glen Cove, New York (and a CA locality), though here it is already a CO feature name."
+        }
+      ]
+    },
+    {
+      "place": "Graham",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Martha Graham",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Graham' is an exact-name town in North Carolina and Texas, and Graham County in NC/AZ."
+        }
+      ]
+    },
+    {
+      "place": "Hale County",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "George Ellery Hale",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname Hale is itself a US place name (Hale County TX/AL; Hale, MO)."
+        }
+      ]
+    },
+    {
+      "place": "Hampshire",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "New Hampshire (NH)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Hampshire' is itself a US place (Hampshire, Illinois; Hampshire County, WV) beyond the state."
+        }
+      ]
+    },
+    {
+      "place": "Hannibal",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hannibal, Missouri",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Hannibal' is also a US town elsewhere (Hannibal, Ohio; Hannibal, New York), so the word points to multiple real US places."
+        }
+      ]
+    },
+    {
+      "place": "Hart County",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Emil A. Harte",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "Harte is a homophone of Hart, the name of Hart County GA/KY and Hart, MI."
+        }
+      ]
+    },
+    {
+      "place": "Henderson",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Rev. James Henderson",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "'Henderson' is plainly a US city/county name (Henderson NC, NV, KY)."
+        }
+      ]
+    },
+    {
+      "place": "Hershey",
+      "state": "NE",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hershey, Pennsylvania",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Hershey is the exact name of a village in Nebraska as well as the PA town."
+        }
+      ]
+    },
+    {
+      "place": "Hewitt",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hewitt Sisters",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Hewitt' is an exact-name city in Texas and a town in Wisconsin/New Jersey."
+        }
+      ]
+    },
+    {
+      "place": "Hickory",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hickory, NC",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "The word is the common tree name 'hickory', which names many US places (Hickory, NC; Hickory, PA)."
+        }
+      ]
+    },
+    {
+      "place": "Holbrook",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Holbrook",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Holbrook' is an exact match for real US towns (Holbrook, Massachusetts; Holbrook, New York)."
+        }
+      ]
+    },
+    {
+      "place": "Holiday",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Billie Holiday",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Holiday' is an exact-name census-designated place near Tarpon Springs, Florida."
+        }
+      ]
+    },
+    {
+      "place": "Hollywood",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hollywood, California",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Hollywood is the exact name of Hollywood, FL and Hollywood, SC."
+        }
+      ]
+    },
+    {
+      "place": "Hope",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hope Diamond",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Hope' is exactly the name of Hope, Arkansas (and many other US towns)."
+        }
+      ]
+    },
+    {
+      "place": "Howland",
+      "state": "ME",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Howland Island",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Howland is the exact name of Howland, ME and Howland, OH."
+        }
+      ]
+    },
+    {
+      "place": "Hudson",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hudson Valley",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Hudson is the exact name of Hudson, NY/OH/FL."
+        }
+      ]
+    },
+    {
+      "place": "Jackson",
+      "state": "WY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "740 Jackson Place NW",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Jackson' (Place) reads as the common US town name Jackson (WY/MS/TN)."
+        }
+      ]
+    },
+    {
+      "place": "Kimberly, Idaho",
+      "state": "ID",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Kimberly",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The name 'Kimberly' is itself a real US town (Kimberly, ID; also WI, AL)."
+        }
+      ]
+    },
+    {
+      "place": "Lee",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Charles Lee",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Lee' is a common US place name (town of Lee, MA; Lee County in several states)."
+        }
+      ]
+    },
+    {
+      "place": "Lee, Massachusetts / Lee County",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Robert E. Lee",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Lee' is a standalone US town and numerous counties."
+        }
+      ]
+    },
+    {
+      "place": "Lenox",
+      "state": "IA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Lenox, Massachusetts",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Lenox is the exact name of towns in Iowa and Georgia (and the MA town itself)."
+        }
+      ]
+    },
+    {
+      "place": "Leo",
+      "state": "IN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Leo",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "'Leo' (Latin for lion) names Leo, Indiana and other small communities."
+        }
+      ]
+    },
+    {
+      "place": "Leon County",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Leon",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "Leon (Spanish 'lion') is the exact name of Leon County, Florida (and Leon County, Texas)."
+        }
+      ]
+    },
+    {
+      "place": "Lewis",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Eleanor 'Nelly' Parke Custis Lewis",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Lewis' maps to many US places (Lewis, KS; Lewis County in several states)."
+        }
+      ]
+    },
+    {
+      "place": "Lewis County",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Lawrence Lewis",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Lewis' is exactly the name of multiple Lewis Counties and the town of Lewiston."
+        }
+      ]
+    },
+    {
+      "place": "Lions",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Lion's Share Wiki",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Lion's' reads directly as Lions, a place name (e.g., Lions, several US localities; Lions Head features)."
+        }
+      ]
+    },
+    {
+      "place": "Lookout Mountain",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Lookout Mountain, Tennessee",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Lookout Mountain' is also a town in Georgia and the ridge spans TN/GA/AL."
+        }
+      ]
+    },
+    {
+      "place": "Maine",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Maine",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Maine' besides the state is also a town in Broome County, New York."
+        }
+      ]
+    },
+    {
+      "place": "Martin County",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Martin",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "'Martin' is the exact name of multiple US places, e.g. Martin County, KY, and the city of Martin, TN."
+        }
+      ]
+    },
+    {
+      "place": "Mason / Mason County",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Winifred Mason (Winifred Mason Chenet)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Mason' is an exact-name town and county in Texas, Ohio, Michigan, West Virginia."
+        }
+      ]
+    },
+    {
+      "place": "Maxwell, New Mexico",
+      "state": "NM",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "John Maxwell",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Maxwell' is the bare-word name of real US towns (Maxwell, NM; CA; TX)."
+        }
+      ]
+    },
+    {
+      "place": "McKean County, Pennsylvania",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Hugh and Jeannette McKean",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'McKean' is exactly a Pennsylvania county."
+        }
+      ]
+    },
+    {
+      "place": "Medusa",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Medusa",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "Medusa is a hamlet in Albany County, New York, an exact spelling match to the word."
+        }
+      ]
+    },
+    {
+      "place": "Merritt Island",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "John A. Merritt Boulevard",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Merritt is an exact-match place name (Merritt Island, Florida)."
+        }
+      ]
+    },
+    {
+      "place": "Middleburg",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Middleburg, VA",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Middleburg' is a US place name in several states (Middleburg, FL/PA/VA)."
+        }
+      ]
+    },
+    {
+      "place": "Morgan, Utah / Morgan County",
+      "state": "UT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Pierpont Morgan",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Morgan' is the bare-word name of a US town and many counties."
+        }
+      ]
+    },
+    {
+      "place": "Mount Lebanon",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Mt. Lebanon Cemetery",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Mt. Lebanon' is itself a US place (Mount Lebanon, PA; Lebanon in many states)."
+        }
+      ]
+    },
+    {
+      "place": "Nash, Texas / Nash County, NC",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Arthur Nash",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Nash' is itself a US town and a North Carolina county."
+        }
+      ]
+    },
+    {
+      "place": "Oakland",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Oakland (neighborhood, Pittsburgh)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Oakland is the exact name of the major California city and many other US towns."
+        }
+      ]
+    },
+    {
+      "place": "Olympia",
+      "state": "WA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Olympias",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "The name 'Olympias' reads as Olympia, the capital of Washington State."
+        }
+      ]
+    },
+    {
+      "place": "Paloma",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Paloma",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Paloma' is the name of small US places such as Paloma, Illinois; it also literally means 'dove'."
+        }
+      ]
+    },
+    {
+      "place": "Pearl",
+      "state": "MS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Pearl Primus",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "First name 'Pearl' is an exact-name city in Mississippi and Pearl River in MS/LA."
+        }
+      ]
+    },
+    {
+      "place": "Phoenix",
+      "state": "AZ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Phoenix",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "The mythical-bird word 'phoenix' is the name of Phoenix, Arizona (already the entity's place too, but the word itself stands)."
+        }
+      ]
+    },
+    {
+      "place": "Pisgah",
+      "state": "AL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Pisgah National Forest",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Pisgah' is a recurring US place name (Pisgah, Alabama; Mount Pisgah appears in many states), so the word itself names real US spots."
+        }
+      ]
+    },
+    {
+      "place": "Pitcher",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Molly Pitcher (Mary Ludwig Hays McCauley)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Pitcher' is the name of a town in Chenango County, New York."
+        }
+      ]
+    },
+    {
+      "place": "Pleasant Hill",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Pleasant Hill Trail",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Pleasant Hill is a common exact-match US town name in several states."
+        }
+      ]
+    },
+    {
+      "place": "Pope County",
+      "state": "AR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "the Pope",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Pope' is the exact name of US counties (Pope County, AR/IL/MN)."
+        }
+      ]
+    },
+    {
+      "place": "Purgatory",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Purgatory Chasm",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "Purgatory is the name of a Colorado resort/area and the Purgatoire River, matching the word."
+        }
+      ]
+    },
+    {
+      "place": "Putnam",
+      "state": "CT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Putnam County",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Putnam' is a US town name (Putnam, CT) and many counties."
+        }
+      ]
+    },
+    {
+      "place": "Redwood",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Redwood City, California",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Redwood' is a common US place root (Redwood Falls, MN; Redwood County; Redwood National Park)."
+        }
+      ]
+    },
+    {
+      "place": "Reed City",
+      "state": "MI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Reed & Barton",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Reed' appears in US place names such as Reed City, Michigan and Reeds Spring, Missouri."
+        }
+      ]
+    },
+    {
+      "place": "Reeves",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Reeves Field",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Reeves is an exact-match Texas county and Reeves, Louisiana."
+        }
+      ]
+    },
+    {
+      "place": "Reynolds",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Donald W. Reynolds",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Reynolds' is a US town name (Reynolds, GA; Reynolds, IN)."
+        }
+      ]
+    },
+    {
+      "place": "Roosevelt",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Theodore Roosevelt",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Roosevelt' is the exact name of several US towns (e.g. Roosevelt, UT; Roosevelt, NY)."
+        }
+      ]
+    },
+    {
+      "place": "Ross",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Peter Ross",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Ross' is a common US town name (Ross, California; Ross, Ohio; Ross County, Ohio)."
+        }
+      ]
+    },
+    {
+      "place": "Russell, Kansas / Russell County",
+      "state": "KS",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "E.H. Russell",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Russell' is the bare-word name of a real US town and county."
+        }
+      ]
+    },
+    {
+      "place": "Santa Teresa",
+      "state": "NM",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Teresa",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word 'Teresa' reads directly into Santa Teresa, New Mexico, a real community."
+        }
+      ]
+    },
+    {
+      "place": "Scotts",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Mike Scott (\"Scotty\"), Michael McCreary Scott",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Scott' reads as the place root Scott/Scotts (e.g., Scotts, NC in Iredell County; Scott County)."
+        }
+      ]
+    },
+    {
+      "place": "Stewart County",
+      "state": "GA/TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Patrick Stewart",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Stewart' is exactly the name of US counties in Georgia and Tennessee."
+        }
+      ]
+    },
+    {
+      "place": "Sutter County / Sutter, CA",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "John Sutter",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Sutter' is itself a California county and town name (past the man to the bare word)."
+        }
+      ]
+    },
+    {
+      "place": "The Plains",
+      "state": "VA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Plains of the Llanos (Los Llanos)",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "Spanish 'llanos' literally means 'the plains', and The Plains is a real US village in Virginia."
+        }
+      ]
+    },
+    {
+      "place": "Tiffany",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Louis Comfort Tiffany",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Tiffany' is the name of small communities such as Tiffany, Colorado."
+        }
+      ]
+    },
+    {
+      "place": "Tiger",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "TSU Tigerbelles",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The word contains Tiger, an exact-match Georgia town (Tiger, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Todd County",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Dr. D.B. Todd Jr. Boulevard",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "Todd is an exact-match US county name in several states."
+        }
+      ]
+    },
+    {
+      "place": "Twain Harte",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Mark Twain",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'Twain' is itself a US place name: Twain Harte and Twain, both small communities in California's Gold Country."
+        }
+      ]
+    },
+    {
+      "place": "Victory",
+      "state": "VT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Victory",
+          "winkType": "meaning",
+          "strength": 3.0,
+          "rationale": "Victory is an exact-match Vermont town name."
+        }
+      ]
+    },
+    {
+      "place": "Virginia",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "West Virginia",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Virginia' is itself a US town name (Virginia, Minnesota) beyond the state."
+        }
+      ]
+    },
+    {
+      "place": "Wakeman, Ohio",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Stephen Wakeman",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Wakeman' matches the real village of Wakeman, OH."
+        }
+      ]
+    },
+    {
+      "place": "Washington",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "George Washington",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Washington' is an exact-name town in many states (NC, GA, PA) plus the state and county; very common."
+        }
+      ]
+    },
+    {
+      "place": "Waterford",
+      "state": "CT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Waterford",
+          "winkType": "homophone",
+          "strength": 3.0,
+          "rationale": "'Waterford' is a US town (Waterford, CT; Waterford, MI) apart from the Irish city."
+        }
+      ]
+    },
+    {
+      "place": "White County",
+      "state": "GA/AR/TN/IL/IN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Frank White",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "The surname 'White' is exactly the name of several US counties."
+        }
+      ]
+    },
+    {
+      "place": "Whiteface",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Whiteface Mountain",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Whiteface' is itself a US place name (Whiteface, TX; the mountain in NY)."
+        }
+      ]
+    },
+    {
+      "place": "Winifred",
+      "state": "MT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Winifred Mason (Winifred Mason Chenet)",
+          "winkType": "substring",
+          "strength": 3.0,
+          "rationale": "'Winifred' is an exact-name small town in Montana, read straight off the first name."
+        }
+      ]
+    },
+    {
+      "place": "Wood",
+      "state": "WI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 3.0,
+      "score": 3.0,
+      "supporting": [
+        {
+          "entity": "Grant Wood",
+          "winkType": "etymology",
+          "strength": 3.0,
+          "rationale": "The surname 'Wood' maps to numerous US places (Wood County WI/OH/WV; town of Wood)."
+        }
+      ]
+    },
+    {
+      "place": "Onassis",
+      "state": "",
+      "distinctEntities": 2,
+      "pages": 2,
+      "avgStrength": 1.0,
+      "score": 2.6,
+      "supporting": [
+        {
+          "entity": "Jacqueline Kennedy Onassis",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Onassis' as a literal US place name is not something I can confidently recall, so this is at best a faint guess."
+        },
+        {
+          "entity": "Jackie Onassis",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "No US place named 'Onassis'; no clean wink."
+        }
+      ]
+    },
+    {
+      "place": "Abbott",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Cleve 'Major' Abbott",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "Abbott is a small exact-match Texas town."
+        }
+      ]
+    },
+    {
+      "place": "Asgard",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Asgaard Farm",
+          "winkType": "meaning",
+          "strength": 2.0,
+          "rationale": "'Asgaard' is the Norse home of the gods; Asgard is also a US place name (e.g. peaks/locales named Asgard)."
+        }
+      ]
+    },
+    {
+      "place": "Auburn",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Auburn, California",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The bare word 'Auburn' is a US town in many states (NY, AL, ME), but here it is already literally a CA town."
+        }
+      ]
+    },
+    {
+      "place": "Augusta",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Saint Augustine",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "'Augustine' shares the same Latin root and near-sound as Augusta, GA/ME, though the exact word also yields St. Augustine, FL."
+        }
+      ]
+    },
+    {
+      "place": "Beech",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Beech Forest",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Beech' is a common US place root (Beech Mountain, NC; Beech Grove, IN)."
+        }
+      ]
+    },
+    {
+      "place": "Berkshire",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Berkshire County, Massachusetts",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Berkshire' is also a small town in New York, distinct from the MA county named here."
+        }
+      ]
+    },
+    {
+      "place": "Bird Island",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Larry Bird",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The literal word 'Bird' appears in US place names such as Bird Island, MN and Bird City, KS."
+        }
+      ]
+    },
+    {
+      "place": "Blackwater",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Blackwater Pond",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Blackwater' is a US place name (Blackwater River, FL/VA; Blackwater, MO)."
+        }
+      ]
+    },
+    {
+      "place": "Brasstown",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Modernist-style brass cuff bracelet",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The literal word 'brass' begins Brasstown NC and Brasstown Bald GA."
+        }
+      ]
+    },
+    {
+      "place": "Brown County (multiple states)",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "John Brown",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Brown' is a common bare-word US county/town element, though generic."
+        }
+      ]
+    },
+    {
+      "place": "Buenos Aires",
+      "state": "NM",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Buenos Aires",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "Possible US locality named Buenos Aires, but uncertain it exists as a recognized place."
+        }
+      ]
+    },
+    {
+      "place": "Calder",
+      "state": "ID",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Alexander Calder",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Calder' is reported as a small unincorporated place in Idaho; faint and uncertain to exist."
+        }
+      ]
+    },
+    {
+      "place": "Clipper Mills",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Clipper",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "Clipper is the lead word of Clipper Mills and Clipper Gap, California."
+        }
+      ]
+    },
+    {
+      "place": "Cod (Cape Cod)",
+      "state": "MA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Cape Cod, Massachusetts",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The word 'Cape' plus 'Cod' is itself a named US feature, though it is already the entity's own referent."
+        }
+      ]
+    },
+    {
+      "place": "Columbia",
+      "state": "SC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Columbia, Maury County, Tennessee",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Columbia' is an extremely common US place name (state capital of SC, plus many towns)."
+        }
+      ]
+    },
+    {
+      "place": "Copper Harbor / Copper Mountain",
+      "state": "MI",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Copper-and-brass brooch",
+          "winkType": "meaning",
+          "strength": 2.0,
+          "rationale": "The literal metal 'copper' begins real US places like Copper Harbor MI and Copper Mountain CO."
+        }
+      ]
+    },
+    {
+      "place": "Davis",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Carlton Davis",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The surname 'Davis' is the exact name of Davis, California (and Davis County)."
+        }
+      ]
+    },
+    {
+      "place": "Dutton",
+      "state": "MT",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Clarence Dutton",
+          "winkType": "etymology",
+          "strength": 2.0,
+          "rationale": "The surname Dutton matches small US towns Dutton, MT and Dutton, AL."
+        }
+      ]
+    },
+    {
+      "place": "Easter",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Easter",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "No prominent US town simply named 'Easter'; faint at best."
+        }
+      ]
+    },
+    {
+      "place": "Elliott County",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Cass Elliot (Mama Cass)",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "Elliot sounds like and nearly spells Elliott County, Kentucky."
+        }
+      ]
+    },
+    {
+      "place": "Franklin",
+      "state": "TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Franklin, NC",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Franklin' is one of the most common US place names (Franklin, TN; Franklin County) across many states."
+        }
+      ]
+    },
+    {
+      "place": "Frostproof / Frost",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Frosty the Snowman",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Frosty' has no exact US town; 'Frost, TX' is the nearest relative, faint."
+        }
+      ]
+    },
+    {
+      "place": "Gay, Georgia",
+      "state": "GA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Patricia Gay",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Gay' is a small real US town in Georgia."
+        }
+      ]
+    },
+    {
+      "place": "Greene County",
+      "state": "OH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Fort Greene",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Greene' is a common US place element (Greene County in OH, NY, PA and elsewhere)."
+        }
+      ]
+    },
+    {
+      "place": "Henry",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Henry David Thoreau",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Thoreau' is itself a real US town (Thoreau, New Mexico), a cleaner direct wink than the given name."
+        }
+      ]
+    },
+    {
+      "place": "Hidden Valley",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Hiddenite",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Hidden' as a substring matches many US 'Hidden Valley'/'Hidden Lake' features nationwide."
+        }
+      ]
+    },
+    {
+      "place": "King",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Martin Luther King Jr.",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'King' is a real small US town (King, NC) though generic."
+        }
+      ]
+    },
+    {
+      "place": "Kirk, Colorado",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Captain James T. Kirk",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The surname 'Kirk' matches a small unincorporated community in Colorado."
+        }
+      ]
+    },
+    {
+      "place": "Laurens",
+      "state": "SC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Lauren",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Lauren' reads into Laurens, South Carolina, a real town and county seat."
+        }
+      ]
+    },
+    {
+      "place": "Lexington",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Lexington, Massachusetts",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The word 'Lexington' is also a major city in Kentucky and elsewhere."
+        }
+      ]
+    },
+    {
+      "place": "Lime",
+      "state": "OR",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Lime City, Ohio",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The word 'Lime' is itself a US place name (Lime, OR) embedded in 'Lime City'."
+        }
+      ]
+    },
+    {
+      "place": "Lions / Lion's Head",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Lion of Merelani",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The word 'Lion' appears in many US feature names (Lions, Lion's Head), but no single exact match stands out."
+        }
+      ]
+    },
+    {
+      "place": "Manalapan",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Manalapan",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "'Manalapan' is also the name of a town in Palm Beach County, Florida."
+        }
+      ]
+    },
+    {
+      "place": "Martha",
+      "state": "KY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Martha Washington",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The first name 'Martha' is itself the name of an unincorporated community in Kentucky."
+        }
+      ]
+    },
+    {
+      "place": "Memphis",
+      "state": "TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Memphis",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Memphis' is its own US city name, also found in Memphis, Missouri and Memphis, Texas."
+        }
+      ]
+    },
+    {
+      "place": "Moon Township",
+      "state": "PA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Moon",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "Moon is the exact name of Moon Township, PA and Moon, VA."
+        }
+      ]
+    },
+    {
+      "place": "Mount Hope",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Mount Hope Cemetery, San Diego",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The bare phrase 'Mount Hope' is a US town name (Mount Hope, WV; Mount Hope, KS)."
+        }
+      ]
+    },
+    {
+      "place": "Mountain View",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Mountain View, California",
+          "winkType": "meaning",
+          "strength": 2.0,
+          "rationale": "'Mountain View' is a generic descriptive place name shared by many US towns."
+        }
+      ]
+    },
+    {
+      "place": "Nashville",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Nashville, Tennessee",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Nashville' is also a town in North Carolina (and several other states) past the famous TN city."
+        }
+      ]
+    },
+    {
+      "place": "Orange",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Orange County, North Carolina",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Orange' is a common US place name (Orange, California; Orange, Texas; Orange County in several states)."
+        }
+      ]
+    },
+    {
+      "place": "Oro / Oro Valley",
+      "state": "AZ",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Mark Oros",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "'Oros' sounds like 'Oro' (Spanish for gold), as in Oro Valley, Arizona; Greek 'oros' also literally means 'mountain'."
+        }
+      ]
+    },
+    {
+      "place": "Platte",
+      "state": "NE",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Henry B. Platt",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "'Platt' sounds like 'Platte', as in the Platte River / North Platte, Nebraska."
+        }
+      ]
+    },
+    {
+      "place": "Richardson",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Richard",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Richard' reads into Richardson, a real Texas city, though the connection is loose."
+        }
+      ]
+    },
+    {
+      "place": "Santiago Peak",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Santiago",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "The word 'Santiago' appears in real US features such as Santiago Peak in the Santa Ana Mountains, California."
+        }
+      ]
+    },
+    {
+      "place": "Sequoyah County",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Charles Sequevya Loloma",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "The middle name Sequevya sounds close to Sequoyah, the name of Sequoyah County, OK."
+        }
+      ]
+    },
+    {
+      "place": "Smith County",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Art Smith",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The surname 'Smith' is the exact name of many US counties (Smith County, TX/KS/MS/TN)."
+        }
+      ]
+    },
+    {
+      "place": "Smith River",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Smith",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Smith' is a real place name, e.g. Smith River, California, though it is an extremely common word."
+        }
+      ]
+    },
+    {
+      "place": "Smithville / Smith County",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Art Smith (Arthur George Smith)",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Smith' is an extremely common exact US place root (Smithville, Smithfield, Smith County), but too generic to be pointed."
+        }
+      ]
+    },
+    {
+      "place": "Snowmass / Snow Hill",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Phoebe Snow",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The literal word 'Snow' begins many US places (Snowmass CO, Snow Hill NC, Snowflake AZ); faint as a full-name match."
+        }
+      ]
+    },
+    {
+      "place": "Sophia, North Carolina",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Sophia (Thoreau)",
+          "winkType": "homophone",
+          "strength": 2.0,
+          "rationale": "'Sophia' matches the unincorporated community of Sophia, NC."
+        }
+      ]
+    },
+    {
+      "place": "Spruce Pine",
+      "state": "AL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Spruce Pine, NC",
+          "winkType": "meaning",
+          "strength": 2.0,
+          "rationale": "The descriptive tree words 'Spruce Pine' name multiple US places (Spruce Pine, AL as well as NC)."
+        }
+      ]
+    },
+    {
+      "place": "St. Marks",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Mark",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Mark' reads into the town/refuge name St. Marks, Florida (faint, as 'Mark' alone is generic)."
+        }
+      ]
+    },
+    {
+      "place": "Stone Mountain / Stoneville",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Stone of Hope",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The literal word 'Stone' begins many real US places (Stone Mountain GA, Stoneville NC, Stone County)."
+        }
+      ]
+    },
+    {
+      "place": "Switzerland",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Little Switzerland, NC",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "The word 'Switzerland' appears in US place names (Switzerland, FL; Switzerland County, IN)."
+        }
+      ]
+    },
+    {
+      "place": "Tiffany",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Tiffany's Furnace & Thoreau's Fire",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Tiffany' appears as small localities (Tiffany, CO) but is faint as a place name."
+        }
+      ]
+    },
+    {
+      "place": "Truman",
+      "state": "MN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Trumansburg, New York",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Trumansburg' literally contains 'Truman', matching towns named Truman (e.g. Truman, Minnesota)."
+        }
+      ]
+    },
+    {
+      "place": "Union City",
+      "state": "TN",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Union City, NJ",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Union City' is a generic US place name shared by many states (TN, CA, GA)."
+        }
+      ]
+    },
+    {
+      "place": "Zachary",
+      "state": "LA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 2.0,
+      "score": 2.0,
+      "supporting": [
+        {
+          "entity": "Zach",
+          "winkType": "substring",
+          "strength": 2.0,
+          "rationale": "'Zach' reads into Zachary, Louisiana, a real city; loose because it relies on the full name."
+        }
+      ]
+    },
+    {
+      "place": "(generic 'Mountain')",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Mountain of Despair",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "Contains the generic feature word 'Mountain'; too generic to point at a specific place."
+        }
+      ]
+    },
+    {
+      "place": "Andover",
+      "state": "MA/NH",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Andvari",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "Faint sound-alike of the common town name Andover; not a clean plain reading."
+        }
+      ]
+    },
+    {
+      "place": "Atoka",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Atocha",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "Faint near-homophone of Atoka, Oklahoma; not an exact spelling match."
+        }
+      ]
+    },
+    {
+      "place": "Beckett",
+      "state": "WV",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Becket, Massachusetts",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "'Becket' sounds like 'Beckett'; faint and uncertain match."
+        }
+      ]
+    },
+    {
+      "place": "Briny Breezes",
+      "state": "FL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Brian",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "Very faint sound-alike; 'Brian' is mostly just a common first name with no clean US place match."
+        }
+      ]
+    },
+    {
+      "place": "Calaveras County",
+      "state": "CA",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Calaveras County",
+          "winkType": "meaning",
+          "strength": 1.0,
+          "rationale": "The word means 'skulls' in Spanish, but that meaning does not map to a distinct US place, so no clean wink."
+        }
+      ]
+    },
+    {
+      "place": "Carr",
+      "state": "CO",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Alphonse Karr",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "'Karr' sounds like 'Carr', as in Carr, Colorado; faint."
+        }
+      ]
+    },
+    {
+      "place": "Christ",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "the birth of Christ",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "No clean standalone US place named simply 'Christ'; Christmas, FL is a closer relative but not this word."
+        }
+      ]
+    },
+    {
+      "place": "Cleo",
+      "state": "OK",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Cleopatra",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Cleopatra' begins with 'Cleo,' matching Cleo Springs, Oklahoma, but this is a stretch."
+        }
+      ]
+    },
+    {
+      "place": "Cohen",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Cohen",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Cohen' has no notable exact US town; faint at best."
+        }
+      ]
+    },
+    {
+      "place": "Ernst",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Max Ernst",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Ernst' faintly resembles small US place names but no clean exact match."
+        }
+      ]
+    },
+    {
+      "place": "Horn / Hornell",
+      "state": "NY",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Lena Horne",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "'Horne' sounds like 'Horn'; faint match to features like Horn Mountain or Hornell NY."
+        }
+      ]
+    },
+    {
+      "place": "Marion",
+      "state": "NC",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Marin County, California",
+          "winkType": "homophone",
+          "strength": 1.0,
+          "rationale": "'Marin' sounds close to 'Marion', a very common US town/county name, but the vowel differs slightly."
+        }
+      ]
+    },
+    {
+      "place": "Muller",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Marcel Muller",
+          "winkType": "meaning",
+          "strength": 1.0,
+          "rationale": "Muller literally means 'miller'; Miller is a common US place name (Miller, SD), but the link is faint."
+        }
+      ]
+    },
+    {
+      "place": "Niner / Forty Niner area names",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Forty-Niner",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "Faint: the term contains no clean standalone US place beyond mining-camp echoes."
+        }
+      ]
+    },
+    {
+      "place": "Pana",
+      "state": "IL",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Pan",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "The short word 'Pan' echoes Pana, Illinois, though it is faint."
+        }
+      ]
+    },
+    {
+      "place": "Rodina",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Rodin",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Rodin' has no clean exact US place match; included only as a faint candidate."
+        }
+      ]
+    },
+    {
+      "place": "Sagan",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Carl Sagan",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "No US place named 'Sagan'; no clean wink."
+        }
+      ]
+    },
+    {
+      "place": "Shazer",
+      "state": "",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Steve de Shazer",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "The surname 'de Shazer' contains 'Shazer' but no well-known US place by that name comes to mind; very faint."
+        }
+      ]
+    },
+    {
+      "place": "Smithville",
+      "state": "TX",
+      "distinctEntities": 1,
+      "pages": 1,
+      "avgStrength": 1.0,
+      "score": 1.0,
+      "supporting": [
+        {
+          "entity": "Dean Smith",
+          "winkType": "substring",
+          "strength": 1.0,
+          "rationale": "'Smith' is an extremely common US place element (Smithville, Smith County) but far too generic to be a clean wink."
+        }
+      ]
+    }
+  ]
+}

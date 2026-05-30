@@ -1,0 +1,122 @@
+{
+  "page": "chapter-21",
+  "winks": [
+    {
+      "entity": "Antiquities of Alexander",
+      "place": "Alexander County",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The word 'Alexander' is the exact name of Alexander County, North Carolina (and Alexander City, AL)."
+    },
+    {
+      "entity": "Alexander the Great",
+      "place": "Alexander County",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Alexander' itself names Alexander County, NC, regardless of the king's fame."
+    },
+    {
+      "entity": "Macedonia",
+      "place": "Macedonia",
+      "state": "OH",
+      "winkType": "meaning",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Macedonia' is the exact name of US towns such as Macedonia, Ohio and Macedonia, Iowa."
+    },
+    {
+      "entity": "Olympias",
+      "place": "Olympia",
+      "state": "WA",
+      "winkType": "homophone",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The name 'Olympias' reads as Olympia, the capital of Washington State."
+    },
+    {
+      "entity": "Daphne",
+      "place": "Daphne",
+      "state": "AL",
+      "winkType": "meaning",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Daphne' is the exact name of the city of Daphne, Alabama."
+    },
+    {
+      "entity": "Pan",
+      "place": "Pana",
+      "state": "IL",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "high",
+      "rationale": "The short word 'Pan' echoes Pana, Illinois, though it is faint."
+    },
+    {
+      "entity": "Cleopatra",
+      "place": "Cleo",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "med",
+      "rationale": "'Cleopatra' begins with 'Cleo,' matching Cleo Springs, Oklahoma, but this is a stretch."
+    },
+    {
+      "entity": "Egypt",
+      "place": "Egypt",
+      "state": "PA",
+      "winkType": "meaning",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Egypt' is the exact name of communities such as Egypt, Pennsylvania and Egypt, Texas."
+    },
+    {
+      "entity": "Apollo",
+      "place": "Apollo",
+      "state": "PA",
+      "winkType": "meaning",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Apollo' is the exact name of the borough of Apollo, Pennsylvania."
+    },
+    {
+      "entity": "Phoenix",
+      "place": "Phoenix",
+      "state": "AZ",
+      "winkType": "meaning",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The mythical-bird word 'phoenix' is the name of Phoenix, Arizona (already the entity's place too, but the word itself stands)."
+    },
+    {
+      "entity": "Hercules' Club",
+      "place": "Hercules",
+      "state": "CA",
+      "winkType": "meaning",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Hercules' is the exact name of the city of Hercules, California."
+    },
+    {
+      "entity": "Leo",
+      "place": "Leo",
+      "state": "IN",
+      "winkType": "meaning",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Leo' (Latin for lion) names Leo, Indiana and other small communities."
+    },
+    {
+      "entity": "Bacchus",
+      "place": "Bacchus",
+      "state": "UT",
+      "winkType": "meaning",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Bacchus' is a named place in Utah (Bacchus, near West Valley City)."
+    }
+  ]
+}

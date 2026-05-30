@@ -1,0 +1,27 @@
+{
+  "page": "chapter-07",
+  "winks": [
+    { "entity": "Friendship", "place": "Friendship", "state": "WI", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The plane's name is the exact word of US towns named Friendship (WI, MD, TN, NY)." },
+    { "entity": "Anita 'Neta' Snook", "place": "Snook", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The surname Snook is the exact name of Snook, Texas." },
+    { "entity": "Louis Gordon", "place": "Gordon", "state": "GA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Gordon is the exact name of Gordon, GA and Gordon County, GA." },
+    { "entity": "George Palmer Putnam", "place": "Putnam County", "state": "NY", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Putnam is the exact name of Putnam County (NY, FL, TN, and others)." },
+    { "entity": "Atalanta", "place": "Atlanta", "state": "GA", "winkType": "homophone", "strength": 4, "existsConfidence": "high", "rationale": "Atalanta sounds like and is the etymological source of Atlanta, GA." },
+    { "entity": "Lockheed Vega 5B", "place": "Vega", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Vega is the exact name of Vega, Texas." },
+    { "entity": "Lockheed Electra 10E", "place": "Electra", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Electra is the exact name of Electra, Texas." },
+    { "entity": "Emil A. Harte", "place": "Hart County", "state": "GA", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "Harte is a homophone of Hart, the name of Hart County GA/KY and Hart, MI." },
+    { "entity": "Harriet Monroe", "place": "Monroe", "state": "NC", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Monroe is the exact name of Monroe, NC and many Monroe counties." },
+    { "entity": "Joe Washburn", "place": "Washburn", "state": "WI", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Washburn is the exact name of Washburn, WI/ND and Washburn County, WI." },
+    { "entity": "Martha Atalanta Lumpkin", "place": "Lumpkin County", "state": "GA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Lumpkin is the exact name of Lumpkin, GA and Lumpkin County, GA." },
+    { "entity": "Roosevelts", "place": "Roosevelt", "state": "UT", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Roosevelt is the exact name of Roosevelt, UT and Roosevelt County, NM/MT." },
+    { "entity": "Astors", "place": "Astor", "state": "FL", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Astor is the exact name of Astor, Florida." },
+    { "entity": "Harvard University", "place": "Harvard", "state": "MA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Harvard is the exact name of Harvard, MA/IL/NE." },
+    { "entity": "Radcliffe", "place": "Radcliffe", "state": "IA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "Radcliffe is the exact name of Radcliffe, Iowa." },
+    { "entity": "Hollywood, California", "place": "Hollywood", "state": "FL", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Hollywood is the exact name of Hollywood, FL and Hollywood, SC." },
+    { "entity": "Howland Island", "place": "Howland", "state": "ME", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Howland is the exact name of Howland, ME and Howland, OH." },
+    { "entity": "Hudson Valley", "place": "Hudson", "state": "NY", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Hudson is the exact name of Hudson, NY/OH/FL." },
+    { "entity": "The Franklin Institute", "place": "Franklin", "state": "NC", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "Franklin is the exact name of Franklin, NC and dozens of Franklin counties/towns." },
+    { "entity": "Charles Sequevya Loloma", "place": "Sequoyah County", "state": "OK", "winkType": "homophone", "strength": 2, "existsConfidence": "high", "rationale": "The middle name Sequevya sounds close to Sequoyah, the name of Sequoyah County, OK." },
+    { "entity": "Clipper", "place": "Clipper Mills", "state": "CA", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "Clipper is the lead word of Clipper Mills and Clipper Gap, California." },
+    { "entity": "Moon", "place": "Moon Township", "state": "PA", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "Moon is the exact name of Moon Township, PA and Moon, VA." }
+  ]
+}

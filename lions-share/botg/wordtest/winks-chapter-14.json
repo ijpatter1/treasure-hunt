@@ -1,0 +1,21 @@
+{
+  "page": "chapter-14",
+  "winks": [
+    { "entity": "Walden", "place": "Walden, Colorado (Jackson County) / Walden, NY", "state": "CO", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The bare word 'Walden' is itself a real US town (Walden, CO), independent of Thoreau's pond." },
+    { "entity": "Corona, Queens", "place": "Corona, California", "state": "CA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Corona' is a well-known standalone US city in California." },
+    { "entity": "George Washington", "place": "Washington (state / many towns)", "state": "WA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Washington' is directly a US state and dozens of towns/counties." },
+    { "entity": "72nd & Madison", "place": "Madison, Wisconsin", "state": "WI", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Madison' is the bare-word name of Wisconsin's state capital and many US towns." },
+    { "entity": "Kimberly", "place": "Kimberly, Idaho", "state": "ID", "winkType": "homophone", "strength": 3, "existsConfidence": "high", "rationale": "The name 'Kimberly' is itself a real US town (Kimberly, ID; also WI, AL)." },
+    { "entity": "John Maxwell", "place": "Maxwell, New Mexico", "state": "NM", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Maxwell' is the bare-word name of real US towns (Maxwell, NM; CA; TX)." },
+    { "entity": "President Chester A. Arthur", "place": "Arthur, Illinois / Arthur County, NE", "state": "IL", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Arthur' is a standalone US town and county name." },
+    { "entity": "Pierpont Morgan", "place": "Morgan, Utah / Morgan County", "state": "UT", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Morgan' is the bare-word name of a US town and many counties." },
+    { "entity": "Arthur Nash", "place": "Nash, Texas / Nash County, NC", "state": "NC", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Nash' is itself a US town and a North Carolina county." },
+    { "entity": "E.H. Russell", "place": "Russell, Kansas / Russell County", "state": "KS", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Russell' is the bare-word name of a real US town and county." },
+    { "entity": "Robert E. Lee", "place": "Lee, Massachusetts / Lee County", "state": "MA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Lee' is a standalone US town and numerous counties." },
+    { "entity": "John Brown", "place": "Brown County (multiple states)", "state": "unknown", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Brown' is a common bare-word US county/town element, though generic." },
+    { "entity": "Stephen Wakeman", "place": "Wakeman, Ohio", "state": "OH", "winkType": "substring", "strength": 3, "existsConfidence": "med", "rationale": "'Wakeman' matches the real village of Wakeman, OH." },
+    { "entity": "Hugh and Jeannette McKean", "place": "McKean County, Pennsylvania", "state": "PA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'McKean' is exactly a Pennsylvania county." },
+    { "entity": "Patricia Gay", "place": "Gay, Georgia", "state": "GA", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "'Gay' is a small real US town in Georgia." },
+    { "entity": "Sophia (Thoreau)", "place": "Sophia, North Carolina", "state": "NC", "winkType": "homophone", "strength": 2, "existsConfidence": "med", "rationale": "'Sophia' matches the unincorporated community of Sophia, NC." }
+  ]
+}

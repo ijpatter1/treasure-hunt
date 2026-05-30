@@ -1,0 +1,140 @@
+{
+  "page": "chapter-22",
+  "winks": [
+    {
+      "entity": "Victor Hugo",
+      "place": "Hugo",
+      "state": "OK/CO/MN",
+      "winkType": "etymology",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname 'Hugo' is the exact name of several US towns (Hugo, Oklahoma named for the novelist; Hugo, Colorado; Hugo, Minnesota)."
+    },
+    {
+      "entity": "Francois Hugo",
+      "place": "Hugo",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "Contains 'Hugo', the exact name of Hugo, Oklahoma and other US towns."
+    },
+    {
+      "entity": "Pierre Hugo",
+      "place": "Pierre",
+      "state": "SD",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Pierre' is exactly the name of Pierre, the capital of South Dakota (and the word also contains 'Hugo')."
+    },
+    {
+      "entity": "Paloma",
+      "place": "Paloma",
+      "state": "IL",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Paloma' is the name of small US places such as Paloma, Illinois; it also literally means 'dove'."
+    },
+    {
+      "entity": "Cass Elliot (\"Mama Cass\")",
+      "place": "Cass",
+      "state": "WV/MN",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Cass' is the name of US places like Cass, West Virginia and Cass County (multiple states)."
+    },
+    {
+      "entity": "Virgil",
+      "place": "Virgil",
+      "state": "NY",
+      "winkType": "etymology",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The poet's name 'Virgil' is the exact name of Virgil, New York and Virgil, Kansas."
+    },
+    {
+      "entity": "Albert Ellis",
+      "place": "Ellis",
+      "state": "KS",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Ellis' is the exact name of Ellis, Kansas and Ellis County."
+    },
+    {
+      "entity": "Arthur Ellis",
+      "place": "Arthur",
+      "state": "ND/NE",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Arthur' is the name of Arthur, North Dakota and Arthur County, Nebraska; also contains 'Ellis'."
+    },
+    {
+      "entity": "Homer",
+      "place": "Homer",
+      "state": "AK/NY",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Homer' is the exact name of Homer, Alaska and Homer, New York."
+    },
+    {
+      "entity": "Cicero",
+      "place": "Cicero",
+      "state": "IL/IN",
+      "winkType": "substring",
+      "strength": 5,
+      "existsConfidence": "high",
+      "rationale": "'Cicero' is the exact name of Cicero, Illinois and Cicero, Indiana."
+    },
+    {
+      "entity": "Ovid",
+      "place": "Ovid",
+      "state": "NY/CO/MI",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Ovid' is the exact name of Ovid, New York, Ovid, Colorado, and Ovid, Michigan."
+    },
+    {
+      "entity": "Cincinnatus",
+      "place": "Cincinnati",
+      "state": "OH",
+      "winkType": "etymology",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The Roman statesman Cincinnatus is the namesake of Cincinnati, Ohio (and Cincinnatus, NY)."
+    },
+    {
+      "entity": "Max Ernst",
+      "place": "Ernst",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "'Ernst' faintly resembles small US place names but no clean exact match."
+    },
+    {
+      "entity": "Rodin",
+      "place": "Rodina",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "'Rodin' has no clean exact US place match; included only as a faint candidate."
+    },
+    {
+      "entity": "Cohen",
+      "place": "Cohen",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "'Cohen' has no notable exact US town; faint at best."
+    }
+  ]
+}

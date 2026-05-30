@@ -1,0 +1,5 @@
+{
+  "page": "chapter-03",
+  "winks": [],
+  "note": "Source entity file /Users/ipatterson/dev/treasure-hunt/lions-share/botg/wordtest/nouns-chapter-03.json contains an error record with an empty entities array (the upstream extractor could not read the chapter source). With no input entities, no winks can be honestly produced."
+}

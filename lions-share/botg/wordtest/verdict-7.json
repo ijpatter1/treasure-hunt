@@ -1,0 +1,28 @@
+{
+  "place": "Lincoln",
+  "state": "NE",
+  "placeExists": true,
+  "placeNotes": "VERIFIED via WebSearch. Lincoln is the capital of Nebraska, population ~291,082 (2020), second-most-populous city in NE, founded 1856 as Lancaster, renamed for Abraham Lincoln, capital since 1869. Unambiguously a real, specific US place. Source: en.wikipedia.org/wiki/Lincoln,_Nebraska.",
+  "criticalProblem": "The DENSITY-MAP entry is internally incoherent: the assigned state is NE, but the supporting entities/rationales point at 'Lincoln, Rhode Island' and explicitly to 'dozens of other US places.' Nothing in the winks singles out Nebraska. The name 'Lincoln' is one of the most over-distributed place names in America (Lincoln NE, RI, IL, CA, MA, NH, ME; Lincoln County exists in ~24 states; plus Lincoln streets/parks everywhere). A wink that matches 24+ states equally points to no state.",
+  "winks": [
+    {
+      "entity": "Lincoln, Rhode Island",
+      "winkType": "substring",
+      "strength": 5.0,
+      "verdict": "KILL",
+      "reason": "GENERIC NAME. 'Lincoln' names towns in NE, RI, IL, CA, MA, NH, ME and counties in ~24 states. The rationale itself concedes 'many other US places.' A name that matches dozens of states equally is not location-specific and does not single out Nebraska. The source entity is even labeled 'Rhode Island,' undercutting the NE assignment. Furthermore 'Lincoln' as it appears in the book is overwhelmingly the surname of President Abraham Lincoln (a person, not a wink at a town) -- the surface-to-place leap requires you to already want a place answer."
+    },
+    {
+      "entity": "Lincoln",
+      "winkType": "etymology",
+      "strength": 4.0,
+      "verdict": "KILL",
+      "reason": "GENERIC + WEAK TYPE. Rationale explicitly says 'dozens of other US places' -- self-admitted non-specificity. 'etymology' winkType here is a relabel of the same bare surname/place coincidence as wink #1, so it is also a DUPLICATE entity (both reduce to 'the word Lincoln is a US place name'). Not a distinct, independent surface. A neutral reader sees the word 'Lincoln' and thinks of the President, not Nebraska's capital."
+    }
+  ],
+  "distinctSurvivingEntities": 0,
+  "survivingEntities": 0,
+  "isRival": false,
+  "verdict": "Lincoln NE is real but its 2 winks are the generic over-distributed name 'Lincoln' (24+ states) and a duplicate; both killed. 0 surviving entities. Not a rival.",
+  "comparativeNote": "Score 11.7 is far below the genuine clusters (Alexander NC 44.0 with 5 distinct entities incl. Hiddenite/Hidden, Jordan MN 22.8). Lincoln is apophenia driven by a single ubiquitous name."
+}

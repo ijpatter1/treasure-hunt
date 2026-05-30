@@ -1,0 +1,28 @@
+{
+  "place": "Dallas",
+  "stance": "adversarial / skeptical default",
+  "placeExists": true,
+  "placeNotes": "Dallas, TX is unambiguously a real US place: 3rd-largest city in Texas, 9th-largest in the US (~1.3M), incorporated 1856, in the Dallas-Fort Worth Metroplex. Confirmed via WebSearch (Wikipedia, Britannica, US Census QuickFacts). HOWEVER 'Dallas' is also a common multi-state name (Dallas, OR; Dallas, GA; Dallas, NC; Dallas, PA; Dallas County in several states), so a bare 'Dallas' wink is not state-specific.",
+  "winksReviewed": [
+    {
+      "entity": "Dallas Museum of Art",
+      "winkType": "substring",
+      "strength": 5.0,
+      "rationale_given": "'Dallas' is exactly the major US city in Texas (also Dallas, OR).",
+      "verdict": "KILL",
+      "refutation": "This is NOT a distinct entity from 'Dallas, Texas' below -- both winks point at the same word 'Dallas' as a place name, derived from the same noun stem (the city Dallas). The DMA reference simply contains the city name; it is the same wink restated. As a self-referential wink it is also circular: the book mentioning the Dallas Museum of Art IS a reference to the city Dallas, not a hidden nod TO it. A neutral reader sees the book naming a Dallas institution as ordinary content, not a treasure clue. No second independent entity."
+    },
+    {
+      "entity": "Dallas, Texas",
+      "winkType": "substring",
+      "strength": 5.0,
+      "rationale_given": "'Dallas' is itself a US city name (also Dallas, OR; Dallas, GA).",
+      "verdict": "KILL",
+      "refutation": "Plain reading, but circular and trivially self-referential: the text literally says 'Dallas, Texas,' so 'finding' that it names Dallas, Texas is not a wink at all -- it is the place being explicitly named in passing, presumably as the home of an artwork/museum, not a coded pointer. A wink should be an indirect nod; an explicit place name in prose is just prose. Also a generic, multi-state name. Does not count as a location-specific treasure wink."
+    }
+  ],
+  "duplicateEntityNote": "Both 'supporting' entries reduce to the single noun 'Dallas' read as the Texas city. distinctEntities in the density map is listed as 2, but adversarially they are ONE entity (the place name Dallas) appearing twice -- one as a museum mention, one as the bare city name. There are not two independent winking sources.",
+  "survivingEntities": 0,
+  "isRival": false,
+  "verdict": "Dallas TX is real, but both winks are the same self-referential, explicitly-stated place name; generic across states; zero surviving independent winks. Not a rival."
+}

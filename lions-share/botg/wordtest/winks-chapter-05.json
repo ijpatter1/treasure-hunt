@@ -1,0 +1,239 @@
+{
+  "page": "chapter-05",
+  "winks": [
+    {
+      "entity": "Art Smith (Arthur George Smith)",
+      "place": "Smithville / Smith County",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "'Smith' is an extremely common exact US place root (Smithville, Smithfield, Smith County), but too generic to be pointed."
+    },
+    {
+      "entity": "Cuba",
+      "place": "Cuba",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Cuba' is an exact-name US town in New York, Missouri, Illinois, and Alabama, read directly off the word."
+    },
+    {
+      "entity": "Eleanor Roosevelt",
+      "place": "Roosevelt",
+      "state": "UT",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Roosevelt' is an exact-name town in Utah and a county in Montana/New Mexico, read straight off the surname."
+    },
+    {
+      "entity": "Peter Cooper",
+      "place": "Cooperstown / Cooper County",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Cooper' is an exact US place root (Cooperstown NY, Cooper County MO, Cooper TX)."
+    },
+    {
+      "entity": "Andrew Carnegie",
+      "place": "Carnegie",
+      "state": "PA",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "'Carnegie' is an exact-name borough in Pennsylvania and a town in Oklahoma."
+    },
+    {
+      "entity": "Alexander Calder",
+      "place": "Alexander County",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "First name 'Alexander' is an exact-name US county (NC, IL) and town read straight off the word."
+    },
+    {
+      "entity": "Alexander Calder",
+      "place": "Calder",
+      "state": "ID",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "low",
+      "rationale": "'Calder' is reported as a small unincorporated place in Idaho; faint and uncertain to exist."
+    },
+    {
+      "entity": "James Baldwin",
+      "place": "Baldwin",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Baldwin' is an exact-name place in New York, Florida, and Baldwin County in Alabama/Georgia."
+    },
+    {
+      "entity": "Lena Horne",
+      "place": "Horn / Hornell",
+      "state": "NY",
+      "winkType": "homophone",
+      "strength": 1,
+      "existsConfidence": "med",
+      "rationale": "'Horne' sounds like 'Horn'; faint match to features like Horn Mountain or Hornell NY."
+    },
+    {
+      "entity": "Billie Holiday",
+      "place": "Holiday",
+      "state": "FL",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Holiday' is an exact-name census-designated place near Tarpon Springs, Florida."
+    },
+    {
+      "entity": "Martha Graham",
+      "place": "Graham",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Graham' is an exact-name town in North Carolina and Texas, and Graham County in NC/AZ."
+    },
+    {
+      "entity": "George Washington",
+      "place": "Washington",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Washington' is an exact-name town in many states (NC, GA, PA) plus the state and county; very common."
+    },
+    {
+      "entity": "Hewitt Sisters",
+      "place": "Hewitt",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Hewitt' is an exact-name city in Texas and a town in Wisconsin/New Jersey."
+    },
+    {
+      "entity": "Winifred Mason (Winifred Mason Chenet)",
+      "place": "Winifred",
+      "state": "MT",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "med",
+      "rationale": "'Winifred' is an exact-name small town in Montana, read straight off the first name."
+    },
+    {
+      "entity": "Winifred Mason (Winifred Mason Chenet)",
+      "place": "Mason / Mason County",
+      "state": "TX",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Mason' is an exact-name town and county in Texas, Ohio, Michigan, West Virginia."
+    },
+    {
+      "entity": "Berkshire County, Massachusetts",
+      "place": "Berkshire",
+      "state": "NY",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "med",
+      "rationale": "'Berkshire' is also a small town in New York, distinct from the MA county named here."
+    },
+    {
+      "entity": "Cedar Grove, Shreveport, Louisiana",
+      "place": "Cedar Grove",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Cedar Grove' is an exact-name community in North Carolina, New Jersey, and Indiana, separate from the LA original."
+    },
+    {
+      "entity": "Buffalo, NY",
+      "place": "Buffalo",
+      "state": "WY",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Buffalo' is an exact-name town in Wyoming, South Dakota, Missouri, and Minnesota beyond the NY city."
+    },
+    {
+      "entity": "Becket, Massachusetts",
+      "place": "Beckett",
+      "state": "WV",
+      "winkType": "homophone",
+      "strength": 1,
+      "existsConfidence": "low",
+      "rationale": "'Becket' sounds like 'Beckett'; faint and uncertain match."
+    },
+    {
+      "entity": "Phoebe Snow",
+      "place": "Snowmass / Snow Hill",
+      "state": "CO",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "The literal word 'Snow' begins many US places (Snowmass CO, Snow Hill NC, Snowflake AZ); faint as a full-name match."
+    },
+    {
+      "entity": "Copper-and-brass brooch",
+      "place": "Copper Harbor / Copper Mountain",
+      "state": "MI",
+      "winkType": "meaning",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "The literal metal 'copper' begins real US places like Copper Harbor MI and Copper Mountain CO."
+    },
+    {
+      "entity": "Modernist-style brass cuff bracelet",
+      "place": "Brasstown",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "The literal word 'brass' begins Brasstown NC and Brasstown Bald GA."
+    },
+    {
+      "entity": "Stone of Hope",
+      "place": "Stone Mountain / Stoneville",
+      "state": "NC",
+      "winkType": "substring",
+      "strength": 2,
+      "existsConfidence": "high",
+      "rationale": "The literal word 'Stone' begins many real US places (Stone Mountain GA, Stoneville NC, Stone County)."
+    },
+    {
+      "entity": "Mountain of Despair",
+      "place": "(generic 'Mountain')",
+      "state": "unknown",
+      "winkType": "substring",
+      "strength": 1,
+      "existsConfidence": "high",
+      "rationale": "Contains the generic feature word 'Mountain'; too generic to point at a specific place."
+    },
+    {
+      "entity": "Pearl Primus",
+      "place": "Pearl",
+      "state": "MS",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "First name 'Pearl' is an exact-name city in Mississippi and Pearl River in MS/LA."
+    },
+    {
+      "entity": "Lookout Mountain, Tennessee",
+      "place": "Lookout Mountain",
+      "state": "GA",
+      "winkType": "substring",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "'Lookout Mountain' is also a town in Georgia and the ridge spans TN/GA/AL."
+    }
+  ]
+}

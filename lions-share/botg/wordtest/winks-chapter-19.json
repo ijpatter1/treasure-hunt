@@ -1,0 +1,18 @@
+{
+  "page": "chapter-19",
+  "winks": [
+    { "entity": "Mars", "place": "Mars, Pennsylvania", "state": "PA", "winkType": "homophone", "strength": 5, "existsConfidence": "high", "rationale": "The word 'Mars' is exactly the name of a real borough in Pennsylvania." },
+    { "entity": "Christmas", "place": "Christmas, Florida", "state": "FL", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Christmas' is exactly the name of a real unincorporated community in Florida." },
+    { "entity": "Moon", "place": "Moon, Pennsylvania", "state": "PA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Moon' is exactly the name of Moon Township, Pennsylvania." },
+    { "entity": "Apollo missions", "place": "Apollo, Pennsylvania", "state": "PA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Apollo' is exactly the name of a real borough in Pennsylvania." },
+    { "entity": "Earth", "place": "Earth, Texas", "state": "TX", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Earth' is exactly the name of a real town in Texas." },
+    { "entity": "Frank White", "place": "White County", "state": "GA/AR/TN/IL/IN", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'White' is exactly the name of several US counties." },
+    { "entity": "Patrick Stewart", "place": "Stewart County", "state": "GA/TN", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Stewart' is exactly the name of US counties in Georgia and Tennessee." },
+    { "entity": "starship Enterprise", "place": "Enterprise, Alabama", "state": "AL", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Enterprise' is exactly the name of real cities in Alabama and Oregon." },
+    { "entity": "Tony Irving (Anthony Irving)", "place": "Irving, Texas", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The surname 'Irving' is exactly the name of a major city in Texas." },
+    { "entity": "Darryl Pitt", "place": "Pitt County", "state": "NC", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The surname 'Pitt' is exactly the name of a real county in North Carolina." },
+    { "entity": "President Nixon", "place": "Nixon, Texas", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The surname 'Nixon' is exactly the name of real towns in Texas and Nevada." },
+    { "entity": "Harvard", "place": "Harvard, Illinois", "state": "IL", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Harvard' is exactly the name of real towns in Illinois and Nebraska." },
+    { "entity": "Captain James T. Kirk", "place": "Kirk, Colorado", "state": "CO", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "The surname 'Kirk' matches a small unincorporated community in Colorado." }
+  ]
+}

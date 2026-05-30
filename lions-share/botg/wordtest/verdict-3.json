@@ -1,0 +1,32 @@
+{
+  "place": "Chicago",
+  "state": "IL",
+  "judge": "adversarial",
+  "stance": "Default skepticism; keep a wink only if it survives refutation as plain-language AND location-specific AND a distinct converging signal.",
+  "placeVerification": {
+    "placeExists": true,
+    "evidence": "Chicago is the most populous city in Illinois and 3rd-most populous in the US (2.7M, 2020 census), county seat of Cook County. Source: Wikipedia.",
+    "adversarialCaveat": "Existence is trivial and CUTS AGAINST it. A 2.7-million-person metropolis is not a discrete public-land 'boots on the ground' search point. It is a region, not a spot. As a treasure LOCATION wink, pointing at 'Chicago' resolves to nothing findable."
+  },
+  "winks": [
+    {
+      "entity": "Art Institute of Chicago",
+      "winkType": "substring",
+      "strengthClaimed": 5.0,
+      "verdict": "KILL",
+      "reason": "Plain reading is true ('Chicago' is the city), so it is not a cipher. BUT this is a mundane, expected name-drop: the Art Institute of Chicago is simply named as the institution that holds/exhibits artworks discussed in the book. There is no thematic hook, no concealment motif, nothing that makes a neutral reader's 'spidey sense' tingle. It only reads as a wink to someone already wanting Chicago. The signal is the institution's literal name, not an authorial nod to a hidden location."
+    },
+    {
+      "entity": "Chicago",
+      "winkType": "substring",
+      "strengthClaimed": 5.0,
+      "verdict": "KILL",
+      "reason": "This is the SAME word and SAME referent as the Art Institute entry, not a distinct converging entity. Counting bare 'Chicago' plus 'Art Institute of Chicago' as two signals is double-counting one concept. A famous big-city name appearing in an art/history book is the null hypothesis, not evidence. No location-specificity for a treasure spot (a city of 2.7M is unsearchable as a point)."
+    }
+  ],
+  "survivingEntities": 0,
+  "distinctSurvivingEntities": 0,
+  "isRival": false,
+  "analysis": "Both supporting winks reduce to the single word 'Chicago' read at face value. They are plain language (not ciphers), but they fail the other two adversarial tests: (1) NOT distinct - 'Chicago' and 'Art Institute of Chicago' are one referent double-counted, so even at best this is ONE entity, below the >=3 threshold; (2) NOT location-specific in any usable sense - it designates a 2.7M-person metropolis, the antithesis of a discrete BOTG search point. The mentions are exactly what you would expect in any book discussing art held in a major museum; this is apophenia/name-drop, not authorial convergence. Compare to the top entries (Alexander NC: 5 distinct entities; Hiddenite NC: 3 distinct + 'Hidden' concealment motif) which have multiple independent signals and thematic resonance. Chicago has neither.",
+  "verdict": "Real city but unsearchable as a point; two winks are one face-value name-drop double-counted. Zero distinct surviving signals - NOT a serious rival."
+}

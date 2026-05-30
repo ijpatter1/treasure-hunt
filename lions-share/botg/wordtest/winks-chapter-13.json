@@ -1,0 +1,21 @@
+{
+  "page": "chapter-13",
+  "winks": [
+    { "entity": "Michael Jordan (Michael Jeffrey Jordan)", "place": "Jordan", "state": "MN", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Jordan' is itself a US town name (Jordan, Minnesota; also Jordan, Montana; Jordan, NY)." },
+    { "entity": "Larry Bird", "place": "Bird Island", "state": "MN", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "The literal word 'Bird' appears in US place names such as Bird Island, MN and Bird City, KS." },
+    { "entity": "Magic Johnson (Earvin Johnson)", "place": "Johnson City", "state": "TN", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "The surname 'Johnson' is a common US place element (Johnson City, TN; Johnson County)." },
+    { "entity": "William E. Hidden", "place": "Hidden Valley", "state": "CA", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The literal word 'Hidden' names many US features (Hidden Valley, Hidden Lake), reading the name plainly as the adjective 'hidden'." },
+    { "entity": "Dean Smith", "place": "Smithville", "state": "TX", "winkType": "substring", "strength": 1, "existsConfidence": "high", "rationale": "'Smith' is an extremely common US place element (Smithville, Smith County) but far too generic to be a clean wink." },
+    { "entity": "Hiddenite, NC", "place": "Hiddenite", "state": "NC", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word literally contains 'Hidden' and is itself the named hamlet Hiddenite, NC." },
+    { "entity": "Hickory, NC", "place": "Hickory", "state": "NC", "winkType": "meaning", "strength": 3, "existsConfidence": "high", "rationale": "The word is the common tree name 'hickory', which names many US places (Hickory, NC; Hickory, PA)." },
+    { "entity": "Franklin, NC", "place": "Franklin", "state": "TN", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Franklin' is one of the most common US place names (Franklin, TN; Franklin County) across many states." },
+    { "entity": "Spruce Pine, NC", "place": "Spruce Pine", "state": "AL", "winkType": "meaning", "strength": 2, "existsConfidence": "med", "rationale": "The descriptive tree words 'Spruce Pine' name multiple US places (Spruce Pine, AL as well as NC)." },
+    { "entity": "Little Switzerland, NC", "place": "Switzerland", "state": "FL", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "The word 'Switzerland' appears in US place names (Switzerland, FL; Switzerland County, IN)." },
+    { "entity": "Fort Greene", "place": "Greene County", "state": "OH", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Greene' is a common US place element (Greene County in OH, NY, PA and elsewhere)." },
+    { "entity": "Fairmount (Philadelphia neighborhood)", "place": "Fairmount", "state": "IN", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Fairmount' is itself a US town name (Fairmount, IN; Fairmont, WV/MN variants)." },
+    { "entity": "Union City, NJ", "place": "Union City", "state": "TN", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Union City' is a generic US place name shared by many states (TN, CA, GA)." },
+    { "entity": "Madison Street", "place": "Madison", "state": "WI", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Madison' is a very common US place name (Madison, WI; Madison County)." },
+    { "entity": "Mt. Lebanon Cemetery", "place": "Mount Lebanon", "state": "PA", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Mt. Lebanon' is itself a US place (Mount Lebanon, PA; Lebanon in many states)." },
+    { "entity": "University of North Carolina Tar Heels", "place": "Tar Heel", "state": "NC", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Tar Heel' is itself a town name (Tar Heel, NC in Bladen County)." }
+  ]
+}

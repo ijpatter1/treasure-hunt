@@ -1,0 +1,14 @@
+{
+  "page": "chapter-12",
+  "winks": [
+    { "entity": "John Sutter", "place": "Sutter County / Sutter, CA", "state": "CA", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "The surname 'Sutter' is itself a California county and town name (past the man to the bare word)." },
+    { "entity": "James W. Marshall", "place": "Marshall", "state": "TX", "winkType": "etymology", "strength": 3, "existsConfidence": "high", "rationale": "'Marshall' standing alone is a common US town/county name (Marshall, TX; Marshall County, several states)." },
+    { "entity": "The Golden State", "place": "Golden", "state": "CO", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "The bare word 'Golden' is a real US town (Golden, CO), read past the California nickname." },
+    { "entity": "Forty-Niner", "place": "Niner / Forty Niner area names", "state": "unknown", "winkType": "substring", "strength": 1, "existsConfidence": "low", "rationale": "Faint: the term contains no clean standalone US place beyond mining-camp echoes." },
+    { "entity": "Auburn, California", "place": "Auburn", "state": "NY", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "The bare word 'Auburn' is a US town in many states (NY, AL, ME), but here it is already literally a CA town." },
+    { "entity": "Saratoga", "place": "Saratoga Springs", "state": "NY", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "The word 'Saratoga' is directly Saratoga, NY, the spa town invoked in the Calistoga coinage." },
+    { "entity": "Columbia, Maury County, Tennessee", "place": "Columbia", "state": "SC", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Columbia' is an extremely common US place name (state capital of SC, plus many towns)." },
+    { "entity": "Mount Hope Cemetery, San Diego", "place": "Mount Hope", "state": "WV", "winkType": "substring", "strength": 2, "existsConfidence": "med", "rationale": "The bare phrase 'Mount Hope' is a US town name (Mount Hope, WV; Mount Hope, KS)." },
+    { "entity": "Nashville, Tennessee", "place": "Nashville", "state": "NC", "winkType": "substring", "strength": 2, "existsConfidence": "high", "rationale": "'Nashville' is also a town in North Carolina (and several other states) past the famous TN city." }
+  ]
+}

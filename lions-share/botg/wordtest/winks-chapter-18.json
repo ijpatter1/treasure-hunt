@@ -1,0 +1,41 @@
+{
+  "page": "chapter-18",
+  "winks": [
+    {
+      "entity": "Andrew Carnegie",
+      "place": "Carnegie",
+      "state": "PA",
+      "winkType": "etymology",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The surname Carnegie is itself the name of a borough in Pennsylvania (also towns in OK and CA)."
+    },
+    {
+      "entity": "Hooker Telescope",
+      "place": "Hooker",
+      "state": "OK",
+      "winkType": "substring",
+      "strength": 4,
+      "existsConfidence": "high",
+      "rationale": "The word Hooker is literally the name of a town in the Oklahoma panhandle."
+    },
+    {
+      "entity": "Andrew Carnegie's Emerald",
+      "place": "Emerald Isle",
+      "state": "NC",
+      "winkType": "meaning",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The word emerald is the name of the coastal town Emerald Isle, North Carolina."
+    },
+    {
+      "entity": "George Ellery Hale",
+      "place": "Hale County",
+      "state": "TX",
+      "winkType": "etymology",
+      "strength": 3,
+      "existsConfidence": "high",
+      "rationale": "The surname Hale is itself a US place name (Hale County TX/AL; Hale, MO)."
+    }
+  ]
+}

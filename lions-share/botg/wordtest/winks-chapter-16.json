@@ -1,0 +1,19 @@
+{
+  "page": "chapter-16",
+  "winks": [
+    { "entity": "Cairo, Egypt", "place": "Cairo", "state": "IL", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "The word 'Cairo' is itself a well-known US town (Cairo, Illinois; also Cairo, Georgia)." },
+    { "entity": "Mexico", "place": "Mexico", "state": "MO", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Mexico' is the exact name of a US town (Mexico, Missouri; also Mexico, New York)." },
+    { "entity": "Brazil", "place": "Brazil", "state": "IN", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Brazil' is the exact name of a US city (Brazil, Indiana, county seat of Clay County)." },
+    { "entity": "Inter Milan", "place": "Milan", "state": "TN", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Milan' is the exact name of many US towns (Milan, Tennessee; Milan, Ohio; Milan, Michigan)." },
+    { "entity": "Egypt", "place": "Egypt", "state": "unknown", "winkType": "substring", "strength": 3, "existsConfidence": "med", "rationale": "'Egypt' names several small US communities and an Egypt, Texas." },
+    { "entity": "China", "place": "China", "state": "ME", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'China' is the exact name of US towns (China, Maine; China, Texas)." },
+    { "entity": "Sudan", "place": "Sudan", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Sudan' is the exact name of a US town (Sudan, Texas)." },
+    { "entity": "Walden", "place": "Walden", "state": "CO", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Walden' is the exact name of a US town (Walden, Colorado, county seat of Jackson County)." },
+    { "entity": "Thoreau's Concord", "place": "Concord", "state": "NH", "winkType": "substring", "strength": 5, "existsConfidence": "high", "rationale": "'Concord' is the exact name of many US places (Concord, NH capital; Concord, MA; Concord, CA)." },
+    { "entity": "Athena", "place": "Athena", "state": "OR", "winkType": "meaning", "strength": 4, "existsConfidence": "high", "rationale": "'Athena' is the exact name of a US town (Athena, Oregon)." },
+    { "entity": "Reed & Barton", "place": "Reed City", "state": "MI", "winkType": "substring", "strength": 3, "existsConfidence": "high", "rationale": "'Reed' appears in US place names such as Reed City, Michigan and Reeds Spring, Missouri." },
+    { "entity": "Reed & Barton", "place": "Barton", "state": "VT", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'Barton' is the exact name of a US town (Barton, Vermont; also Barton, North Dakota)." },
+    { "entity": "Taribo West", "place": "West", "state": "TX", "winkType": "substring", "strength": 4, "existsConfidence": "high", "rationale": "'West' is the exact name of a US town (West, Texas)." },
+    { "entity": "Roberto Carlos", "place": "Carlos", "state": "MN", "winkType": "substring", "strength": 3, "existsConfidence": "med", "rationale": "'Carlos' is the exact name of a US town (Carlos, Minnesota)." }
+  ]
+}
